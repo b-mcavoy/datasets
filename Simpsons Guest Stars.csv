@@ -1,0 +1,1387 @@
+id,season,number,production_code,episode_title,guest_star,role
+1,1.0,002–102,7G02,Bart the Genius,Marcia Wallace,Edna Krabappel;  Ms. Melon
+2,1.0,003–103,7G03,Homer's Odyssey,Sam McMurray,Worker
+3,1.0,003–103,7G03,Homer's Odyssey,Marcia Wallace,Edna Krabappel
+4,1.0,006–106,7G06,Moaning Lisa,Miriam Flynn,Ms. Barr
+5,1.0,006–106,7G06,Moaning Lisa,Ron Taylor,Bleeding Gums Murphy
+6,1.0,007–107,7G09,The Call of the Simpsons,Albert Brooks,Cowboy Bob
+7,1.0,008–108,7G07,The Telltale Head,Marcia Wallace,Edna Krabappel
+8,1.0,009–109,7G11,Life on the Fast Lane,Albert Brooks,Jacques
+9,1.0,010–110,7G10,Homer's Night Out,Sam McMurray,Gulliver Dark
+10,1.0,011–111,7G13,The Crepes of Wrath,Christian Coffinet,Gendarme Officer
+11,1.0,012–112,7G12,Krusty Gets Busted,Kelsey Grammer,Sideshow Bob
+12,1.0,013–113,7G01,Some Enchanted Evening,June Foray,Babysitter service receptionist; Doofy the Elf
+13,1.0,013–113,7G01,Some Enchanted Evening,Penny Marshall,Ms. Botz; Lucille Botzcowski
+14,1.0,013–113,7G01,Some Enchanted Evening,Paul Willson,Florist
+15,2.0,014–201,7F03,"Bart Gets an ""F""",Marcia Wallace,Edna Krabappel
+16,2.0,015–202,7F02,Simpson and Delilah,Harvey Fierstein,Karl
+17,2.0,016–203,7F04,Treehouse of Horror,James Earl Jones,Removal man; Serak the Preparer; Narrator
+18,2.0,018–205,7F05,Dancin' Homer,Tony Bennett,Himself
+19,2.0,018–205,7F05,Dancin' Homer,Daryl Coley,Bleeding Gums Murphy
+20,2.0,018–205,7F05,Dancin' Homer,Ken Levine,Dan Horde
+21,2.0,018–205,7F05,Dancin' Homer,Tom Poston,Capital City Goofball
+22,2.0,020–207,7F07,Bart vs. Thanksgiving,Greg Berg,"Rory; Eddie; Radio voice; ""Hooray for Everything"" Announcer; Security Man"
+23,2.0,020–207,7F07,Bart vs. Thanksgiving,Carol Kane,Maggie Simpson
+24,2.0,022–209,7F09,Itchy & Scratchy & Marge,Alex Rocco,Roger Meyers Jr.
+25,2.0,023–210,7F10,Bart Gets Hit by a Car,Phil Hartman,Lionel Hutz; Heaven
+26,2.0,024–211,7F11,"One Fish, Two Fish, Blowfish, Blue Fish",Larry King,Himself
+27,2.0,024–211,7F11,"One Fish, Two Fish, Blowfish, Blue Fish",Joey Miyashima,Toshiro
+28,2.0,024–211,7F11,"One Fish, Two Fish, Blowfish, Blue Fish",Sab Shimono,Master Sushi Chef
+29,2.0,024–211,7F11,"One Fish, Two Fish, Blowfish, Blue Fish",George Takei,Akira
+30,2.0,024–211,7F11,"One Fish, Two Fish, Blowfish, Blue Fish",Diana Tanaka,Hostess
+31,2.0,025–212,7F12,The Way We Was,Jon Lovitz,Artie Ziff; Mr. Seckofsky
+32,2.0,026–213,7F13,Homer vs. Lisa and the 8th Commandment,Phil Hartman,Troy McClure; Moses; Cable guy
+33,2.0,027–214,7F15,Principal Charming,Marcia Wallace,Edna Krabappel
+34,2.0,028–215,7F16,"Oh Brother, Where Art Thou?",Danny DeVito,Herbert Powell
+35,2.0,029–216,7F14,Bart's Dog Gets an F,Tracey Ullman,Emily Winthropp; Sylvia Winfield
+36,2.0,029–216,7F14,Bart's Dog Gets an F,Frank Welker,Santa's Little Helper; Additional dog voices
+37,2.0,030–217,7F17,Old Money,Phil Hartman,Lionel Hutz; Plato
+38,2.0,030–217,7F17,Old Money,Audrey Meadows,Bea Simmons
+39,2.0,030–217,7F17,Old Money,Marcia Wallace,Edna Krabappel
+40,2.0,031–218,7F18,Brush with Greatness,Jon Lovitz,Professor Lombardo
+41,2.0,031–218,7F18,Brush with Greatness,Ringo Starr,Himself
+42,2.0,032–219,7F19,Lisa's Substitute,Dustin Hoffman,Mr. Bergstrom
+43,2.0,032–219,7F19,Lisa's Substitute,Marcia Wallace,Edna Krabappel
+44,2.0,034–221,7F21,Three Men and a Comic Book,Cloris Leachman,Mrs. Glick
+45,2.0,034–221,7F21,Three Men and a Comic Book,Daniel Stern,Narrator
+46,3.0,036–301,7F24,Stark Raving Dad,Michael Jackson,Leon Kompowsky
+47,3.0,036–301,7F24,Stark Raving Dad,Kipp Lennon,Leon Kompowsky's singing voice
+48,3.0,037–302,8F01,Mr. Lisa Goes to Washington,Lona Williams,Minnesota girl
+49,3.0,039–304,8F03,Bart the Murderer,Neil Patrick Harris,Himself playing Bart Simpson
+50,3.0,039–304,8F03,Bart the Murderer,Phil Hartman,Lionel Hutz; Troy McClure; Joey; Godfather
+51,3.0,039–304,8F03,Bart the Murderer,Joe Mantegna,Fat Tony; Himself playing Fat Tony
+52,3.0,039–304,8F03,Bart the Murderer,Marcia Wallace,Edna Krabappel
+53,3.0,040–305,8F04,Homer Defined,Chick Hearn,Himself
+54,3.0,040–305,8F04,Homer Defined,Magic Johnson,Himself
+55,3.0,040–305,8F04,Homer Defined,Jon Lovitz,Aristotle Amadopolis; Mr. Devaro
+56,3.0,041–306,8F05,"Like Father, Like Clown",Jackie Mason,Rabbi Hyman Krustofsky
+57,3.0,042–307,8F02,Treehouse of Horror II,Marcia Wallace,Edna Krabappel
+58,3.0,043–308,8F06,Lisa's Pony,Marcia Wallace,Edna Krabappel
+59,3.0,043–308,8F06,Lisa's Pony,Frank Welker,Princess
+60,3.0,044–309,8F07,Saturdays of Thunder,Phil Hartman,Troy McClure
+61,3.0,044–309,8F07,Saturdays of Thunder,Larry McKay,Announcer
+62,3.0,045–310,8F08,Flaming Moe's,Aerosmith,Themselves
+63,3.0,045–310,8F08,Flaming Moe's,Phil Hartman,Lionel Hutz
+64,3.0,045–310,8F08,Flaming Moe's,Kipp Lennon,"Sings ""Flaming Moe's"" (parody of the Cheers theme song)"
+65,3.0,045–310,8F08,Flaming Moe's,Marcia Wallace,Edna Krabappel
+66,3.0,046–311,8F09,Burns Verkaufen der Kraftwerk,Phil Hartman,Horst; Stockbroker
+67,3.0,048–313,8F11,Radio Bart,Sting,Himself
+68,3.0,048–313,8F11,Radio Bart,Marcia Wallace,Edna Krabappel
+69,3.0,049–314,8F12,Lisa the Greek,Phil Hartman,Troy McClure; Smooth Jimmy Apollo
+70,3.0,050–315,8F14,Homer Alone,Phil Hartman,Troy McClure
+71,3.0,051–316,8F16,Bart the Lover,Marcia Wallace,Edna Krabappel
+72,3.0,052–317,8F13,Homer at the Bat,Wade Boggs,Himself
+73,3.0,052–317,8F13,Homer at the Bat,Jose Canseco,Himself
+74,3.0,052–317,8F13,Homer at the Bat,Roger Clemens,Himself
+75,3.0,052–317,8F13,Homer at the Bat,Terry Cashman,"Sings ""Talkin' Softball"" (parody of the song Talkin' Baseball)"
+76,3.0,052–317,8F13,Homer at the Bat,"Ken Griffey, Jr.",Himself
+77,3.0,052–317,8F13,Homer at the Bat,Don Mattingly,Himself
+78,3.0,052–317,8F13,Homer at the Bat,Steve Sax,Himself
+79,3.0,052–317,8F13,Homer at the Bat,Mike Scioscia,Himself
+80,3.0,052–317,8F13,Homer at the Bat,Ozzie Smith,Himself
+81,3.0,052–317,8F13,Homer at the Bat,Darryl Strawberry,Himself
+82,3.0,053–318,8F15,Separate Vocations,Steve Allen,Electronically altered voice of Bart
+83,3.0,053–318,8F15,Separate Vocations,Marcia Wallace,Edna Krabappel
+84,3.0,054–319,8F17,Dog of Death,Frank Welker,Santa's Little Helper
+85,3.0,055–320,8F19,Colonel Homer,Beverly D'Angelo,Lurleen Lumpkin
+86,3.0,056–321,8F20,Black Widower,Kelsey Grammer,Sideshow Bob
+87,3.0,057–322,8F21,The Otto Show,Christopher Guest,Nigel Tufnel
+88,3.0,057–322,8F21,The Otto Show,Michael McKean,David St. Hubbins
+89,3.0,058–323,8F22,Bart's Friend Falls in Love,Phil Hartman,Troy McClure
+90,3.0,058–323,8F22,Bart's Friend Falls in Love,Kimmy Robertson,Samantha Stanky
+91,3.0,058–323,8F22,Bart's Friend Falls in Love,Marcia Wallace,Edna Krabappel
+92,3.0,058–323,8F23,"Brother, Can You Spare Two Dimes?",Danny DeVito,Herbert Powell
+93,3.0,058–323,8F23,"Brother, Can You Spare Two Dimes?",Joe Frazier,Himself
+94,4.0,060–401,8F24,Kamp Krusty,Gene Merlino,"Sings ""South of the Border"""
+95,4.0,060–401,8F24,Kamp Krusty,Marcia Wallace,Edna Krabappel
+96,4.0,061–402,8F18,A Streetcar Named Marge,Phil Hartman,Troy McClure; Lionel Hutz
+97,4.0,061–402,8F18,A Streetcar Named Marge,Jon Lovitz,Llewellyn Sinclair; Ms. Sinclair
+98,4.0,061–402,8F18,A Streetcar Named Marge,Lona Williams,Debra Jo Smallwood
+99,4.0,063–404,9F02,Lisa the Beauty Queen,Bob Hope,Himself
+100,4.0,063–404,9F02,Lisa the Beauty Queen,Lona Williams,Amber Dempsey
+101,4.0,064–405,9F04,Treehouse of Horror III,Marcia Wallace,Edna Krabappel
+102,4.0,065–406,9F03,Itchy & Scratchy: The Movie,Neil Armstrong (archival),Himself
+103,4.0,065–406,9F03,Itchy & Scratchy: The Movie,Marcia Wallace,Edna Krabappel
+104,4.0,066–407,9F05,Marge Gets a Job,Phil Hartman,Troy McClure; Lionel Hutz
+105,4.0,066–407,9F05,Marge Gets a Job,Tom Jones,Himself
+106,4.0,066–407,9F05,Marge Gets a Job,Marcia Wallace,Edna Krabappel
+107,4.0,067–408,9F06,New Kid on the Block,Sara Gilbert,Laura Powers
+108,4.0,067–408,9F06,New Kid on the Block,Phil Hartman,Lionel Hutz
+109,4.0,067–408,9F06,New Kid on the Block,Pamela Reed,Ruth Powers
+110,4.0,068–409,9F07,Mr. Plow,Phil Hartman,Troy McClure
+111,4.0,068–409,9F07,Mr. Plow,Linda Ronstadt,Herself
+112,4.0,068–409,9F07,Mr. Plow,Adam West,Himself
+113,4.0,069–410,9F08,Lisa's First Word,Elizabeth Taylor,Maggie Simpson
+114,4.0,071–412,9F10,Marge vs. the Monorail,Phil Hartman,Lyle Lanley
+115,4.0,071–412,9F10,Marge vs. the Monorail,Leonard Nimoy,Himself
+116,4.0,072–413,9F11,Selma's Choice,Phil Hartman,Lionel Hutz; Troy McClure; Security Guard; Mandy Patinkin
+117,4.0,072–413,9F11,Selma's Choice,Michele Pillar,"Sings ""A Natural Woman"""
+118,4.0,073–414,9F12,Brother from the Same Planet,Phil Hartman,Tom; Eddie Muntz
+119,4.0,073–414,9F12,Brother from the Same Planet,Marcia Wallace,Edna Krabappel
+120,4.0,074–415,9F13,I Love Lisa,Michael Carrington,Krusty Anniversary Show Announcer; Sideshow Raheem
+121,4.0,075–416,9F14,Duffless,Phil Hartman,Troy McClure; Lionel Hutz
+122,4.0,075–416,9F14,Duffless,Kipp Lennon,"Sings ""Raindrops Keep Fallin' on My Head"""
+123,4.0,075–416,9F14,Duffless,Marcia Wallace,Edna Krabappel
+124,4.0,076–417,9F15,Last Exit to Springfield,Joyce Brothers,Herself
+125,4.0,078–419,9F16,The Front,Brooke Shields,Herself
+126,4.0,079–420,9F18,Whacking Day,Gene Merlino,"Sings ""Born Free"""
+127,4.0,079–420,9F18,Whacking Day,Barry White,Himself
+128,4.0,080–421,9F20,Marge in Chains,David Crosby,Himself
+129,4.0,080–421,9F20,Marge in Chains,Phil Hartman,Troy McClure; Lionel Hutz
+130,4.0,081–422,9F19,Krusty Gets Kancelled,Johnny Carson,Himself
+131,4.0,081–422,9F19,Krusty Gets Kancelled,Hugh Hefner,Himself
+132,4.0,081–422,9F19,Krusty Gets Kancelled,Bette Midler,Herself
+133,4.0,081–422,9F19,Krusty Gets Kancelled,Luke Perry,Himself
+134,4.0,081–422,9F19,Krusty Gets Kancelled,Red Hot Chili Peppers,Themselves
+135,4.0,081–422,9F19,Krusty Gets Kancelled,Elizabeth Taylor,Herself
+136,4.0,081–422,9F19,Krusty Gets Kancelled,Marcia Wallace,Edna Krabappel
+137,4.0,081–422,9F19,Krusty Gets Kancelled,Barry White,Himself
+138,5.0,082–501,9F21,Homer's Barbershop Quartet,David Crosby,Himself
+139,5.0,082–501,9F21,Homer's Barbershop Quartet,The Dapper Dans,The singing voices of the Be Sharps
+140,5.0,082–501,9F21,Homer's Barbershop Quartet,George Harrison,Himself
+141,5.0,083–502,9F22,Cape Feare,Kelsey Grammer,Sideshow Bob
+142,5.0,083–502,9F22,Cape Feare,Marcia Wallace,Edna Krabappel
+143,5.0,085–504,1F01,Rosebud,Ramones,Themselves
+144,5.0,086–505,1F04,Treehouse of Horror IV,Phil Hartman,Lionel Hutz
+145,5.0,086–505,1F04,Treehouse of Horror IV,Frank Welker,Gremlin
+146,5.0,086–505,1F03,Marge on the Lam,George Fenneman,Narrator
+147,5.0,086–505,1F03,Marge on the Lam,Phil Hartman,Troy McClure; Lionel Hutz
+148,5.0,086–505,1F03,Marge on the Lam,Pamela Reed,Ruth Powers; Truck-stop Waitress
+149,5.0,088–507,1F05,Bart's Inner Child,Albert Brooks,Brad Goodman
+150,5.0,088–507,1F05,Bart's Inner Child,James Brown,Himself
+151,5.0,088–507,1F05,Bart's Inner Child,Phil Hartman,Troy McClure
+152,5.0,088–507,1F05,Bart's Inner Child,Marcia Wallace,Edna Krabappel
+153,5.0,089–508,1F06,Boy-Scoutz 'n the Hood,Ernest Borgnine,Himself
+154,5.0,089–508,1F06,Boy-Scoutz 'n the Hood,Marcia Wallace,Edna Krabappel
+155,5.0,091–510,1F08,The Last Temptation of Homer,Phil Hartman,Lionel Hutz
+156,5.0,091–510,1F08,The Last Temptation of Homer,Werner Klemperer,Colonel Klink
+157,5.0,091–510,1F08,The Last Temptation of Homer,Michelle Pfeiffer,Mindy Simmons
+158,5.0,091–510,1F08,The Last Temptation of Homer,Marcia Wallace,Edna Krabappel
+159,5.0,091–510,1F08,"$pringfield (Or, How I Learned to; Stop Worrying and Love Legalized Gambling)",Gerry Cooney,Himself
+160,5.0,091–510,1F08,"$pringfield (Or, How I Learned to; Stop Worrying and Love Legalized Gambling)",Robert Goulet,Himself
+161,5.0,092–511,1F09,Homer the Vigilante,Sam Neill,Molloy
+162,5.0,093–512,1F11,Bart Gets Famous,Conan O'Brien,Himself
+163,5.0,093–512,1F11,Bart Gets Famous,Marcia Wallace,Edna Krabappel
+164,5.0,094–513,1F10,Homer and Apu,Michael Carrington,Black comedian
+165,5.0,094–513,1F10,Homer and Apu,James Woods,Himself
+166,5.0,095–514,1F12,Lisa vs. Malibu Stacy,Kathleen Turner,Stacy Lovell
+167,5.0,096–515,1F13,Deep Space Homer,Buzz Aldrin,Himself
+168,5.0,096–515,1F13,Deep Space Homer,James Taylor,Himself
+169,5.0,099–518,1F16,Burns' Heir,Phil Hartman,Lionel Hutz
+170,5.0,100–519,1F18,Sweet Seymour Skinner's Baadasssss Song,Marcia Wallace,Edna Krabappel
+171,5.0,100–519,1F18,Sweet Seymour Skinner's Baadasssss Song,Frank Welker,Santa's Little Helper
+172,5.0,101–520,1F19,The Boy Who Knew Too Much,Phil Hartman,Lionel Hutz
+173,5.0,101–520,1F19,The Boy Who Knew Too Much,Marcia Wallace,Edna Krabappel
+174,5.0,102–521,1F21,Lady Bouvier's Lover,Phil Hartman,Troy McClure
+175,5.0,102–521,1F21,Lady Bouvier's Lover,Kipp Lennon,"Sings ""The Sound of Grampa"" (parody of the song The Sound of Silence)"
+176,5.0,103–522,1F20,Secrets of a Successful Marriage,Phil Hartman,Lionel Hutz
+177,5.0,103–522,1F20,Secrets of a Successful Marriage,Marcia Wallace,Edna Krabappel
+178,6.0,105–602,1F17,Lisa's Rival,Winona Ryder,Allison Taylor
+179,6.0,108–605,2F02,Sideshow Bob Roberts,Henry Corden,Fred Flintstone
+180,6.0,108–605,2F02,Sideshow Bob Roberts,Dr. Demento,Himself
+181,6.0,108–605,2F02,Sideshow Bob Roberts,Kelsey Grammer,Sideshow Bob
+182,6.0,108–605,2F02,Sideshow Bob Roberts,Phil Hartman,Lionel Hutz
+183,6.0,108–605,2F02,Sideshow Bob Roberts,Larry King,Himself
+184,6.0,108–605,2F02,Sideshow Bob Roberts,Marcia Wallace,Edna Krabappel
+185,6.0,109–606,2F03,Treehouse of Horror V,James Earl Jones,Alternate Universe Maggie Simpson
+186,6.0,109–606,2F03,Treehouse of Horror V,Marcia Wallace,Edna Krabappel
+187,6.0,110–607,2F04,Bart's Girlfriend,Meryl Streep,Jessica Lovejoy
+188,6.0,111–608,2F05,Lisa on Ice,Marcia Wallace,Edna Krabappel
+189,6.0,112–609,2F06,Homer Badman,Dennis Franz,Himself playing Homer Simpson
+190,6.0,113–610,2F07,Grampa vs. Sexual Inadequacy,Phil Hartman,Troy McClure
+191,6.0,114–611,2F08,Fear of Flying,Anne Bancroft,Dr. Zweig
+192,6.0,114–611,2F08,Fear of Flying,Ted Danson,Sam Malone
+193,6.0,114–611,2F08,Fear of Flying,Woody Harrelson,Woody Boyd
+194,6.0,114–611,2F08,Fear of Flying,John Ratzenberger,Cliff Clavin
+195,6.0,114–611,2F08,Fear of Flying,Rhea Perlman,Carla Tortelli
+196,6.0,114–611,2F08,Fear of Flying,George Wendt,Norm Peterson
+197,6.0,115–612,2F09,Homer the Great,Patrick Stewart,Number One
+198,6.0,118–615,2F12,Homie the Clown,Dick Cavett,Himself
+199,6.0,118–615,2F12,Homie the Clown,Joe Mantegna,Fat Tony
+200,6.0,118–615,2F12,Homie the Clown,Johnny Unitas,Himself
+201,6.0,119–616,2F13,Bart vs. Australia,Phil Hartman,Evan Conover
+202,6.0,120–617,2F14,Homer vs. Patty and Selma,Mel Brooks,Himself
+203,6.0,120–617,2F14,Homer vs. Patty and Selma,Susan Sarandon,Ballet teacher
+204,6.0,121–618,2F31,A Star Is Burns,Phil Hartman,Charlton Heston
+205,6.0,121–618,2F31,A Star Is Burns,Maurice LaMarche,George C. Scott; Hannibal Lecter; Captain James T. Kirk; Eudora Welty
+206,6.0,121–618,2F31,A Star Is Burns,Jon Lovitz,Jay Sherman
+207,6.0,122–619,2F15,Lisa's Wedding,Phil Hartman,Troy McClure
+208,6.0,122–619,2F15,Lisa's Wedding,Mandy Patinkin,Hugh Parkfield
+209,6.0,123–620,2F18,Two Dozen and One Greyhounds,Frank Welker,Santa's Little Helper; Various dogs
+210,6.0,124–621,2F19,The PTA Disbands,Marcia Wallace,Edna Krabappel
+211,6.0,125–622,2F32,Round Springfield,Steve Allen,Himself
+212,6.0,125–622,2F32,Round Springfield,Phil Hartman,Lionel Hutz
+213,6.0,125–622,2F32,Round Springfield,Ron Taylor,Bleeding Gums Murphy
+214,6.0,125–622,2F32,Round Springfield,Marcia Wallace,Edna Krabappel
+215,6.0,126–623,2F21,The Springfield Connection,Phil Hartman,Lionel Hutz
+216,6.0,126–623,2F21,The Springfield Connection,Marcia Wallace,Edna Krabappel
+217,6.0,127–624,2F22,Lemon of Troy,Marcia Wallace,Edna Krabappel
+218,6.0,128–625,2F16,Who Shot Mr. Burns? Part 1,Tito Puente,Himself
+219,7.0,129–701,2F20,Who Shot Mr. Burns? Part 2,Tito Puente,Himself
+220,7.0,130–702,2F17,Radioactive Man,Phil Hartman,Lionel Hutz
+221,7.0,130–702,2F17,Radioactive Man,Mickey Rooney,Himself
+222,7.0,131–703,3F01,Home Sweet Homediddly-Dum-Doodily,Joan Kenley,Telephone voice
+223,7.0,131–703,3F01,Home Sweet Homediddly-Dum-Doodily,Marcia Wallace,Edna Krabappel
+224,7.0,131–703,3F01,Home Sweet Homediddly-Dum-Doodily,Frank Welker,Monkey
+225,7.0,133–705,3F03,Lisa the Vegetarian,Phil Hartman,Troy McClure
+226,7.0,133–705,3F03,Lisa the Vegetarian,Linda McCartney,Herself
+227,7.0,133–705,3F03,Lisa the Vegetarian,Paul McCartney,Himself
+228,7.0,134–706,3F04,Treehouse of Horror VI,Paul Anka,Himself
+229,7.0,134–706,3F04,Treehouse of Horror VI,Marcia Wallace,Edna Krabappel
+230,7.0,135–707,3F05,King-Size Homer,Joan Kenley,Telephone voice
+231,7.0,136–708,3F06,Mother Simpson,Glenn Close,Mona Simpson
+232,7.0,136–708,3F06,Mother Simpson,Harry Morgan,Bill Gannon
+233,7.0,137–709,3F08,Sideshow Bob's Last Gleaming,R. Lee Ermey,Colonel Leslie Hapablap
+234,7.0,137–709,3F08,Sideshow Bob's Last Gleaming,Kelsey Grammer,Sideshow Bob
+235,7.0,138–710,3F31,The Simpsons 138th Episode Spectacular,Phil Hartman,Troy McClure; Lionel Hutz
+236,7.0,139–711,3F07,Marge Be Not Proud,Phil Hartman,Troy McClure
+237,7.0,139–711,3F07,Marge Be Not Proud,Lawrence Tierney,Don Brodka
+238,7.0,140–712,3F10,Team Homer,Marcia Wallace,Edna Krabappel
+239,7.0,142–714,3F11,Scenes from the Class Struggle in Springfield,Tom Kite,Himself
+240,7.0,143–715,3F12,Bart the Fink,Phil Hartman,Troy McClure
+241,7.0,143–715,3F12,Bart the Fink,Bob Newhart,Himself
+242,7.0,144–716,3F13,Lisa the Iconoclast,Phil Hartman,Troy McClure
+243,7.0,144–716,3F13,Lisa the Iconoclast,Donald Sutherland,Hollis Hurlbut
+244,7.0,144–716,3F13,Lisa the Iconoclast,Marcia Wallace,Edna Krabappel
+245,7.0,146–718,3F16,The Day the Violence Died,Kirk Douglas,Chester J. Lampwick
+246,7.0,146–718,3F16,The Day the Violence Died,Phil Hartman,Lionel Hutz
+247,7.0,146–718,3F16,The Day the Violence Died,Alex Rocco,Roger Meyers Jr.
+248,7.0,146–718,3F16,The Day the Violence Died,Jack Sheldon,Amendment
+249,7.0,146–718,3F16,The Day the Violence Died,Suzanne Somers,Herself
+250,7.0,147–719,3F15,A Fish Called Selma,Jeff Goldblum,MacArthur Parker
+251,7.0,147–719,3F15,A Fish Called Selma,Phil Hartman,Troy McClure; Fat Tony
+252,7.0,148–720,3F17,Bart on the Road,Jim Lau,Hong Kong doctor
+253,7.0,149–721,3F18,22 Short Films About Springfield,Phil Hartman,Lionel Hutz; Hospital chairman
+254,7.0,150–722,3F19,"Raging Abe Simpson and His Grumbling Grandson in ""The Curse of the Flying Hellfish""",Marcia Wallace,Edna Krabappel
+255,7.0,151–723,3F20,Much Apu About Nothing,Joe Mantegna,Fat Tony
+256,7.0,152–724,3F21,Homerpalooza,Cypress Hill,Themselves
+257,7.0,152–724,3F21,Homerpalooza,Peter Frampton,Himself
+258,7.0,152–724,3F21,Homerpalooza,The Smashing Pumpkins,Themselves
+259,7.0,152–724,3F21,Homerpalooza,Sonic Youth,Themselves
+260,7.0,153–725,3F22,Summer of 4 Ft. 2,Christina Ricci,Erin
+261,7.0,153–725,3F22,Summer of 4 Ft. 2,Marcia Wallace,Edna Krabappel
+262,8.0,154–801,4F02,Treehouse of Horror VII,Phil Hartman,Bill Clinton
+263,8.0,155–802,3F23,You Only Move Twice,Albert Brooks,Hank Scorpio
+264,8.0,155–802,3F23,You Only Move Twice,Sally Stevens,"Sings ""Scorpio"""
+265,8.0,156–803,4F03,The Homer They Fall,Michael Buffer,Himself
+266,8.0,156–803,4F03,The Homer They Fall,Sally Stevens,"Sings ""People"""
+267,8.0,156–803,4F03,The Homer They Fall,Paul Winfield,Lucius Sweet
+268,8.0,157–804,4F05,"Burns, Baby Burns",Rodney Dangerfield,Larry Burns
+269,8.0,161–808,4F07,Hurricane Neddy,Jon Lovitz,Jay Sherman
+270,8.0,162–809,3F24,El Viaje Misterioso de Nuestro Jomer; (The Mysterious Voyage of Homer),Johnny Cash,Coyote
+271,8.0,163–810,3G01,The Springfield Files,Gillian Anderson,Dana Scully
+272,8.0,163–810,3G01,The Springfield Files,David Duchovny,Fox Mulder
+273,8.0,163–810,3G01,The Springfield Files,Leonard Nimoy,Himself
+274,8.0,164–811,4F08,The Twisted World of Marge Simpson,Joe Mantegna,Fat Tony
+275,8.0,164–811,4F08,The Twisted World of Marge Simpson,Jack Lemmon,Frank Ormand
+276,8.0,164–811,4F08,The Twisted World of Marge Simpson,Marcia Wallace,Edna Krabappel
+277,8.0,167–814,4F12,The Itchy & Scratchy & Poochie Show,Phil Hartman,Troy McClure
+278,8.0,167–814,4F12,The Itchy & Scratchy & Poochie Show,Alex Rocco,Roger Meyers Jr.
+279,8.0,168–815,4F11,Homer's Phobia,John Waters,John
+280,8.0,169–816,4F14,Brother from Another Series,Kelsey Grammer,Sideshow Bob
+281,8.0,169–816,4F14,Brother from Another Series,David Hyde Pierce,Cecil Terwilliger; Man in the crowd
+282,8.0,169–816,4F14,Brother from Another Series,Marcia Wallace,Edna Krabappel
+283,8.0,171–818,4F15,Homer vs. the Eighteenth Amendment,Joe Mantegna,Fat Tony
+284,8.0,171–818,4F15,Homer vs. the Eighteenth Amendment,Dave Thomas,Rex Banner
+285,8.0,172–819,4F09,Grade School Confidential,Michael Dees,"Sings ""Embraceable You"""
+286,8.0,172–819,4F09,Grade School Confidential,Marcia Wallace,Edna Krabappel
+287,8.0,173–820,4F16,The Canine Mutiny,Frank Welker,Santa's Little Helper; Laddie
+288,8.0,174–821,4F17,The Old Man and the Lisa,Bret Hart,Himself
+289,8.0,175–822,4F18,In Marge We Trust,Denice Kumagai,Dancer
+290,8.0,175–822,4F18,In Marge We Trust,Karen Maruyama,Dancer
+291,8.0,175–822,4F18,In Marge We Trust,Sab Shimono,Mr. Sparkle
+292,8.0,175–822,4F18,In Marge We Trust,Gedde Watanabe,Factory foreman
+293,8.0,175–822,4F18,In Marge We Trust,Frank Welker,Baboons
+294,8.0,176–823,4F19,Homer's Enemy,Frank Welker,Executive Vice President dog
+295,8.0,177–824,4F20,The Simpsons Spin-Off Showcase,Tim Conway,Himself
+296,8.0,177–824,4F20,The Simpsons Spin-Off Showcase,Phil Hartman,Troy McClure
+297,8.0,177–824,4F20,The Simpsons Spin-Off Showcase,Gailard Sartain,"Charles ""Big"" Daddy"
+298,8.0,176–825,4F19,The Secret War of Lisa Simpson,Willem Dafoe,The Commandant
+299,8.0,176–825,4F19,The Secret War of Lisa Simpson,Marcia Wallace,Edna Krabappel
+300,9.0,179–901,4F22,The City of New York vs. Homer Simpson,Michael Dees,"Sings ""New York, New York"""
+301,9.0,179–901,4F22,The City of New York vs. Homer Simpson,Joan Kenley,Telephone voice
+302,9.0,179–901,4F22,The City of New York vs. Homer Simpson,Kipp Lennon,"Sings ""I'm Checking In"""
+303,9.0,180–902,4F23,The Principal and the Pauper,Martin Sheen,The real Seymour Skinner
+304,9.0,180–902,4F23,The Principal and the Pauper,Marcia Wallace,Edna Krabappel
+305,9.0,181–903,3G02,Lisa's Sax,Fyvush Finkel,Himself playing Krusty
+306,9.0,182–904,5F02,Treehouse of Horror VIII,Marcia Wallace,Edna Krabappel
+307,9.0,184–906,5F03,Bart Star,Roy Firestone,Himself
+308,9.0,184–906,5F03,Bart Star,Mike Judge,Hank Hill
+309,9.0,184–906,5F03,Bart Star,Joe Namath,Himself
+310,9.0,185–907,5F04,The Two Mrs. Nahasapeemapetilons,Jan Hooks,Manjula Nahasapeemapetilon
+311,9.0,185–907,5F04,The Two Mrs. Nahasapeemapetilons,Andrea Martin,Apu's mother
+312,9.0,185–907,5F04,The Two Mrs. Nahasapeemapetilons,Marcia Wallace,Edna Krabappel
+313,9.0,186–908,5F05,Lisa the Skeptic,Stephen Jay Gould,Himself
+314,9.0,186–908,5F05,Lisa the Skeptic,Phil Hartman,Lionel Hutz
+315,9.0,186–908,5F05,Lisa the Skeptic,Marcia Wallace,Edna Krabappel
+316,9.0,187–909,5F06,Realty Bites,Phil Hartman,Lionel Hutz
+317,9.0,188–910,5F07,Miracle on Evergreen Terrace,Alex Trebek,Himself
+318,9.0,188–910,5F07,Miracle on Evergreen Terrace,Marcia Wallace,Edna Krabappel
+319,9.0,190–912,5F08,Bart Carny,Jim Varney,Cooder
+320,9.0,191–913,5F23,The Joy of Sect,Marcia Wallace,Edna Krabappel
+321,9.0,192–914,5F11,Das Bus,Phil Hartman,Troy McClure
+322,9.0,192–914,5F11,Das Bus,James Earl Jones,Narrator
+323,9.0,192–914,5F11,Das Bus,Jack Ong,Fisherman
+324,9.0,193–915,5F10,The Last Temptation of Krust,Bruce Baum,Himself
+325,9.0,193–915,5F10,The Last Temptation of Krust,Janeane Garofalo,Herself
+326,9.0,193–915,5F10,The Last Temptation of Krust,Bobcat Goldthwait,Himself
+327,9.0,193–915,5F10,The Last Temptation of Krust,Jay Leno,Himself
+328,9.0,193–915,5F10,The Last Temptation of Krust,Marcia Wallace,Edna Krabappel
+329,9.0,193–915,5F10,The Last Temptation of Krust,"Hank Williams, Jr.","Sings ""Canyonero!"""
+330,9.0,193–915,5F10,The Last Temptation of Krust,Steven Wright,Himself
+331,9.0,194–916,5F12,Dumbbell Indemnity,Helen Hunt,Renee
+332,9.0,194–916,5F12,Dumbbell Indemnity,Marcia Wallace,Edna Krabappel
+333,9.0,195–917,4F24,Lisa the Simpson,Phil Hartman,Troy McClure
+334,9.0,196–918,5F13,This Little Wiggy,Phil Hartman,Troy McClure
+335,9.0,196–918,5F13,This Little Wiggy,Marcia Wallace,Edna Krabappel
+336,9.0,197–919,3G04,Simpson Tide,Michael Carrington,Drill instructor
+337,9.0,197–919,3G04,Simpson Tide,Bob Denver,Himself
+338,9.0,197–919,3G04,Simpson Tide,Rod Steiger,Captain Tenille
+339,9.0,198–920,5F14,The Trouble with Trillions,Marcia Wallace,Edna Krabappel
+340,9.0,198–920,5F14,The Trouble with Trillions,Paul Winfield,Lucius Sweet
+341,9.0,199–921,5F15,Girly Edition,Marcia Wallace,Edna Krabappel
+342,9.0,200–922,5F09,Trash of the Titans,Steve Martin,Ray Patterson
+343,9.0,200–922,5F09,Trash of the Titans,Paul McGuinness,Himself
+344,9.0,200–922,5F09,Trash of the Titans,Susie Smith,Herself
+345,9.0,200–922,5F09,Trash of the Titans,U2,Themselves
+346,9.0,200–922,5F09,Trash of the Titans,Marcia Wallace,Edna Krabappel
+347,9.0,201–923,5F16,King of the Hill,Brendan Fraser,Brad
+348,9.0,201–923,5F16,King of the Hill,Steven Weber,Neil
+349,9.0,202–924,5F17,Lost Our Lisa,Marcia Wallace,Edna Krabappel
+350,9.0,203–925,5F18,Natural Born Kissers,Marcia Wallace,Edna Krabappel
+351,10.0,204–1001,5F20,Lard of the Dance,Lisa Kudrow,Alex Whitney
+352,10.0,205–1002,5F21,The Wizard of Evergreen Terrace,William Daniels,KITT
+353,10.0,206–1003,5F22,Bart the Mother,Phil Hartman,Troy McClure
+354,10.0,206–1003,5F22,Bart the Mother,Marcia Wallace,Edna Krabappel
+355,10.0,207–1004,AABF01,Treehouse of Horror IX,Robert Englund,Freddy Krueger
+356,10.0,207–1004,AABF01,Treehouse of Horror IX,Kathie Lee Gifford,Herself (live action)
+357,10.0,207–1004,AABF01,Treehouse of Horror IX,Ed McMahon,Himself
+358,10.0,207–1004,AABF01,Treehouse of Horror IX,Regis Philbin,Himself (live action)
+359,10.0,207–1004,AABF01,Treehouse of Horror IX,Jerry Springer,Himself
+360,10.0,208–1005,5F19,When You Dish Upon a Star,Alec Baldwin,Himself
+361,10.0,208–1005,5F19,When You Dish Upon a Star,Kim Basinger,Herself
+362,10.0,208–1005,5F19,When You Dish Upon a Star,Brian Grazer,Himself
+363,10.0,208–1005,5F19,When You Dish Upon a Star,Ron Howard,Himself
+364,10.0,209–1006,AABF02,D'oh-in in the Wind,George Carlin,Munchie
+365,10.0,209–1006,AABF02,D'oh-in in the Wind,Martin Mull,Seth
+366,10.0,209–1006,AABF02,D'oh-in in the Wind,Yo La Tengo,Play the end credits
+367,10.0,210–1007,AABF03,"Lisa Gets an ""A""",Marcia Wallace,Edna Krabappel
+368,10.0,212–1009,AABF05,Mayored to the Mob,Mark Hamill,Himself; Leavelle; Theater owner
+369,10.0,212–1009,AABF05,Mayored to the Mob,Joe Mantegna,Fat Tony
+370,10.0,212–1009,AABF05,Mayored to the Mob,Dick Tufeld,Robot B-9
+371,10.0,212–1009,AABF05,Mayored to the Mob,Marcia Wallace,Edna Krabappel
+372,10.0,213–1010,AABF06,Viva Ned Flanders,The Moody Blues,Themselves
+373,10.0,213–1010,AABF06,Viva Ned Flanders,Marcia Wallace,Edna Krabappel
+374,10.0,214–1011,AABF07,Wild Barts Can't Be Broken,Cyndi Lauper,Herself
+375,10.0,214–1011,AABF07,Wild Barts Can't Be Broken,Franklin D. Roosevelt (archival),Himself
+376,10.0,214–1011,AABF07,Wild Barts Can't Be Broken,Marcia Wallace,Edna Krabappel
+377,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Troy Aikman,Himself
+378,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Rosey Grier,Himself
+379,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",John Madden,Himself
+380,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Dan Marino,Himself
+381,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Rupert Murdoch,Himself
+382,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Dolly Parton,Herself
+383,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Pat Summerall,Himself
+384,10.0,215–1012,AABF08,"Sunday, Cruddy Sunday",Fred Willard,Wally Kogen
+385,10.0,216–1013,AABF09,Homer to the Max,"Ed Begley, Jr.",Himself
+386,10.0,217–1014,AABF11,I'm with Cupid,Jan Hooks,Manjula Nahasapeemapetilon
+387,10.0,217–1014,AABF11,I'm with Cupid,Elton John,Himself
+388,10.0,217–1014,AABF11,I'm with Cupid,Marcia Wallace,Edna Krabappel
+389,10.0,218–1015,AABF10,"Marge Simpson in: ""Screaming Yellow Honkers""",John Kassir,Possum
+390,10.0,218–1015,AABF10,"Marge Simpson in: ""Screaming Yellow Honkers""",Marcia Wallace,Edna Krabappel
+391,10.0,218–1015,AABF10,"Marge Simpson in: ""Screaming Yellow Honkers""","Hank Williams, Jr.","Sings ""Canyonero!"""
+392,10.0,221–1018,AABF14,Simpsons Bible Stories,Marcia Wallace,Mrs. Krabapatra
+393,10.0,222–1019,AABF15,Mom and Pop Art,Michael Dees,"Sings ""Arrivederci Roma"""
+394,10.0,222–1019,AABF15,Mom and Pop Art,Jasper Johns,Himself
+395,10.0,222–1019,AABF15,Mom and Pop Art,Isabella Rossellini,Astrid Weller
+396,10.0,222–1019,AABF15,Mom and Pop Art,Marcia Wallace,Edna Krabappel
+397,10.0,223–1020,AABF16,"The Old Man and the ""C"" Student",Jack LaLanne,Himself
+398,10.0,223–1020,AABF16,"The Old Man and the ""C"" Student",NRBQ,"Sing ""Can't Buy Me Love"""
+399,10.0,224–1021,AABF17,Monty Can't Buy Me Love,Michael McKean,Jerry Rude
+400,10.0,225–1022,AABF18,They Saved Lisa's Brain,Stephen Hawking,Himself
+401,10.0,226–1023,AABF20,Thirty Minutes over Tokyo,Denice Kumagai,Mother
+402,10.0,226–1023,AABF20,Thirty Minutes over Tokyo,Karen Maruyama,Stewardess
+403,10.0,226–1023,AABF20,Thirty Minutes over Tokyo,George Takei,Wink
+404,10.0,226–1023,AABF20,Thirty Minutes over Tokyo,Gedde Watanabe,Waiter; Father; Toilet
+405,10.0,226–1023,AABF20,Thirty Minutes over Tokyo,Keone Young,Sumo wrestler
+406,11.0,227–1101,AABF23,Beyond Blunderdome,Jack Burns,Edward Christian
+407,11.0,227–1101,AABF23,Beyond Blunderdome,Mel Gibson,Himself
+408,11.0,227–1101,AABF23,Beyond Blunderdome,Marcia Wallace,Edna Krabappel
+409,11.0,228–1102,AABF22,Brother's Little Helper,Mark McGwire,Himself
+410,11.0,228–1102,AABF22,Brother's Little Helper,Marcia Wallace,Edna Krabappel
+411,11.0,229–1103,AABF21,Guess Who's Coming to Criticize Dinner?,Edward Asner,Newspaper editor
+412,11.0,229–1103,AABF21,Guess Who's Coming to Criticize Dinner?,Marcia Wallace,Edna Krabappel
+413,11.0,230–1104,BABF01,Treehouse of Horror X,Tom Arnold,Himself
+414,11.0,230–1104,BABF01,Treehouse of Horror X,Dick Clark,Himself
+415,11.0,230–1104,BABF01,Treehouse of Horror X,Lucy Lawless,Herself
+416,11.0,230–1104,BABF01,Treehouse of Horror X,Frank Welker,Werewolf; Werewolf Flanders
+417,11.0,231–1105,AABF19,E-I-E-I-(Annoyed Grunt),The B-52's,"Sing ""Glove Slap"" (parody of the song Love Shack)"
+418,11.0,231–1105,AABF19,E-I-E-I-(Annoyed Grunt),Marcia Wallace,Edna Krabappel
+419,11.0,231–1105,AABF19,E-I-E-I-(Annoyed Grunt),Frank Welker,Various animals
+420,11.0,232–1106,BABF02,"Hello Gutter, Hello Fadder",Ron Howard,Himself
+421,11.0,232–1106,BABF02,"Hello Gutter, Hello Fadder",Penn Jillette,Himself
+422,11.0,232–1106,BABF02,"Hello Gutter, Hello Fadder",Pat O'Brien,Himself
+423,11.0,232–1106,BABF02,"Hello Gutter, Hello Fadder",Nancy O'Dell,Herself
+424,11.0,232–1106,BABF02,"Hello Gutter, Hello Fadder",Teller,Himself
+425,11.0,232–1106,BABF02,"Hello Gutter, Hello Fadder",Marcia Wallace,Edna Krabappel
+426,11.0,233–1107,BABF03,Eight Misbehavin',Jan Hooks,Manjula Nahasapeemapetilon
+427,11.0,233–1107,BABF03,Eight Misbehavin',Garry Marshall,Larry Kidkill
+428,11.0,233–1107,BABF03,Eight Misbehavin',Butch Patrick,Himself
+429,11.0,233–1107,BABF03,Eight Misbehavin',Marcia Wallace,Edna Krabappel
+430,11.0,233–1107,BABF03,Eight Misbehavin',Frank Welker,Zoo animals
+431,11.0,234–1108,BABF05,"Take My Wife, Sleaze",John Goodman,Meathook
+432,11.0,234–1108,BABF05,"Take My Wife, Sleaze",Jan Hooks,Manjula Nahasapeemapetilon
+433,11.0,234–1108,BABF05,"Take My Wife, Sleaze",Jay North,Himself
+434,11.0,234–1108,BABF05,"Take My Wife, Sleaze",NRBQ,Perform various songs
+435,11.0,234–1108,BABF05,"Take My Wife, Sleaze",Marcia Wallace,Edna Krabappel
+436,11.0,234–1108,BABF05,"Take My Wife, Sleaze",Henry Winkler,Ramrod
+437,11.0,235–1109,BABF07,Grift of the Magi,Clarence Clemons,Narrator
+438,11.0,235–1109,BABF07,Grift of the Magi,Gary Coleman,Himself
+439,11.0,235–1109,BABF07,Grift of the Magi,Joe Mantegna,Fat Tony
+440,11.0,235–1109,BABF07,Grift of the Magi,Tim Robbins,Jim Hope
+441,11.0,235–1109,BABF07,Grift of the Magi,Marcia Wallace,Edna Krabappel
+442,11.0,236–1110,BABF04,Little Big Mom,Elwood Edwards,Virtual doctor
+443,11.0,236–1110,BABF04,Little Big Mom,Marcia Wallace,Edna Krabappel
+444,11.0,237–1111,BABF06,Faith Off,Don Cheadle,Brother Faith
+445,11.0,237–1111,BABF06,Faith Off,Joe Mantegna,Fat Tony
+446,11.0,237–1111,BABF06,Faith Off,Marcia Wallace,Edna Krabappel
+447,11.0,238–1112,BABF08,The Mansion Family,Britney Spears,Herself
+448,11.0,239–1113,BABF09,Saddlesore Galactica,Randy Bachman,Himself
+449,11.0,239–1113,BABF09,Saddlesore Galactica,Jim Cummings,Duncan; Furious D
+450,11.0,239–1113,BABF09,Saddlesore Galactica,Trevor Denman,Track announcer
+451,11.0,239–1113,BABF09,Saddlesore Galactica,Fred Turner,Himself
+452,11.0,240–1114,BABF10,"Alone Again, Natura-Diddily",Shawn Colvin,Rachel Jordan
+453,11.0,240–1114,BABF10,"Alone Again, Natura-Diddily",Marcia Wallace,Edna Krabappel
+454,11.0,240–1114,BABF10,"Alone Again, Natura-Diddily",Frank Welker,Parrot
+455,11.0,241–1115,BABF11,Missionary: Impossible,Betty White,Herself
+456,11.0,242–1116,BABF12,Pygmoelian,Marcia Wallace,Edna Krabappel
+457,11.0,244–1118,BABF14,Days of Wine and D'oh'ses,Marcia Wallace,Edna Krabappel
+458,11.0,245–1119,BABF16,Kill the Alligator and Run,Diedrich Bader,Sheriff
+459,11.0,245–1119,BABF16,Kill the Alligator and Run,Joe C.,Himself
+460,11.0,245–1119,BABF16,Kill the Alligator and Run,Robert Evans,Himself
+461,11.0,245–1119,BABF16,Kill the Alligator and Run,Kid Rock,Himself
+462,11.0,245–1119,BABF16,Kill the Alligator and Run,Charlie Rose,Himself
+463,11.0,246–1120,BABF15,Last Tap Dance in Springfield,Frank Welker,Lion
+464,11.0,247–1121,BABF18,"It's a Mad, Mad, Mad, Mad Marge",Parker Posey,Becky
+465,11.0,247–1121,BABF18,"It's a Mad, Mad, Mad, Mad Marge",Marcia Wallace,Edna Krabappel
+466,11.0,247–1121,BABF18,"It's a Mad, Mad, Mad, Mad Marge",Marc Wilmore,Dr. Wilmore
+467,11.0,248–1122,BABF19,Behind the Laughter,Jim Forbes,Narrator
+468,11.0,248–1122,BABF19,Behind the Laughter,Willie Nelson,Himself
+469,11.0,248–1122,BABF19,Behind the Laughter,Marcia Wallace,Edna Krabappel
+470,12.0,249–1201,BABF21,Treehouse of Horror XI,Frank Welker,Dolphins
+471,12.0,250–1202,BABF20,A Tale of Two Springfields,Gary Coleman,Himself
+472,12.0,250–1202,BABF20,A Tale of Two Springfields,Marcia Wallace,Edna Krabappel
+473,12.0,250–1202,BABF20,A Tale of Two Springfields,Frank Welker,Badger; Woodpecker
+474,12.0,250–1202,BABF20,A Tale of Two Springfields,The Who,Themselves
+475,12.0,251–1203,BABF17,Insane Clown Poppy,Drew Barrymore,Sophie
+476,12.0,251–1203,BABF17,Insane Clown Poppy,Stephen King,Himself
+477,12.0,251–1203,BABF17,Insane Clown Poppy,Joe Mantegna,Fat Tony
+478,12.0,251–1203,BABF17,Insane Clown Poppy,Jay Mohr,Christopher Walken
+479,12.0,251–1203,BABF17,Insane Clown Poppy,Amy Tan,Herself
+480,12.0,251–1203,BABF17,Insane Clown Poppy,John Updike,Himself
+481,12.0,252–1204,CABF01,Lisa the Tree Hugger,Joshua Jackson,Jesse Grass
+482,12.0,253–1205,CABF04,Homer vs. Dignity,Leeza Gibbons,Herself
+483,12.0,253–1205,CABF04,Homer vs. Dignity,Marcia Wallace,Edna Krabappel
+484,12.0,254–1206,CABF02,The Computer Wore Menace Shoes,Patrick McGoohan,Number Six
+485,12.0,254–1206,CABF02,The Computer Wore Menace Shoes,Marcia Wallace,Edna Krabappel
+486,12.0,255–1207,CABF03,The Great Money Caper,Edward Norton,Devon Bradley
+487,12.0,256–1208,CABF06,Skinner's Sense of Snow,Marcia Wallace,Edna Krabappel
+488,12.0,258–1210,CABF05,Pokey Mom,Michael Keaton,Jack Crowley
+489,12.0,258–1210,CABF05,Pokey Mom,Charles Napier,Warden
+490,12.0,258–1210,CABF05,Pokey Mom,Robert Schimmel,Convict
+491,12.0,258–1210,CABF05,Pokey Mom,Bruce Vilanch,Himself
+492,12.0,258–1210,CABF05,Pokey Mom,Marcia Wallace,Edna Krabappel
+493,12.0,259–1211,CABF08,Worst Episode Ever,Neil Armstrong (archival),Himself
+494,12.0,259–1211,CABF08,Worst Episode Ever,Johnnie Cochran (archival),Himself
+495,12.0,259–1211,CABF08,Worst Episode Ever,Richard Nixon (archival),Himself
+496,12.0,259–1211,CABF08,Worst Episode Ever,Tom Savini,Himself
+497,12.0,260–1212,CABF07,Tennis the Menace,Andre Agassi,Himself
+498,12.0,260–1212,CABF07,Tennis the Menace,Pete Sampras,Himself
+499,12.0,260–1212,CABF07,Tennis the Menace,Marcia Wallace,Edna Krabappel
+500,12.0,260–1212,CABF07,Tennis the Menace,Serena Williams,Herself
+501,12.0,260–1212,CABF07,Tennis the Menace,Venus Williams,Herself
+502,12.0,261–1213,CABF10,Day of the Jackanapes,Gary Coleman,Himself
+503,12.0,261–1213,CABF10,Day of the Jackanapes,Kelsey Grammer,Sideshow Bob
+504,12.0,262–1214,CABF12,New Kids on the Blecch,N Sync,Themselves
+505,12.0,263–1215,CABF09,"Hungry, Hungry Homer",Stacy Keach,Howard K. Duff VIII
+506,12.0,263–1215,CABF09,"Hungry, Hungry Homer",Marcia Wallace,Edna Krabappel
+507,12.0,264–1216,CABF11,Bye Bye Nerdie,Kathy Griffin,Francine
+508,12.0,264–1216,CABF11,Bye Bye Nerdie,Jan Hooks,Manjula Nahasapeemapetilon
+509,12.0,264–1216,CABF11,Bye Bye Nerdie,Marcia Wallace,Edna Krabappel
+510,12.0,265–1217,CABF13,Simpson Safari,Frank Welker,Various animals
+511,12.0,266–1218,CABF14,Trilogy of Error,Joe Mantegna,Fat Tony
+512,12.0,266–1218,CABF14,Trilogy of Error,Frankie Muniz,Thelonius
+513,12.0,267–1219,CABF15,I'm Goin' to Praiseland,Shawn Colvin,Rachel Jordan
+514,12.0,267–1219,CABF15,I'm Goin' to Praiseland,Marcia Wallace,Edna Krabappel
+515,12.0,269–1221,CABF17,Simpsons Tall Tales,Marcia Wallace,Edna Krabappel
+516,12.0,269–1221,CABF17,Simpsons Tall Tales,Frank Welker,"Babe, the Blue Ox; Various animals"
+517,13.0,270–1301,CABF19,Treehouse of Horror XII,Pierce Brosnan,Ultrahouse's Pierce Brosnan voice; Himself
+518,13.0,270–1301,CABF19,Treehouse of Horror XII,Matthew Perry,Ultrahouse's Matthew Perry voice
+519,13.0,270–1301,CABF19,Treehouse of Horror XII,Marcia Wallace,Edna Krabappel
+520,13.0,271–1302,CABF22,The Parent Rap,Jess Harnell,Various animals
+521,13.0,271–1302,CABF22,The Parent Rap,Jane Kaczmarek,Judge Constance Harm
+522,13.0,271–1302,CABF22,The Parent Rap,Marcia Wallace,Edna Krabappel
+523,13.0,272–1303,CABF20,Homer the Moe,R.E.M.,Themselves
+524,13.0,273–1304,CABF18,A Hunka Hunka Burns in Love,Julia Louis-Dreyfus,Gloria
+525,13.0,273–1304,CABF18,A Hunka Hunka Burns in Love,George Takei,Waiter
+526,13.0,274–1305,CABF21,The Blunder Years,Joe Mantegna,Fat Tony
+527,13.0,274–1305,CABF21,The Blunder Years,Paul Newman,Himself
+528,13.0,274–1305,CABF21,The Blunder Years,Judith Owen,Herself
+529,13.0,275–1306,DABF02,She of Little Faith,Richard Gere,Himself
+530,13.0,276–1307,DABF01,Brawl in the Family,Jane Kaczmarek,Judge Constance Harm
+531,13.0,276–1307,DABF01,Brawl in the Family,Delroy Lindo,Gabriel
+532,13.0,277–1308,DABF03,Sweets and Sour Marge,Ben Stiller,Garth Motherloving
+533,13.0,278–1309,DABF05,Jaws Wired Shut,Dana Gould,Producer
+534,13.0,278–1309,DABF05,Jaws Wired Shut,John Kassir,Various Animals
+535,13.0,279–1310,DABF04,Half-Decent Proposal,Jon Lovitz,Artie Ziff
+536,13.0,279–1310,DABF04,Half-Decent Proposal,Marcia Wallace,Edna Krabappel
+537,13.0,280–1311,DABF06,The Bart Wants What It Wants,Wolfgang Puck,Himself
+538,13.0,280–1311,DABF06,The Bart Wants What It Wants,Reese Witherspoon,Greta Wolfcastle
+539,13.0,281–1312,DABF07,The Lastest Gun in the West,Dennis Weaver,Buck McCoy
+540,13.0,281–1312,DABF07,The Lastest Gun in the West,Frank Welker,Dog
+541,13.0,282–1313,DABF09,The Old Man and the Key,Olympia Dukakis,Zelda
+542,13.0,282–1313,DABF09,The Old Man and the Key,Bill Saluga,Ray J. Johnson
+543,13.0,283–1314,DABF08,Tales from the Public Domain,Sally Stevens,"Sings ""Island of Sirens"" (parody of the song Copacabana)"
+544,13.0,285–1316,DABF11,Weekend at Burnsie's,Phish,Themselves
+545,13.0,287–1318,DABF13,I Am Furious (Yellow),Stan Lee,Himself
+546,13.0,287–1318,DABF13,I Am Furious (Yellow),Marcia Wallace,Edna Krabappel
+547,13.0,288–1319,DABF14,The Sweetest Apu,James Lipton,Himself
+548,13.0,289–1320,DABF15,Little Girl in the Big Ten,Robert Pinsky,Himself
+549,13.0,290–1321,DABF16,The Frying Game,Carmen Electra,Herself
+550,13.0,290–1321,DABF16,The Frying Game,Frances Sternhagen,Mrs. Bellamy
+551,13.0,291–1322,DABF17,Poppa's Got a Brand New Badge,Joe Mantegna,Fat Tony
+552,13.0,291–1322,DABF17,Poppa's Got a Brand New Badge,Marcia Wallace,Edna Krabappel
+553,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Elvis Costello,Himself
+554,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Mick Jagger,Himself
+555,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Lenny Kravitz,Himself
+556,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Tom Petty,Himself
+557,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Keith Richards,Himself
+558,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Brian Setzer,Himself
+559,14.0,293–1402,DABF22,How I Spent My Strummer Vacation,Marcia Wallace,Edna Krabappel
+560,14.0,294–1403,DABF20,Bart vs. Lisa vs. the Third Grade,Tony Bennett,"Sings ""Capital City"""
+561,14.0,294–1403,DABF20,Bart vs. Lisa vs. the Third Grade,Marcia Wallace,Edna Krabappel
+562,14.0,295–1404,DABF18,Large Marge,Baha Men,Themselves
+563,14.0,295–1404,DABF18,Large Marge,Jan Hooks,Manjula Nahasapeemapetilon
+564,14.0,295–1404,DABF18,Large Marge,Marcia Wallace,Edna Krabappel
+565,14.0,295–1404,DABF18,Large Marge,Burt Ward,Robin
+566,14.0,295–1404,DABF18,Large Marge,Adam West,Batman
+567,14.0,296–1405,DABF21,Helter Shelter,Larry Holmes,Himself
+568,14.0,296–1405,DABF21,Helter Shelter,David Lander,Himself
+569,14.0,297–1406,EABF01,The Great Louse Detective,Kelsey Grammer,Sideshow Bob
+570,14.0,297–1406,EABF01,The Great Louse Detective,Sally Stevens,"Sings ""The Way We Were"""
+571,14.0,298–1407,EABF02,Special Edna,Little Richard,Himself
+572,14.0,298–1407,EABF02,Special Edna,Marcia Wallace,Edna Krabappel
+573,14.0,299–1408,EABF03,The Dad Who Knew Too Little,Elliott Gould,Himself
+574,14.0,300–1409,EABF04,Strong Arms of the Ma,Pamela Reed,Ruth Powers
+575,14.0,301–1410,EABF06,Pray Anything,Ken Burns,Himself
+576,14.0,301–1410,EABF06,Pray Anything,Lisa Leslie,Herself
+577,14.0,302–1411,EABF05,Barting Over,Blink-182,Themselves
+578,14.0,302–1411,EABF05,Barting Over,Tony Hawk,Himself
+579,14.0,302–1411,EABF05,Barting Over,Jane Kaczmarek,Judge Constance Harm
+580,14.0,302–1411,EABF05,Barting Over,Marcia Wallace,Edna Krabappel
+581,14.0,303–1412,EABF07,I'm Spelling as Fast as I Can,George Plimpton,Himself
+582,14.0,304–1413,EABF08,A Star Is Born Again,James L. Brooks,Himself
+583,14.0,304–1413,EABF08,A Star Is Born Again,Helen Fielding,Herself
+584,14.0,304–1413,EABF08,A Star Is Born Again,Gene Merlino,"Sings ""Jellyfish"""
+585,14.0,304–1413,EABF08,A Star Is Born Again,Marisa Tomei,Sara Sloane
+586,14.0,304–1413,EABF08,A Star Is Born Again,Marcia Wallace,Edna Krabappel
+587,14.0,305–1414,EABF09,Mr. Spritz Goes to Washington,Joe Mantegna,Fat Tony
+588,14.0,307–1416,EABF11,Scuse Me While I Miss the Sky,Eric Idle,Declan Desmond
+589,14.0,307–1416,EABF11,Scuse Me While I Miss the Sky,Joe Mantegna,Fat Tony
+590,14.0,307–1416,EABF11,Scuse Me While I Miss the Sky,Marcia Wallace,Edna Krabappel
+591,14.0,308–1417,EABF12,Three Gays of the Condo,Terry W. Greene,Large Gay Military Man
+592,14.0,308–1417,EABF12,Three Gays of the Condo,Ben Schatz,Himself
+593,14.0,308–1417,EABF12,Three Gays of the Condo,Scott Thompson,Grady
+594,14.0,308–1417,EABF12,Three Gays of the Condo,Weird Al Yankovic,Himself
+595,14.0,309–1418,EABF13,"Dude, Where's My Ranch?",David Byrne,Himself
+596,14.0,309–1418,EABF13,"Dude, Where's My Ranch?",Andy Serkis,Cleanie
+597,14.0,309–1418,EABF13,"Dude, Where's My Ranch?",Jonathan Taylor Thomas,Luke Stetson
+598,14.0,310–1419,EABF14,Old Yeller Belly,Stacy Keach,Howard K. Duff VII
+599,14.0,310–1419,EABF14,Old Yeller Belly,John Kassir,Various animals
+600,14.0,311–1420,EABF15,"Brake My Wife, Please",Jackson Browne,Himself
+601,14.0,311–1420,EABF15,"Brake My Wife, Please",Steve Buscemi,Himself
+602,14.0,311–1420,EABF15,"Brake My Wife, Please",Jane Kaczmarek,Judge Constance Harm
+603,14.0,311–1420,EABF15,"Brake My Wife, Please",Marcia Wallace,Edna Krabappel
+604,14.0,313–1422,EABF17,Moe Baby Blues,Joe Mantegna,Fat Tony
+605,15.0,314–1501,EABF21,Treehouse of Horror XIV,Oscar De La Hoya,Himself
+606,15.0,314–1501,EABF21,Treehouse of Horror XIV,Jennifer Garner,Herself
+607,15.0,314–1501,EABF21,Treehouse of Horror XIV,Dudley R. Herschbach,Himself
+608,15.0,314–1501,EABF21,Treehouse of Horror XIV,Jerry Lewis,Professor John Frink Sr.
+609,15.0,315–1502,EABF18,My Mother the Carjacker,Glenn Close,Mona Simpson
+610,15.0,316–1503,EABF20,The President Wore Pearls,Michael Moore,Himself
+611,15.0,316–1503,EABF20,The President Wore Pearls,Marcia Wallace,Edna Krabappel
+612,15.0,317–1504,EABF22,The Regina Monologues,Tony Blair,Himself
+613,15.0,317–1504,EABF22,The Regina Monologues,Jane Leeves,Edwina
+614,15.0,317–1504,EABF22,The Regina Monologues,Evan Marriott,Himself
+615,15.0,317–1504,EABF22,The Regina Monologues,Ian McKellen,Himself
+616,15.0,317–1504,EABF22,The Regina Monologues,J. K. Rowling,Herself
+617,15.0,318–1505,EABF19,The Fat and the Furriest,Charles Napier,Grant Connor
+618,15.0,319–1506,FABF01,Today I Am A Clown,Jackie Mason,Rabbi Hyman Krustofsky
+619,15.0,319–1506,FABF01,Today I Am A Clown,Mr. T,Himself
+620,15.0,320–1507,FABF02,Tis the Fifteenth Season,Jim Gilstrap,Soulful Prune
+621,15.0,321–1508,FABF03,"Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",Marcia Wallace,Edna Krabappel
+622,15.0,323–1510,FABF05,Diatribe of a Mad Housewife,Tom Clancy,Himself
+623,15.0,323–1510,FABF05,Diatribe of a Mad Housewife,Ashley Olsen,Herself
+624,15.0,323–1510,FABF05,Diatribe of a Mad Housewife,Mary-Kate Olsen,Herself
+625,15.0,323–1510,FABF05,Diatribe of a Mad Housewife,Thomas Pynchon,Himself
+626,15.0,325–1512,FABF07,Milhouse Doesn't Live Here Anymore,Nick Bakay,Salem Saberhagen
+627,15.0,325–1512,FABF07,Milhouse Doesn't Live Here Anymore,William Daniels,KITT
+628,15.0,325–1512,FABF07,Milhouse Doesn't Live Here Anymore,Isabel Sanford,Herself
+629,15.0,325–1512,FABF07,Milhouse Doesn't Live Here Anymore,Dick Tufeld,Robot B-9
+630,15.0,325–1512,FABF07,Milhouse Doesn't Live Here Anymore,Marcia Wallace,Edna Krabappel
+631,15.0,326–1513,FABF09,Smart and Smarter,Simon Cowell,Henry
+632,15.0,327–1514,FABF08,The Ziff Who Came to Dinner,Jon Lovitz,Artie Ziff; Jay Sherman; Llewelyn Sinclair; Aristotle Amadopoulis; Professor Lombardo
+633,15.0,328–1515,FABF10,Co-Dependent's Day,Brave Combo,Play the end credits
+634,15.0,328–1515,FABF10,Co-Dependent's Day,Marcia Wallace,Edna Krabappel
+635,15.0,329–1516,FABF11,The Wandering Juvie,Sarah Michelle Gellar,Gina Vendetti
+636,15.0,329–1516,FABF11,The Wandering Juvie,Jane Kaczmarek,Judge Constance Harm
+637,15.0,329–1516,FABF11,The Wandering Juvie,Charles Napier,Warden
+638,15.0,329–1516,FABF11,The Wandering Juvie,Marcia Wallace,Edna Krabappel
+639,15.0,330–1517,FABF12,My Big Fat Geek Wedding,Matt Groening,Himself
+640,15.0,330–1517,FABF12,My Big Fat Geek Wedding,Marcia Wallace,Edna Krabappel
+641,15.0,332–1519,FABF15,Simple Simpson,Mark Campbell,Country singer
+642,15.0,332–1519,FABF15,Simple Simpson,Nichelle Nichols,Herself
+643,15.0,334–1521,FABF17,The Bart-Mangled Banner,Marcia Wallace,Edna Krabappel
+644,16.0,336–1601,FABF23,Treehouse of Horror XV,Marie Cain,"Sings ""I've Got You Under My Skin"""
+645,16.0,337–1602,FABF20,All's Fair in Oven War,James Caan,Himself
+646,16.0,337–1602,FABF20,All's Fair in Oven War,Thomas Pynchon,Himself
+647,16.0,337–1602,FABF20,All's Fair in Oven War,Marcia Wallace,Edna Krabappel
+648,16.0,338–1603,FABF19,Sleeping with the Enemy,Marcia Wallace,Edna Krabappel
+649,16.0,339–1604,FABF22,She Used to Be My Girl,Kim Cattrall,Chloe Talbot
+650,16.0,339–1604,FABF22,She Used to Be My Girl,Michael Dees,"Sings ""Too-Ra-Loo-Ra-Loo-Ral (That's an Irish Lullaby)"""
+651,16.0,340–1605,FABF21,Fat Man and Little Boy,Terry W. Greene,Sgt. Activity
+652,16.0,340–1605,FABF21,Fat Man and Little Boy,Eric Idle,Declan Desmond
+653,16.0,343–1608,GABF02,Homer and Ned's Hail Mary Pass,Tom Brady,Himself
+654,16.0,343–1608,GABF02,Homer and Ned's Hail Mary Pass,LeBron James,Himself
+655,16.0,343–1608,GABF02,Homer and Ned's Hail Mary Pass,Michelle Kwan,Herself
+656,16.0,343–1608,GABF02,Homer and Ned's Hail Mary Pass,Warren Sapp,Himself
+657,16.0,343–1608,GABF02,Homer and Ned's Hail Mary Pass,Yao Ming,Himself
+658,16.0,344–1609,GABF03,Pranksta Rap,50 Cent,Himself
+659,16.0,344–1609,GABF03,Pranksta Rap,Dana Gould,Barney Fife
+660,16.0,345–1610,GABF04,There's Something About Marrying,Marcia Wallace,Edna Krabappel
+661,16.0,346–1611,GABF05,On a Clear Day I Can't See My Sister,Gary Busey,Himself
+662,16.0,346–1611,GABF05,On a Clear Day I Can't See My Sister,Jane Kaczmarek,Judge Constance Harm
+663,16.0,346–1611,GABF05,On a Clear Day I Can't See My Sister,Marcia Wallace,Edna Krabappel
+664,16.0,347–1612,GABF06,Goo Goo Gai Pan,Lucy Liu,Madam Wu
+665,16.0,347–1612,GABF06,Goo Goo Gai Pan,Robert Wagner,Himself
+666,16.0,349–1614,GABF08,The Seven-Beer Snitch,Frank Gehry,Himself
+667,16.0,349–1614,GABF08,The Seven-Beer Snitch,Joe Mantegna,Fat Tony
+668,16.0,349–1614,GABF08,The Seven-Beer Snitch,Charles Napier,Officer Krackney
+669,16.0,350–1615,GABF12,Future-Drama,John DiMaggio,Bender
+670,16.0,350–1615,GABF12,Future-Drama,Amy Poehler,Jenda
+671,16.0,350–1615,GABF12,Future-Drama,Marcia Wallace,Edna Krabappel
+672,16.0,351–1616,GABF10,Don't Fear the Roofer,Stephen Hawking,Himself
+673,16.0,351–1616,GABF10,Don't Fear the Roofer,Ray Romano,Ray Magini
+674,16.0,352–1617,GABF11,The Heartbroke Kid,Albert Brooks,Tab Spangler; Jacques
+675,16.0,352–1617,GABF11,The Heartbroke Kid,Marcia Wallace,Edna Krabappel
+676,16.0,353–1618,GABF13,A Star Is Torn,Fantasia Barrino,Clarissa Wellington
+677,16.0,354–1619,GABF14,"Thank God, It's Doomsday",Baha Men,"Sing ""Who Wants a Haircut?"" (parody of the song Who Let the Dogs Out?)"
+678,16.0,354–1619,GABF14,"Thank God, It's Doomsday",Los Lobos,Play end credits
+679,16.0,355–1620,GABF15,Home Away from Homer,Jason Bateman,Himself
+680,16.0,356–1621,GABF09,"The Father, the Son, and the Holy Guest Star",Liam Neeson,Father Sean
+681,16.0,356–1621,GABF09,"The Father, the Son, and the Holy Guest Star",Marcia Wallace,Edna Krabappel
+682,17.0,357–1701,GABF18,Bonfire of the Manatees,Alec Baldwin,Caleb Thorn
+683,17.0,357–1701,GABF18,Bonfire of the Manatees,Joe Mantegna,Fat Tony
+684,17.0,360–1704,GABF17,Treehouse of Horror XVI,Terry Bradshaw,Himself
+685,17.0,360–1704,GABF17,Treehouse of Horror XVI,Terry W. Greene,Lava-tron
+686,17.0,360–1704,GABF17,Treehouse of Horror XVI,Dennis Rodman,Himself
+687,17.0,363–1707,GABF22,The Last of the Red Hat Mamas,Lily Tomlin,Tammy
+688,17.0,364–1708,HABF02,The Italian Bob,Maria Grazia Cucinotta,Francesca Terwilliger
+689,17.0,364–1708,HABF02,The Italian Bob,Kelsey Grammer,Sideshow Bob
+690,17.0,364–1708,HABF02,The Italian Bob,Marcia Wallace,Edna Krabappel
+691,17.0,366–1710,HABF03,Homer's Paternity Coot,Joe Frazier,Himself
+692,17.0,366–1710,HABF03,Homer's Paternity Coot,William H. Macy,Himself
+693,17.0,366–1710,HABF03,Homer's Paternity Coot,Michael York,Mason Fairbanks
+694,17.0,367–1711,HABF04,We're on the Road to D'ohwhere,Marcia Wallace,Edna Krabappel
+695,17.0,368–1712,HABF05,My Fair Laddy,Marcia Wallace,Edna Krabappel
+696,17.0,369–1713,HABF06,The Seemingly Never-Ending Story,Michael Dees,"Sings ""Fly Me to the Moon"""
+697,17.0,369–1713,HABF06,The Seemingly Never-Ending Story,Maurice LaMarche,Commander McBragg
+698,17.0,369–1713,HABF06,The Seemingly Never-Ending Story,Marcia Wallace,Edna Krabappel
+699,17.0,370–1714,HABF07,Bart Has Two Mommies,Antonio Fargas,Huggy Bear
+700,17.0,370–1714,HABF07,Bart Has Two Mommies,Randy Johnson,Himself
+701,17.0,370–1714,HABF07,Bart Has Two Mommies,Susan Sarandon,Herself
+702,17.0,370–1714,HABF07,Bart Has Two Mommies,Dave Thomas,Bob Hope
+703,17.0,371–1715,HABF08,"Homer Simpson, This Is Your Wife",Ricky Gervais,Charles Heathbar
+704,17.0,371–1715,HABF08,"Homer Simpson, This Is Your Wife",Marcia Wallace,Edna Krabappel
+705,17.0,372–1716,HABF09,Million Dollar Abie,Michael Carrington,Sports anchor #2
+706,17.0,372–1716,HABF09,Million Dollar Abie,Rob Reiner,Himself
+707,17.0,373–1717,HABF10,"Kiss Kiss, Bang Bangalore",Richard Dean Anderson,Himself
+708,17.0,373–1717,HABF10,"Kiss Kiss, Bang Bangalore",Meher Tatna,Indian passenger
+709,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Amick Byram,Singing Itchy
+710,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Jim Gilstrap,Wise Old Cat singer
+711,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Bob Joyce,Singing Scratchy
+712,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Frances McDormand,Melanie Upfoot
+713,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Sally Stevens,Singing Female Cat
+714,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Marcia Wallace,Edna Krabappel
+715,17.0,375–1719,HABF12,Girls Just Want to Have Sums,Oren Waters,Singing Male Cat
+716,17.0,376–1720,HABF13,Regarding Margie,Sal Bando,Himself
+717,17.0,376–1720,HABF13,Regarding Margie,Gene Tenace,Himself
+718,17.0,376–1720,HABF13,Regarding Margie,Marcia Wallace,Edna Krabappel
+719,17.0,377–1721,HABF14,The Monkey Suit,Melanie Griffith,Herself
+720,17.0,377–1721,HABF14,The Monkey Suit,Larry Hagman,Wallace Brady
+721,17.0,378–1722,HABF16,Marge and Homer Turn a Couple Play,Stacy Keach,Howard K. Duff VII
+722,17.0,378–1722,HABF16,Marge and Homer Turn a Couple Play,Mandy Moore,Tabitha Vixx
+723,18.0,379–1801,HABF15,"The Mook, the Chef, the Wife and Her Homer",Michael Imperioli,Dante Calabresis Jr.
+724,18.0,379–1801,HABF15,"The Mook, the Chef, the Wife and Her Homer",Joe Mantegna,Fat Tony
+725,18.0,379–1801,HABF15,"The Mook, the Chef, the Wife and Her Homer",Metallica,Themselves
+726,18.0,379–1801,HABF15,"The Mook, the Chef, the Wife and Her Homer",Joe Pantoliano,Dante Calabresis
+727,18.0,380–1802,HABF18,Jazzy and the Pussycats,Larina Jean Adamson,Waitress
+728,18.0,380–1802,HABF18,Jazzy and the Pussycats,The White Stripes,Themselves
+729,18.0,382–1804,HABF17,Treehouse of Horror XVII,Fran Drescher,Female Golem
+730,18.0,382–1804,HABF17,Treehouse of Horror XVII,Maurice LaMarche,Orson Welles
+731,18.0,382–1804,HABF17,Treehouse of Horror XVII,Richard Lewis,Male Golem
+732,18.0,382–1804,HABF17,Treehouse of Horror XVII,Phil McGraw,Himself
+733,18.0,382–1804,HABF17,Treehouse of Horror XVII,Sir Mix-a-Lot,"Sings ""Baby Likes Fat"" (parody of the song Baby Got Back)"
+734,18.0,382–1804,HABF17,Treehouse of Horror XVII,Marcia Wallace,Edna Krabappel
+735,18.0,383–1805,HABF21,G.I. (Annoyed Grunt),Maurice LaMarche,Recruiter #2; Cap'n Crunch
+736,18.0,383–1805,HABF21,G.I. (Annoyed Grunt),Kiefer Sutherland,Colonel
+737,18.0,384–1806,HABF19,Moe'N'a Lisa,Michael Chabon,Himself
+738,18.0,384–1806,HABF19,Moe'N'a Lisa,Jonathan Franzen,Himself
+739,18.0,384–1806,HABF19,Moe'N'a Lisa,J. K. Simmons,J. Jonah Jameson
+740,18.0,384–1806,HABF19,Moe'N'a Lisa,Gore Vidal,Himself
+741,18.0,384–1806,HABF19,Moe'N'a Lisa,Tom Wolfe,Himself
+742,18.0,387–1809,JABF01,"Kill Gil, Volumes I & II",Elvis Stojko,Himself
+743,18.0,388–1810,JABF03,The Wife Aquatic,Dana Gould,Rotting Pelican Crewman
+744,18.0,388–1810,JABF03,The Wife Aquatic,Maurice LaMarche,First Mate Billy; Oceanographer
+745,18.0,388–1810,JABF03,The Wife Aquatic,Sab Shimono,Japanese fisherman
+746,18.0,390–1812,JABF04,Little Big Girl,Natalie Portman,Darcy
+747,18.0,391–1813,JABF07,Springfield Up,Eric Idle,Declan Desmond
+748,18.0,392–1814,JABF09,Yokel Chords,Peter Bogdanovich,Psychologist
+749,18.0,392–1814,JABF09,Yokel Chords,Andy Dick,Himself
+750,18.0,392–1814,JABF09,Yokel Chords,James Patterson,Himself
+751,18.0,392–1814,JABF09,Yokel Chords,Meg Ryan,Dr. Stacy Swanson
+752,18.0,392–1814,JABF09,Yokel Chords,Stephen Sondheim,Himself
+753,18.0,392–1814,JABF09,Yokel Chords,Marcia Wallace,Edna Krabappel
+754,18.0,393–1815,JABF08,Rome-old and Juli-eh,Jane Kaczmarek,Judge Constance Harm
+755,18.0,394–1816,JABF06,Homerazzi,Jon Lovitz,Enrico Irritazio
+756,18.0,394–1816,JABF06,Homerazzi,J. K. Simmons,Tabloid editor
+757,18.0,394–1816,JABF06,Homerazzi,Betty White,Herself
+758,18.0,395–1817,JABF10,Marge Gamer,Ronaldo,Himself
+759,18.0,395–1817,JABF10,Marge Gamer,Marcia Wallace,Edna Krabappel
+760,18.0,398–1818,JABF12,Stop or My Dog Will Shoot,Rudy Giuliani,Himself
+761,18.0,398–1818,JABF12,Stop or My Dog Will Shoot,Stephen Hawking,Himself
+762,18.0,398–1818,JABF12,Stop or My Dog Will Shoot,Maurice LaMarche,Farmer; Horn Stuffer
+763,18.0,398–1818,JABF12,Stop or My Dog Will Shoot,Marcia Wallace,Edna Krabappel
+764,18.0,399–1821,JABF14,24 Minutes,Mary Lynn Rajskub,Chloe O'Brian
+765,18.0,399–1821,JABF14,24 Minutes,Kiefer Sutherland,Jack Bauer
+766,18.0,400–1822,JABF15,You Kent Always Say What You Want,Maurice LaMarche,Fox announcer
+767,18.0,400–1822,JABF15,You Kent Always Say What You Want,Ludacris,Himself
+768,Movie,M1,Movie,The Simpsons Movie,Albert Brooks,Russ Cargill
+769,Movie,M1,Movie,The Simpsons Movie,Green Day,Themselves
+770,Movie,M1,Movie,The Simpsons Movie,Tom Hanks,Himself
+771,Movie,M1,Movie,The Simpsons Movie,Joe Mantegna,Fat Tony
+772,Movie,M1,Movie,The Simpsons Movie,Philip Rosenthal,TV Dad
+773,Movie,M1,Movie,The Simpsons Movie,Marcia Wallace,Edna Krabappel
+774,19.0,401–1901,JABF20,He Loves to Fly and He D'ohs,Stephen Colbert,Colby Kraus
+775,19.0,401–1901,JABF20,He Loves to Fly and He D'ohs,Lionel Richie,Himself
+776,19.0,402–1902,JABF18,Homer of Seville,Placido Domingo,Himself
+777,19.0,402–1902,JABF18,Homer of Seville,Maya Rudolph,Julia
+778,19.0,403–1903,JABF21,Midnight Towboy,Matt Dillon,Louie
+779,19.0,404–1904,JABF19,I Don't Wanna Know Why the Caged Bird Sings,Steve Buscemi,Dwight David Diddlehoffer
+780,19.0,404–1904,JABF19,I Don't Wanna Know Why the Caged Bird Sings,Julia Louis-Dreyfus,Gloria
+781,19.0,404–1904,JABF19,I Don't Wanna Know Why the Caged Bird Sings,Ted Nugent,Himself
+782,19.0,405–1905,JABF16,Treehouse of Horror XVIII,Maurice LaMarche,Government Official
+783,19.0,407–1907,JABF17,Husbands and Knives,Jack Black,Milo
+784,19.0,407–1907,JABF17,Husbands and Knives,Daniel Clowes,Himself
+785,19.0,407–1907,JABF17,Husbands and Knives,Maurice LaMarche,Jock
+786,19.0,407–1907,JABF17,Husbands and Knives,Sang Am Lee,Korean singer
+787,19.0,407–1907,JABF17,Husbands and Knives,Alan Moore,Himself
+788,19.0,407–1907,JABF17,Husbands and Knives,Art Spiegelman,Himself
+789,19.0,408–1908,KABF01,Funeral for a Fiend,Kelsey Grammer,Sideshow Bob
+790,19.0,408–1908,KABF01,Funeral for a Fiend,John Mahoney,"Dr. Robert Terwilliger, Sr."
+791,19.0,408–1908,KABF01,Funeral for a Fiend,Keith Olbermann,Himself
+792,19.0,408–1908,KABF01,Funeral for a Fiend,David Hyde Pierce,Cecil Terwilliger
+793,19.0,410–1910,KABF03,E Pluribus Wiggum,Dan Rather,Himself
+794,19.0,410–1910,KABF03,E Pluribus Wiggum,Jon Stewart,Himself
+795,19.0,411–1911,KABF04,That '90s Show,Michael Dees,"Sings ""Winter Wonderland"""
+796,19.0,411–1911,KABF04,That '90s Show,Kurt Loder,Himself
+797,19.0,411–1911,KABF04,That 90's Show,Weird Al Yankovic,Himself
+798,19.0,413–1913,KABF06,The Debarted,Topher Grace,Donny
+799,19.0,413–1913,KABF06,The Debarted,Terry Gross,Herself
+800,19.0,413–1913,KABF06,The Debarted,Marcia Wallace,Edna Krabappel
+801,19.0,414–1914,KABF07,"Dial ""N"" for Nerder",Marcia Wallace,Edna Krabappel
+802,19.0,416–1916,KABF09,Papa Don't Leech,Beverly D'Angelo,Lurleen Lumpkin
+803,19.0,416–1916,KABF09,Papa Don't Leech,The Chicks,Themselves
+804,19.0,417–1917,KABF10,Apocalypse Cow,Zooey Deschanel,Mary Spuckler
+805,19.0,418–1918,KABF11,Any Given Sundance,Jim Jarmusch,Himself
+806,19.0,418–1918,KABF11,Any Given Sundance,John C. Reilly,Himself
+807,19.0,419–1919,KABF12,Mona Leaves-a,Lance Armstrong,Himself
+808,19.0,419–1919,KABF12,Mona Leaves-a,Glenn Close,Mona Simpson
+809,19.0,420–1920,KABF13,All About Lisa,Drew Carey,Himself
+810,20.0,421–2001,KABF17,"Sex, Pies and Idiot Scrapes",Robert Forster,Lucky Jim
+811,20.0,421–2001,KABF17,"Sex, Pies and Idiot Scrapes",Julia Louis-Dreyfus,Gloria
+812,20.0,421–2001,KABF17,"Sex, Pies and Idiot Scrapes",Joe Mantegna,Fat Tony
+813,20.0,422–2002,KABF15,Lost Verizon,Brian Grazer,Himself
+814,20.0,422–2002,KABF15,Lost Verizon,Denis Leary,Himself
+815,20.0,423–2003,KABF14,"Double, Double, Boy in Trouble",Joe Montana,Himself
+816,20.0,424–2004,KABF16,Treehouse of Horror XIX,Marcia Wallace,Edna Krabappel
+817,20.0,425–2005,KABF18,Dangerous Curves,Maurice LaMarche,Toucan Sam; Cap'n Crunch; Trix Rabbit
+818,20.0,426–2006,KABF19,Homer and Lisa Exchange Cross Words,Merl Reagle,Himself
+819,20.0,426–2006,KABF19,Homer and Lisa Exchange Cross Words,Will Shortz,Himself
+820,20.0,426–2006,KABF19,Homer and Lisa Exchange Cross Words,Scott Thompson,Grady
+821,20.0,426–2006,KABF19,Homer and Lisa Exchange Cross Words,Marcia Wallace,Edna Krabappel
+822,20.0,427–2007,KABF20,Mypods and Boomsticks,Shohreh Aghdashloo,Mina bin Laden
+823,20.0,428–2008,KABF21,The Burns and the Bees,Marv Albert,Himself
+824,20.0,428–2008,KABF21,The Burns and the Bees,Jeff Bezos,Himself
+825,20.0,428–2008,KABF21,The Burns and the Bees,Mark Cuban,Himself
+826,20.0,429–2009,KABF22,Lisa the Drama Queen,Emily Blunt,Juliet Hobbes
+827,20.0,429–2009,KABF22,Lisa the Drama Queen,Fall Out Boy,Play the end credits
+828,20.0,430–2010,LABF01,"Take My Life, Please",Marcia Wallace,Edna Krabappel
+829,20.0,431–2011,LABF02,How the Test Was Won,Marcia Wallace,Edna Krabappel
+830,20.0,432–2012,LABF03,"No Loan Again, Naturally",Maurice LaMarche,Dwight D. Eisenhower
+831,20.0,432–2012,LABF03,"No Loan Again, Naturally",Marcia Wallace,Edna Krabappel
+832,20.0,433–2013,LABF04,Gone Maggie Gone,"Ed Begley, Jr.",Himself
+833,20.0,434–2014,LABF11,In the Name of the Grandfather,Glen Hansard,Street musician
+834,20.0,434–2014,LABF11,In the Name of the Grandfather,Markéta Irglová,Czech singer
+835,20.0,434–2014,LABF11,In the Name of the Grandfather,Colm Meaney,Tom O'Flanagan
+836,20.0,434–2014,LABF11,In the Name of the Grandfather,Marcia Wallace,Edna Krabappel
+837,20.0,435–2015,LABF05,Wedding for Disaster,Kelsey Grammer,Sideshow Bob
+838,20.0,437–2017,LABF07,"The Good, the Sad and the Drugly",Anne Hathaway,Jenny
+839,20.0,438–2018,LABF08,Father Knows Worst,Marcia Wallace,Edna Krabappel
+840,20.0,439–2019,LABF10,Waverly Hills 9-0-2-1-D'oh,Maurice LaMarche,City Inspector
+841,20.0,439–2019,LABF10,Waverly Hills 9-0-2-1-D'oh,Ellen Page,Alaska Nebraska
+842,20.0,439–2019,LABF10,Waverly Hills 9-0-2-1-D'oh,Marcia Wallace,Edna Krabappel
+843,20.0,440–2020,LABF09,Four Great Women and a Manicure,Jodie Foster,Maggie Simpson
+844,21.0,442–2101,LABF13,Homer the Whopper,Matt Groening,Himself
+845,21.0,442–2101,LABF13,Homer the Whopper,Seth Rogen,Lyle McCarthy
+846,21.0,442–2101,LABF13,Homer the Whopper,Kevin Michael Richardson,Security guard
+847,21.0,443–2102,LABF15,"Bart Gets a ""Z""",Marcia Wallace,Edna Krabappel
+848,21.0,444–2103,LABF16,The Great Wife Hope,Chuck Liddell,Himself
+849,21.0,444–2103,LABF16,The Great Wife Hope,Marcia Wallace,Edna Krabappel
+850,21.0,445–2104,LABF14,Treehouse of Horror XX,Marcia Wallace,Edna Krabappel
+851,21.0,446–2105,LABF17,The Devil Wears Nada,Marcia Wallace,Edna Krabappel
+852,21.0,447–2106,LABF18,Pranks and Greens,Jonah Hill,Andy Hamilton
+853,21.0,447–2106,LABF18,Pranks and Greens,Marcia Wallace,Edna Krabappel
+854,21.0,448–2107,LABF19,Rednecks and Broomsticks,Neve Campbell,Cassandra
+855,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Kim Cattrall,Fourth Simpson child
+856,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Huell Howser,Himself
+857,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Cooper Manning,Himself
+858,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Eli Manning,Himself
+859,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Peyton Manning,Himself
+860,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Jordan Nagai,Charlie
+861,21.0,449–2108,MABF01,"O Brother, Where Bart Thou?",Smothers Brothers,Themselves
+862,21.0,450–2109,MABF02,Thursdays with Abie,Mitch Albom,Himself
+863,21.0,450–2109,MABF02,Thursdays with Abie,Marcia Wallace,Edna Krabappel
+864,21.0,451–2110,LABF20,Once Upon a Time in Springfield,Anne Hathaway,Princess Penelope
+865,21.0,451–2110,LABF20,Once Upon a Time in Springfield,Eartha Kitt,Herself
+866,21.0,451–2110,LABF20,Once Upon a Time in Springfield,Maurice LaMarche,Nuclear Power Plant Guard
+867,21.0,451–2110,LABF20,Once Upon a Time in Springfield,Gary Larson,Himself
+868,21.0,451–2110,LABF20,Once Upon a Time in Springfield,Jackie Mason,Rabbi Hyman Krustofsky
+869,21.0,452–2111,MABF03,Million Dollar Maybe,Chris Martin,Himself
+870,21.0,452–2111,MABF03,Million Dollar Maybe,Marcia Wallace,Edna Krabappel
+871,21.0,453–2112,MABF05,Boy Meets Curl,Bob Costas,Himself
+872,21.0,454–2113,MABF06,The Color Yellow,Wren T. Brown,Virgil Simpson
+873,21.0,455–2114,MABF04,Postcards from the Wedge,Marcia Wallace,Edna Krabappel
+874,21.0,456–2115,MABF07,Stealing First Base,Angela Bassett,Michelle Obama
+875,21.0,456–2115,MABF07,Stealing First Base,Sarah Silverman,Nikki McKenna
+876,21.0,457–2116,MABF10,The Greatest Story Ever D'ohed,Sacha Baron Cohen,Jakob
+877,21.0,457–2116,MABF10,The Greatest Story Ever D'ohed,Yael Naim,Dorit
+878,21.0,458–2117,MABF08,American History X-cellent,Joe Mantegna,Fat Tony
+879,21.0,458–2117,MABF08,American History X-cellent,Kevin Michael Richardson,Prisoner
+880,21.0,459–2118,MABF09,Chief of Hearts,Jane Kaczmarek,Judge Constance Harm
+881,21.0,459–2118,MABF09,Chief of Hearts,Maurice LaMarche,David Starsky
+882,21.0,459–2118,MABF09,Chief of Hearts,Joe Mantegna,Fat Tony
+883,21.0,461–2120,MABF12,To Surveil with Love,Eddie Izzard,Queen Elizabeth II; Prince Charles; Nigel Bakerbutcher
+884,21.0,461–2120,MABF12,To Surveil with Love,Marcia Wallace,Edna Krabappel
+885,21.0,462–2121,MABF13,Moe Letter Blues,Don Pardo,Himself
+886,21.0,463–2122,MABF11,The Bob Next Door,Kelsey Grammer,Sideshow Bob
+887,21.0,464–2123,MABF15,Judge Me Tender,Simon Cowell,Himself
+888,21.0,464–2123,MABF15,Judge Me Tender,Ellen DeGeneres,Herself
+889,21.0,464–2123,MABF15,Judge Me Tender,Kara DioGuardi,Herself
+890,21.0,464–2123,MABF15,Judge Me Tender,Randy Jackson,Himself
+891,21.0,464–2123,MABF15,Judge Me Tender,Rupert Murdoch,Himself
+892,21.0,464–2123,MABF15,Judge Me Tender,Ryan Seacrest,Himself
+893,22.0,465–2201,MABF21,Elementary School Musical,Jemaine Clement,Ethan Ballantyne
+894,22.0,465–2201,MABF21,Elementary School Musical,Ira Glass,Himself
+895,22.0,465–2201,MABF21,Elementary School Musical,Stephen Hawking,Himself
+896,22.0,465–2201,MABF21,Elementary School Musical,Bret McKenzie,Kurt Hardwick
+897,22.0,465–2201,MABF21,Elementary School Musical,Lea Michele,Sarah
+898,22.0,465–2201,MABF21,Elementary School Musical,Cory Monteith,Flynn
+899,22.0,465–2201,MABF21,Elementary School Musical,Amber Riley,Aiesha
+900,22.0,466–2202,MABF17,Loan-a Lisa,Terry W. Greene,Janitor
+901,22.0,466–2202,MABF17,Loan-a Lisa,Chris Hansen,Himself
+902,22.0,466–2202,MABF17,Loan-a Lisa,Muhammad Yunus,Himself
+903,22.0,466–2202,MABF17,Loan-a Lisa,Mark Zuckerberg,Himself
+904,22.0,467–2203,MABF18,MoneyBART,Bill James,Himself
+905,22.0,467–2203,MABF18,MoneyBART,Mike Scioscia,Himself
+906,22.0,468–2204,MABF16,Treehouse of Horror XXI,Hugh Laurie,Roger
+907,22.0,468–2204,MABF16,Treehouse of Horror XXI,Daniel Radcliffe,Edmund
+908,22.0,470–2206,NABF01,The Fool Monty,Terry W. Greene,Sgt. Activity
+909,22.0,471–2207,NABF02,How Munched is That Birdie in the Window?,Gregg Berger,Various animals
+910,22.0,471–2207,NABF02,How Munched is That Birdie in the Window?,Danica Patrick,Herself
+911,22.0,471–2207,NABF02,How Munched is That Birdie in the Window?,Marcia Wallace,Edna Krabappel
+912,22.0,471–2207,NABF02,How Munched is That Birdie in the Window?,Rachel Weisz,Dr. Thurston
+913,22.0,472–2208,MABF22,The Fight Before Christmas,Katy Perry,Herself (live action)
+914,22.0,472–2208,MABF22,The Fight Before Christmas,Martha Stewart,Herself
+915,22.0,473–2209,MABF19,Donnie Fatso,Jon Hamm,FBI agent
+916,22.0,473–2209,MABF19,Donnie Fatso,Joe Mantegna,Fat Tony; Fit Tony
+917,22.0,474–2210,NABF03,Moms I'd Like to Forget,Marcia Wallace,Edna Krabappel
+918,22.0,475–2211,NABF04,Flaming Moe,Alyson Hannigan,Melody Juniper
+919,22.0,475–2211,NABF04,Flaming Moe,Scott Thompson,Grady
+920,22.0,475–2211,NABF04,Flaming Moe,Kristen Wiig,Calliope Juniper
+921,22.0,476–2212,NABF05,Homer the Father,Michael Paul Chan,Chinese agent
+922,22.0,476–2212,NABF05,Homer the Father,James Lipton,Himself
+923,22.0,476–2212,NABF05,Homer the Father,David Mamet,Himself
+924,22.0,476–2212,NABF05,Homer the Father,Garry Marshall,Sheldon Leavitt
+925,22.0,477–2213,NABF06,The Blue and the Gray,Marcia Wallace,Edna Krabappel
+926,22.0,478–2214,NABF07,Angry Dad: The Movie,Halle Berry,Herself
+927,22.0,478–2214,NABF07,Angry Dad: The Movie,Russell Brand,Himself
+928,22.0,478–2214,NABF07,Angry Dad: The Movie,Ricky Gervais,Himself
+929,22.0,478–2214,NABF07,Angry Dad: The Movie,Terry W. Greene,Ridley Scott Seat Filler
+930,22.0,478–2214,NABF07,Angry Dad: The Movie,Maurice LaMarche,Anthony Hopkins
+931,22.0,478–2214,NABF07,Angry Dad: The Movie,Nick Park,Himself
+932,22.0,478–2214,NABF07,Angry Dad: The Movie,J. B. Smoove,DJ Kwanzaa
+933,22.0,479–2215,NABF08,The Scorpion's Tale,Werner Herzog,Walter Hotenhoffer
+934,22.0,479–2215,NABF08,The Scorpion's Tale,Kevin Michael Richardson,Retirement Castle orderly
+935,22.0,480–2216,NABF09,A Midsummer's Nice Dream,Tommy Chong,Himself
+936,22.0,480–2216,NABF09,A Midsummer's Nice Dream,Cheech Marin,Himself
+937,22.0,481–2217,NABF10,Love Is a Many Strangled Thing,Kareem Abdul-Jabbar,Himself
+938,22.0,481–2217,NABF10,Love Is a Many Strangled Thing,Kevin Michael Richardson,Masseur
+939,22.0,481–2217,NABF10,Love Is a Many Strangled Thing,Paul Rudd,Dr. Zander
+940,22.0,481–2217,NABF10,Love Is a Many Strangled Thing,Marcia Wallace,Edna Krabappel
+941,22.0,482–2218,NABF11,The Great Simpsina,David Copperfield,Himself
+942,22.0,482–2218,NABF11,The Great Simpsina,Ricky Jay,Himself
+943,22.0,482–2218,NABF11,The Great Simpsina,Penn Jillette,Himself
+944,22.0,482–2218,NABF11,The Great Simpsina,Martin Landau,The Great Raymondo
+945,22.0,482–2218,NABF11,The Great Simpsina,Jack McBrayer,Ewell Freestone
+946,22.0,482–2218,NABF11,The Great Simpsina,Teller,Himself
+947,22.0,483–2219,NABF12,The Real Housewives of Fat Tony,Joe Mantegna,Fat Tony
+948,22.0,484–2220,NABF13,Homer Scissorhands,Kristen Schaal,Taffy
+949,22.0,484–2220,NABF13,Homer Scissorhands,Marcia Wallace,Edna Krabappel
+950,22.0,485–2221,NABF14,500 Keys,Albert Brooks,Hank Scorpio
+951,22.0,486–2222,NABF15,The Ned-Liest Catch,Ken Burns,Himself
+952,22.0,486–2222,NABF15,The Ned-Liest Catch,Joey Kramer,Himself
+953,22.0,486–2222,NABF15,The Ned-Liest Catch,Marcia Wallace,Edna Krabappel
+954,23.0,487–2301,NABF16,The Falcon and the D'ohman,Tom Colicchio,Himself
+955,23.0,487–2301,NABF16,The Falcon and the D'ohman,Ping Marshall,Viktor
+956,23.0,487–2301,NABF16,The Falcon and the D'ohman,Kevin Michael Richardson,SendEx Courier
+957,23.0,487–2301,NABF16,The Falcon and the D'ohman,Kiefer Sutherland,Wayne Slater
+958,23.0,487–2301,NABF16,The Falcon and the D'ohman,Marcia Wallace,Edna Krabappel
+959,23.0,488–2302,NABF17,Bart Stops to Smell the Roosevelts,Theodore Roosevelt (archival),Himself
+960,23.0,488–2302,NABF17,Bart Stops to Smell the Roosevelts,Marcia Wallace,Edna Krabappel
+961,23.0,489–2303,NABF19,Treehouse of Horror XXII,Jackie Mason,Rabbi Hyman Krustofsky
+962,23.0,489–2303,NABF19,Treehouse of Horror XXII,Aron Ralston,911 operator
+963,23.0,490–2304,NABF21,Replaceable You,Jane Lynch,Roz Davis
+964,23.0,491–2305,NABF20,The Food Wife,Mario Batali,Himself
+965,23.0,491–2305,NABF20,The Food Wife,Anthony Bourdain,Himself
+966,23.0,491–2305,NABF20,The Food Wife,Tim Heidecker,Amus Bruse
+967,23.0,491–2305,NABF20,The Food Wife,Gordon Ramsay,Himself
+968,23.0,491–2305,NABF20,The Food Wife,Eric Wareheim,Fois Garth
+969,23.0,492–2306,NABF22,The Book Job,Neil Gaiman,Himself
+970,23.0,492–2306,NABF22,The Book Job,Andy García,TweenLit Inc. Publisher
+971,23.0,493–2307,PABF01,The Man in the Blue Flannel Pants,Kevin Michael Richardson,Party guest
+972,23.0,493–2307,PABF01,The Man in the Blue Flannel Pants,John Slattery,Robert Marlowe
+973,23.0,493–2307,PABF01,The Man in the Blue Flannel Pants,Matthew Weiner,Nuclear regulator
+974,23.0,494–2308,PABF02,The Ten-Per-Cent Solution,Kevin Dillon,Himself
+975,23.0,494–2308,PABF02,The Ten-Per-Cent Solution,Janeane Garofalo,Herself
+976,23.0,494–2308,PABF02,The Ten-Per-Cent Solution,Jackie Mason,Rabbi Hyman Krustofsky
+977,23.0,494–2308,PABF02,The Ten-Per-Cent Solution,Joan Rivers,Annie Dubinsky
+978,23.0,494–2309,PABF02,Holidays of Future Passed,Matt Groening,Announcer
+979,23.0,496–2310,PABF03,"Politically Inept, with Homer Simpson",Dana Gould,Air marshall
+980,23.0,496–2310,PABF03,"Politically Inept, with Homer Simpson",Ted Nugent,Himself
+981,23.0,497–2311,PABF04,The D'oh-cial Network,Armie Hammer,The Winklevoss twins
+982,23.0,497–2311,PABF04,The D'oh-cial Network,David Letterman,Himself
+983,23.0,497–2311,PABF04,The D'oh-cial Network,Tiger Lillies,Play the end credits
+984,23.0,498–2312,PABF05,Moe Goes from Rags to Riches,Jeremy Irons,Bar rag
+985,23.0,499–2313,PABF06,The Daughter Also Rises,Michael Cera,Nick
+986,23.0,499–2313,PABF06,The Daughter Also Rises,Jamie Hyneman,Himself
+987,23.0,499–2313,PABF06,The Daughter Also Rises,Adam Savage,Himself
+988,23.0,500–2314,PABF07,At Long Last Leave,Julian Assange,Himself
+989,23.0,500–2314,PABF07,At Long Last Leave,Kelsey Grammer,Sideshow Bob
+990,23.0,500–2314,PABF07,At Long Last Leave,Alison Krauss and Union Station,Perform the theme
+991,23.0,500–2314,PABF07,At Long Last Leave,Susie Stevens,"Sings ""We'll Meet Again"""
+992,23.0,500–2314,PABF07,At Long Last Leave,Jackie Mason,Rabbi Hyman Krustofsky
+993,23.0,501–2315,PABF09,Exit Through the Kwik-E-Mart,Robbie Conal,Himself
+994,23.0,501–2315,PABF09,Exit Through the Kwik-E-Mart,Ron English,Himself
+995,23.0,501–2315,PABF09,Exit Through the Kwik-E-Mart,Shepard Fairey,Himself
+996,23.0,501–2315,PABF09,Exit Through the Kwik-E-Mart,Nicholas McKaig,Sings the end credits
+997,23.0,501–2315,PABF09,Exit Through the Kwik-E-Mart,Kenny Scharf,Himself
+998,23.0,502–2316,PABF08,How I Wet Your Mother,David Byrne,"Sings ""Dream Operator"""
+999,23.0,502–2316,PABF08,How I Wet Your Mother,Glenn Close,Mona Simpson
+1000,23.0,503–2317,PABF10,"Them, Robot",Brent Spiner,Robots
+1001,23.0,504–2318,PABF11,Beware My Cheating Bart,Kevin Michael Richardson,Security guard
+1002,23.0,505–2319,PABF12,A Totally Fun Thing That Bart Will Never Do Again,Steve Coogan,Rowan Priddis
+1003,23.0,505–2319,PABF12,A Totally Fun Thing That Bart Will Never Do Again,Renee Ridgeley,Cruise Ship Receptionist
+1004,23.0,505–2319,PABF12,A Totally Fun Thing That Bart Will Never Do Again,Treat Williams,Himself
+1005,23.0,506–2320,PABF13,The Spy Who Learned Me,Bryan Cranston,Stradivarius Cain
+1006,23.0,506–2320,PABF13,The Spy Who Learned Me,Eric Idle,Declan Desmond
+1007,23.0,506–2320,PABF13,The Spy Who Learned Me,Marcia Wallace,Edna Krabappel
+1008,23.0,507–2321,PABF15,Ned 'n Edna's Blend,Marcia Wallace,Edna Krabappel
+1009,23.0,508–2322,PABF14,Lisa Goes Gaga,Lady Gaga,Herself
+1010,23.0,508–2322,PABF14,Lisa Goes Gaga,Kevin Michael Richardson,Conductor
+1011,24.0,509–2401,PABF21,Moonshine River,Ken Burns,Narrator
+1012,24.0,509–2401,PABF21,Moonshine River,Zooey Deschanel,Mary Spuckler
+1013,24.0,509–2401,PABF21,Moonshine River,Sarah Michelle Gellar,Gina Vendetti
+1014,24.0,509–2401,PABF21,Moonshine River,Anne Hathaway,Jenny
+1015,24.0,509–2401,PABF21,Moonshine River,Maurice LaMarche,Charlie Sheen
+1016,24.0,509–2401,PABF21,Moonshine River,Don Pardo,Himself
+1017,24.0,509–2401,PABF21,Moonshine River,Natalie Portman,Darcy
+1018,24.0,509–2401,PABF21,Moonshine River,Kevin Michael Richardson,Drummer
+1019,24.0,509–2401,PABF21,Moonshine River,Al Roker,Himself
+1020,24.0,509–2401,PABF21,Moonshine River,Sarah Silverman,Nikki McKenna
+1021,24.0,509–2401,PABF21,Moonshine River,Marcia Wallace,Edna Krabappel
+1022,24.0,510–2402,PABF17,Treehouse of Horror XXIII,Jon Lovitz,Artie Ziff
+1023,24.0,510–2402,PABF17,Treehouse of Horror XXIII,Marcia Wallace,Edna Krabappel
+1024,24.0,511–2403,PABF18,Adventures in Baby-Getting,Jeff Gordon,Himself
+1025,24.0,512–2404,PABF15,Gone Abie Gone,Marvin Hamlisch,Himself
+1026,24.0,512–2404,PABF15,Gone Abie Gone,Anika Noni Rose,Rita LaFleur
+1027,24.0,512–2404,PABF15,Gone Abie Gone,Jennifer Tilly,Herself
+1028,24.0,513–2405,PABF19,Penny-Wiseguys,Steve Carell,Dan Gillick
+1029,24.0,513–2405,PABF19,Penny-Wiseguys,Terry W. Greene,Giant Ant
+1030,24.0,513–2405,PABF19,Penny-Wiseguys,Joe Mantegna,Fat Tony
+1031,24.0,513–2405,PABF19,Penny-Wiseguys,Alex Trebek,Himself
+1032,24.0,514–2406,PABF22,A Tree Grows in Springfield,Kelsey Grammer,Sideshow Bob
+1033,24.0,514–2406,PABF22,A Tree Grows in Springfield,Marcia Wallace,Edna Krabappel
+1034,24.0,515–2407,PABF20,The Day the Earth Stood Cool,Fred Armisen,Terrence
+1035,24.0,515–2407,PABF20,The Day the Earth Stood Cool,Carrie Brownstein,Emily
+1036,24.0,515–2407,PABF20,The Day the Earth Stood Cool,Colin Meloy,Himself
+1037,24.0,515–2407,PABF20,The Day the Earth Stood Cool,Patton Oswalt,T-Rex
+1038,24.0,515–2407,PABF20,The Day the Earth Stood Cool,Marcia Wallace,Edna Krabappel
+1039,24.0,517–2409,RABF02,Homer Goes to Prep School,Maurice LaMarche,Prepper
+1040,24.0,517–2409,RABF02,Homer Goes to Prep School,Tom Waits,Lloyd
+1041,24.0,518–2410,RABF03,A Test Before Trying,Valerie Harper,Proctor Jennifer Clarkeson
+1042,24.0,518–2410,RABF03,A Test Before Trying,Marcia Wallace,Edna Krabappel
+1043,24.0,519–2411,RABF04,The Changing of the Guardian,Danny DeVito,Herbert Powell
+1044,24.0,519–2411,RABF04,The Changing of the Guardian,Terry W. Greene,Man Baby
+1045,24.0,519–2411,RABF04,The Changing of the Guardian,Rashida Jones,Portia
+1046,24.0,520–2412,RABF07,Love is a Many-Splintered Thing,Robert A. Caro,Himself
+1047,24.0,520–2412,RABF07,Love is a Many-Splintered Thing,Benedict Cumberbatch,Prime Minister; Alan Rickman
+1048,24.0,520–2412,RABF07,Love is a Many-Splintered Thing,Zooey Deschanel,Mary Spuckler
+1049,24.0,520–2412,RABF07,Love is a Many-Splintered Thing,Max Weinberg,Himself
+1050,24.0,521–2413,RABF05,Hardly Kirk-ing,Kevin Michael Richardson,Book Store Security Guard
+1051,24.0,523–2415,RABF09,"Black Eyed, Please",Richard Dawkins,Himself
+1052,24.0,523–2415,RABF09,"Black Eyed, Please",Tina Fey,Ms. Cantwell
+1053,24.0,523–2415,RABF09,"Black Eyed, Please",Marcia Wallace,Edna Krabappel
+1054,24.0,524–2416,RABF10,Dark Knight Court,Michael Dees,"Sings ""Easter Parade"""
+1055,24.0,524–2416,RABF10,Dark Knight Court,Janet Reno,Herself
+1056,24.0,524–2416,RABF10,Dark Knight Court,Maggy Reno Hurchalla,Janet Reno
+1057,24.0,525–2417,RABF08,What Animated Women Want,Bryan Cranston,Walter White (live action)
+1058,24.0,525–2417,RABF08,What Animated Women Want,Maurice LaMarche,Chef Naziwa; Karl Malden
+1059,24.0,525–2417,RABF08,What Animated Women Want,Aaron Paul,Jesse Pinkman (live action)
+1060,24.0,525–2417,RABF08,What Animated Women Want,Wanda Sykes,School therapist
+1061,24.0,525–2417,RABF08,What Animated Women Want,George Takei,Akira
+1062,24.0,525–2417,RABF08,What Animated Women Want,Marcia Wallace,Edna Krabappel
+1063,24.0,526–2418,RABF11,Pulpit Friction,Edward Norton,Rev. Elijah Hooper
+1064,24.0,526–2418,RABF11,Pulpit Friction,Susie Stevens,"Sings ""Day By Day"""
+1065,24.0,527–2419,RABF13,Whiskey Business,Tony Bennett,"Sings ""Capital City"""
+1066,24.0,527–2419,RABF13,Whiskey Business,Kevin Michael Richardson,Police officer
+1067,24.0,527–2419,RABF13,Whiskey Business,Sonny Rollins,Himself
+1068,24.0,527–2419,RABF13,Whiskey Business,Ron Taylor,Bleeding Gums Murphy
+1069,24.0,528–2420,RABF12,The Fabulous Faker Boy,Justin Bieber,Himself
+1070,24.0,528–2420,RABF12,The Fabulous Faker Boy,Bill Hader,Slava
+1071,24.0,528–2420,RABF12,The Fabulous Faker Boy,Jane Krakowski,Zhenya
+1072,24.0,528–2420,RABF12,The Fabulous Faker Boy,Patrick Stewart,Power plant employee
+1073,24.0,529–2421,RABF14,The Saga of Carl,Sigur Rós,Themselves
+1074,24.0,530–2422,RABF17,Dangers on a Train,Lisa Lampanelli,Ramona
+1075,24.0,530–2422,RABF17,Dangers on a Train,Seth MacFarlane,Ben
+1076,25.0,531–2501,RABF20,Homerland,Kevin Michael Richardson,FBI agent
+1077,25.0,531–2501,RABF20,Homerland,Kristen Wiig,Annie Crawford
+1078,25.0,532–2502,RABF16,Treehouse of Horror XXIV,Marcia Wallace,Edna Krabappel
+1079,25.0,533–2503,RABF18,Four Regrettings and a Funeral,Rachel Maddow,Herself
+1080,25.0,533–2503,RABF18,Four Regrettings and a Funeral,Joe Namath,Himself
+1081,25.0,533–2503,RABF18,Four Regrettings and a Funeral,Marcia Wallace,Edna Krabappel
+1082,25.0,534–2504,RABF22,YOLO,Denise Donatelli,"Sings ""You Only Live Once"" (parody of the song You Only Live Twice)"
+1083,25.0,534–2504,RABF22,YOLO,Jon Lovitz,Llewellyn Sinclair
+1084,25.0,534–2504,RABF22,YOLO,Marcia Wallace,Edna Krabappel
+1085,25.0,534–2504,RABF19,Labor Pains,Elisabeth Moss,Gretchen
+1086,25.0,536–2506,SABF02,The Kid Is All Right,Anderson Cooper,Himself
+1087,25.0,536–2506,SABF02,The Kid Is All Right,Maurice LaMarche,John Kerry
+1088,25.0,536–2506,SABF02,The Kid Is All Right,Eva Longoria,Isabel Gutierrez
+1089,25.0,537–2507,SABF04,Yellow Subterfuge,Kevin Michael Richardson,Jamaican Krusty
+1090,25.0,539–2509,SABF05,Steal This Episode,Judd Apatow,Himself
+1091,25.0,539–2509,SABF05,Steal This Episode,Will Arnett,Deputy Director Gratman
+1092,25.0,539–2509,SABF05,Steal This Episode,Rob Halford,Himself
+1093,25.0,539–2509,SABF05,Steal This Episode,Leslie Mann,Herself
+1094,25.0,539–2509,SABF05,Steal This Episode,Kevin Michael Richardson,Inmate; Hollywood Bigshot
+1095,25.0,539–2509,SABF05,Steal This Episode,Seth Rogen,Himself
+1096,25.0,539–2509,SABF05,Steal This Episode,Paul Rudd,Himself
+1097,25.0,539–2509,SABF05,Steal This Episode,Channing Tatum,Himself playing Homer
+1098,25.0,540–2510,SABF03,Married to the Blob,Harlan Ellison,Himself
+1099,25.0,540–2510,SABF03,Married to the Blob,Maurice LaMarche,Milo
+1100,25.0,540–2510,SABF03,Married to the Blob,Stan Lee,Himself
+1101,25.0,541–2511,SABF06,Specs and the City,Maurice LaMarche,Football Commentator
+1102,25.0,541–2511,SABF06,Specs and the City,Will Lyman,Himself
+1103,25.0,542–2512,SABF08,Diggs,Daniel Radcliffe,Diggs
+1104,25.0,543–2513,SABF07,The Man Who Grew Too Much,Kelsey Grammer,Sideshow Bob
+1105,25.0,543–2513,SABF07,The Man Who Grew Too Much,Marcia Wallace,Edna Krabappel
+1106,25.0,544–2514,SABF09,The Winter of His Content,Kevin Michael Richardson,Hibbert's Father; S.A.T. Preppers Member
+1107,25.0,545–2515,SABF10,The War of Art,Renee Ridgeley,Waitress
+1108,25.0,545–2515,SABF10,The War of Art,Max von Sydow,Klaus Ziegler
+1109,25.0,546–2516,SABF11,You Don't Have to Live Like a Referee,Andrés Cantor,Himself
+1110,25.0,546–2516,SABF11,You Don't Have to Live Like a Referee,Joey Vieira,Soccer Player
+1111,25.0,547–2517,SABF12,Luca$,Zach Galifianakis,Lucas Bortner
+1112,25.0,548–2518,SABF13,Days of Future Future,Amy Poehler,Jenda
+1113,25.0,549–2519,SABF14,What to Expect When Bart's Expecting,Tavi Gevinson,Jenny
+1114,25.0,549–2519,SABF14,What to Expect When Bart's Expecting,Joe Mantegna,Fat Tony
+1115,25.0,551–2521,SABF15,Pay Pal,Carl Kasell,Himself
+1116,25.0,551–2521,SABF15,Pay Pal,John Oliver,Booth Wilkes-John
+1117,25.0,551–2521,SABF15,Pay Pal,Peter Sagal,Himself
+1118,25.0,552–2522,SABF18,The Yellow Badge of Cowardge,Glenn Close,Mona Simpson
+1119,25.0,552–2522,SABF18,The Yellow Badge of Cowardge,Edwin Moses,Himself
+1120,26.0,553–2601,SABF20,Clown in the Dumps,Kelsey Grammer,Sideshow Bob
+1121,26.0,553–2601,SABF20,Clown in the Dumps,Don Hertzfeldt,Couch gag Simpsons
+1122,26.0,553–2601,SABF20,Clown in the Dumps,Maurice LaMarche,Clive Meriwether; Neil Simon; Rodney Dangerfield
+1123,26.0,553–2601,SABF20,Clown in the Dumps,Jackie Mason,Rabbi Hyman Krustofsky
+1124,26.0,553–2601,SABF20,Clown in the Dumps,David Hyde Pierce,Himself
+1125,26.0,553–2601,SABF20,Clown in the Dumps,Jeff Ross,Himself
+1126,26.0,553–2601,SABF20,Clown in the Dumps,Sarah Silverman,Herself
+1127,26.0,554–2602,SABF17,The Wreck of the Relationship,Nick Offerman,Captain Bowditch
+1128,26.0,554–2602,SABF17,The Wreck of the Relationship,Marc Wilmore,Narrator
+1129,26.0,556–2604,SABF21,Treehouse of Horror XXV,John Ratzenberger,CGI Homer Simpson
+1130,26.0,557–2605,SABF22,Opposites A-Frack,Jane Fonda,Maxine Lombard
+1131,26.0,557–2605,SABF22,Opposites A-Frack,Robert Siegel,Himself
+1132,26.0,558–2606,SABF16,Simpsorama,John DiMaggio,Bender
+1133,26.0,558–2606,SABF16,Simpsorama,David Herman,Scruffy
+1134,26.0,558–2606,SABF16,Simpsorama,Maurice LaMarche,Morbo; Hedonismbot; Lrrr
+1135,26.0,558–2606,SABF16,Simpsorama,Phil LaMarr,Hermes Conrad
+1136,26.0,558–2606,SABF16,Simpsorama,Katey Sagal,Turanga Leela
+1137,26.0,558–2606,SABF16,Simpsorama,Sally Stevens,"Sings ""I Will Wait For You"" and ""A Natural Woman"""
+1138,26.0,558–2606,SABF16,Simpsorama,Lauren Tom,Amy Wong
+1139,26.0,558–2606,SABF16,Simpsorama,Frank Welker,Nibbler
+1140,26.0,558–2606,SABF16,Simpsorama,Billy West,Philip J. Fry; Professor Farnsworth; Dr. Zoidberg
+1141,26.0,559–2607,TABF01,Blazed and Confused,Willem Dafoe,Jack Lassen
+1142,26.0,559–2607,TABF01,Blazed and Confused,Kelsey Grammer,Sideshow Bob
+1143,26.0,559–2607,TABF01,Blazed and Confused,David Silverman,Himself
+1144,26.0,560–2608,TABF02,Covercraft,Will Forte,King Toot
+1145,26.0,560–2608,TABF02,Covercraft,Sammy Hagar,Himself
+1146,26.0,560–2608,TABF02,Covercraft,Heavy Young Heathens,"performing ""Hopin' for a Dream"""
+1147,26.0,560–2608,TABF02,Covercraft,Matthew Sweet,Nick Delacourt
+1148,26.0,561–2609,TABF03,I Won't Be Home for Christmas,Gene Lockhart (archival),Henry X. Harper
+1149,26.0,563–2611,TABF05,Bart's New Friend,Stacy Keach,Don Bookner
+1150,26.0,564–2612,TABF04,The Musk Who Fell To Earth,Elon Musk,Himself
+1151,26.0,565–2613,TABF06,Walking Big & Tall,Kevin Michael Richardson,Albert
+1152,26.0,565–2613,TABF06,Walking Big & Tall,Pharrell Williams,Himself
+1153,26.0,566–2614,TABF07,My Fare Lady,Christopher Lloyd,Jim Ignatowski
+1154,26.0,566–2614,TABF07,My Fare Lady,Rich Sommer,Young Man
+1155,26.0,567–2615,TABF08,The Princess Guide,Richard Branson,Himself
+1156,26.0,567–2615,TABF08,The Princess Guide,Yaya DaCosta,Princess Kemi
+1157,26.0,567–2615,TABF08,The Princess Guide,Jon Lovitz,Enrico Irritazio
+1158,26.0,567–2615,TABF08,The Princess Guide,Kevin Michael Richardson,The Nigerian King
+1159,26.0,568–2616,TABF09,Sky Police,Nathan Fielder,Doug Blattner
+1160,26.0,569–2617,TABF10,Waiting for Duffman,Cat Deeley,Herself
+1161,26.0,569–2617,TABF10,Waiting for Duffman,R. Lee Ermey,Colonel Leslie Hapablap
+1162,26.0,569–2617,TABF10,Waiting for Duffman,Stacy Keach,Howard K. Duff VIII
+1163,26.0,572–2620,TABF13,Let's Go Fly a Coot,Glenn Close,Mona Simpson
+1164,26.0,572–2620,TABF13,Let's Go Fly a Coot,Carice van Houten,Annika Van Houten
+1165,26.0,573–2621,TABF15,Bull-E,Albert Brooks,Dr. Raufbold
+1166,26.0,573–2621,TABF15,Bull-E,Joe Mantegna,Fat Tony
+1167,26.0,573–2621,TABF15,Bull-E,Johnny Mathis,Himself
+1168,26.0,574–2622,TABF16,Mathlete's Feat,Justin Roiland,Rick Sanchez and Morty Smith
+1169,27.0,575–2701,TABF14,Every Man's Dream,Adam Driver,Adam Sackler
+1170,27.0,575–2701,TABF14,Every Man's Dream,Lena Dunham,Candace; Hannah Helene Horvath
+1171,27.0,575–2701,TABF14,Every Man's Dream,Laura Ingraham,Dr. Zilowitz
+1172,27.0,575–2701,TABF14,Every Man's Dream,Jemima Kirke,Candace's Friend #3
+1173,27.0,575–2701,TABF14,Every Man's Dream,Zosia Mamet,Candace's Friend #2
+1174,27.0,575–2701,TABF14,Every Man's Dream,Allison Williams,Candace's Friend #1
+1175,27.0,576–2702,TABF17,Cue Detective,Alton Brown,Himself
+1176,27.0,576–2702,TABF17,Cue Detective,Rex Harrison (archival),Doctor John Dolittle
+1177,27.0,576–2702,TABF17,Cue Detective,Bobby Moynihan,Tyler Boom
+1178,27.0,576–2702,TABF17,Cue Detective,Anthony Newley (archival),Matthew Mugg
+1179,27.0,576–2702,TABF17,Cue Detective,Edward James Olmos,Pit Master
+1180,27.0,576–2702,TABF17,Cue Detective,Ben Schwartz,Clerk
+1181,27.0,577–2703,TABF19,Puffless,Jon Lovitz,Cigarette
+1182,27.0,577–2703,TABF19,Puffless,Yo-Yo Ma,Himself
+1183,27.0,578–2704,TABF22,Halloween of Horror,Blake Anderson,Dickie
+1184,27.0,578–2704,TABF22,Halloween of Horror,Nick Kroll,Lem
+1185,27.0,578–2704,TABF22,Halloween of Horror,Renee Ridgeley,Krustyland Security Guard
+1186,27.0,579–2705,TABF18,Treehouse of Horror XXVI,Kelsey Grammer,Sideshow Bob
+1187,27.0,579–2705,TABF18,Treehouse of Horror XXVI,Chris Wedge,Scrat
+1188,27.0,580–2706,TABF21,Friend With Benefit,Kristen Bell,Harper Jambowski
+1189,27.0,580–2706,TABF21,Friend With Benefit,David Copperfield,Himself
+1190,27.0,584–2710,VABF03,The Girl Code,Stephen Merchant,CONRAD
+1191,27.0,584–2710,VABF03,The Girl Code,Kaitlin Olson,Quinn Hopper
+1192,27.0,585–2711,VABF04,Teenage Mutant Milk-Caused Hurdles,Sofía Vergara,Ms. Carol Berrera
+1193,27.0,586–2712,VABF05,Much Apu About Something,Utkarsh Ambudkar,"Jamshed ""Jay"" Nahasapeemapetilon"
+1194,27.0,587–2713,VABF07,Love Is in the N2-O2-Ar-CO2-Ne-He-CH4,Glenn Close,Mona Simpson
+1195,27.0,588–2714,VABF06,Gal of Constant Sorrow,Bob Boilen,Himself
+1196,27.0,588–2714,VABF06,Gal of Constant Sorrow,Kelsey Grammer,Sideshow Bob
+1197,27.0,588–2714,VABF06,Gal of Constant Sorrow,Kate McKinnon,Hettie Mae Boggs
+1198,27.0,588–2714,VABF06,Gal of Constant Sorrow,Natalie Maines,Hettie Mae Boggs' singing voice
+1199,27.0,589–2715,VABF08,Lisa the Veterinarian,Michael York,Dr. Lionel Budgie
+1200,27.0,590–2716,VABF09,The Marge-ian Chronicles,Brian J. Kaufman,Exploration Incorporated Candidate
+1201,27.0,590–2716,VABF09,The Marge-ian Chronicles,Tom Scharpling,Paul
+1202,27.0,590–2716,VABF09,The Marge-ian Chronicles,Jon Wurster,Barry
+1203,27.0,591–2717,VABF10,The Burns Cage,George Takei,Himself
+1204,27.0,592–2718,VABF11,How Lisa Got Her Marge Back,Andrew Rannells,Himself
+1205,27.0,594–2720,VABF14,To Courier with Love,Jay Leno,Himself
+1206,27.0,596–2722,VABF15,Orange Is the New Yellow,Kevin Michael Richardson,Prison Guard
+1207,28.0,597–2801,VABF20,Monty Burns' Fleeing Circus,Amy Schumer,Daphne Burns
+1208,28.0,597–2801,VABF20,Monty Burns' Fleeing Circus,Pendleton Ward,"Sings ""Simpsons Time"" (parody of Adventure Time theme song)"
+1209,28.0,598–2802,VABF18,Friends and Family,Allison Janney,Julia
+1210,28.0,599–2803,VABF17,The Town,Bill Burr,Townie; Man in Tunnel; Cart-Warning Man
+1211,28.0,599–2803,VABF17,The Town,Michael Chiklis,Handsome Quarterback
+1212,28.0,599–2803,VABF17,The Town,Rachel Dratch,Bostonian Doctor
+1213,28.0,599–2803,VABF17,The Town,Doris Kearns Goodwin,Herself
+1214,28.0,599–2803,VABF17,The Town,Dana Gould,Murphy
+1215,28.0,599–2803,VABF17,The Town,Mike Mitchell,Jay
+1216,28.0,599–2803,VABF17,The Town,Jason Nash,Southie Criminals ; Southie Philanthropists
+1217,28.0,600–2804,VABF16,Treehouse of Horror XXVII,Drew Carey,Himself
+1218,28.0,600–2804,VABF16,Treehouse of Horror XXVII,Donald Fagen,Himself
+1219,28.0,600–2804,VABF16,Treehouse of Horror XXVII,Kelsey Grammer,Sideshow Bob
+1220,28.0,600–2804,VABF16,Treehouse of Horror XXVII,Maurice LaMarche,Hedonismbot
+1221,28.0,600–2804,VABF16,Treehouse of Horror XXVII,Judith Owen,"Sings ""600"" (parody of the song Goldfinger)"
+1222,28.0,600–2804,VABF16,Treehouse of Horror XXVII,Sarah Silverman,Rachel Cohen
+1223,28.0,601–2805,VABF21,Trust But Clarify,Dan Rather,Himself
+1224,28.0,603–2807,VABF19,Havana Wild Weekend,Stacy Keach,Howard K. Duff VIII
+1225,28.0,603–2807,VABF19,Havana Wild Weekend,Deb Lacusta,Isabella
+1226,28.0,604–2808,WABF01,Dad Behavior,Matt Leinart,Himself
+1227,28.0,606–2810,WABF02,The Nightmare After Krustmas,Wayne Gretzky,Himself
+1228,28.0,606–2810,WABF02,The Nightmare After Krustmas,Theo Jansen,Himself
+1229,28.0,606–2810,WABF02,The Nightmare After Krustmas,Natasha Lyonne,Sophie
+1230,28.0,606–2810,WABF02,The Nightmare After Krustmas,Jackie Mason,Rabbi Hyman Krustofsky
+1231,28.0,607–2811,WABF06,Pork and Burns,Joyce Carol Oates,Herself
+1232,28.0,607–2811,WABF06,Pork and Burns,Michael York,Dr. Lionel Budgie
+1233,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Charles Barkley,Himself
+1234,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Jim Beanz,performing End-Titles music
+1235,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,V. Bozeman,Additional vocals
+1236,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Charlean Carmon,Additional vocals
+1237,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Common,Himself
+1238,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Snoop Dogg,Himself
+1239,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Taraji P. Henson,Praline
+1240,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Keegan-Michael Key,Jazzy James
+1241,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Phil LaMarr,Auctioneer; Informed Party Guest
+1242,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Dawnn Lewis,Miata; Female Party Guest
+1243,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,RZA,Himself
+1244,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Sally Stevens,Additional vocals
+1245,28.0,608–2812; 609–2813,WABF04; WABF05,The Great Phatsby,Destiny Torres,CEO of Obsidian Female Vocalist; Additional vocals
+1246,28.0,610–2814,WABF07,Fatzcarraldo,Glenn Close,Mona Simpson
+1247,28.0,611–2815,WABF08,The Cad and the Hat,Magnus Carlsen,Himself
+1248,28.0,611–2815,WABF08,The Cad and the Hat,Seth Green,Robot Chicken Nerd
+1249,28.0,611–2815,WABF08,The Cad and the Hat,Patton Oswalt,Bart's Guilt
+1250,28.0,612–2816,WABF09,Kamp Krustier,Lizzy Caplan,Virginia Johnson
+1251,28.0,612–2816,WABF09,Kamp Krustier,Michael Sheen,William Masters
+1252,28.0,613–2817,WABF10,22 for 30,Stephen Curry,Himself
+1253,28.0,613–2817,WABF10,22 for 30,Earl Mann,Narrator (Eddie Muntz)
+1254,28.0,613–2817,WABF10,22 for 30,Joe Mantegna,Fat Tony
+1255,28.0,614–2818,WABF11,A Father's Watch,Vanessa Bayer,Dr. Clarity Hoffman-Roth
+1256,28.0,614–2818,WABF11,A Father's Watch,Brian Posehn,Dumlee
+1257,28.0,614–2818,WABF11,A Father's Watch,Rob Riggle,Dr. Fenton Pooltoy
+1258,28.0,614–2818,WABF11,A Father's Watch,Adam Silver,Himself
+1259,28.0,615–2819,WABF12,The Caper Chase,Jason Alexander,Bourbon Verlander
+1260,28.0,615–2819,WABF12,The Caper Chase,Ken Jennings,Himself
+1261,28.0,615–2819,WABF12,The Caper Chase,Stan Lee,Himself
+1262,28.0,615–2819,WABF12,The Caper Chase,Robert McKee,Himself
+1263,28.0,615–2819,WABF12,The Caper Chase,Suze Orman,Herself
+1264,28.0,615–2819,WABF12,The Caper Chase,Neil deGrasse Tyson,Himself
+1265,28.0,616–2820,WABF13,Looking for Mr. Goodbart,Valerie Harper,Ma-Ma
+1266,28.0,616–2820,WABF13,Looking for Mr. Goodbart,Kipp Lennon,"Sings ""Small Bang Hypothesis"" (parody of The Big Bang Theory theme song)"
+1267,28.0,616–2820,WABF13,Looking for Mr. Goodbart,Jennifer Saunders,Phoebe Pratt
+1268,28.0,617–2821,WABF14,Moho House,Valerie Harper,Mrs. Butterworth
+1269,28.0,617–2821,WABF14,Moho House,Michael York,Nigel
+1270,28.0,618–2822,WABF15,Dogtown,Michael York,Dr. Lionel Budgie
+1271,29.0,619–2901,WABF17,The Serfsons,Billy Boyd,"Sings ""The Perfect Tale"" (parody of the song The Last Goodbye)"
+1272,29.0,619–2901,WABF17,The Serfsons,Nikolaj Coster-Waldau,Markery
+1273,29.0,620–2902,WABF22,Springfield Splendor,Alison Bechdel,Herself
+1274,29.0,620–2902,WABF22,Springfield Splendor,Rachel Bloom,Annette
+1275,29.0,620–2902,WABF22,Springfield Splendor,Roz Chast,Herself
+1276,29.0,620–2902,WABF22,Springfield Splendor,Dan Harmon,Himself
+1277,29.0,620–2902,WABF22,Springfield Splendor,Kipp Lennon,"Sings ""Collaboration"" (parody of the song Infatuation)"
+1278,29.0,620–2902,WABF22,Springfield Splendor,Marjane Satrapi,Herself
+1279,29.0,620–2902,WABF22,Springfield Splendor,Martin Short,Guthrie Frenel
+1280,29.0,621–2903,WABF16,Whistler's Father,Nick Fascitelli,Whistler
+1281,29.0,621–2903,WABF16,Whistler's Father,Valerie Harper,Backstage Mother #2
+1282,29.0,621–2903,WABF16,Whistler's Father,Joe Mantegna,Fat Tony
+1283,29.0,622–2904,WABF18,Treehouse of Horror XXVIII,Mario Batali,Himself
+1284,29.0,622–2904,WABF18,Treehouse of Horror XXVIII,Ben Daniels,Irish Priest
+1285,29.0,622–2904,WABF18,Treehouse of Horror XXVIII,William Friedkin,Dr. Kenneth Humphries
+1286,29.0,622–2904,WABF18,Treehouse of Horror XXVIII,Neil Gaiman,Snowball II
+1287,29.0,624–2906,WABF20,The Old Blue Mayor She Ain't What She Used to Be,Carolyn Omine,Focus Group Woman
+1288,29.0,626–2908,XABF01,Mr. Lisa's Opus,Kat Dennings,Valerie
+1289,29.0,626–2908,XABF01,Mr. Lisa's Opus,Valerie Harper,Ms. Myles
+1290,29.0,626–2908,XABF01,Mr. Lisa's Opus,Norman Lear,Himself
+1291,29.0,626–2908,XABF01,Mr. Lisa's Opus,Kipp Lennon,Leon Kompowsky
+1292,29.0,626–2908,XABF01,Mr. Lisa's Opus,Jon Lovitz,Artie Ziff
+1293,29.0,627–2909,XABF02,Gone Boy,Kelsey Grammer,Sideshow Bob
+1294,29.0,627–2909,XABF02,Gone Boy,Valerie Harper,Nurse
+1295,29.0,627–2909,XABF02,Gone Boy,John F. Kennedy (archival),Himself
+1296,29.0,627–2909,XABF02,Gone Boy,Shaquille O'Neal,Himself
+1297,29.0,628–2910,XABF03,Haw-Haw Land,Ed Sheeran,Brendan Beiderbecke
+1298,29.0,629–2911,XABF04,Frink Gets Testy,Valerie Harper,Proctor Jennifer Clarkeson
+1299,29.0,629–2911,XABF04,Frink Gets Testy,Maurice LaMarche,Orson Welles
+1300,29.0,630–2912,XABF05,Homer Is Where the Art Isn't,Bill Hader,Manacek
+1301,29.0,630–2912,XABF05,Homer Is Where the Art Isn't,Cecily Strong,Megan Matheson
+1302,29.0,631–2913,XABF06,3 Scenes Plus a Tag from a Marriage,John Baldessari,Himself
+1303,29.0,631–2913,XABF06,3 Scenes Plus a Tag from a Marriage,Kevin Pollak,Ross; Bagel Man; Professor Thernstrom
+1304,29.0,631–2913,XABF06,3 Scenes Plus a Tag from a Marriage,J. K. Simmons,J.J. Gruff
+1305,29.0,632–2914,XABF08,Fears of a Clown,Andy Daly,Judge Dowd
+1306,29.0,632–2914,XABF08,Fears of a Clown,Damian Kulash,Himself
+1307,29.0,632–2914,XABF08,Fears of a Clown,Dawnn Lewis,Children's Court Bailiff
+1308,29.0,632–2914,XABF08,Fears of a Clown,Jon Lovitz,Llewellyn Sinclair
+1309,29.0,632–2914,XABF08,Fears of a Clown,Jackie Mason,Rabbi Hyman Krustofsky
+1310,29.0,632–2914,XABF08,Fears of a Clown,Tim Nordwind,Himself
+1311,29.0,633–2915,XABF07,No Good Read Goes Unpunished,Daniel Radcliffe,Himself
+1312,29.0,633–2915,XABF07,No Good Read Goes Unpunished,Jimmy O. Yang,Sun Tzu
+1313,29.0,634–2916,XABF10,King Leer,Ray Liotta,Morty Szyslak
+1314,29.0,634–2916,XABF10,King Leer,Debi Mazar,Minnie Szyslak
+1315,29.0,634–2916,XABF10,King Leer,Jonathan Schmock,Johnny Bermuda Salesman
+1316,29.0,635–2917,XABF11,Lisa Gets the Blues,Dawnn Lewis,Co-Pilot; Pat O'Brien's Waitress
+1317,29.0,635–2917,XABF11,Lisa Gets the Blues,Trombone Shorty,Himself
+1318,29.0,636–2918,XABF09,Forgive and Regret,Glenn Close,Mona Simpson
+1319,29.0,636–2918,XABF09,Forgive and Regret,Caitlin Parrott,"Sings ""Four-Legged Angel"""
+1320,29.0,637–2919,XABF12,Left Behind,Michael Dees,"Sings ""My Funny Valentine"""
+1321,29.0,637–2919,XABF12,Left Behind,Marcia Wallace,Edna Krabappel
+1322,29.0,638–2920,XABF13,Throw Grampa from the Dane,Sidse Babett Knudsen,Danish Bar Woman
+1323,29.0,639–2921,XABF14,Flanders' Ladder,Jackie Mason,Rabbi Hyman Krustofsky
+1324,30.0,640–3001,XABF19,Bart's Not Dead,Dave Attell,Luke
+1325,30.0,640–3001,XABF19,Bart's Not Dead,Emily Deschanel,Herself; Herself playing Marge Simpson
+1326,30.0,640–3001,XABF19,Bart's Not Dead,Gal Gadot,Herself; Herself playing Lisa Simpson
+1327,30.0,640–3001,XABF19,Bart's Not Dead,Jonathan Groff,Actor playing Bart Simpson
+1328,30.0,640–3001,XABF19,Bart's Not Dead,Pete Holmes,Matthew
+1329,30.0,641–3002,XABF15,Heartbreak Hotel,Joe Clabby,Curtis
+1330,30.0,641–3002,XABF15,Heartbreak Hotel,Rhys Darby,Tag Tuckerbag
+1331,30.0,641–3002,XABF15,Heartbreak Hotel,Renee Ridgeley,Honey
+1332,30.0,641–3002,XABF15,Heartbreak Hotel,George Segal,Nick
+1333,30.0,642–3003,XABF17,My Way or the Highway to Heaven,H. Jon Benjamin,Bob Belcher
+1334,30.0,642–3003,XABF17,My Way or the Highway to Heaven,Jon Lovitz,Himself
+1335,30.0,642–3003,XABF17,My Way or the Highway to Heaven,Dan Mintz,Tina Belcher
+1336,30.0,642–3003,XABF17,My Way or the Highway to Heaven,Eugene Mirman,Gene Belcher
+1337,30.0,642–3003,XABF17,My Way or the Highway to Heaven,Ted Moock,"Sings ""Cheek to Cheek"""
+1338,30.0,642–3003,XABF17,My Way or the Highway to Heaven,Tracy Morgan,Himself
+1339,30.0,642–3003,XABF17,My Way or the Highway to Heaven,John Roberts,Linda Belcher
+1340,30.0,642–3003,XABF17,My Way or the Highway to Heaven,Kristen Schaal,Louise Belcher
+1341,30.0,644–3005,XABF18,Baby You Can't Drive My Car,Tracy Morgan,Tow Truck Driver
+1342,30.0,645–3006,XABF20,From Russia Without Love,Jon Lovitz,Hacky; Snitchy the Weasel
+1343,30.0,645–3006,XABF20,From Russia Without Love,Ksenia Solo,Anastasia Alekova
+1344,30.0,646–3007,XABF21,Werking Mom,Sutan Amrull,Himself
+1345,30.0,646–3007,XABF21,Werking Mom,RuPaul,Queen Chante
+1346,30.0,646–3007,XABF21,Werking Mom,Scott Thompson,Grady
+1347,30.0,647–3008,XABF22,Krusty the Clown,Billy Eichner,Billy
+1348,30.0,647–3008,XABF22,Krusty the Clown,Peter Serafinowicz,Google-Disney CEO
+1349,30.0,648–3009,YABF01,Daddicus Finch,Phillip Alford (archival),"Jeremy Atticus ""Jem"" Finch"
+1350,30.0,648–3009,YABF01,Daddicus Finch,Mary Badham (archival),"Jean Louise ""Scout"" Finch"
+1351,30.0,648–3009,YABF01,Daddicus Finch,Jon Lovitz,Llewellyn Sinclair; Rabbi
+1352,30.0,648–3009,YABF01,Daddicus Finch,John Megna (archival),"Charles ""Dill"" Baker Harris"
+1353,30.0,648–3009,YABF01,Daddicus Finch,Gregory Peck (archival),Atticus Finch
+1354,30.0,648–3009,YABF01,Daddicus Finch,J. K. Simmons,Dr. Jessup
+1355,30.0,649–3010,YABF02,Tis the 30th Season,Jane Lynch,Jeanie
+1356,30.0,650–3011,YABF03,Mad About the Toy,Bryan Batt,Philip Hefflin
+1357,30.0,650–3011,YABF03,Mad About the Toy,Bill de Blasio,Himself
+1358,30.0,650–3011,YABF03,Mad About the Toy,Lawrence O'Donnell,Himself
+1359,30.0,651–3012,YABF04,The Girl on the Bus,Terry Gross,Herself
+1360,30.0,651–3012,YABF04,The Girl on the Bus,Patti LuPone,Cheryl Monroe
+1361,30.0,652–3013,YABF06,I'm Dancing as Fat as I Can,Ted Sarandos,Himself
+1362,30.0,653–3014,YABF05,The Clown Stays in the Picture,Marc Maron,Himself
+1363,30.0,654–3015,YABF07,101 Mitigations,Guillermo del Toro,Himself
+1364,30.0,655–3016,YABF08,I Want You (She's So Heavy),Wallace Shawn,Wallace the Hernia
+1365,30.0,656–3017,YABF09,E My Sports,Ken Jeong,Korean Monk #1; Korean Monk #2
+1366,30.0,656–3017,YABF09,E My Sports,Natasha Lyonne,Sophie
+1367,30.0,656–3017,YABF09,E My Sports,David Turley,Conflict of Enemies Commentator
+1368,30.0,657–3018,YABF10,Bart vs. Itchy & Scratchy,Awkwafina,Carmen
+1369,30.0,657–3018,YABF10,Bart vs. Itchy & Scratchy,Nicole Byer,Erica
+1370,30.0,657–3018,YABF10,Bart vs. Itchy & Scratchy,Chelsea Peretti,Piper
+1371,30.0,658–3019,YABF11,Girl's in the Band,Dave Matthews,Lloyd the Bartender
+1372,30.0,658–3019,YABF11,Girl's in the Band,J. K. Simmons,Victor Kleskow
+1373,30.0,659–3020,YABF12,I'm Just a Girl Who Can't Say D'oh,Josh Groban,Professor John Frink's singing voice
+1374,30.0,659–3020,YABF12,I'm Just a Girl Who Can't Say D'oh,John Lithgow,Himself
+1375,30.0,659–3020,YABF12,I'm Just a Girl Who Can't Say D'oh,Jon Lovitz,Llewellyn Sinclair
+1376,30.0,659–3020,YABF12,I'm Just a Girl Who Can't Say D'oh,Okilly Dokilly,"Themselves performing ""White Wine Spritzer"""
+1377,30.0,660–3021,YABF14,D'oh Canada,Awkwafina,Dr. Chang
+1378,30.0,660–3021,YABF14,D'oh Canada,Judy Blume,Herself
+1379,30.0,660–3021,YABF14,D'oh Canada,Lucas Meyer,Justin Trudeau
+1380,30.0,661–3022,YABF15,Woo-Hoo Dunnit?,Ken Burns,Himself
+1381,30.0,661–3022,YABF15,Woo-Hoo Dunnit?,Will Forte,King Toot
+1382,30.0,661–3022,YABF15,Woo-Hoo Dunnit?,Jackie Mason,Rabbi Hyman Krustofsky
+1383,30.0,661–3022,YABF15,Woo-Hoo Dunnit?,Liev Schreiber,Dateline: Springfield Narrator
+1384,30.0,662–3023,YABF16,Crystal Blue-Haired Persuasion,Illeana Douglas,New Age Clerk
+1385,30.0,662–3023,YABF16,Crystal Blue-Haired Persuasion,Werner Herzog,Walter Hotenhoffer
+1386,30.0,662–3023,YABF16,Crystal Blue-Haired Persuasion,Jenny Slate,Piper Paisley
