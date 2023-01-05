@@ -1,0 +1,785 @@
+id,Title,Artist,Sex,Medium,Location,# of Locations,Sale Price in Dollars,Included because
+1,The Desert,Augustus E. John,Male,Oil,Boston,1.0,260.0,Requested by Organizers
+2,The Orange Frock,Augustus E. John,Male,Oil,Boston,1.0,650.0,Requested by Organizers
+3,Pines,Augustus E. John,Male,Oil,Boston,1.0,260.0,Requested by Organizers
+4,The Coast of Clare,Augustus E. John,Male,Oil,Boston,1.0,585.0,Requested by Organizers
+5,The Yellow Dress,Augustus E. John,Male,Oil,Boston,1.0,780.0,Requested by Organizers
+6,The Red Shawl,Augustus E. John,Male,Oil,Boston,1.0,650.0,Requested by Organizers
+7,"Lithographs; now determined to be The Volpini Suite;, 1889",Paul Gauguin,Male,Lithograph,Chicago & Boston,2.0,27.0,Requested by Organizers
+8,Ophelia,Odilon Redon,Male,Oil,Chicago & Boston,2.0,1200.0,Requested by Organizers
+9,12 Etchings,J. Alden Weir,Male,Etching,New York,1.0,500.0,Requested by Organizers
+10,Feeding the Ducks,Elmer Livingston MacRae,Male,Oil,New York,1.0,550.0,Requested by Organizers
+11,Street,Jonas Lie,Male,Oil,New York,1.0,500.0,Requested by Organizers
+12,Boy and Goat; elsewhere Boy With Goat,Karl Anderson,Male,Oil,New York,1.0,500.0,Requested by Organizers
+13,New York,Howard Coluzzi,Male,Oil,New York,1.0,300.0,Requested by Organizers
+14,April,Edward Adam Kramer,Male,Pastel,New York,1.0,100.0,Requested by Organizers
+15,Farm Yard,Adolph Kleiminger,Male,Oil,New York,1.0,400.0,Requested by Organizers
+16,"The Rain, Connecticut Hills",Childe Hassam,Male,Pastel,New York,1.0,650.0,Requested by Organizers
+17,The Birth,George Grey Barnard,Male,Stone,New York,1.0,2000.0,Requested by Organizers
+18,"#The Mystery of Life, 1895–97",George Grey Barnard,Male,Stone,New York,1.0,2000.0,Requested by Organizers
+19,3 Drawings,Boardman Robinson,Male,Drawing,New York & Chicago,2.0,100.0,Requested by Organizers
+20,2 Cartoons,Boardman Robinson,Male,Drawing,New York & Chicago,2.0,60.0,Requested by Organizers
+21,Minetta Lane,Paul Burlin,Male,Drawing,New York,1.0,65.0,Requested by Organizers
+22,Remains of equitable building,Paul Burlin,Male,Drawing,New York,1.0,85.0,Requested by Organizers
+23,Washington Market District,Paul Burlin,Male,Drawing,New York,1.0,65.0,Requested by Organizers
+24,Seven Drawings,Auguste Rodin,Male,Watercolor,New York & Chicago,2.0,1750.0,Requested by Organizers
+25,Six Drawings,Bernard Karfiol,Male,Drawing,New York,1.0,20.0,Requested by Organizers
+26,The Crinolines,Charles Condor,Male,Oil,"New York, Chicago & Boston",3.0,1000.0,Requested by Organizers
+27,The Orchard,J. Alden Weir,Male,Oil,New York,1.0,2500.0,Requested by Organizers
+28,When the Wind Blows,Van Dearing Perrine,Male,Oil,New York,1.0,750.0,Requested by Organizers
+29,#Study in Rose and Brown,James A. McNeill Whistler,Male,Oil,New York,1.0,8500.0,Requested by Organizers
+30,The Ice Floes,Van Dearing Perrine,Male,Oil,New York,1.0,2000.0,Requested by Organizers
+31,Woman in Garden,Henri Toulouse-Lautrec,Male,Oil,New York,1.0,6600.0,Requested by Organizers
+32,Rueil; now titled Village,MAurice de Vlaminck,Male,Oil,New York & Chicago,2.0,224.0,Requested by Organizers
+33,"Drawings, Nos. 1-6",Marjorie Organ,Female,Drawing,New York,1.0,50.0,Requested by Organizers
+34,Le Bassin aux nymphéas,Claude Monet,Male,Oil,New York,1.0,7700.0,Requested by Organizers
+35,The Quarry,Jonas Lie,Male,Oil,New York & Chicago,2.0,800.0,Requested by Organizers
+36,Toilet of Venus,Charles H. Shannon,Male,Oil,"New York, Chicago & Boston",3.0,3500.0,Requested by Organizers
+37,Portrait; elsewhere titled Blue and Gold,Allen Tucker,Male,Oil,New York & Chicago,2.0,350.0,Requested by Organizers
+38,"Upper Manhattan; now titled Harlem River, Winter, 1910",Ernest Lawson,Male,Oil,New York,1.0,800.0,Requested by Organizers
+39,Landscape,Frank A. Nankivell,Male,Oil,New York,1.0,400.0,Requested by Organizers
+40,Laughing Boy,Frank A. Nankivell,Male,Oil,New York,1.0,150.0,Requested by Organizers
+41,"#Vine Wood, ca. 1910",Agnes Pelton,Female,Oil,New York,1.0,100.0,Requested by Organizers
+42,The Beach Crowd,Amy Londoner,Female,Pastel,New York,1.0,50.0,Requested by Organizers
+43,Six Drawings,Albert Humphreys,Male,Drawing,New York & Chicago,2.0,200.0,Requested by Organizers
+44,Four drawings,George Bellows,Male,Drawing,New York,1.0,150.0,Requested by Organizers
+45,Playing Beach on the Ball,Amy Londoner,Female,Pastel,New York,1.0,50.0,Requested by Organizers
+46,THe Beach Umbrellas,Amy Londoner,Female,Pastel,New York,1.0,50.0,Requested by Organizers
+47,The Life Gaurd,Amy Londoner,Female,Pastel,New York,1.0,50.0,Requested by Organizers
+48,Stone Age,Agnes Pelton,Female,Oil,New York & Chicago,2.0,100.0,Requested by Organizers
+49,Irene,Charles H. Pepper,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+50,Arizona Desert,Kate T. Cory,Female,Oil,New York & Chicago,2.0,150.0,Requested by Organizers
+51,"#In the Opera; now titled At the Opera, 1908",Abraham Walkowitz,Male,Oil,New York,1.0,500.0,Requested by Organizers
+52,"Anticoli Corrado, 1907",Abraham Walkowitz,Male,Oil,New York,1.0,500.0,Requested by Organizers
+53,On the Avenue 1905,Abraham Walkowitz,Male,Oil,New York,1.0,250.0,Requested by Organizers
+54,Man-Woman,Abraham Walkowitz,Male,Oil,New York,1.0,200.0,Requested by Organizers
+55,A Bit of Venice,Abraham Walkowitz,Male,Oil,New York,1.0,500.0,Requested by Organizers
+56,Drawing,Abraham Walkowitz,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+57,Drawing,Abraham Walkowitz,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+58,Drawing,Abraham Walkowitz,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+59,Drawing,Abraham Walkowitz,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+60,Drawing,Abraham Walkowitz,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+61,Watercolor,Abraham Walkowitz,Male,Watercolor,New York,1.0,100.0,Requested by Organizers
+62,"Mountain, the Tyrol",John Marin,Male,Watercolor,New York,1.0,300.0,Requested by Organizers
+63,In the Tyrol,John Marin,Male,Watercolor,New York,1.0,300.0,Requested by Organizers
+64,"Lake and Mountain, Tyrol",John Marin,Male,Watercolor,New York,1.0,250.0,Requested by Organizers
+65,Frame of Drawings,Arthut Lee,Male,Drawing,New York & Chicago,2.0,100.0,Requested by Organizers
+66,"Hunger under a Bridge, 1912",Eugene Higgins,Male,Tempera,New York & Chicago,2.0,250.0,Requested by Organizers
+67,Fame of Drawings,Aurthur Lee,Male,Drawing,New York & Chicago,2.0,100.0,Requested by Organizers
+68,Fame of Drawings,Aurthur Lee,Male,Drawing,New York & Chicago,2.0,100.0,Requested by Organizers
+69,Fame of Drawings,Aurthur Lee,Male,Drawing,New York & Chicago,2.0,100.0,Requested by Organizers
+70,"Drawings, Nos. 1–5, 1912",Alexander Archipenko,Male,Oil,"New York, Chicago & Boston",3.0,27.0,Requested by Organizers
+71,Paysage,Othon Friesz,Male,Oil,New York,1.0,324.0,Requested by Organizers
+72,Route Vallon,Othon Friesz,Male,Oil,New York,1.0,324.0,Requested by Organizers
+73,Landscape wit Figures,Othon Friesz,Male,Oil,New York,1.0,1620.0,Requested by Organizers
+74,Coimbra,Othon Friesz,Male,Oil,New York,1.0,459.0,Requested by Organizers
+75,Vegetation exotique,Othon Friesz,Male,Oil,New York,1.0,405.0,Requested by Organizers
+76,Nausikaa,Wladimir von Bechtejeff,Male,Oil,New York,1.0,812.5,Requested by Organizers
+77,Nature Morte 1,Patrick Henry Bruce,Male,Oil,New York,1.0,190.0,Requested by Organizers
+78,Nature Morte2,Patrick Henry Bruce,Male,Oil,New York,1.0,135.0,Requested by Organizers
+79,Nature Morte 3,Patrick Henry Bruce,Male,Oil,New York,1.0,135.0,Requested by Organizers
+80,Nature Morte 4,Patrick Henry Bruce,Male,Oil,New York,1.0,135.0,Requested by Organizers
+81,Coin du Village,Jules Flandrin,Male,Oil,New York,1.0,540.0,Requested by Organizers
+82,"St. Marc, Venise",Jules Flandrin,Male,Oil,New York,1.0,640.0,Requested by Organizers
+83,Venise,Jules Flandrin,Male,Oil,New York,1.0,1080.0,Requested by Organizers
+84,Vallee Isere,Jules Flandrin,Male,Oil,New York,1.0,540.0,Requested by Organizers
+85,Weary,Eugene Higgins,Male,Oil,New York,1.0,200.0,Requested by Organizers
+86,#Faa iheihe 1898,Paul Gauguin,Male,Oil,"New York, Chicago & Boston",3.0,8100.0,Requested by Organizers
+87,"Sous les palmiers; now titled Under the Palm Trees, 1891",Paul Gauguin,Male,Oil,"New York, Chicago & Boston",3.0,4050.0,Requested by Organizers
+88,"#L’Ésprit du mal; now titled Parau na te Varua ino (Words of the Devil), 1892",Paul Gauguin,Male,Oil,"New York, Chicago & Boston",3.0,4050.0,Requested by Organizers
+89,"Fleurs sur un fond jaune; now titled Still Life with Head-Shaped Vase and Japanese Woodcut, 1889",Paul Gauguin,Male,Oil,"New York, Chicago & Boston",3.0,4050.0,Requested by Organizers
+90,#Study of a Girl,Morton Schamberg,Male,Oil,New York & Chicago,2.0,100.0,Requested by Organizers
+91,"Nature morte, 1888",Paul Gauguin,Male,Oil,"New York, Chicago & Boston",3.0,5400.0,Requested by Organizers
+92,"Atelier; now titled L’atelier de Schuffenecker (Schuffenecker’s Studio), 1889",Paul Gauguin,Male,Oil,"New York, Chicago & Boston",3.0,9450.0,Requested by Organizers
+93,Deux Amies,Alexandre Blanchett,Male,Oil,New York,1.0,540.0,Requested by Organizers
+94,"Three Figures, 1911",Phelan Gibb,Male,Oil,New York,1.0,337.5,Requested by Organizers
+95,"Landscape, 1911",Phelan Gibb,Male,Oil,New York,1.0,675.0,Requested by Organizers
+96,"Jeune Fille à la cruche, 1912",Joseph Bernard,Male,Plaster,"New York, Chicago & Boston",3.0,4860.0,Requested by Organizers
+97,"La Tendresse, 1910",Joseph Bernard,Male,Plaster,New York & Chicago,2.0,2160.0,Requested by Organizers
+98,Study of a Girl,Morton Schamberg,Male,Oil,New York & Chicago,2.0,100.0,Requested by Organizers
+99,L’Estuaire de la Seine,Maurice de Vlaminck,Male,Oil,"New York, Chicago & Boston",3.0,202.5,Requested by Organizers
+100,Les Figues,MAurice de Vlaminck,Male,Oil,"New York, Chicago & Boston",3.0,162.0,Requested by Organizers
+101,Musikanten,Wilhelm Gimmi,Male,Oil,New York,1.0,136.5,Requested by Organizers
+102,Conversation Provencale; Elsewhere La Sieste,Pierre Bonnard,Male,Oil,New York,1.0,2700.0,Requested by Organizers
+103,Nordischer Fischerhafen,Julius Seyler,Male,Oil,New York,1.0,325.0,Requested by Organizers
+104,"La Femme aux phlox; now titled Woman with Phlox, 1910",Albert Gleizes,Male,Oil,"New York, Chicago & Boston",3.0,189.0,Requested by Organizers
+105,"#L’Homme au balcon; now titled Man on a Balcony (Portrait of Dr. Theo Morinaud), 1912",Albert Gleizes,Male,Oil,New York & Chicago,2.0,540.0,Requested by Organizers
+106,Maskenfest,Hanz Bolz,Male,Engraving,New York,1.0,13.5,Requested by Organizers
+107,Bar,Hanz Bolz,Male,Engraving,New York,1.0,16.2,Requested by Organizers
+108,Ostende,Hanz Bolz,Male,Engraving,New York,1.0,13.5,Requested by Organizers
+109,Morning,Adolph Kleiminger,Male,Oil,New York & Chicago,2.0,400.0,Requested by Organizers
+110,N.E.A.,Morton Schamberg,Male,Oil,New York,1.0,100.0,Requested by Organizers
+111,Eglise St. Nicolas,Hanz Bolz,Male,Engraving,New York,1.0,10.8,Requested by Organizers
+112,Fleurs,Pierre Girieud,Male,Oil,New York,1.0,162.0,Requested by Organizers
+113,Fleurs,Pierre Girieud,Male,Oil,New York,1.0,162.0,Requested by Organizers
+114,Vitraux,Pierre Girieud,Male,Oil,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+115,Vitraux,Pierre Girieud,Male,Oil,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+116,"Hommage à Gauguin, 1906",Pierre Girieud,Male,Gouache,"New York, Chicago & Boston",3.0,189.0,Requested by Organizers
+117,"Hommage à Gauguin, 1906",Pierre Girieud,Male,Gouache,"New York, Chicago & Boston",3.0,189.0,Requested by Organizers
+118,Odalisques au miroir,Jaqueline Marval,Female,Oil,New York,1.0,675.0,Requested by Organizers
+119,Le Violon,Georges Braque,Male,Oil,New York,1.0,202.5,Requested by Organizers
+120,Anvers,Georges Braque,Male,Oil,New York,1.0,202.5,Requested by Organizers
+121,La Foret,Georges Braque,Male,Oil,New York,1.0,216.0,Requested by Organizers
+122,Wirtsgarten in Steglitz 1991,Ernst Ludwig Kirchner,Male,Oil,"New York, Chicago & Boston",3.0,162.5,Requested by Organizers
+123,Portrait,Emile-Antoine Bourdelle,Male,Oil,New York,1.0,270.0,Requested by Organizers
+124,Figure,Morton Schamberg,Male,Oil,New York,1.0,100.0,Requested by Organizers
+125,#Observatoire de Meudon,Emile-Antoine Bourdelle,Male,Oil,New York,1.0,270.0,Requested by Organizers
+126,Viole d’amour,Charles Guerin,Male,Oil,New York,1.0,1340.0,Requested by Organizers
+127,Dame à la rose,Charles Guerin,Male,Oil,New York,1.0,3240.0,Requested by Organizers
+128,Improvisation 27 (Garden of Love II) 1912,Wassily Kandinsky,Male,Oil,New York & Chicago,2.0,731.0,Submitted by Artist
+129,Aquarelle,Henri Edmond Cross,Male,Watercolor,"New York, Chicago & Boston",3.0,121.5,Requested by Organizers
+130,Landscape,Morton Schamberg,Male,Oil,New York,1.0,100.0,Requested by Organizers
+131,"#Still Life, No. 1, 1912",Marsden Hartley,Male,Oil,New York,1.0,720.0,Requested by Organizers
+132,"Still Life, No. 2",Marsden Hartley,Male,Oil,New York,1.0,300.0,Requested by Organizers
+133,"Drawings, No. 1",Marsden Hartley,Male,Drawing,New York,1.0,48.0,Requested by Organizers
+134,"Drawings, No. 2",Marsden Hartley,Male,Drawing,New York,1.0,48.0,Requested by Organizers
+135,"Drawings, No. 3",Marsden Hartley,Male,Drawing,New York,1.0,48.0,Requested by Organizers
+136,"Drawings, No. 4",Marsden Hartley,Male,Drawing,New York,1.0,48.0,Requested by Organizers
+137,"Drawings, No. 5",Marsden Hartley,Male,Drawing,New York,1.0,48.0,Requested by Organizers
+138,"Drawings, No. 6",Marsden Hartley,Male,Drawing,New York,1.0,48.0,Requested by Organizers
+139,Amandiers en fleurs,Henri Edmond Cross,Male,Oil,New York & Chicago,2.0,1215.0,Requested by Organizers
+140,Still Life,Samuel Halpert,Male,Oil,New York,1.0,300.0,Requested by Organizers
+141,La Clairiere,Henri Edmond Cross,Male,Oil,New York,1.0,4050.0,Requested by Organizers
+142,Le Berger; now titled The Shepherd,Eugene [Eugeniusz] Zak,Male,Oil,New York & Chicago,2.0,450.0,Requested by Organizers
+143,En Été,Eugene [Eugeniusz] Zak,Male,Oil,"New York, Chicago & Boston",3.0,340.0,Requested by Organizers
+144,View of New York,Samuel Halpert,Male,Oil,New York,1.0,400.0,Requested by Organizers
+145,"Dame mit grünem Schirm, 1912",Julius Hess,Male,Oil,New York,1.0,292.5,Requested by Organizers
+146,Lithographs Nos. 1-4,Edvard Munch,Male,Lithograph,New York,1.0,200.0,Requested by Organizers
+147,"Paysage, No. 1",Andre Dunoyer de Segonzac,Male,Oil,New York & Chicago,2.0,216.0,Requested by Organizers
+148,Scene du paturage; no titled Pasture,Andre Dunoyer de Segonzac,Male,Oil,New York & Chicago,2.0,216.0,Requested by Organizers
+149,"Paysage, No. III",Andre Dunoyer de Segonzac,Male,Oil,New York & Chicago,2.0,216.0,Requested by Organizers
+150,"Paysage, 1912",Andre Dunoyer de Segonzac,Male,Drawing,New York,1.0,54.0,Requested by Organizers
+151,Wisdom and Destiny,Henry G Keller,Male,Oil,New York & Chicago,2.0,2500.0,Requested by Organizers
+152,"Drawings, Nos. 1 to 5; elsewhere titled Nudes, 1912",Andre Dunoyer de Segonzac,Male,Drawing,New York & Chicago,2.0,162.0,Requested by Organizers
+153,"Paysage , No. II, 1912",Andre Dunoyer de Segonzac,Male,Oil,New York,1.0,216.0,Requested by Organizers
+154,"Une Bucolique, 1912",Andre Dunoyer de Segonzac,Male,Oil,"New York, Chicago & Boston",3.0,405.0,Requested by Organizers
+155,Portrait,Morgan Russell,Male,Oil,New York,1.0,120.0,Requested by Organizers
+156,"Capucines, 1912",Morgan Russell,Male,Oil,New York,1.0,60.0,Requested by Organizers
+157,"Der Niessen, 1910",Ferdinand Hodler,Male,Oil,"New York, Chicago & Boston",3.0,812.5,Requested by Organizers
+158,"Die heilige Stunde (Fragment), 1910",Ferdinand Hodler,Male,Oil,New York,1.0,4875.0,Requested by Organizers
+159,The Valley,Henry G. Keller,Male,Oil,New York & Chicago,2.0,300.0,Requested by Organizers
+160,"Paysage, 1912",Rodolph Levy,Male,Oil,New York,1.0,325.0,Requested by Organizers
+161,Flowers,Walter Pach,Male,Oil,New York,1.0,87.5,Requested by Organizers
+162,"#Portrait; now titled Portrait of Gigi Cavigli of Arezzo, 1912",Walter Pach,Male,Oil,New York,1.0,350.0,Requested by Organizers
+163,Girls Bathing,Walter Pach,Male,Oil,New York,1.0,195.0,Requested by Organizers
+164,"#Casentino Mountains, 1912",Walter Pach,Male,Oil,New York & Chicago,2.0,180.0,Requested by Organizers
+165,The Wall of City,Walter Pach,Male,Oil,New York & Chicago,2.0,195.0,Requested by Organizers
+166,Mary,Walter Pach,Male,Etching,New York & Chicago,2.0,10.0,Requested by Organizers
+167,"Renoir's ""Liseuse"", now titled d'Apres Renoir, 1912",Walter Pach,Male,Etching,New York,1.0,10.0,Requested by Organizers
+168,"Gothic Virgin, 1912",Walter Pach,Male,Etching,New York & Chicago,2.0,10.0,Requested by Organizers
+169,"St. Germain-des-Pres--Nght; now titled St. Germain des Pres--Night, 1912",Walter Pach,Male,Etching,New York & Chicago,2.0,10.0,Requested by Organizers
+170,Leslie,Albert Abendschein,Male,Oil,New York,1.0,550.0,Requested by Organizers
+171,Le Bouquet aux feuilles rouges,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,1620.0,Requested by Organizers
+172,"Fleurs (fond rouge), ca. 1905",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,1350.0,Requested by Organizers
+173,Pegase sur un roc,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2700.0,Requested by Organizers
+174,Fecondite (etude),Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2700.0,Requested by Organizers
+175,"Vase de fleurs avec geranium, No. 115, 1912",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,1620.0,Requested by Organizers
+176,"Papillons, No. 121, 1908",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,405.0,Requested by Organizers
+177,"Roses sur fond vert, No. 116, 1912",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,810.0,Requested by Organizers
+178,"Papillon, No. 38",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,1350.0,Requested by Organizers
+179,Central Valley,Albert Abendschein,Male,Oil,New York,1.0,550.0,Requested by Organizers
+180,"Profil noir sur fond or, No. 111; now titled Paul Gauguin, 1912; now dated 1903-5",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,1350.0,Requested by Organizers
+181,"Fleurs, No. 75, 1911",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2700.0,Requested by Organizers
+182,"Phaeton, No. 114; now called The Fall of Phaeton, 1912",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2160.0,Requested by Organizers
+183,"Deux Tetes dans les fleurs, ca. 1905",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2160.0,Requested by Organizers
+184,"Vieillard, 1912",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,1350.0,Requested by Organizers
+185,"Muse sure Pegase, No. 110, 1912",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2160.0,Requested by Organizers
+186,Barque,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2700.0,Requested by Organizers
+187,Le Char d'Apollon,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,4050.0,Requested by Organizers
+188,Fleurs dans un pot de gres,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,2160.0,Requested by Organizers
+189,Initiation a letude,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,675.0,Requested by Organizers
+190,California,Sidney Dale Shaw,Male,Oil,New York,1.0,500.0,Requested by Organizers
+191,Warriors Fighting,"Julius Wentscher, d.j.",Male,Tempera,New York,1.0,270.0,Requested by Organizers
+192,Fleurs dans un pot de gres,Odilon Redon,Male,Pastel,"New York, Chicago & Boston",3.0,205.0,Requested by Organizers
+193,"Profil mystique (Mystic Profile), 1885; now dated ca. 1892",Odilon Redon,Male,Drawing,"New York, Chicago & Boston",3.0,780.0,Requested by Organizers
+194,"Songe d'Orient, 1885",Odilon Redon,Male,Pastel,"New York, Chicago & Boston",3.0,650.0,Requested by Organizers
+195,"Corbeille de fleurs, 1910",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,195.0,Requested by Organizers
+196,"Coquelicots, 1909",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,520.0,Requested by Organizers
+197,"Barque, 1900",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,390.0,Requested by Organizers
+198,"Vase de fleurs, bleu 1912",Odilon Redon,Male,Oil,New York,1.0,520.0,Requested by Organizers
+199,"Vase de fleurs, gris, 1912",Odilon Redon,Male,Oil,New York,1.0,520.0,Requested by Organizers
+200,"Prometheus, 1900",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,390.0,Requested by Organizers
+201,"Tete en fleurs, 1900",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,300.0,Requested by Organizers
+202,Going to the Bath,Kathleen McEnery,Female,Oil,New York,1.0,600.0,Requested by Organizers
+203,Southwestern Country,Sidney Dale Shaw,Male,Oil,New York,1.0,350.0,Requested by Organizers
+204,"#Le Silence; now titled Silence, ca. 1911",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,540.0,Requested by Organizers
+205,Monstre et Angelique,Odilon Redon,Male,Oil,New York,1.0,455.0,Requested by Organizers
+206,"Deux Etres sublunaires ailes dans lespace, 1909",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,585.0,Requested by Organizers
+207,"Ohannes, 1900",Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,520.0,Requested by Organizers
+208,"Fleurs de champ dans un vase; now titled Lilas, géranium, capucines et folles avoines dans un pot noir",Odilon Redon,Male,Pastel,"New York, Chicago & Boston",3.0,1080.0,Requested by Organizers
+209,"Roger and Angelica, 1912; now dated ca. 1910",Odilon Redon,Male,Pastel,New York,1.0,810.0,Requested by Organizers
+210,"Tête d’Orphée; now titled Orpheus, ca. 1903–10",Odilon Redon,Male,Pastel,"New York, Chicago & Boston",3.0,405.0,Requested by Organizers
+211,Topanza,Sidney Dale Shaw,Male,Oil,New York,1.0,350.0,Requested by Organizers
+212,Le Bateau Rouge,Odilon Redon,Male,Oil,"New York, Chicago & Boston",3.0,270.0,Requested by Organizers
+213,"Vor der Stadt, 1912",F. M. Jansen,Male,Oil,New York,1.0,195.0,Requested by Organizers
+214,"Ragusa, 1911",F. M. Jansen,Male,Pastel,New York,1.0,19.5,Requested by Organizers
+215,Fresco,Howard Coluzzi,Male,Fresco,New York,1.0,500.0,Requested by Organizers
+216,"Garda See Riva, 1912",F. M. Jansen,Male,Etching,New York,1.0,19.5,Requested by Organizers
+217,"Fiume, 1911",F. M. Jansen,Male,Drawing,New York,1.0,19.5,Requested by Organizers
+218,"Vor der Stadt, 1912",F. M. Jansen,Male,Watercolor,New York,1.0,19.5,Requested by Organizers
+219,"Die Ernte, 1912",F. M. Jansen,Male,Etching,New York,1.0,19.5,Requested by Organizers
+220,"Garda See, 1912",F. M. Jansen,Male,Etching,New York,1.0,19.5,Requested by Organizers
+221,"Ein Park, 1910",F. M. Jansen,Male,Drawing,New York,1.0,19.5,Requested by Organizers
+222,"Cypressen, 1912",F. M. Jansen,Male,Etching,New York,1.0,19.5,Requested by Organizers
+223,"Triest, 1911",F. M. Jansen,Male,Drawing,New York,1.0,19.5,Requested by Organizers
+224,"Das Dorf, 1912",F. M. Jansen,Male,Etching,New York,1.0,19.5,Requested by Organizers
+225,"Trient, 1912",F. M. Jansen,Male,Etching,New York,1.0,19.5,Requested by Organizers
+226,Winter Garden,Kenneth Frazier,Male,Oil,New York,1.0,500.0,Requested by Organizers
+227,"Sarajewo, 1911",F. M. Jansen,Male,Drawing,New York,1.0,19.5,Requested by Organizers
+228,"Affiche ""Le Divan Japonais""; now titled Le Divan Japonais, 1892-93",Henri Toulouse-Lautrec,Male,Lithograph,New York & Chicago,2.0,675.0,Requested by Organizers
+229,"La Tresse, 1891",Henri Toulouse-Lautrec,Male,Oil,"New York, Chicago & Boston",3.0,3240.0,Requested by Organizers
+230,"Dessin, No. 3200; now titled Study for “Action in Chains (Monument to Louis-Auguste Blanqui)”",Aristide Maillol,Male,Drawing,New York,1.0,55.0,Requested by Organizers
+231,"Dessin, No. 1769",Aristide Maillol,Male,Drawing,New York,1.0,50.0,Requested by Organizers
+232,"Dessin, No. 4114",Aristide Maillol,Male,Drawing,New York,1.0,165.0,Requested by Organizers
+233,"Dessin, No. 4117",Aristide Maillol,Male,Drawing,New York,1.0,65.0,Requested by Organizers
+234,"Dessin, No. 4120",Aristide Maillol,Male,Drawing,New York,1.0,38.0,Requested by Organizers
+235,Shade Hat,Kenneth Frazier,Male,Oil,New York,1.0,500.0,Requested by Organizers
+236,"Dessin, No. 4118",Aristide Maillol,Male,Drawing,New York,1.0,165.0,Requested by Organizers
+237,"Vieh mit Hirten unter Baumen, 1911",Julius Paul Junghanns,Male,Oil,New York,1.0,260.0,Requested by Organizers
+238,Les Abres; now titled Landscape 1907,Pablo Picasso,Male,Gouache,"New York, Chicago & Boston",3.0,243.0,Requested by Organizers
+239,"Mme. Soler, 1903",Pablo Picasso,Male,Oil,"New York, Chicago & Boston",3.0,1350.0,Requested by Organizers
+240,"Tete d'homme, 1912",Pablo Picasso,Male,Oil,"New York, Chicago & Boston",3.0,486.0,Requested by Organizers
+241,Study,Kenneth Frazier,Male,Oil,New York,1.0,500.0,Requested by Organizers
+242,"La Femme au pot de moutarde; now titled Woman with Mustard Pot, 1910",Pablo Picasso,Male,Oil,"New York, Chicago & Boston",3.0,675.0,Requested by Organizers
+243,A Stevedore,Jack B. Yeats,Male,Oil,New York,1.0,118.0,Requested by Organizers
+244,The Barrel Man,Jack B. Yeats,Male,Oil,New York,1.0,118.0,Requested by Organizers
+245,Strand Races,Jack B. Yeats,Male,Oil,New York,1.0,118.0,Requested by Organizers
+246,The Last Corinthian,Jack B. Yeats,Male,Oil,New York,1.0,118.0,Requested by Organizers
+247,The Circus Dwarf,Jack B. Yeats,Male,Oil,New York,1.0,590.0,Requested by Organizers
+248,Alfred Kirstien 1863-1992,Ernst Ludwig Kirchner,Male,Watercolor,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+249,Sous la lampe; elsewhere titled Mother and Children,Nicolas Tarkhoff,Male,Oil,New York & Chicago,2.0,540.0,Requested by Organizers
+250,"Etude, No. 2",Fernand Léger,Male,Oil,"New York, Chicago & Boston",3.0,216.0,Requested by Organizers
+251,"Etude, No. 1",Fernand Léger,Male,Oil,"New York, Chicago & Boston",3.0,216.0,Requested by Organizers
+252,La Route,Felix-Edouard Vallotton,Male,Oil,New York,1.0,594.0,Requested by Organizers
+253,La Coiffure,Felix-Edouard Vallotton,Male,Oil,New York & Chicago,2.0,1620.0,Requested by Organizers
+254,La Lecture,Felix-Edouard Vallotton,Male,Oil,New York & Chicago,2.0,1620.0,Requested by Organizers
+255,Venise,Pierre Laprade,Male,Oil,New York,1.0,1080.0,Requested by Organizers
+256,Roses Oranges,Pierre Laprade,Male,Oil,New York & Chicago,2.0,675.0,Requested by Organizers
+257,San Giovanni,Pierre Laprade,Male,Watercolor,New York,1.0,202.5,Requested by Organizers
+258,Le Triton,Pierre Laprade,Male,Watercolor,New York,1.0,189.0,Requested by Organizers
+259,Rome,Pierre Laprade,Male,Watercolor,New York,1.0,216.0,Requested by Organizers
+260,Villia Borghese,Pierre Laprade,Male,Watercolor,New York,1.0,189.0,Requested by Organizers
+261,"S. Remy, Dieppe; now titled Church in Dieppe, 1912",Walter Sickert,Male,Oil,"New York, Chicago & Boston",3.0,1675.0,Requested by Organizers
+262,"Land and Sea, 1912",Homer Boss,Male,Oil,New York,1.0,1500.0,Requested by Organizers
+263,"Le Centenaire [de la Révolution]; now titled Centennial of Independence, 1892",Henri-Julian Rousseau,Male,Oil,"New York, Chicago & Boston",3.0,6750.0,Requested by Organizers
+264,"Cheval attaqué par un jaguar, 1910",Henri-Julian Rousseau,Male,Oil,"New York, Chicago & Boston",3.0,1350.0,Requested by Organizers
+265,Portrait,Marie Laurencin (1885-1956),Female,Watercolor,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+266,Desdemona,Marie Laurencin (1885-1956),Female,Watercolor,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+267,Jeune Fille avec eventail,Marie Laurencin (1885-1956),Female,Drawing,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+268,Jeune Fille,Marie Laurencin (1885-1956),Female,Drawing,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+269,La Toilette Des Jeunes filles,Marie Laurencin (1885-1956),Female,Oil,"New York, Chicago & Boston",3.0,540.0,Requested by Organizers
+270,La Poetesse,Marie Laurencin (1885-1956),Female,Oil,"New York, Chicago & Boston",3.0,216.0,Requested by Organizers
+271,Nature Morte,,Female,Oil,"New York, Chicago & Boston",3.0,108.0,Requested by Organizers
+272,Portrait; elsewhere girl in blue and gold,Homer Boss,Male,Oil,New York,1.0,1500.0,Requested by Organizers
+273,Two Drawings,Roger de La Fresnaye,Male,Drawing,New York & Chicago,2.0,27.0,Requested by Organizers
+274,Two Drawings,Roger de La Fresnaye,Male,Drawing,New York & Chicago,2.0,27.0,Requested by Organizers
+275,"Paysage, No 2",Roger de La Fresnaye,Male,Oil,"New York, Chicago & Boston",3.0,162.0,Requested by Organizers
+276,"Paysage, No. 1",Roger de La Fresnaye,Male,Oil,New York & Chicago,2.0,162.0,Requested by Organizers
+277,"Paysage, No 1",Roger de La Fresnaye,Male,Oil,"New York, Chicago & Boston",3.0,162.0,Requested by Organizers
+278,"Marseilles, Calm Sea; now titled Port of Marseilles, 1901",Paul Signac,Male,Oil,"New York, Chicago & Boston",3.0,945.0,Requested by Organizers
+279,"Drawings, Nos. 1-6, 1912",Wilhelm Lehmbruck,Male,Etching,New York,1.0,27.0,Requested by Organizers
+280,The Little Tower; now titled A Small Tower,James Pryde,Male,Oil,New York & Chicago,2.0,390.0,Requested by Organizers
+281,Dream,Kathleen McEnery,Female,Oil,New York,1.0,400.0,Requested by Organizers
+282,Movement,Bernard Gussow,Male,Oil,New York,1.0,800.0,Requested by Organizers
+283,"Weinberg-Arbeiter, 1909",Max Slevogt,Male,Oil,"New York, Chicago & Boston",3.0,1950.0,Requested by Organizers
+284,Jeune Marin,Henri Matisse,Male,Oil,New York,1.0,1350.0,Requested by Organizers
+285,Panneau rouge,Henri Matisse,Male,Oil,New York,1.0,4050.0,Requested by Organizers
+286,Le Luxe II,Henri Matisse,Male,Tempera,New York,1.0,1350.0,Requested by Organizers
+287,Les Capucines,Henri Matisse,Male,Oil,New York,1.0,1080.0,Requested by Organizers
+288,Figures,Bernard Gussow,Male,Oil,New York & Chicago,2.0,300.0,Requested by Organizers
+289,"Drawing, No. 839",Henri Matisse,Male,Drawing,New York,1.0,67.5,Requested by Organizers
+290,"Drawing, No. 840",Henri Matisse,Male,Drawing,New York,1.0,67.5,Requested by Organizers
+291,"#La Danse a la source; now titled Dances at the Spring, 1912",Francis Picabia,Male,Oil,New York & Chicago,2.0,675.0,Requested by Organizers
+292,"La Procession, Seville, 1912",Francis Picabia,Male,Oil,"New York, Chicago & Boston",3.0,1080.0,Requested by Organizers
+293,Paris,Francis Picabia,Male,Oil,"New York, Chicago & Boston",3.0,486.0,Requested by Organizers
+294,"Souvenir de Grimaldi, Italie",Francis Picabia,Male,Oil,"New York, Chicago & Boston",3.0,405.0,Requested by Organizers
+295,Inferno,Friedrich August Weinzheimer,Male,Drawing,New York,1.0,130.0,Requested by Organizers
+296,Badende Frauen,Friedrich August Weinzheimer,Male,Drawing,"New York, Chicago & Boston",3.0,97.5,Requested by Organizers
+297,Ciboure,Felix E. Tobeen,Male,Oil,"New York, Chicago & Boston",3.0,270.0,Requested by Organizers
+298,L'Ecuyere,Felix E. Tobeen,Male,Oil,"New York, Chicago & Boston",3.0,270.0,Requested by Organizers
+299,Les Pelotaris,Felix E. Tobeen,Male,Drawing,"New York, Chicago & Boston",3.0,135.0,Requested by Organizers
+300,"#Collines à Arles, now titled Mountains at Saint-Rémy (Montagnes a Saint-Rémy), 1889",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,16200.0,Requested by Organizers
+301,"Bal à Arles; now titled La salle de danse à Arles, 1888",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,9450.0,Requested by Organizers
+302,"Le Zouave, 1888",Vincent Van Gogh,Male,Drawing,"New York, Chicago & Boston",3.0,1890.0,Requested by Organizers
+303,"Montmartre, 1888",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,2600.0,Requested by Organizers
+304,"L’Olivier; now titled Landscape with Figures, 1889",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,6500.0,Requested by Organizers
+305,"Dans les bois; now titled Undergrowth with Two Figures, 1889",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,10400.0,Requested by Organizers
+306,In the Woods,Charles H. Pepper,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+307,"Le Grand Olivier; now titled The Olive Plantation, 1889",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,5200.0,Requested by Organizers
+308,"Nature morte. Souliers de bois, ca. 1887, now dated 1888",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,2600.0,Requested by Organizers
+309,"Nature morte. Écrevisses, 1887",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,2600.0,Requested by Organizers
+310,"Moulin de Montmartre, 1886",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,2600.0,Requested by Organizers
+311,"Paysage d’Arles; now titled Olive Tree, 1889",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,5200.0,Requested by Organizers
+312,"Des Pommes, ca. 1884",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,2600.0,Requested by Organizers
+313,"Cruches en étain, 1882",Vincent Van Gogh,Male,Oil,"New York, Chicago & Boston",3.0,2600.0,Requested by Organizers
+314,"Compositions, Nos. 3109–3118",Georges Rouault,Male,Drawing,"New York, Chicago & Boston",3.0,810.0,Requested by Organizers
+315,"La Parade, 1907",Georges Rouault,Male,Gouache,"New York, Chicago & Boston",3.0,540.0,Requested by Organizers
+316,"Compositions, Nos. 3100–3108",Georges Rouault,Male,Drawing,"New York, Chicago & Boston",3.0,810.0,Requested by Organizers
+317,#Le Rocher,Henri Manguin,Male,Oil,New York,1.0,864.0,Requested by Organizers
+318,Baigneuse,Henri Manguin,Male,Oil,New York,1.0,702.0,Requested by Organizers
+319,La Toilette,Henri Manguin,Male,Oil,New York,1.0,378.0,Requested by Organizers
+320,"Arbres en fleurs; now titled Puteaux: Les Fumées et les arbres en fleur, 1912",Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,270.0,Requested by Organizers
+321,"Fillette au piano, 1912",Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,270.0,Requested by Organizers
+322,"Étude pour jeune femme; now titled Study for Young Woman, 1912",Jacques Villon,Male,Oil,New York & Chicago,2.0,135.0,Requested by Organizers
+323,"Étude pour Puteaux, No. 1; now titled Sketch for Puteaux",Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+324,"Étude pour Puteaux, No 2",Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,108.0,Requested by Organizers
+325,"Nu, 1907",Georges Rouault,Male,Gouache,"New York, Chicago & Boston",3.0,540.0,Requested by Organizers
+326,"Étude pour Puteaux, No. 3;",Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,108.0,Requested by Organizers
+327,"Étude pour Puteaux, No. 4,",Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,108.0,Requested by Organizers
+328,Étude pour fillette au piano,Jacques Villon,Male,Oil,"New York, Chicago & Boston",3.0,135.0,Requested by Organizers
+329,#Jeune Femme; now titled Young Girl,Jacques Villon,Male,Oil,New York & Chicago,2.0,270.0,Requested by Organizers
+330,Woodcuts Nos. 1-6,Olga Oppenheimer,Female,Wood,"New York, Chicago & Boston",3.0,16.25,Requested by Organizers
+331,Honfleur,Georges Seurat,Male,Oil,"New York, Chicago & Boston",3.0,2020.0,Requested by Organizers
+332,Wintersport,Max Mayrshofer,Male,Drawing,New York,1.0,25.0,Requested by Organizers
+333,Badende Frauen,Max Mayrshofer,Male,Drawing,New York,1.0,22.75,Requested by Organizers
+334,Landschaft,Max Mayrshofer,Male,Drawing,New York,1.0,22.75,Requested by Organizers
+335,Landschaft,Max Mayrshofer,Male,Drawing,New York,1.0,26.0,Requested by Organizers
+336,Volksmenge,Max Mayrshofer,Male,Drawing,New York,1.0,22.75,Requested by Organizers
+337,Rennreiter,Max Mayrshofer,Male,Drawing,New York,1.0,26.0,Requested by Organizers
+338,"#Chateau fort; now titled The Stronghold, 1912",Amadeo de Sousa-Cardoza,Male,Oil,New York & Chicago,2.0,81.0,Requested by Organizers
+339,"Le Prince et la meute, 1912",Amadeo de Sousa-Cardoza,Male,Oil,"New York, Chicago & Boston",3.0,324.0,Requested by Organizers
+340,"Avant la corrida, 1912",Amadeo de Sousa-Cardoza,Male,Oil,"New York, Chicago & Boston",3.0,216.0,Requested by Organizers
+341,"Return from the Chase, 1912",Amadeo de Sousa-Cardoza,Male,Oil,New York & Chicago,2.0,54.0,Requested by Organizers
+342,"Saut du lapin; now titled The Leap of the Rabbit, 1912",Amadeo de Sousa-Cardoza,Male,Oil,New York & Chicago,2.0,67.5,Requested by Organizers
+343,"Paysage, 1912",Amadeo de Sousa-Cardoza,Male,Oil,New York & Chicago,2.0,81.0,Requested by Organizers
+344,"Pecheur, 1912",Amadeo de Sousa-Cardoza,Male,Oil,"New York, Chicago & Boston",3.0,135.0,Requested by Organizers
+345,The Clown,Edward Middleton Manigault,Male,Oil,New York,1.0,600.0,Requested by Organizers
+346,Boats at Kew,Henry Muhrmann,Male,Oil,New York,1.0,300.0,Requested by Organizers
+347,Les Jaurnaux,Édouard Vuillard,Male,Oil,"New York, Chicago & Boston",3.0,405.0,Requested by Organizers
+348,Expectancy,Jules Pascin,Male,Engraving,New York,1.0,65.0,Requested by Organizers
+349,Watercolor,Jules Pascin,Male,Watercolor,New York,1.0,65.0,Requested by Organizers
+350,A Visit; now titled The Visit,Jules Pascin,Male,Drawing,"New York, Chicago & Boston",3.0,65.0,Requested by Organizers
+351,No. 9 At the Antiquarians,Jules Pascin,Male,Drawing,"New York, Chicago & Boston",3.0,65.0,Requested by Organizers
+352,No. 8 In the Salon,Jules Pascin,Male,Drawing,New York,1.0,65.0,Requested by Organizers
+353,No. 7 The Music Lesson,Jules Pascin,Male,Drawing,"New York, Chicago & Boston",3.0,65.0,Requested by Organizers
+354,No. 6 Interior,Jules Pascin,Male,Watercolor,"New York, Chicago & Boston",3.0,50.0,Requested by Organizers
+355,"No. 5 Beggars, 1912",Jules Pascin,Male,Drawing,New York,1.0,65.0,Requested by Organizers
+356,Adagio,Edward Middleton Manigault,Male,Oil,New York,1.0,750.0,Requested by Organizers
+357,"No. 4 Siesta, 1912",Jules Pascin,Male,Drawing,New York,1.0,32.5,Requested by Organizers
+358,"No. 3 In the Park, 1912",Jules Pascin,Male,Watercolor,New York,1.0,48.5,Requested by Organizers
+359,"Three Girls, 1912",Jules Pascin,Male,Drawing,"New York, Chicago & Boston",3.0,65.0,Requested by Organizers
+360,Liegendes Mädchen,Walter Helbig,Male,Oil,New York,1.0,260.0,Requested by Organizers
+361,"No. 1 Venus, 1912",Jules Pascin,Male,Engraving,"New York, Chicago & Boston",3.0,48.75,Requested by Organizers
+362,Hambourg,Albert Marquet,Male,Oil,New York,1.0,1620.0,Requested by Organizers
+363,Ste. Adresse,Albert Marquet,Male,Oil,New York,1.0,1215.0,Requested by Organizers
+364,Inondation,Albert Marquet,Male,Oil,New York,1.0,2700.0,Requested by Organizers
+365,The Waste,Kenneth Hayes Miller,Male,Oil,New York,1.0,600.0,Requested by Organizers
+366,Hambourg,Albert Marquet,Male,Oil,New York,1.0,2160.0,Requested by Organizers
+367,La Falaise d’Étretat,Claude Monet,Male,Oil,New York,1.0,8200.0,Requested by Organizers
+368,"Effet de neige, Giverny",Claude Monet,Male,Oil,New York,1.0,11000.0,Requested by Organizers
+369,Autumn at Jeufosse,Claude Monet,Male,Oil,New York,1.0,8800.0,Requested by Organizers
+370,"Neige, soliel couchant, 1894",Camille Pissarro,Male,Oil,New York,1.0,4400.0,Requested by Organizers
+371,"Pontoise, 1872",Camille Pissarro,Male,Oil,New York,1.0,3850.0,Requested by Organizers
+372,Winter,F. William Weber,Male,Oil,New York,1.0,300.0,Requested by Organizers
+373,Woman and Children,Kenneth Hayes Miller,Male,Oil,New York,1.0,750.0,Requested by Organizers
+374,"La Becheuse, 1882",Camille Pissarro,Male,Oil,New York,1.0,5500.0,Requested by Organizers
+375,Paysannes ramassant des herbes,Camille Pissarro,Male,Oil,New York,1.0,1650.0,Requested by Organizers
+376,"L’Ombrelle, 1878",Pierre-Auguste Renoir,Male,Oil,New York,1.0,13200.0,Requested by Organizers
+377,"Dans le jardin, 1884",Pierre-Auguste Renoir,Male,Oil,New York,1.0,16500.0,Requested by Organizers
+378,"Vieilles Chaumieres a Veneux, 1881",Alfred Sisley,Male,Oil,New York,1.0,3750.0,Requested by Organizers
+379,"Chemin du vieux, Bac-a-By; now titled The Path to the Old Ferry at By, 1880",Alfred Sisley,Male,Oil,New York,1.0,3300.0,Requested by Organizers
+380,"Prairie incondee, 1878",Alfred Sisley,Male,Oil,New York,1.0,4400.0,Requested by Organizers
+381,Recumbent Figure,Kenneth Hayes Miller,Male,Oil,New York,1.0,400.0,Requested by Organizers
+382,Primitive Group,Kenneth Hayes Miller,Male,Oil,New York,1.0,400.0,Requested by Organizers
+383,"Grey Sea. Monhegan; titled Snow, Ice and Foam in Kuhn catalogue",Edward F. Rook,Male,Oil,New York,1.0,1500.0,Requested by Organizers
+384,White-faced Chasm,Edward F. Rook,Male,Oil,New York,1.0,800.0,Requested by Organizers
+385,Jeune Femme; now titled Standing Woman,Wilhelm Lehmbruck,Male,Plaster,New York,1.0,1620.0,Requested by Organizers
+386,French Village,F. William Weber,Male,Oil,New York,1.0,350.0,Requested by Organizers
+387,"Femme à genoux; now titled Woman Kneeling, 1911",Wilhelm Lehmbruck,Male,Stone,"New York, Chicago & Boston",3.0,2160.0,Requested by Organizers
+388,Négresse,Alexander Archipenko,Male,Plaster,"New York, Chicago & Boston",3.0,216.0,Requested by Organizers
+389,"#Le Repos; now titled Repose, 1912; now dated 1911",Alexander Archipenko,Male,Plaster,New York & Chicago,2.0,216.0,Requested by Organizers
+390,"Salomé, 1910",Alexander Archipenko,Male,Plaster,New York & Chicago,2.0,540.0,Requested by Organizers
+391,"Tete d' Apollo, Head of Apollo",Emile-Antoine Bourdelle,Male,Bronze,New York,1.0,540.0,Requested by Organizers
+392,Une Muse,Emile-Antoine Bourdelle,Male,Bronze,New York,1.0,1080.0,Requested by Organizers
+393,Une Muse,Emile-Antoine Bourdelle,Male,Stone,New York,1.0,1350.0,Requested by Organizers
+394,Le Matin; elsewhere statue de femme,Emile-Antoine Bourdelle,Male,Bronze,New York,1.0,270.0,Requested by Organizers
+395,Herakles Archer,Emile-Antoine Bourdelle,Male,Bronze,New York,1.0,540.0,Requested by Organizers
+396,"New York 581, Gallery R; Chicago 147 and Boston 64",Paul Gauguin,Male,Wood,"New York, Chicago & Boston",3.0,945.0,Requested by Organizers
+397,The Kiss,Constantin Brancusi,Male,Stone,New York,1.0,540.0,Requested by Organizers
+398,Muse Endormie,Constantin Brancusi,Male,Stone,New York,1.0,1350.0,Requested by Organizers
+399,The Muse,Constantin Brancusi,Male,Stone,New York,1.0,810.0,Requested by Organizers
+400,Mlle Pogany,Constantin Brancusi,Male,Bronze,New York,1.0,540.0,Requested by Organizers
+401,Femme nue accroupie; now titled Kneeling Woman,Manolo,Male,Bronze,New York,1.0,202.5,Requested by Organizers
+402,Femme nue debout,Manolo,Male,Bronze,New York,1.0,67.5,Requested by Organizers
+403,Chula,Manolo,Male,Bronze,New York,1.0,67.5,Requested by Organizers
+404,Buste du peintre Sunyer,Manolo,Male,Bronze,New York,1.0,108.0,Requested by Organizers
+405,Femme debout,Aristide Maillol,Male,Terracotta,New York,1.0,2160.0,Requested by Organizers
+406,Bas-relief,Aristide Maillol,Male,Terracotta,New York,1.0,2700.0,Requested by Organizers
+407,Tete de jeune Fille,Oscar Miestchaninoff,Male,Plaster,New York,1.0,540.0,Requested by Organizers
+408,Faunesse,Gaston Toussaint,Male,Bronze,New York,1.0,405.0,Requested by Organizers
+409,Landscape,James Preston,Male,Oil,New York,1.0,250.0,Requested by Organizers
+410,Pelican,Nelson N. Bickford,Male,Bronze,New York,1.0,60.0,Submitted by Artist
+411,Leopard,Nelson N. Bickford,Male,Bronze,New York,1.0,50.0,Submitted by Artist
+412,Heracles,Arthut Lee,Male,Bronze,New York,1.0,1000.0,Requested by Organizers
+413,"#Ethiopian, 1912",Arthut Lee,Male,Bronze,New York,1.0,500.0,Requested by Organizers
+414,Virgin,Aruthur Lee,Male,Plaster,New York,1.0,750.0,Requested by Organizers
+415,Aphrodite,Aruthur Lee,Male,Bronze,New York,1.0,500.0,Requested by Organizers
+416,Chimpanzees,Grace Mott Johnson,Female,Bronze,New York & Chicago,2.0,250.0,Requested by Organizers
+417,Chimpanzees,Grace Mott Johnson,Female,Bronze,New York & Chicago,2.0,200.0,Requested by Organizers
+418,Landscape,James Preston,Male,Oil,New York,1.0,300.0,Requested by Organizers
+419,"Greyhound Pup, No. 2",Grace Mott Johnson,Female,Bronze,New York,1.0,200.0,Requested by Organizers
+420,Relief,Grace Mott Johnson,Female,Plaster,New York,1.0,150.0,Requested by Organizers
+421,"Mermaid, 1911",Chester Beach,Male,Stone,New York,1.0,700.0,Requested by Organizers
+422,"The Unveiling of Dawn; now titled Unveiling of Dawn, 1913",Chester Beach,Male,Stone,New York,1.0,1000.0,Requested by Organizers
+423,"The Big Wave; now titled The Wave, ca. 1912",Chester Beach,Male,Bronze,New York & Chicago,2.0,500.0,Requested by Organizers
+424,Portrait,James A. McNeill Whistler,Male,Oil,New York,1.0,8500.0,Requested by Organizers
+425,The Matron,Ethel Myers,Female,Plaster,New York,1.0,85.0,Requested by Organizers
+426,Fifth Avenue Gossipers,Ethel Myers,Female,Plaster,New York,1.0,160.0,Requested by Organizers
+427,Girl from Madison Avenue,Ethel Myers,Female,Plaster,New York,1.0,60.0,Requested by Organizers
+428,The Window,Ethel Myers,Female,Plaster,New York,1.0,70.0,Requested by Organizers
+429,The Gambler,Ethel Myers,Female,Plaster,New York,1.0,60.0,Requested by Organizers
+430,Upper Corridor,Ethel Myers,Female,Plaster,New York,1.0,60.0,Requested by Organizers
+431,The Duchess,Ethel Myers,Female,Plaster,New York,1.0,60.0,Requested by Organizers
+432,"Statuette, 1912",Gaston Lachaise,Male,Plaster,New York,1.0,1000.0,Requested by Organizers
+433,"Statuette, 1912",Gaston Lachaise,Male,Plaster,New York,1.0,1000.0,Requested by Organizers
+434,"Group, Coney Island",Abastenia St. Leger Eberle,Female,Sculpture,New York,1.0,500.0,Requested by Organizers
+435,"# White Slave, 1913",Abastenia St. Leger Eberle,Female,Bronze,New York,1.0,500.0,Requested by Organizers
+436,Girl with Print,May Wilson Preston,Female,Oil,New York & Chicago,2.0,1000.0,Requested by Organizers
+437,"A Creature of God, 1910",Robert I. Aitken,Male,Stone,New York,1.0,1000.0,Requested by Organizers
+438,The Dregs of Love,Robert I. Aitken,Male,Stone,New York,1.0,1000.0,Requested by Organizers
+439,"Study; elsewhere “Tired Mercury”, 1910",Robert I. Aitken,Male,Plaster,New York,1.0,250.0,Requested by Organizers
+440,"#Group of Children; now titled Three Girls (Group of Children), 1911",Charles Hopkinson,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+441,The Five Senses,Enid Yandell,Female,Bronze,New York,1.0,75.0,Requested by Organizers
+442,Parasites,John Mowbray-Clarke,Male,Bronze,New York,1.0,2500.0,Requested by Organizers
+443,Seared,John Mowbray-Clarke,Male,Bronze,New York,1.0,250.0,Requested by Organizers
+444,Antiquities,John Mowbray-Clarke,Male,Bronze,New York,1.0,350.0,Requested by Organizers
+445,The Tree,John Mowbray-Clarke,Male,Plaster,New York,1.0,400.0,Requested by Organizers
+446,Tulips and Blue-Flags,Gus Mager,Male,Oil,New York,1.0,300.0,Requested by Organizers
+447,Yachting,Charles Hopkinson,Male,Oil,New York,1.0,500.0,Requested by Organizers
+448,Aphrodite,John Mowbray-Clarke,Male,Bronze,New York,1.0,75.0,Requested by Organizers
+449,Christ,John Mowbray-Clarke,Male,Bronze,New York,1.0,400.0,Requested by Organizers
+450,Spring,John Mowbray-Clarke,Male,Bronze,New York,1.0,100.0,Requested by Organizers
+451,Nude Woman with Mirror,Childe Hassam,Male,Oil,New York,1.0,6000.0,Requested by Organizers
+452,Study of an Old Lady,Margaret Hoard,Female,Plaster,New York,1.0,50.0,Requested by Organizers
+453,"The Spanish Stairs, 1897",Childe Hassam,Male,Oil,New York,1.0,6000.0,Requested by Organizers
+454,Bear Upright,Albert Humphreys,Male,Sculpture,New York,1.0,160.0,Requested by Organizers
+455,Naples,Childe Hassam,Male,Oil,New York & Chicago,2.0,4500.0,Requested by Organizers
+456,"#In the Orchard, 1872–1896",Theodore Robinson,Male,Oil,New York,1.0,500.0,Requested by Organizers
+457,"Two in a Boat, 1891",Theodore Robinson,Male,Oil,New York,1.0,350.0,Requested by Organizers
+458,"Hillside, Summer",Theodore Robinson,Male,Oil,New York,1.0,500.0,Requested by Organizers
+459,Portrait Study,Hermine E. Kleinert,Female,Oil,New York,1.0,100.0,Submitted by Artist
+460,The Sea,Childe Hassam,Male,Oil,New York,1.0,6000.0,Requested by Organizers
+461,Talloires,Catherine N. Rhoades,Female,Oil,New York & Chicago,2.0,400.0,Submitted by Artist
+462,Her Blue Skirt,William E. Schumacher,Male,Oil,New York,1.0,400.0,Submitted by Artist
+463,"The Lady, Maid and Child",William E. Schumacher,Male,Oil,New York & Chicago,2.0,400.0,Submitted by Artist
+464,"Vesuvius, 1897",Childe Hassam,Male,Oil,New York,1.0,4000.0,Requested by Organizers
+465,Winter,Walter K. Pleuthner,Male,Oil,New York,1.0,200.0,Submitted by Artist
+466,Sunset on the Cottenfields,Lily Everett,Female,Oil,New York,1.0,300.0,Submitted by Artist
+467,Trees,Leon Wolf,Male,Oil,New York,1.0,150.0,Submitted by Artist
+468,"Landscape over the City; now titled Jerome Avenue Bridge, 1910–11",Florence Howell Barkley,Female,Oil,New York,1.0,100.0,Submitted by Artist
+469,Still Life,Paul Rohland,Male,Oil,New York & Chicago,2.0,175.0,Submitted by Artist
+470,Waterfalls,Paul Rohland,Male,Oil,New York,1.0,200.0,Submitted by Artist
+471,Still Life,Paul Rohland,Male,Oil,New York,1.0,200.0,Submitted by Artist
+472,Landscape,Morgan Stinemetz,Male,Oil,New York,1.0,100.0,Submitted by Artist
+473,Sailboat,Morgan Stinemetz,Male,Oil,New York,1.0,100.0,Submitted by Artist
+474,Spirit of the Pool,Edmund Marion Ashe,Male,Oil,New York,1.0,300.0,Submitted by Artist
+475,"Posilippo; now titled Bridge at Posilippo, Naples",Childe Hassam,Male,Oil,New York,1.0,3000.0,Requested by Organizers
+476,Sunlight and Clouds,John H. Alger,Male,Oil,New York & Chicago,2.0,300.0,Submitted by Artist
+477,"Sailing, 1912-13",Edward Hopper,Male,Oil,New York,1.0,250.0,Requested by Organizers
+478,*The Fishers,Mrs. Thomas Hunt,Female,Oil,New York,1.0,200.0,Submitted by Artist
+479,"Distant Rain, 1911",Carl Sprinchorn,Male,Oil,New York & Chicago,2.0,250.0,Submitted by Artist
+480,"Stockholm, 1910",Carl Sprinchorn,Male,Pastel,New York & Chicago,2.0,50.0,Requested by Organizers
+481,"The Balcony, 1910",Carl Sprinchorn,Male,Watercolor,New York,1.0,50.0,Requested by Organizers
+482,Mordkin and Pavlova,Carl Sprinchorn,Male,Watercolor,New York & Chicago,2.0,50.0,Requested by Organizers
+483,Cos Cob,Childe Hassam,Male,Oil,New York,1.0,3000.0,Requested by Organizers
+484,The Valley of Unrest,Charles Henry White,Male,Etching,New York,1.0,25.0,Submitted by Artist
+485,Fulton Market,Charles Henry White,Male,Etching,New York,1.0,25.0,Submitted by Artist
+486,The Condemned Tenement,Charles Henry White,Male,Etching,New York,1.0,25.0,Submitted by Artist
+487,*Freda,Charles R. Harley,Male,Drawing,New York,1.0,25.0,Submitted by Artist
+488,*Hunters,Charlotte Meltzer,Female,Oil,New York,1.0,200.0,Submitted by Artist
+489,*Loverene,Charlotte Meltzer,Female,Oil,New York,1.0,250.0,Submitted by Artist
+490,Drawing,Glenn O. Coleman,Male,Drawing,New York,1.0,100.0,Submitted by Artist
+491,Election Bonfire,Glenn O. Coleman,Male,Drawing,New York,1.0,100.0,Submitted by Artist
+492,"Morro Castle, San Juan",Herman Dudley Murphy,Male,Oil,New York,1.0,500.0,Requested by Organizers
+493,The Fleet,Glenn O. Coleman,Male,Oil,New York,1.0,400.0,Submitted by Artist
+494,Madame F.,Alexander L. Warshawsky,Male,Oil,New York,1.0,500.0,Submitted by Artist
+495,Nature Morte,Alexander L. Warshawsky,Male,Oil,New York,1.0,250.0,Submitted by Artist
+496,Head,Harriet Sophia Phillips,Female,Oil,New York & Chicago,2.0,75.0,Submitted by Artist
+497,Windy Night,Amos W. Engle,Male,Oil,New York,1.0,75.0,Submitted by Artist
+498,The Sprint,Amos W. Engle,Male,Oil,New York,1.0,150.0,Submitted by Artist
+499,El Punta Delacantara,Alden Twachtman,Male,Oil,New York,1.0,150.0,Submitted by Artist
+500,Coronation Week-Madrid,Alden Twachtman,Male,Oil,New York & Chicago,2.0,100.0,Submitted by Artist
+501,Roof Tops of Madrid,Frances Simpson Stevens,Male,Oil,New York,1.0,200.0,Submitted by Artist
+502,Factory Village,J. Alden Weir,Male,Oil,New York,1.0,5000.0,Requested by Organizers
+503,Moorish Girl,Claggett Wilson,Male,Oil,New York,1.0,100.0,Submitted by Artist
+504,*September Haze,Carolyn C. Mase,Female,Pastel,New York,1.0,100.0,Submitted by Artist
+505,Study,Marguerite Zorach,Female,Oil,New York,1.0,600.0,Submitted by Artist
+506,*Portrait,William Zorach,Male,Oil,New York,1.0,800.0,Submitted by Artist
+507,*An Arrangement,William Zorach,Male,Oil,New York,1.0,500.0,Submitted by Artist
+508,The Tree of Knowledge,Bertrand Rasmussen,Male,Oil,New York,1.0,200.0,Submitted by Artist
+509,"George, 1909",Bernard Karfiol,Male,Oil,New York,1.0,100.0,Submitted by Artist
+510,Men at Rest,Bernard Karfiol,Male,Oil,New York,1.0,50.0,Submitted by Artist
+511,"Portrait, 1911",Mary C. Rogers,Female,Oil,New York & Chicago,2.0,150.0,Submitted by Artist
+512,Panels for a Dining Room,Arthur Crisp,Male,Oil,New York,1.0,150.0,Submitted by Artist
+513,*Little Figures,David B. Milne,Male,Watercolor,New York,1.0,70.0,Submitted by Artist
+514,*Distorted Tree,David B. Milne,Male,Oil,New York,1.0,200.0,Submitted by Artist
+515,*Colombus Circle,David B. Milne,Male,Oil,New York,1.0,200.0,Submitted by Artist
+516,*The Garden,David B. Milne,Male,Watercolor,New York,1.0,150.0,Submitted by Artist
+517,*Reclining Figure,David B. Milne,Male,Watercolor,New York,1.0,60.0,Submitted by Artist
+518,Flowers,Gus Mager,Male,Oil,New York,1.0,300.0,Requested by Organizers
+519,Head Profile,J. Alden Weir,Male,Oil,New York,1.0,3500.0,Requested by Organizers
+520,South River,Oscar Bluemner,Male,Watercolor,New York,1.0,150.0,Submitted by Artist
+521,Canal in New Jersey,Oscar Bluemner,Male,Watercolor,New York,1.0,150.0,Submitted by Artist
+522,"Hackensack River, 1912",Oscar Bluemner,Male,Oil,New York,1.0,500.0,Submitted by Artist
+523,Morning on Long Island,Oscar Bluemner,Male,Oil,New York,1.0,500.0,Submitted by Artist
+524,"HarlemRiver,1912",Oscar Bluemner,Male,Watercolor,New York,1.0,150.0,Submitted by Artist
+525,*The Birthday Party,Edith Haworth,Female,Oil,New York,1.0,75.0,Submitted by Artist
+526,*The Village Band,Edith Haworth,Female,Oil,New York,1.0,200.0,Submitted by Artist
+527,"Swan on the Grass, 1910",Josephine Paddock,Female,Watercolor,New York,1.0,50.0,Submitted by Artist
+528,"Swan Study-Peace, 1910",Josephine Paddock,Female,Watercolor,New York,1.0,50.0,Submitted by Artist
+529,"Swan Study-Aspiration, 1910",Josephine Paddock,Female,Watercolor,New York,1.0,50.0,Submitted by Artist
+530,The Orchid,J. Alden Weir,Male,Oil,New York,1.0,2500.0,Requested by Organizers
+531,The Pig,Arthur Earnst Freud,Male,Oil,New York,1.0,150.0,Submitted by Artist
+532,The Furnished Room,Bessie Marsh Brewer,Female,Drawing,New York,1.0,25.0,Submitted by Artist
+533,Curiosity,Bessie Marsh Brewer,Female,Drawing,New York,1.0,25.0,Submitted by Artist
+534,Putting Her Monday Name on Her Letterbox,Bessie Marsh Brewer,Female,Drawing,New York,1.0,25.0,Submitted by Artist
+535,*Cliffs Newquay,Margaret Wendell Huntington,Female,Oil,New York,1.0,200.0,Submitted by Artist
+536,"*In the Garden, 1912",Bernhard Gutmann,Male,Oil,New York,1.0,600.0,Submitted by Artist
+537,Green Fire,Bolton Brown,Male,Oil,New York,1.0,600.0,Submitted by Artist
+538,*House Boat,Samuel Wood Gaylor,Male,Oil,New York,1.0,100.0,Submitted by Artist
+539,Landscape,Samuel Wood Gaylor,Male,Oil,New York,1.0,100.0,Submitted by Artist
+540,"Decorative Panel, Spring (two panels)",William L. Taylor,Male,Oil,New York & Chicago,2.0,750.0,Requested by Organizers
+541,Rain Pause,,Male,Oil,New York,1.0,500.0,Submitted by Artist
+542,"#Figure in Motion, 1912; now dated 1913",Robert Henri,Male,Oil,New York & Chicago,2.0,2000.0,Requested by Organizers
+543,"The Gipsy; now titled The Spanish Gypsy, 1912",Robert Henri,Male,Oil,New York,1.0,1800.0,Requested by Organizers
+544,The Red Top,Robert Henri,Male,Oil,New York,1.0,900.0,Requested by Organizers
+545,Drawing,Robert Henri,Male,Drawing,New York,1.0,25.0,Requested by Organizers
+546,*The Village Cemetery,Henry I. Glintenkamp,Male,Oil,New York,1.0,800.0,Submitted by Artist
+547,The Emerald Pool,D. Putnam Brinley,Male,Oil,New York,1.0,1200.0,Requested by Organizers
+548,The Peony Garden,D. Putnam Brinley,Male,Oil,New York,1.0,400.0,Requested by Organizers
+549,A Walled Garden,D. Putnam Brinley,Male,Oil,New York,1.0,800.0,Requested by Organizers
+550,Color Note 1-4,D. Putnam Brinley,Male,Oil,New York,1.0,40.0,Requested by Organizers
+551,Their Life,Jerome Myers,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+552,The Glow,Jerome Myers,Male,Oil,New York,1.0,600.0,Requested by Organizers
+553,15 Drawings,Jerome Myers,Male,Drawing,New York,1.0,150.0,Requested by Organizers
+554,Terminal Yards,Leon Kroll,Male,Oil,New York & Chicago,2.0,600.0,Requested by Organizers
+555,Portrait,Carl Gordon Cutler,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+556,"The Bathing Hour; now titled The Bathing Hour, Chester, Nova Scotia, 1910",William J. Glackens,Male,Oil,New York & Chicago,2.0,700.0,Requested by Organizers
+557,Sailboats and Sunlight,William J. Glackens,Male,Oil,New York,1.0,700.0,Requested by Organizers
+558,Apple Picking,Frank A. Nankivell,Male,Oil,New York,1.0,1500.0,Requested by Organizers
+559,Edith,Frank A. Nankivell,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+560,Pink and Green,Frank A. Nankivell,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+561,Fowls,Frank A. Nankivell,Male,Watercolor,New York,1.0,30.0,Requested by Organizers
+562,Football Player,Frank A. Nankivell,Male,Watercolor,New York,1.0,25.0,Requested by Organizers
+563,New York in the Making,Frank A. Nankivell,Male,Etching,New York,1.0,50.0,Requested by Organizers
+564,Morning 1912,Walt Kuhn,Male,Oil,New York & Chicago,2.0,600.0,Requested by Organizers
+565,Girl with Red Cap,Walt Kuhn,Male,Oil,New York,1.0,350.0,Requested by Organizers
+566,New York Yacht Club at Newport,Elmer Livingston MacRae,Male,Oil,New York,1.0,800.0,Requested by Organizers
+567,Battle Ships or Battleships at Newport,Elmer Livingston MacRae,Male,Oil,New York,1.0,800.0,Requested by Organizers
+568,Fairy Stories,Elmer Livingston MacRae,Male,Oil,New York,1.0,700.0,Requested by Organizers
+569,Drawing,Elmer Livingston MacRae,Male,Pastel,New York,1.0,200.0,Requested by Organizers
+570,Drawing,Elmer Livingston MacRae,Male,Pastel,New York,1.0,50.0,Requested by Organizers
+571,Drawing,Elmer Livingston MacRae,Male,Pastel,New York,1.0,50.0,Requested by Organizers
+572,Drawing,Elmer Livingston MacRae,Male,Pastel,New York,1.0,50.0,Requested by Organizers
+573,Drawing,Elmer Livingston MacRae,Male,Pastel,New York,1.0,75.0,Requested by Organizers
+574,"The Black Teapot, 1911",Jonas Lie,Male,Oil,New York,1.0,800.0,Requested by Organizers
+575,At the Aquarium,Jonas Lie,Male,Oil,New York,1.0,1200.0,Requested by Organizers
+576,Omen,Henry Fitch Taylor,Male,Oil,New York,1.0,2500.0,Requested by Organizers
+577,Prostitution,Henry Fitch Taylor,Male,Oil,New York & Chicago,2.0,800.0,Requested by Organizers
+578,Temple of Silence,Herbert Crowley,Male,Drawing,New York,1.0,250.0,Requested by Organizers
+579,Dush of Morning,Henry Fitch Taylor,Male,Oil,New York,1.0,800.0,Requested by Organizers
+580,Dawnlit,Edward Adam Kramer,Male,Oil,New York,1.0,700.0,Requested by Organizers
+581,Trees of Echo Park,Edward Adam Kramer,Male,Oil,New York,1.0,700.0,Requested by Organizers
+582,Meditation,Edward Adam Kramer,Male,Oil,New York,1.0,500.0,Requested by Organizers
+583,Rock Encommpassed,Edward Adam Kramer,Male,Oil,New York & Chicago,2.0,500.0,Requested by Organizers
+584,Hues of Morning,Edward Adam Kramer,Male,Pastel,New York & Chicago,2.0,150.0,Requested by Organizers
+585,Drowsy afternoon,Edward Adam Kramer,Male,Pastel,New York & Chicago,2.0,150.0,Requested by Organizers
+586,The Evangelist,Edward Adam Kramer,Male,Pastel,New York,1.0,150.0,Requested by Organizers
+587,Going to sleep,Edward Adam Kramer,Male,Drawing,New York,1.0,75.0,Requested by Organizers
+588,Quiet and Unseen,Edward Adam Kramer,Male,Drawing,New York,1.0,75.0,Requested by Organizers
+589,Slander,Herbery Crowley,Male,Drawing,New York,1.0,250.0,Requested by Organizers
+590,Woman Drinking Glass of Water,Karl Anderson,Male,Oil,New York & Chicago,2.0,600.0,Requested by Organizers
+591,Boy playing with Goat,Karl Anderson,Male,Oil,New York,1.0,800.0,Requested by Organizers
+592,"The Apple Gatherers, 1912",Karl Anderson,Male,Oil,New York,1.0,1500.0,Requested by Organizers
+593,"Crepuscule, ca. 1912",Maurice Brazil Prendergast,Male,Oil,New York & Chicago,2.0,500.0,Requested by Organizers
+594,Sea Shore,Maurice Brazil Prendergast,Male,Oil,New York & Chicago,2.0,650.0,Requested by Organizers
+595,"#Landscape with Figures, 1912; not dated ca. 1910-12",Maurice Brazil Prendergast,Male,Oil,New York,1.0,800.0,Requested by Organizers
+596,Under the Trees,Maurice Brazil Prendergast,Male,Watercolor,New York,1.0,200.0,Requested by Organizers
+597,The Red Rock,Maurice Brazil Prendergast,Male,Watercolor,New York,1.0,200.0,Requested by Organizers
+598,Marblehead Rocks,Maurice Brazil Prendergast,Male,Watercolor,New York & Chicago,2.0,150.0,Requested by Organizers
+599,The Village,Florence Este,Female,Watercolor,New York,1.0,500.0,Requested by Organizers
+600,"Mount Aberdeen; elsewhere titled Mount Aberdeen, Sunny Afternoon, 1912",Allen Tucker,Male,Oil,New York & Chicago,2.0,400.0,Requested by Organizers
+601,"Study in Rose and Black, 1912",Allen Tucker,Male,Oil,New York,1.0,900.0,Requested by Organizers
+602,Rain on Victoria,Allen Tucker,Male,Oil,New York,1.0,400.0,Requested by Organizers
+603,"Storm in the Rockies, 1912",Allen Tucker,Male,Oil,New York,1.0,400.0,Requested by Organizers
+604,Weeds and Willow Trees,Ernest Lawson,Male,Oil,New York & Chicago,2.0,800.0,Requested by Organizers
+605,"#Sunday, Girls Drying their Hair, now titled Sunday, Women Drying Their Hair, 1912",John Sloan,Male,Oil,New York & Chicago,2.0,650.0,Requested by Organizers
+606,"Prodigal Son, 1904–6",George Grey Barnard,Male,Stone,New York,1.0,18000.0,Requested by Organizers
+607,"McSorley's Ale House; now titled McSorley's Bar, 1912",John Sloan,Male,Oil,New York,1.0,500.0,Requested by Organizers
+608,"#Girl and Beggar, 1910",John Sloan,Male,Etching,New York,1.0,10.0,Requested by Organizers
+609,"Portrait of Mother, 1906",John Sloan,Male,Etching,New York,1.0,15.0,Requested by Organizers
+610,The First Snow,Florence Este,Female,Watercolor,New York,1.0,300.0,Requested by Organizers
+611,"Marine, 1912",Amadeo de Sousa-Cardoza,Male,Watercolor,"New York, Chicago & Boston",3.0,13.5,Requested by Organizers
+612,"Night Windows, 1910",John Sloan,Male,Etching,New York,1.0,10.0,Requested by Organizers
+613,"Anschutz on Anatomy, 1912",John Sloan,Male,Etching,New York,1.0,15.0,Requested by Organizers
+614,"The Picture Buyer, 1911",John Sloan,Male,Etching,New York,1.0,10.0,Requested by Organizers
+615,Four O'Clock,George B. Lurks,Male,Oil,New York,1.0,2500.0,Requested by Organizers
+616,A Philosopher,George B. Lurks,Male,Oil,New York & Chicago,2.0,750.0,Requested by Organizers
+617,A Pennsylvania Dutchwoman,George B. Lurks,Male,Oil,New York,1.0,950.0,Requested by Organizers
+618,"#Circus, 1912",George Bellows,Male,Oil,New York,1.0,1200.0,Requested by Organizers
+619,"Polo Crowd, 1910",George Bellows,Male,Oil,New York,1.0,1200.0,Requested by Organizers
+620,Docks in Winter,George Bellows,Male,Oil,New York & Chicago,2.0,800.0,Requested by Organizers
+621,"Evening Harmony; elsewhere Evening Glow, 1912",George Bellows,Male,Oil,New York,1.0,150.0,Requested by Organizers
+622,"Nocturne, Cape Cod",Albert Humphreys,Male,Oil,New York & Chicago,2.0,500.0,Requested by Organizers
+623,Landscape,Albert Humphreys,Male,Oil,New York,1.0,500.0,Requested by Organizers
+624,Statue at Ravello,Edith L. King,Female,Watercolor,New York,1.0,50.0,Requested by Organizers
+625,"Bathing Hours, Capri",Edith L. King,Female,Watercolor,New York & Chicago,2.0,50.0,Requested by Organizers
+626,"The Bathers, Capri",Edith L. King,Female,Watercolor,New York,1.0,50.0,Requested by Organizers
+627,The Marina Grande,Edith L. King,Female,Watercolor,New York & Chicago,2.0,50.0,Requested by Organizers
+628,Embroidery,Fannie Miller Brown,Female,Embroidery,New York,1.0,225.0,Requested by Organizers
+629,Case of China,Jean Eels,Female,Decorated China,New York,1.0,50.0,Requested by Organizers
+630,Lawn Party,A.F. Laundberg(n.d.),Male,Oil,New York,1.0,500.0,Requested by Organizers
+631,Four Frames of Drawings,F.M. Walts,Male,Drawing,New York,1.0,125.0,Requested by Organizers
+632,"*Blast Furnaces, 1912",Henry Reuterdahl,Male,Oil,New York,1.0,250.0,Submitted by Artist
+633,Phyllis,Helen J. Niles,Female,Oil,New York,1.0,600.0,Submitted by Artist
+634,"Monterey, Evening",Francic McComas,Male,Oil,New York,1.0,200.0,Requested by Organizers
+635,"Cos Cob, Old House",Childe Hassam,Male,Oil,New York,1.0,850.0,Requested by Organizers
+636,"Landscape, California",Francic McComas,Male,Oil,New York,1.0,200.0,Requested by Organizers
+637,"Cos Cob, Old House",Childe Hassam,Male,Pastel,New York,1.0,850.0,Requested by Organizers
+638,"Red Tulips, 1912",Charles R. Sheeler,Male,Oil,New York,1.0,150.0,Requested by Organizers
+639,"Landscape, 1913",Charles R. Sheeler,Male,Oil,New York,1.0,150.0,Requested by Organizers
+640,The Waterfall,Charles R. Sheeler,Male,Oil,New York & Chicago,2.0,150.0,Requested by Organizers
+641,"#The Mandarin; now titled Mandarin, 1912",Charles R. Sheeler,Male,Oil,New York,1.0,200.0,Requested by Organizers
+642,"Dahlias and Asters, 1912",Charles R. Sheeler,Male,Oil,New York,1.0,200.0,Requested by Organizers
+643,"Chrysanthemums, 1912",Charles R. Sheeler,Male,Oil,New York & Chicago,2.0,250.0,Requested by Organizers
+644,"Cos Cob, Old House",Childe Hassam,Male,Pastel,New York,1.0,650.0,Requested by Organizers
+645,Sunny Window,Charles H. Pepper,Male,Watercolor,New York & Chicago,2.0,100.0,Requested by Organizers
+646,The Caller,Charles H. Pepper,Male,Watercolor,New York,1.0,100.0,Requested by Organizers
+647,The Hillside,Charles H. Pepper,Male,Watercolor,New York,1.0,250.0,Requested by Organizers
+648,China Cupboard,Carl Gordon Cutler,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+649,"Sylph Rock, Appledore",Childe Hassam,Male,Pastel,New York,1.0,650.0,Requested by Organizers
+650,Solitude,George Grey Barnard,Male,Stone,New York,1.0,2000.0,Requested by Organizers
+651,Musician Dying,George Grey Barnard,Male,Stone,New York,1.0,2000.0,Requested by Organizers
+652,A Hill Top,Jonas Lie,Male,Oil,New York,1.0,1200.0,Requested by Organizers
+653,Turkey,Nelson N. Bickford,Male,Bronze,New York,1.0,50.0,Submitted by Artist
+654,Nude,Elie Nadelman,Male,Plaster,New York,1.0,135.0,Requested by Organizers
+655,"Drawings, Nos. 1-12",Elie Nadelman,Male,Drawing,New York,1.0,40.75,Requested by Organizers
+656,Tete d'homme,Elie Nadelman,Male,Plaster,New York,1.0,135.0,Requested by Organizers
+657,Lithographs,Édouard Vuillard,Male,Lithograph,"New York, Chicago & Boston",3.0,12.0,Requested by Organizers
+658,Joaquina,Henri Matisse,Male,Oil,New York,1.0,810.0,Requested by Organizers
+659,William Strret,Paul Burlin,Male,Drawing,New York,1.0,85.0,Requested by Organizers
+660,Aquarelle,Henri Edmond Cross,Male,Watercolor,"New York, Chicago & Boston",3.0,189.0,Requested by Organizers
+661,"Paysage, 1912",Ernst Ludwig Kirchner,Male,Watercolor,"New York, Chicago & Boston",3.0,81.0,Requested by Organizers
+662,Cloud Shadows,Ernest Lawson,Male,Oil,New York,1.0,800.0,Requested by Organizers
+663,"Paysage, No. 2",Roger de La Fresnaye,Male,Oil,New York & Chicago,2.0,162.0,Requested by Organizers
+664,The Sisphus of the East.,Oscar E. Cesare,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+665,In Red,Robert W. Chanler,Male,Screen,New York,1.0,1500.0,Requested by Organizers
+666,"""Waiter!""",Guy Pe'ne du Bois,Male,Oil,New York,1.0,200.0,Requested by Organizers
+667,A Veil of Leaves,G. Ruger Donoho,Male,Oil,New York,1.0,2000.0,Requested by Organizers
+668,Portrait (of Boyer),Paul Ce'zanne,Male,Oil,New York,1.0,4000.0,Requested by Organizers
+669,Portrait of Chess Players,Marcel Duchammp,Male,Oil,New York,1.0,162.0,Requested by Organizers
+670,"Window on the City, No.4",Robert Delaunay,Male,Oil,New York,1.0,540.0,Requested by Organizers
+671,Le Pot bleu,Andre'Derain,Male,Oil,New York,1.0,202.5,Requested by Organizers
+672,Naples,Henri-Lucien Doucet,Male,Watercolor,New York,1.0,26.0,Requested by Organizers
+673,Palms near Naples,Henri-Lucien Doucet,Male,Watercolor,New York,1.0,26.0,Requested by Organizers
+674,Palemo,Henri-Lucien Doucet,Male,Watercolor,New York,1.0,26.0,Requested by Organizers
+675,"The Avenue, Holland",Katherine Sopie Dreier,Female,Oil,New York,1.0,300.0,Requested by Organizers
+676,"Study in Repose, 1909",Jo Davidson,Male,Bronze,New York,1.0,5000.0,Requested by Organizers
+677,The Sightless,Nathaniel Dolinsky,Male,Oil,New York,1.0,600.0,Requested by Organizers
+678,"Quai de la Tour Melle, Paris",Ailee Dresser,Female,Oil,New York,1.0,100.0,Submitted by Artist
+679,Madame Dubois,Ailee Dresser,Female,Oil,New York,1.0,100.0,Submitted by Artist
+680,Notre Dame Spring,Ailee Dresser,Female,Oil,New York,1.0,300.0,Submitted by Artist
+681,A Pine Tree,O.N Chaffee,Male,Oil,New York,1.0,800.0,Submitted by Artist
+682,Electra Statuette,Mrs M.Mussleman Carr,Female,Bronze,New York,1.0,50.0,Requested by Organizers
+683,Crime,Arthos Casarini,Male,Pastel,New York,1.0,90.0,Requested by Organizers
+684,Indian Grinding Corn Statuette,Mrs M.Mussleman Carr,Female,Bronze,New York,1.0,40.0,Requested by Organizers
+685,Jungle,Robert W. Chanler,Male,Screen,New York,1.0,3500.0,Requested by Organizers
+686,L'Allegro,Charles H. Davis,Male,Oil,New York,1.0,1500.0,Requested by Organizers
+687,Tristesse,Richard H. Duffy,Male,Plaster,New York,1.0,75.0,Requested by Organizers
+688,Hopi Snake Dance,Robert W. Chanler,Male,Screen,New York,1.0,5000.0,Requested by Organizers
+689,Leopard & Deer,Robert W. Chanler,Male,Screen,New York,1.0,1200.0,Requested by Organizers
+690,Porcupine,Robert W. Chanler,Male,Screen,New York,1.0,2000.0,Requested by Organizers
+691,Interior,Guy Pe'ne du Bois,Male,Oil,New York,1.0,300.0,Requested by Organizers
+692,Twentieth-century Youth,Guy Pe'ne du Bois,Male,Oil,New York,1.0,200.0,Requested by Organizers
+693,"Cascade, Bois de Boulogne",Guy Pe'ne du Bois,Male,Oil,New York,1.0,200.0,Requested by Organizers
+694,Virginia,Guy Pe'ne du Bois,Male,Oil,New York,1.0,200.0,Requested by Organizers
+695,The Politician,Guy Pe'ne du Bois,Male,Oil,New York,1.0,200.0,Requested by Organizers
+696,"Evening North Sierra, 1910",Leon Dabo,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+697,Sweat Shop Girls in the Country,Edith Dimock,Female,Watercolor,New York,1.0,35.0,Requested by Organizers
+698,A Garden,G. Ruger Donoho,Male,Oil,New York,1.0,2000.0,Requested by Organizers
+699,Le Laboureur,Auguste Elise'e Chabaud,Male,Oil,New York,1.0,270.0,Requested by Organizers
+700,Roses,Emilie Charmy,Female,Oil,New York,1.0,108.0,Requested by Organizers
+701,"Paysage now, L'Kstaqye,1910",Emilie Charmy,Female,Oil,New York,1.0,135.0,Requested by Organizers
+702,Soir,Emilie Charmy,Female,Oil,New York,1.0,135.0,Requested by Organizers
+703,Ajaccio,Emilie Charmy,Female,Oil,New York,1.0,135.0,Requested by Organizers
+704,#Colline des pauvres,Paul Ce'zanne,Male,Oil,New York,1.0,6700.0,Requested by Organizers
+705,Melun now Jas de Bouffan,Paul Ce'zanne,Male,Oil,New York,1.0,8000.0,Requested by Organizers
+706,Liseuse now The Reader,Charles Camoin,Male,Oil,New York,1.0,162.0,Requested by Organizers
+707,Collioure,Charles Camoin,Male,Oil,New York,1.0,216.0,Requested by Organizers
+708,The King &Queen surrounded by Swift Nudes,Marcel Duchamp,Male,Oil,New York,1.0,324.0,Requested by Organizers
+709,Nude Descending a Staircase,Marcel Duchamp,Male,Oil,New York,1.0,324.0,Requested by Organizers
+710,"Nu; now, Jeune Hommetiste das untrain",Marcel Duchamp,Male,Oil,New York,1.0,162.0,Requested by Organizers
+711,"Route de Laon,1912",Robert Delaunay,Male,Oil,New York,1.0,270.0,Requested by Organizers
+712,"La Ville de Paris, 1910-1912",Robert Delaunay,Male,Oil,New York,1.0,5400.0,Requested by Organizers
+713,Vals et vallons,Georges Leon Dufrenoy,Male,Oil,New York,1.0,540.0,Requested by Organizers
+714,Sienne,Georges Leon Dufrenoy,Male,Oil,New York,1.0,540.0,Requested by Organizers
+715,Matermite,Maurice Denis,Male,Oil,New York,1.0,1080.0,Requested by Organizers
+716,A la fene'tre,Maurice Denis,Male,Oil,New York,1.0,1620.0,Requested by Organizers
+717,La Plage,Maurice Denis,Male,Oil,New York,1.0,8100.0,Requested by Organizers
+718,La Fore't,Maurice Denis,Male,Oil,New York,1.0,864.0,Requested by Organizers
+719,Matermite,Maurice Denis,Male,Oil,New York,1.0,1080.0,Requested by Organizers
+720,Nausicaa,Maurice Denis,Male,Oil,New York,1.0,5400.0,Requested by Organizers
+721,Leopold Str.,Raoul Dufy,Male,Oil,New York,1.0,540.0,Requested by Organizers
+722,The English Channel,Raoul Dufy,Male,Oil,New York,1.0,540.0,Requested by Organizers
+723,"La Fore't a"" Martigues",Andre'Derain,Male,Oil,New York,1.0,378.0,Requested by Organizers
+724,Blue Bowl,Katherine Sopie Dreier,Female,Oil,New York,1.0,300.0,Requested by Organizers
+725,Torre del greco,Henri-Lucien Doucet,Male,Watercolor,New York,1.0,26.0,Requested by Organizers
+726,Vesuvius,Henri-Lucien Doucet,Male,Watercolor,New York,1.0,26.0,Requested by Organizers
+727,Orsay,Henri-Lucien Doucet,Male,Watercolor,New York,1.0,26.0,Requested by Organizers
+728,Still Life,Andrew Dasburg,Male,Oil,New York,1.0,250.0,Requested by Organizers
+729,Still Life,Andrew Dasburg,Male,Oil,New York,1.0,250.0,Requested by Organizers
+730,"The Barrier, 1912",Gustave Cimiotti Jr,Male,Oil,New York,1.0,750.0,Requested by Organizers
+731,Facade Architecturale,Raymond Duchamp-Villon,Male,Plaster,New York,1.0,5400.0,Requested by Organizers
+732,Hillside 1912,Gustave Cimiotti Jr,Male,Oil,New York,1.0,300.0,Requested by Organizers
+733,Torse of a Young Man,Raymond Duchamp-Villon,Male,Terracotta,New York,1.0,135.0,Requested by Organizers
+734,Torse of a Young Man,Raymond Duchamp-Villon,Male,Plaster,New York,1.0,54.0,Requested by Organizers
+735,Fille des bois,Raymond Duchamp-Villon,Male,Bronze,New York,1.0,270.0,Requested by Organizers
+736,Danseurs also titled Les Petitis Danseurs,Raymond Duchamp-Villon,Male,Terracotta,New York,1.0,67.5,Requested by Organizers
+737,Lucifer,Andrew Dasburg,Male,Plaster,New York,1.0,200.0,Requested by Organizers
+738,Age,Nessa Cohen,Female,Plaster,New York,1.0,125.0,Requested by Organizers
+739,Sun Rise,Nessa Cohen,Female,Bronze,New York,1.0,600.0,Requested by Organizers
+740,Yoshinosen,Jo Davidson,Male,Bronze,New York,1.0,650.0,Requested by Organizers
+741,Torso,Jo Davidson,Male,Bronze,New York,1.0,300.0,Requested by Organizers
+742,Girl in Blue,Randall Davey,Male,Oil,New York,1.0,600.0,Submitted by Artist
+743,Mlle Lucienne,Lawrence Tyler Dresser,Male,Oil,New York,1.0,300.0,Submitted by Artist
+744,A Boy,Florence Drey fous,Female,Watercolor,New York,1.0,200.0,Submitted by Artist
+745,Servant Girls 1913,Stuart Davis,Male,Watercolor,New York,1.0,100.0,Requested by Organizers
+746,"Dance, 1912",Stuart Davis,Male,Watercolor,New York,1.0,100.0,Submitted by Artist
+747,"The Doctor now, Interior",Stuart Davis,Male,Watercolor,New York,1.0,100.0,Submitted by Artist
+748,"Babe La Tour,1912",Stuart Davis,Male,Watercolor,New York,1.0,100.0,Submitted by Artist
+749,The Musicians,Stuart Davis,Male,Watercolor,New York,1.0,100.0,Requested by Organizers
+750,Pine Tree,O.N. Chaffee,Male,Oil,New York,1.0,800.0,Submitted by Artist
+751,Iona Island,Leon Dabo,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+752,Before the storm,Leon Dabo,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+753,Canadian Night,Leon Dabo,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+754,Portrait.,Harry W. Coate,Male,Oil,New York,1.0,350.0,Requested by Organizers
+755,Hill Wind,Arthur Bowen Davis,Male,Oil,New York,1.0,2800.0,Requested by Organizers
+756,Sea drift,Arthur Bowen Davis,Male,Oil,New York,1.0,1000.0,Requested by Organizers
+757,"Drawing now Reclining Women, 1911, now 1913",Arthur Bowen Davis,Male,Pastel,New York,1.0,65.0,Requested by Organizers
+758,Lithograph (large),Paul Ce'zanne,Male,Lithograph,New York & Chicago,2.0,54.0,Requested by Organizers
+759,Lithograph (small),Paul Ce'zanne,Male,Lithograph,New York & Chicago,2.0,42.0,Requested by Organizers
+760,"La Doleur,1912",Jo Davidson,Male,Stone,New York,1.0,4000.0,Requested by Organizers
+761,Portrait,Harry W. Coate,Male,Oil,New York,1.0,350.0,Requested by Organizers
+762,L'E tatc'est moi,Oscar E. Cesare,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+763,Our Friend the Horse,Oscar E. Cesare,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+764,Mors Pasha,Oscar E. Cesare,Male,Drawing,New York,1.0,100.0,Requested by Organizers
+765,Swan,Robert W. Chanler,Male,Screen,New York,1.0,2000.0,Requested by Organizers
+766,Mother and Daughter,Edith Dimock,Female,Watercolor,New York,1.0,35.0,Requested by Organizers
+767,Group of Six paintings,Edith Dimock,Female,Watercolor,New York,1.0,280.0,Requested by Organizers
+768,The Old Woman and the Rosary,Paul Ce'zanne,Male,Oil,New York,1.0,48600.0,Requested by Organizers
+769,Portrait of Ce'zanne,Paul Ce'zanne,Male,Oil,New York,1.0,6500.0,Requested by Organizers
+770,Baigneusis,Paul Ce'zanne,Male,Oil,New York,1.0,6500.0,Requested by Organizers
+771,Auvers,Paul Ce'zanne,Male,Oil,New York,1.0,9500.0,Requested by Organizers
+772,Seville,Charles Camoin,Male,Oil,New York,1.0,216.0,Requested by Organizers
+773,Moulin Rouge,Charles Camoin,Male,Oil,New York,1.0,240.75,Requested by Organizers
+774,Ange'lique,Maurice Denis,Male,Oil,New York,1.0,1620.0,Requested by Organizers
+775,La Fene'tre sur le Parc,Andre'Derain,Male,Oil,New York,1.0,486.0,Requested by Organizers
+776,Landscape.,Andrew Dasburg,Male,Oil,New York,1.0,250.0,Requested by Organizers
+777,"Me're et enfant, 1903",Mary Cassatt,Female,Oil,New York,1.0,4950.0,Requested by Organizers
+778,Torse of a Young Man,Raymond Duchamp-Villon,Male,Bronze,New York,1.0,216.0,Requested by Organizers
+779,Baudelaire,Raymond Duchamp-Villon,Male,Terracotta,New York,1.0,162.0,Requested by Organizers
+780,Decorative Panel,Jo Davidson,Male,Sculpture,New York,1.0,5000.0,Requested by Organizers
+781,Yoshinosen,Jo Davidson,Male,Bronze,New York,1.0,600.0,Requested by Organizers
+782,Yoshinosen,Jo Davidson,Male,Stone,New York,1.0,1000.0,Requested by Organizers
+783,A Russian Student,Lawrence Tyler Dresser,Male,Oil,New York,1.0,300.0,Submitted by Artist
+784,A Village,O.N Chaffee,Male,Oil,New York,1.0,800.0,Submitted by Artist
