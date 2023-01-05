@@ -1,0 +1,190 @@
+id,country,day,month,name_of_holiday,year_of_event,independence_from,event_commemorated_and_notes,date_mdy
+1,Cyprus,1.0,Apr,National Day,1955.0,United Kingdom,1 April attacks that started the Cyprus Emergency[49],4/1/1955
+2,Armenia,21.0,Sep,Independence Day,1991.0,Soviet Union,1991 Armenian independence referendum,9/21/1991
+3,Bosnia and Herzegovina,1.0,Mar,Independence Day,1992.0,Socialist Federal Republic of Yugoslavia,1992 Bosnian independence referendum,3/1/1992
+4,Montenegro,21.0,May,Independence Day,2006.0,Serbia and Montenegro,2006 Montenegrin independence referendum,5/21/2006
+5,Costa Rica,15.0,Sep,Independence Day,1821.0,Spanish Empire,Act of Independence of Central America[citation needed],9/15/1821
+6,El Salvador,15.0,Sep,Independence Day,1821.0,Spanish Empire,Act of Independence of Central America[citation needed],9/15/1821
+7,Guatemala,15.0,Sep,Independence Day,1821.0,Spanish Empire,Act of Independence of Central America[citation needed],9/15/1821
+8,Honduras,15.0,Sep,Independence Day,1821.0,Spanish Empire,Act of Independence of Central America[citation needed],9/15/1821
+9,Nicaragua,15.0,Sep,Independence Day,1821.0,Spanish Empire,Act of Independence of Central America[citation needed],9/15/1821
+10,Lithuania,16.0,Feb,Statehood Restoration Day,1918.0,Russian Soviet Federative Socialist Republic and German Empire,Act of Independence of Lithuania,2/16/1918
+11,Lithuania,11.0,Mar,Independence Restoration Day,1990.0,Soviet Union,Act of the Re-Establishment of the State of Lithuania,3/11/1990
+12,Azerbaijan,18.0,Oct,Independence Day,1991.0,Soviet Union,"Adoption of the constitutional act ""On the State Independence of the Republic of Azerbaijan""[12]",10/18/1991
+13,Iran,1.0,Apr,Independence Day,1979.0,N/A,"After holding a referendum, Iran officially became an Islamic republic in April 1979.",4/1/1979
+14,Albania,28.0,Nov,Flag Day (Dita e Flamurit),1912.0,Ottoman Empire,"Albanian Declaration of Independence. The following day, November 29, is celebrated as the Liberation Day and commemorates the end of the German occupation in 1944.[4]",11/28/1912
+15,Algeria,5.0,Jul,Independence Day,1962.0,France,"Algeria gained independence following the Algerian War and the Algerian independence referendum. France officially recognized independent Algeria on July 3, but the Independence Day is celebrated on July 5, the day of the fall of Algiers in 1830 and the beginning of French Algeria.[5][6]",7/5/1962
+16,Switzerland,1.0,Aug,Swiss National Day,1291.0,N/A,Alliance against the Holy Roman Empire in 1291.,8/1/1291
+17,Afghanistan,19.0,Aug,Afghan Independence Day (Afghan Victory Day),1919.0,United Kingdom,"Anglo-Afghan Treaty of 1919 or Treaty of Rawalpindi, an armistice between the United Kingdom and Afghanistan during the Third Anglo-Afghan War[3]",8/19/1919
+18,Argentina,9.0,Jul,Independence Day,1816.0,Spanish Empire,Argentine Declaration of Independence,7/9/1816
+19,Jordan,25.0,May,Independence Day,1946.0,United Kingdom,Ascension of Abdullah I of Jordan to the throne[59],5/25/1946
+20,Bahrain,16.0,Dec,Independence Day,1971.0,United Kingdom,Ascension of Isa bin Salman Al Khalifa to the throne[14],12/16/1971
+21,Belgium,21.0,Jul,National Day,1831.0,United Netherlands,Ascension of Leopold of Saxe-Coburg-Saalfeld to the throne[16],7/21/1831
+22,Ecuador,24.0,May,Independence Day,1822.0,Spanish Empire,Battle of Pichincha,5/24/1822
+23,Bolivia,6.0,Aug,Independence Day,1825.0,Spain,Bolivian Declaration of Independence,8/6/1825
+24,Brunei,23.0,Feb,National Day,1984.0,United Kingdom,"Brunei gained full independence effective January 1, 1984 under the Treaty of Friendship and Co-operation of 7 January 1979 between United Kingdom and Brunei.[21] However, the celebrations of the first National Day were delayed until February 23 and that day continues to be celebrated since.[22]",2/23/1984
+25,Bulgaria,5.0,Oct,Independence Day,1908.0,Ottoman Empire,Bulgarian Declaration of Independence[24],10/5/1908
+26,Myanmar,4.0,Jan,Independence Day,1948.0,United Kingdom,Burmese Declaration of Independence,1/4/1948
+27,Cuba,10.0,Oct,Commencement of the Wars of Independence[46],1868.0,Spanish Empire,Call to rebellion (known as Grito de Yara) by sugar planter Carlos Manuel de Cespedes that led to the Ten Years' War for independence[48],10/10/1868
+28,Sweden,6.0,Jun,National Day,1523.0,N/A,Celebrates the election of King Gustav Vasa in 1523 and the new constitutions in 1809 and 1974. The election of King Gustav Vasa was the de facto end of the Kalmar Union and has been seen as a formal declaration of independence.,6/6/1523
+29,Cambodia,9.0,Nov,Independence Day,1953.0,France,"Ceremony transferring military from French to Cambodian officials based on a military hand-over agreement reached on October 17, 1953[28][29]",11/9/1953
+30,Colombia,20.0,Jul,Independence Day,1810.0,Spanish Empire,Colombian Declaration of Independence,7/20/1810
+31,Slovenia,25.0,Jun,Independence and Unity Day,1991.0,SFR Yugoslavia,"Date of the release of the official results of the independence plebiscite in 1990, confirming secession from Yugoslavia. (Statehood Day) Declared independence from Yugoslavia in 1991.",6/25/1991
+32,Georgia,26.0,May,Independence Day,1918.0,Russian Soviet Federative Socialist Republic,Day of the proclamation of the Democratic Republic of Georgia in 1918.,5/26/1918
+33,Azerbaijan,28.0,May,Republic Day,1918.0,Russian Soviet Federative Socialist Republic,Declaration of Independence (Azerbaijan),5/28/1918
+34,Greece,25.0,Mar,Independence Day,1821.0,Ottoman Empire,Declaration of independence 1821. Start of the Greek War of Independence.,3/25/1821
+35,Uruguay,25.0,Aug,Independence Day,1825.0,United Provinces of the Rio de la Plata,Declaration of independence and union with the United Provinces of the Rio de la Plata.,8/25/1825
+36,Yemen,30.0,Nov,Independence Day,1967.0,United Kingdom,Declaration of independence as South Yemen,11/30/1967
+37,Brazil,7.0,Sep,Independence Day (Dia da Independencia),1822.0,"United Kingdom of Portugal, Brazil and the Algarves",Declaration of independence by Pedro I of Brazil (see Independence of Brazil)[20],9/7/1822
+38,Guinea-Bissau,24.0,Sep,Independence Day,1973.0,Portugal,Declaration of independence during the Guinea-Bissau War of Independence[56],9/24/1973
+39,"Netherlands, The",26.0,Jul,Independence Day,1581.0,Spanish Empire,Declaration of Independence in 1581 as the Dutch Republic,7/26/1581
+40,Slovakia,17.0,Jul,Independence Day,1992.0,N/A,"Declaration of Independence in 1992 (only a remembrance day), de jure independence came on January 1, 1993 after the division of Czechoslovakia (public holiday).",7/17/1992
+41,Armenia,28.0,May,Republic Day,1918.0,Russian Soviet Federative Socialist Republic,Declaration of Independence of Armenia (1918),5/28/1918
+42,Ukraine,24.0,Aug,Independence Day,1991.0,Soviet Union,Declaration of Independence of Ukraine,8/24/1991
+43,Austria,26.0,Oct,National Day,1955.0,"Allied occupying powers (France, United Kingdom, United States and Soviet Union)",Declaration of Neutrality,10/26/1955
+44,East Timor,20.0,May,Independence Day,2002.0,Portugal,"East Timor was invaded by Indonesia from 1975 to 1999, officially it never ceased to be considered as administrated by Portugal.",5/20/2002
+45,Cape Verde,5.0,Jul,Independence Day,1975.0,Portugal,"Effective date of the Agreement Between Portugal and Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC) signed on December 18, 1974[32]",7/5/1975
+46,Burkina Faso,5.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 11 and creation of the independent Republic of Upper Volta[18],8/5/1960
+47,Benin,1.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 11 creating the independent Republic of Dahomey[18],8/1/1960
+48,Niger,3.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 11.[18],8/3/1960
+49,Ivory Coast,7.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 11.[18],8/7/1960
+50,"Congo, Republic of the",15.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 12.[18],8/15/1960
+51,Central African Republic,13.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 12[18],8/13/1960
+52,Chad,11.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 12[18],8/11/1960
+53,Gabon,17.0,Aug,Independence Day,1960.0,France,Effective date of the agreement with France signed on July 15.[18],8/17/1960
+54,Mauritania,28.0,Nov,Independence Day,1960.0,France,Effective date of the agreement with France signed on October 19.[18],11/28/1960
+55,São Tomé and Príncipe,12.0,Jul,Independence Day,1975.0,Portugal,"Effective date of the agreement with Portugal reached on November 26, 1974[78][79]",7/12/1975
+56,"Bahamas, The",10.0,Jul,Independence Day,1973.0,United Kingdom,Effective date of The Bahamas Independence Order 1973[13],7/10/1973
+57,Barbados,30.0,Nov,Independence Day,1966.0,United Kingdom,Effective date of the Barbados Independence Act 1966,11/30/1966
+58,Botswana,30.0,Sep,Independence Day,1966.0,United Kingdom,Effective date of the Botswana Independence Act 1966[19],9/30/1966
+59,Micronesia,3.0,Nov,Independence Day,1986.0,United States,Effective date of the Compact of Free Association,11/3/1986
+60,Czech Republic,1.0,Jan,Restoration Day,1993.0,Czechoslovakia,Effective date of the Dissolution of Czechoslovakia into Czech Republic and Slovakia[53],1/1/1993
+61,Iceland,17.0,Jun,Independence Day,1944.0,Denmark,Effective date of the dissolution of the Danish–Icelandic Act of Union following the 1944 Icelandic constitutional referendum[59],6/17/1944
+62,"Gambia, The",18.0,Feb,Independence Day,1965.0,United Kingdom,Effective date of the Gambia Independence Act 1964,2/18/1965
+63,India,15.0,Aug,Independence Day,1947.0,United Kingdom,Effective date of the Indian Independence Act 1947,8/15/1947
+64,Pakistan,14.0,Aug,Independence Day (Youm-e-Azadi),1947.0,United Kingdom,Effective date of the Indian Independence Act 1947;[71] see also: Pakistan Day (March 23),8/14/1947
+65,Zimbabwe,18.0,Apr,Independence Day,1980.0,United Kingdom,Effective date of the Lancaster House Agreement,4/18/1980
+66,Cyprus,1.0,Oct,Independence Day,1960.0,United Kingdom,"Effective date of the London-Zürich Agreements was August 16, 1960, but the public holiday was moved to October 1 to avoid summer heat and tourist season.[50]",10/1/1960
+67,"Congo, Democratic Republic of the",30.0,Jun,Independence Day,1960.0,Belgium,"Effective date of the Treaty of Friendship, Assistance and Co-operation between Belgium and the Congo concluded on June 29, 1960[42]",6/30/1960
+68,Trinidad and Tobago,31.0,Aug,Independence Day,1962.0,United Kingdom,Effective date of the Trinidad and Tobago Independence Act 1962,8/31/1962
+69,Burundi,1.0,Jul,Independence Day,1962.0,Belgium,Effective date of the United Nations General Assembly Resolution 1746 terminating the Ruanda-Urundi Trusteeship[26][27],7/1/1962
+70,Rwanda,1.0,Jul,Independence Day,1962.0,Belgium,Effective date of the United Nations General Assembly Resolution 1746 terminating the Ruanda-Urundi Trusteeship[26][27],7/1/1962
+71,Zambia,24.0,Oct,Independence Day,1964.0,United Kingdom,Effective date of the Zambia Independence Act 1964,10/24/1964
+72,Central African Republic,1.0,Dec,National Day,1958.0,France,Effective date when Central African Republic became an autonomous republic of the French Community[33],12/1/1958
+73,Chad,28.0,Nov,Republic Day,1958.0,France,Effective date when Chad became an autonomous republic in the French Community[36],11/28/1958
+74,"Congo, Republic of the",28.0,Nov,Republic Day,1958.0,France,Effective date when Congo became an autonomous republic in the French Community[43],11/28/1958
+75,Burkina Faso,11.0,Dec,Proclamation of Independence Day,1958.0,France,Effective date when French Upper Volta became an autonomous republic in the French Community,12/11/1958
+76,Belize,21.0,Sep,Independence Day,1981.0,United Kingdom,Effective day of the Belize Act 1981[17],9/21/1981
+77,Syria,17.0,Apr,Evacuation Day,1946.0,France,End of the French Mandate of Syria in 1946.,4/17/1946
+78,Chile,18.0,Sep,Independence Day (part of Fiestas Patrias),1810.0,Spanish Empire,"Establishment of the Government Junta of Chile.[37] The following day, September 19, is celebrated as the Army Day.[38] The two holidays collectively are known as Fiestas Patrias.[39]",9/18/1810
+79,Estonia,24.0,Feb,Independence Day,1918.0,Russian Soviet Federative Socialist Republic,Estonian Declaration of Independence,2/24/1918
+80,Estonia,20.0,Aug,Day of Restoration of Independence[55],1991.0,Soviet Union[55],Estonian Restoration of Independence,8/20/1991
+81,Finland,6.0,Dec,Independence Day,1917.0,Russian Soviet Federative Socialist Republic,Finnish Declaration of Independence,12/6/1917
+82,Croatia,30.0,May,Statehood Day,1990.0,SFR Yugoslavia,"First session of the Croatian Parliament following the 1990 Croatian parliamentary election.[45] October 8 (when the parliament adopted a decision to sever constitutional relations with Yugoslavia in 1991) and June 25 (when the parliament voted for independence in 1991) were also celebrated as independence days. After the 2019 changes to the law on public holidays, October 8 is the Parliament Day and June 25 is the Independence Day, but they are memorial days and not public holidays.[44]",5/30/1990
+83,North Korea,15.0,Aug,Chogukhaebangui nal,1945.0,Empire of Japan,Founding of the Democratic People's Republic of Korea in 1948. Korean War 1950–1953.,8/15/1945
+84,Haiti,1.0,Jan,Independence Day,1804.0,France,Haitian Declaration of Independence,1/1/1804
+85,Mozambique,25.0,Jun,Independence DayDia da Independencia Nacional,1975.0,Portugal,"In September 1964 the Mozambique Liberation Front (FRELIMO) began an armed guerilla campaign against the Portuguese. FRELIMO took control of Maputo in April 1974 in a coup. Independence for Mozambique was officially declared a year later on June 25, 1975.[70]",6/25/1975
+86,Panama,28.0,Nov,Independence Day,1821.0,Spain,Independence Act of Panama,11/28/1821
+87,Tanzania,9.0,Dec,Independence Day,1961.0,United Kingdom,Independence as Tanganyika,12/9/1961
+88,Czech Republic,28.0,Oct,Independence Day,1918.0,Austria-Hungary,Independence declaration by the Czechoslovak National Council[51],10/28/1918
+89,Mongolia,29.0,Dec,Independence Day,1911.0,Qing China[65][66],"Independence declared in 1911 during the Xinhai Revolution. However, Mongolian independence was neither recognized by Qing China nor its successor state, the Republic of China. The Imperial Edict of the Abdication of the Qing Emperor issued in 1912 provided the legal basis for the Republic of China to inherit all Qing territories, including Mongolia.[67][68][69] The Republic of China later established de facto control over Mongolia in 1919. Mongolia subsequently re-asserted its independence in 1921.",12/29/1911
+90,Libya,24.0,Dec,Independence Day,1951.0,Italy,"Independence from Italy on February 10, 1947, released from British and French on December 24, 1951.",12/24/1951
+91,Dominican Republic,27.0,Feb,Independence Day,1821.0,Spain,"Independence from Spain in December 1821.[54] Independence re-declared from Haiti in 1844, after a 22-year occupation.",2/27/1821
+92,South Africa,11.0,Dec,Not a holiday,1931.0,United Kingdom,"Independence in 1931 in terms of the Balfour Declaration of 1926 which is not a public holiday. The Union of South Africa formed on May 31, 1910 and the Republic of South Africa declared on May 31, 1961 under minority rule during Apartheid. Majority rule achieved on April 27, 1994, which is celebrated annually as the Freedom Day.",12/11/1931
+93,Jamaica,6.0,Aug,Independence Day,1962.0,United Kingdom,Independence of Jamaica,8/6/1962
+94,Fiji,10.0,Oct,Fiji Day,1970.0,United Kingdom,Instruments of Independence,10/10/1970
+95,Israel,14.0,May,Yom Ha'atzmaut,1948.0,United Kingdom and the British Mandate for Palestine,"Israeli Declaration of Independence on May 14, 1948 (5 Iyar 5708 in the Hebrew calendar). Yom Ha'atzmaut is celebrated on the Tuesday, Wednesday or Thursday nearest to 5 Iyar, so it occurs between 3 and 6 Iyar each year; this means that the holiday can fall any time between and including April 15 and May 15, according to the Gregorian calendar.",5/14/1948
+96,Saudi Arabia,23.0,Sep,National Day,1932.0,N/A,"King Abdulaziz renames the Arabian Peninsula after himself ""House of Saud"" or ""Saud's Arabia"". King Abdullah officially recognized it in 2005 by royal decree.",9/23/1932
+97,South Korea,1.0,Mar,Samiljeol,1919.0,Empire of Japan,"Korean Declaration of Independence in 1919. This day is celebrated as Samiljeol, or Independence Proclamation Day.",3/1/1919
+98,South Korea,15.0,Aug,Gwangbokjeol,1945.0,Empire of Japan,Liberation from the Empire of Japan in 1945. See Japanese Occupation of Korea. The Provisional Government of the Republic of Korea was founded in 1919. Korean War 1950–1953.,8/15/1945
+99,Liberia,26.0,Jul,Independence Day,1847.0,American Colonization Society,Liberian Declaration of Independence,7/26/1847
+100,Malaysia,31.0,Aug,Hari Merdeka,1957.0,United Kingdom,Malayan Declaration of Independence,8/31/1957
+101,Moldova,27.0,Aug,Independence Day,1991.0,Soviet Union,Moldovan Declaration of Independence,8/27/1991
+102,Qatar,18.0,Dec,National Day,1878.0,Ottoman Empire,NA,12/18/1878
+103,Eswatini,6.0,Sep,Somhlolo Day,1968.0,United Kingdom,"Named for Ngwane IV, Somhlolo, who reigned from 1815 to 1836 and created a kingdom comparable to the Zulu, the Maroti, or the Pedi.",9/6/1968
+104,Norway,17.0,May,Constitution Day,1814.0,Denmark,"National Day: Independence and the Constitution of Norway (May 17, 1814)",5/17/1814
+105,Latvia,4.0,May,Independence Day,1990.0,Soviet Union,On the Restoration of Independence of the Republic of Latvia,5/4/1990
+106,Palestine,15.0,Nov,National Day,1988.0,Israel,Palestinian Declaration of Independence,11/15/1988
+107,Panama,3.0,Nov,Independence Day,1903.0,Colombia,"Panama was member of the ""Gran Colombia"" until 1903. The 1903 separation from Colombia is celebrated as an official holiday day on November 3.",11/3/1903
+108,Philippines,12.0,Jun,Independence Day (Araw ng Kalayaan or Araw ng Kasarinlan),1898.0,Spanish Empire,"Philippine Declaration of Independence by Emilio Aguinaldo during the Philippine Revolution against Spain. The Philippines achieved self-rule from the United States on July 4, 1946, and celebrated July 4 as Independence Day until 1964.[75]",6/12/1898
+109,Portugal,1.0,Dec,Restoration of Independence Day,1640.0,Spanish Empire,"Portugal was officially an autonomous state, but the country was in a personal union with the Spanish crown from 1580 to 1640 – date of the restoration of full Portuguese autonomy from Iberian Union with Spain.[76]",12/1/1640
+110,Ecuador,10.0,Aug,Independence Day,1809.0,Spanish Empire,"Proclaimed independence on August 10, 1809, but failed with the execution of all the conspirators of the movement on August 2, 1810.",8/10/1809
+111,Bangladesh,26.0,Mar,Independence Day,1971.0,Pakistan,Proclamation of Bangladeshi Independence,3/26/1971
+112,Vietnam,2.0,Sep,Independence Day,1945.0,Empire of Japan and France,Proclamation of Independence of the Democratic Republic of Vietnam,9/2/1945
+113,Latvia,18.0,Nov,Proclamation Day of the Republic of Latvia,1918.0,Russian Soviet Federative Socialist Republic and German Empire,"Proclamation of independence on November 18, 1918. Latvia was part of Russian Empire prior to World War I, but its territory had been ceded to German Empire in March 1918",11/18/1918
+114,Indonesia,17.0,Aug,Independence Day (Hari Kemerdekaan),1945.0,Netherlands and Japan,Proclamation of Indonesian Independence,8/17/1945
+115,Singapore,9.0,Aug,National Day,1965.0,Malaysia,Proclamation of Singapore,8/9/1965
+116,Ireland,24.0,Apr,Independence Day,1916.0,United Kingdom of Great Britain and Ireland,Proclamation of the Irish Republic commencing the Easter Rising. Usually celebrated on Easter Monday.,4/24/1916
+117,Hungary,19.0,Jun,Day of Hungarian Freedom (A magyar szabadság napja),1991.0,N/A,Restoration of Hungary's sovereignty after the withdrawal of Soviet troops in June 1991.[57][58],6/29/1991
+118,Poland,11.0,Nov,Independence Day (Swieto Niepodleglosci),1918.0,Russian Soviet Federative Socialist Republic and German Empire,"Restoration of Poland's independence in 1918 after 123 years of partitions by Russia, Prussia, and Austria.",11/11/1918
+119,Morocco,18.0,Nov,Independence Day,1955.0,France and Spain,Return of Mohammed V of Morocco from exile,11/18/1955
+120,Romania,9.0,May,State Independence Day of Romania(Ziua Independenței de Stat a României),1877.0,Ottoman Empire,"Romania's declaration of its independence and subsequent victory in the Romanian War of Independence, part of the Russo-Turkish War of 1877–1878, against the Ottoman Empire.[77]",5/9/1877
+121,Mexico,16.0,Sep,Grito de DoloresDia de la Independéncia,1810.0,Spanish Empire,Start of the Mexican War of Independence,9/16/1810
+122,France,14.0,Jul,National Day or Bastille Day,1789.0,N/A,Storming of the Bastille,7/14/1789
+123,Tonga,4.0,Jun,Independence Day,1970.0,United Kingdom,Termination of protectorate status in 1970,6/4/1970
+124,Angola,11.0,Nov,Independence Day,1975.0,Portugal,"The Alvor Agreement, signed on 15 January 1975, granted Angola independence from Portugal on 11 November, ending the Angolan War of Independence.[7]",11/11/1975
+125,Serbia,15.0,Feb,Statehood Day,1804.0,Ottoman Empire,"The beginning of First Serbian Uprising in 1804, it evolved into a Serbian Revolution, war for independence from Ottoman Empire; and the adoption of the first Constitution in 1835.",2/15/1804
+126,Antigua and Barbuda,1.0,Nov,Independence Day,1981.0,United Kingdom,The effective date of the Antigua Termination of Association Order passed by the Parliament of the United Kingdom in July[8][9],11/1/1981
+127,Qatar,18.0,Dec,Independence from Britain,1971.0,United Kingdom,The former is celebrated more often,12/18/1971
+128,Belarus,3.0,Jul,Independence Day,1944.0,Germany,The liberation of Minsk after several years of German occupation in 1944. Two other independence days – March 25 (proclamation of the Belarusian People's Republic in 1918) and July 27 (independence from the Soviet Union in 1990) – are commemorated unofficially.[15],7/3/1944
+129,Bulgaria,3.0,Mar,Liberation Day,1878.0,Ottoman Empire,Treaty of San Stefano which created the autonomous Principality of Bulgaria[23],3/3/1878
+130,Ukraine,22.0,Jan,Day of Unity,1919.0,Russian Soviet Federative Socialist Republic,"Unification of Ukraine on January 22, 1919.[81]",1/22/1919
+131,Comoros,6.0,Jul,Independence Day,1975.0,France,Unilateral declaration of independence by the Chamber of Deputies of Comoros following the 1974 Comorian independence referendum[41],7/6/1975
+132,Norway,7.0,Jun,Independence Day,1905.0,Sweden,"Union Dissolution and Independence Day (June 7, 1905)",6/7/1905
+133,Somalia,1.0,Jul,Independence Day,1960.0,Italy and United Kingdom,Union of the Trust Territory of Somalia (former Italian Somaliland) and British Somaliland to form the Somali Republic. Event commemorated annually.,7/1/1960
+134,United States,4.0,Jul,Independence Day or Fourth of July,1776.0,Kingdom of Great Britain,United States Declaration of Independence,7/4/1776
+135,Venezuela,5.0,Jul,Independence Day,1811.0,Spanish Empire,Venezuelan Declaration of Independence,7/5/1811
+136,Georgia,9.0,Apr,Day of National Unity,1991.0,Soviet Union,N/A,4/9/1991
+137,Peru,28.0,Jul,Fiestas Patrias,1821.0,Spanish Empire,N/A,7/28/1821
+138,Djibouti,27.0,Jun,Independence Day,1977.0,France,N/A,6/27/1977
+139,Dominica,3.0,Nov,Independence Day,1978.0,United Kingdom,N/A,11/3/1978
+140,Eritrea,24.0,May,Independence Day,1991.0,Ethiopia,N/A,5/24/1991
+141,Ghana,6.0,Mar,Independence Day,1957.0,United Kingdom,N/A,3/6/1957
+142,Grenada,7.0,Feb,Independence Day,1974.0,United Kingdom,N/A,2/7/1974
+143,Kazakhstan,16.0,Dec,Independence Day,1991.0,Soviet Union,N/A,12/16/1991
+144,Kyrgyzstan,31.0,Aug,Independence Day,1991.0,Soviet Union,N/A,8/31/1991
+145,Lebanon,22.0,Nov,Independence Day,1943.0,France,N/A,11/22/1943
+146,Malta,21.0,Sep,Independence Day,1964.0,United Kingdom,N/A,9/21/1964
+147,Nigeria,1.0,Oct,Independence Day,1960.0,United Kingdom,N/A,10/1/1960
+148,Paraguay,14.0,May,Independence Day,1811.0,Spanish Empire[72],N/A,5/14/1811
+149,Saint Kitts and Nevis,19.0,Sep,Independence Day,1983.0,United Kingdom,N/A,9/19/1983
+150,Saint Lucia,22.0,Feb,Independence Day,1979.0,United Kingdom,N/A,2/22/1979
+151,Saint Vincent and the Grenadines,27.0,Oct,Independence Day,1979.0,United Kingdom,N/A,10/27/1979
+152,Senegal,4.0,Apr,Independence Day,1960.0,France,N/A,4/4/1960
+153,Sierra Leone,27.0,Apr,Independence Day,1961.0,United Kingdom,N/A,4/27/1961
+154,Solomon Islands,7.0,Jul,Independence Day,1978.0,United Kingdom,N/A,7/7/1978
+155,South Sudan,9.0,Jul,Independence Day,2011.0,Sudan,N/A,7/9/2011
+156,Sri Lanka,4.0,Feb,Independence Day,1948.0,United Kingdom,N/A,2/4/1948
+157,Sudan,1.0,Jan,Independence Day,1956.0,Egypt and the United Kingdom,N/A,1/1/1956
+158,Suriname,25.0,Nov,Independence Day,1975.0,Netherlands,N/A,11/25/1975
+159,Tajikistan,9.0,Sep,Independence Day,1991.0,Soviet Union,N/A,9/9/1991
+160,Tunisia,20.0,Mar,Independence Day,1956.0,France,N/A,3/20/1956
+161,Turkmenistan,27.0,Sep,Independence Day,1991.0,Soviet Union[80],N/A,9/27/1991
+162,Tuvalu,1.0,Oct,Independence Day,1978.0,United Kingdom,N/A,10/1/1978
+163,Uganda,9.0,Oct,Independence Day,1962.0,United Kingdom,N/A,10/9/1962
+164,Uzbekistan,1.0,Sep,Independence Day,1991.0,Soviet Union,N/A,9/1/1991
+165,Vanuatu,30.0,Jul,Independence Day,1980.0,United Kingdom and France,N/A,7/30/1980
+166,North Macedonia,8.0,Sep,Independence Day (Den na nezavisnosta),1991.0,SFR Yugoslavia,N/A,9/8/1991
+167,Kenya,12.0,Dec,Jamhuri Day,1963.0,United Kingdom,N/A,12/12/1963
+168,Oman,18.0,Nov,National Day,1650.0,Portugal,N/A,11/18/1650
+169,United Arab Emirates,2.0,Dec,National Day,1971.0,United Kingdom,N/A,12/2/1971
+170,Morocco,11.0,Jan,Proclamation of Independence Day,1944.0,France and Spain,N/A,1/11/1944
+171,India,26.0,Jan,Republic Day,1950.0,N/A,N/A,1/26/1950
+172,Equatorial Guinea,12.0,Oct,Independence Day,1968.0,Spain,N/A,10/12/1968
+173,Guinea,2.0,Oct,Independence Day,1958.0,France,N/A,10/2/1958
+174,Guyana,26.0,May,Independence Day,1966.0,United Kingdom,N/A,5/26/1966
+175,Iraq,3.0,Oct,Independence Day,1932.0,United Kingdom,N/A,10/3/1932
+176,Kiribati,12.0,Jul,Independence Day,1979.0,United Kingdom,N/A,7/12/1979
+177,Kuwait,25.0,Feb,Independence Day,1961.0,United Kingdom,N/A,2/25/1961
+178,Lesotho,4.0,Oct,Independence Day,1966.0,United Kingdom,N/A,10/4/1966
+179,Madagascar,26.0,Jun,Independence Day,1960.0,France,N/A,6/26/1960
+180,Malawi,6.0,Jul,Independence Day,1964.0,United Kingdom,N/A,7/6/1964
+181,Maldives,26.0,Jul,Independence Day,1965.0,United Kingdom,N/A,7/26/1965
+182,Mali,22.0,Sep,Independence Day,1960.0,France,N/A,9/22/1960
+183,Mauritius,12.0,Mar,Independence Day,1968.0,United Kingdom,N/A,3/12/1968
+184,Namibia,21.0,Mar,Independence Day,1990.0,South Africa,N/A,3/21/1990
+185,Nauru,31.0,Jan,Independence Day,1968.0,"Australia, New Zealand and the United Kingdom",N/A,1/31/1968
+186,Papua New Guinea,16.0,Sep,Independence Day,1975.0,Australia of the former Territory of Papua and New Guinea,N/A,9/16/1975
+187,Samoa,1.0,Jun,Independence Day,1962.0,New Zealand,N/A,6/1/1962
+188,Seychelles,29.0,Jun,Independence Day,1976.0,United Kingdom,N/A,6/29/1976
+189,Togo,27.0,Apr,Independence Day,1960.0,France,N/A,4/27/1960
