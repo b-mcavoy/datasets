@@ -1,4 +1,4 @@
-# Click the links below to read more information about the datasets in the Animals folder.
+# Click the links below to read more information about the datasets in the Geography folder.
 
 - [2017 Women's March Attendance by US City](https://studio.code.org/data_docs/womens-march/)
 - [Countries and Territories](https://studio.code.org/data_docs/countries-and-territories/)
