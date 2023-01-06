@@ -1,0 +1,29 @@
+id,Team,Location,Stadium,Capacity,Joined,Head coach,Conference
+1,Atlanta United FC,"Atlanta, Georgia",Mercedes-Benz Stadium,42500.0,2017.0,Gonzalo Pineda,Eastern
+2,Charlotte FC,"Charlotte, North Carolina",Bank of America Stadium,38000.0,2022.0,Miguel Ángel Ramírez,Eastern
+3,Chicago Fire FC,"Chicago, Illinois",Soldier Field,24995.0,1998.0,Ezra Hendrickson,Eastern
+4,FC Cincinnati,"Cincinnati, Ohio",TQL Stadium,26000.0,2019.0,Pat Noonan,Eastern
+5,Columbus Crew,"Columbus, Ohio",Lower.com Field,20371.0,1996.0,Caleb Porter,Eastern
+6,D.C. United,"Washington, D.C.",Audi Field,20000.0,1996.0,Chad Ashton (interim),Eastern
+7,Inter Miami CF,"Fort Lauderdale, Florida",DRV PNK Stadium,18000.0,2020.0,Phil Neville,Eastern
+8,CF Montréal,"Montreal, Quebec",Saputo Stadium,19619.0,2012.0,Wilfried Nancy,Eastern
+9,New England Revolution,"Foxborough, Massachusetts",Gillette Stadium,20000.0,1996.0,Bruce Arena,Eastern
+10,New York City FC,"New York City, New York",Yankee Stadium,30321.0,2015.0,Ronny Deila,Eastern
+11,New York Red Bulls,"Harrison, New Jersey",Red Bull Arena,25000.0,1996.0,Gerhard Struber,Eastern
+12,Orlando City SC,"Orlando, Florida",Exploria Stadium,25500.0,2015.0,Óscar Pareja,Eastern
+13,Philadelphia Union,"Chester, Pennsylvania",Subaru Park,18500.0,2010.0,Jim Curtin,Eastern
+14,Toronto FC,"Toronto, Ontario",BMO Field,28351.0,2007.0,Bob Bradley,Eastern
+15,Austin FC,"Austin, Texas",Q2 Stadium,20738.0,2021.0,Josh Wolff,Western
+16,Colorado Rapids,"Commerce City, Colorado",Dick's Sporting Goods Park,18061.0,1996.0,Robin Fraser,Western
+17,FC Dallas,"Frisco, Texas",Toyota Stadium,20500.0,1996.0,Nico Estévez,Western
+18,Houston Dynamo FC,"Houston, Texas",PNC Stadium,22039.0,2006.0,Paulo Nagamura,Western
+19,Sporting Kansas City,"Kansas City, Kansas",Children's Mercy Park,18467.0,1996.0,Peter Vermes,Western
+20,LA Galaxy,"Carson, California",Dignity Health Sports Park,27000.0,1996.0,Greg Vanney,Western
+21,Los Angeles FC,"Los Angeles, California",Banc of California Stadium,22000.0,2018.0,Steve Cherundolo,Western
+22,Minnesota United FC,"Saint Paul, Minnesota",Allianz Field,19400.0,2017.0,Adrian Heath,Western
+23,Nashville SC,"Nashville, Tennessee",Geodis Park,30000.0,2020.0,Gary Smith,Western
+24,Portland Timbers,"Portland, Oregon",Providence Park,25218.0,2011.0,Giovanni Savarese,Western
+25,Real Salt Lake,"Sandy, Utah",Rio Tinto Stadium,20213.0,2005.0,Pablo Mastroeni,Western
+26,San Jose Earthquakes,"San Jose, California",PayPal Park,18000.0,1996.0,Alex Covelo (interim),Western
+27,Seattle Sounders FC,"Seattle, Washington",Lumen Field,37722.0,2009.0,Brian Schmetzer,Western
+28,Vancouver Whitecaps FC,"Vancouver, British Columbia",BC Place,22120.0,2011.0,Vanni Sartini,Western

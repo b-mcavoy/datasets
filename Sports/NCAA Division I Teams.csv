@@ -1,0 +1,131 @@
+id,University,Team nickname,City,State,Enrollment,Current conference
+1,Air Force,Falcons,Colorado Springs,Colorado,4237.0,Mountain West
+2,Akron,Zips,Akron,Ohio,19200.0,MAC
+3,Alabama,Crimson Tide,Tuscaloosa,Alabama,38500.0,SEC
+4,Appalachian State,Mountaineers,Boone,North Carolina,19100.0,Sun Belt
+5,Arizona,Wildcats,Tucson,Arizona,45200.0,Pac-12
+6,Arizona State,Sun Devils,Tempe,Arizona,51800.0,Pac-12
+7,Arkansas,Razorbacks,Fayetteville,Arkansas,27800.0,SEC
+8,Arkansas State,Red Wolves,Jonesboro,Arkansas,22000.0,Sun Belt
+9,Army,Black Knights,West Point,New York,4300.0,Independent
+10,Auburn,Tigers,Auburn,Alabama,30400.0,SEC
+11,Ball State,Cardinals,Muncie,Indiana,22500.0,MAC
+12,Baylor,Bears,Waco,Texas,17200.0,Big 12
+13,Boise State,Broncos,Boise,Idaho,25500.0,Mountain West
+14,Boston College,Eagles,Chestnut Hill,Massachusetts,14700.0,ACC
+15,Bowling Green,Falcons,Bowling Green,Ohio,23000.0,MAC
+16,Buffalo,Bulls,Buffalo,New York,31500.0,MAC
+17,BYU,Cougars,Provo,Utah,33600.0,Independent
+18,California,Golden Bears,Berkeley,California,42500.0,Pac-12
+19,Central Michigan,Chippewas,Mount Pleasant,Michigan,21700.0,MAC
+20,Charlotte,49ers,Charlotte,North Carolina,29700.0,C-USA
+21,Cincinnati,Bearcats,Cincinnati,Ohio,46000.0,American
+22,Clemson,Tigers,Clemson,South Carolina,25000.0,ACC
+23,Coastal Carolina,Chanticleers,Conway,South Carolina,10600.0,Sun Belt
+24,Colorado,Buffaloes,Boulder,Colorado,33200.0,Pac-12
+25,Colorado State,Rams,Fort Collins,Colorado,33800.0,Mountain West
+26,Duke,Blue Devils,Durham,North Carolina,15900.0,ACC
+27,East Carolina,Pirates,Greenville,North Carolina,29100.0,American
+28,Eastern Michigan,Eagles,Ypsilanti,Michigan,20300.0,MAC
+29,FIU,Panthers,Miami,Florida,56800.0,C-USA
+30,Florida,Gators,Gainesville,Florida,56100.0,SEC
+31,Florida Atlantic,Owls,Boca Raton,Florida,30800.0,C-USA
+32,Florida State,Seminoles,Tallahassee,Florida,41900.0,ACC
+33,Fresno State,Bulldogs,Fresno,California,25000.0,Mountain West
+34,Georgia,Bulldogs,Athens,Georgia,38200.0,SEC
+35,Georgia Southern,Eagles,Statesboro,Georgia,26400.0,Sun Belt
+36,Georgia State,Panthers,Atlanta,Georgia,52800.0,Sun Belt
+37,Georgia Tech,Yellow Jackets,Atlanta,Georgia,32700.0,ACC
+38,Hawaii,Rainbow Warriors,Honolulu,Hawai'i,17700.0,Mountain West
+39,Houston,Cougars,Houston,Texas,42700.0,American
+40,Illinois,Fighting Illini,Urbana–Champaign,Illinois,51200.0,Big Ten
+41,Indiana,Hoosiers,Bloomington,Indiana,43700.0,Big Ten
+42,Iowa,Hawkeyes,Iowa City,Iowa,33000.0,Big Ten
+43,Iowa State,Cyclones,Ames,Iowa,33400.0,Big 12
+44,Kansas,Jayhawks,Lawrence,Kansas,27700.0,Big 12
+45,Kansas State,Wildcats,Manhattan,Kansas,21700.0,Big 12
+46,Kent State,Golden Flashes,Kent,Ohio,39300.0,MAC
+47,Kentucky,Wildcats,Lexington,Kentucky,29200.0,SEC
+48,Liberty,Flames,Lynchburg,Virginia,15000.0,FBS Independent
+49,Louisiana,Ragin' Cajuns,Lafayette,Louisiana,19200.0,Sun Belt
+50,Louisiana–Monroe,Warhawks,Monroe,Louisiana,8800.0,Sun Belt
+51,Louisiana Tech,Bulldogs,Ruston,Louisiana,12400.0,C-USA
+52,Louisville,Cardinals,Louisville,Kentucky,22600.0,ACC
+53,LSU,Tigers,Baton Rouge,Louisiana,30800.0,SEC
+54,Marshall,Thundering Herd,Huntington,West Virginia,13200.0,C-USA
+55,Maryland,Terrapins,College Park,Maryland,41200.0,Big Ten
+56,Memphis,Tigers,Memphis,Tennessee,21500.0,American
+57,Miami (FL),Hurricanes,Coral Gables,Florida,17300.0,ACC
+58,Miami (OH),RedHawks,Oxford,Ohio,24300.0,MAC
+59,Michigan,Wolverines,Ann Arbor,Michigan,46000.0,Big Ten
+60,Michigan State,Spartans,East Lansing,Michigan,50300.0,Big Ten
+61,Middle Tennessee,Blue Raiders,Murfreesboro,Tennessee,21900.0,C-USA
+62,Minnesota,Golden Gophers,Minneapolis,Minnesota,47800.0,Big Ten
+63,Mississippi State,Bulldogs,Starkville,Mississippi,22200.0,SEC
+64,Missouri,Tigers,Columbia,Missouri,30000.0,SEC
+65,Navy,Midshipmen,Annapolis,Maryland,4600.0,American
+66,NC State,Wolfpack,Raleigh,North Carolina,35500.0,ACC
+67,Nebraska,Cornhuskers,Lincoln,Nebraska,25800.0,Big Ten
+68,Nevada,Wolf Pack,Reno,Nevada,21600.0,Mountain West
+69,New Mexico,Lobos,Albuquerque,New Mexico,26300.0,Mountain West
+70,New Mexico State,Aggies,Las Cruces,New Mexico,21900.0,Independent
+71,North Carolina,Tar Heels,Chapel Hill,North Carolina,29800.0,ACC
+72,North Texas,Mean Green,Denton,Texas,39400.0,C-USA
+73,Northern Illinois,Huskies,DeKalb,Illinois,20000.0,MAC
+74,Northwestern,Wildcats,Evanston,Illinois,21200.0,Big Ten
+75,Notre Dame,Fighting Irish,South Bend,Indiana,12300.0,Independent
+76,Ohio,Bobcats,Athens,Ohio,34900.0,MAC
+77,Ohio State,Buckeyes,Columbus,Ohio,68100.0,Big Ten
+78,Oklahoma,Sooners,Norman,Oklahoma,28500.0,Big 12
+79,Oklahoma State,Cowboys,Stillwater,Oklahoma,25300.0,Big 12
+80,Old Dominion,Monarchs,Norfolk,Virginia,25000.0,C-USA
+81,Ole Miss,Rebels,Oxford,Mississippi,23200.0,SEC
+82,Oregon,Ducks,Eugene,Oregon,22700.0,Pac-12
+83,Oregon State,Beavers,Corvallis,Oregon,30900.0,Pac-12
+84,Penn State,Nittany Lions,University Park,Pennsylvania,46600.0,Big Ten
+85,Pittsburgh,Panthers,Pittsburgh,Pennsylvania,28600.0,ACC
+86,Purdue,Boilermakers,West Lafayette,Indiana,43400.0,Big Ten
+87,Rice,Owls,Houston,Texas,7100.0,C-USA
+88,Rutgers,Scarlet Knights,Piscataway,New Jersey,70900.0,Big Ten
+89,San Diego State,Aztecs,San Diego,California,34900.0,Mountain West
+90,San Jose State,Spartans,San Jose,California,32800.0,Mountain West
+91,SMU,Mustangs,University Park,Texas,11800.0,American
+92,South Alabama,Jaguars,Mobile,Alabama,15100.0,Sun Belt
+93,South Carolina,Gamecocks,Columbia,South Carolina,50100.0,SEC
+94,South Florida,Bulls,Tampa,Florida,50700.0,American
+95,Southern Miss,Golden Eagles,Hattiesburg,Mississippi,14500.0,C-USA
+96,Stanford,Cardinal,Stanford,California,16500.0,Pac-12
+97,Syracuse,Orange,Syracuse,New York,22900.0,ACC
+98,TCU,Horned Frogs,Fort Worth,Texas,10400.0,Big 12
+99,Temple,Owls,Philadelphia,Pennsylvania,40000.0,American
+100,Tennessee,Volunteers,Knoxville,Tennessee,28900.0,SEC
+101,Texas,Longhorns,Austin,Texas,51800.0,Big 12
+102,Texas A&M,Aggies,College Station,Texas,69400.0,SEC
+103,Texas State,Bobcats,San Marcos,Texas,38800.0,Sun Belt
+104,Texas Tech,Red Raiders,Lubbock,Texas,38200.0,Big 12
+105,Toledo,Rockets,Toledo,Ohio,23100.0,MAC
+106,Troy,Trojans,Troy,Alabama,18100.0,Sun Belt
+107,Tulane,Green Wave,New Orleans,Louisiana,14100.0,American
+108,Tulsa,Golden Hurricane,Tulsa,Oklahoma,4300.0,American
+109,UAB,Blazers,Birmingham,Alabama,21900.0,C-USA
+110,UCF,Knights,Orlando,Florida,68600.0,American
+111,UCLA,Bruins,Los Angeles,California,45400.0,Pac-12
+112,UConn,Huskies,Storrs,Connecticut,32200.0,Independent
+113,UMass,Minutemen,Amherst,Massachusetts,30600.0,Independent
+114,UNLV,Rebels,Las Vegas,Nevada,30500.0,Mountain West
+115,USC,Trojans,Los Angeles,California,45700.0,Pac-12
+116,UTEP,Miners,El Paso,Texas,25100.0,C-USA
+117,UTSA,Roadrunners,San Antonio,Texas,30700.0,C-USA
+118,Utah,Utes,Salt Lake City,Utah,33000.0,Pac-12
+119,Utah State,Aggies,Logan,Utah,29400.0,Mountain West
+120,Vanderbilt,Commodores,Nashville,Tennessee,13100.0,SEC
+121,Virginia,Cavaliers,Charlottesville,Virginia,24400.0,ACC
+122,Virginia Tech,Hokies,Blacksburg,Virginia,33400.0,ACC
+123,Wake Forest,Demon Deacons,Winston-Salem,North Carolina,8100.0,ACC
+124,Washington,Huskies,Seattle,Washington,47900.0,Pac-12
+125,Washington State,Cougars,Pullman,Washington,30600.0,Pac-12
+126,West Virginia,Mountaineers,Morgantown,West Virginia,30000.0,Big 12
+127,Western Kentucky,Hilltoppers,Bowling Green,Kentucky,20300.0,C-USA
+128,Western Michigan,Broncos,Kalamazoo,Michigan,22900.0,MAC
+129,Wisconsin,Badgers,Madison,Wisconsin,44400.0,Big Ten
+130,Wyoming,Cowboys,Laramie,Wyoming,12400.0,Mountain West

@@ -1,0 +1,1005 @@
+id,event,race,city,country,distance,elevation_gain,elevation_loss,aid_stations
+1,Peak District Ultras,Millstone 100,Castleton,United Kingdom,166.9,4520.0,-4520.0,10.0
+2,UTMB®,UTMB®,Chamonix,France,170.7,9930.0,-9930.0,11.0
+3,Grand Raid des Pyrénées,Ultra Tour 160,vielle-Aure,France,167.0,9980.0,-9980.0,13.0
+4,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,164.0,7490.0,-7500.0,13.0
+5,Runfire Salt Lake Ultra,100 Mile,ulukisla,Turkey,159.9,100.0,-100.0,12.0
+6,Swiss Alps 100,160KM,Münster,Switzerland,159.9,9850.0,-9850.0,15.0
+7,Salomon Rondane 100,Salomon Rondane 100,Folldal,Norway,163.8,5460.0,-5460.0,5.0
+8,Ultra Trail des Sources,160KM,Spa,Belgium,163.9,4630.0,-4660.0,8.0
+9,Québec Mega Trail (QMT),QMT-100-MILE,Beaupre,Canada,158.9,6410.0,-6240.0,13.0
+10,Bunketorp Backyard Ultra Trail,BBUT - 24 loops,LINDOME,Sweden,163.7,3100.0,-3100.0,23.0
+11,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,165.2,3130.0,-3170.0,13.0
+12,Beacons 50 & Beacons 100,Beacons 100,Brecon,United Kingdom,164.8,7050.0,-7050.0,5.0
+13,Iznik Ultra,160 K,Iznik,Turkey,149.4,2930.0,-3040.0,12.0
+14,KAT100,KAT100miles,Fieberbrunn,Austria,173.9,9980.0,-9980.0,15.0
+15,Alpindustria Elbrus Race,ElbrusWorldRace,Terskol,Russia,169.9,9010.0,-9010.0,0.0
+16,Burning River Endurance Run,Burning River 100 Mile,Hudson,United States,163.7,2700.0,-2700.0,14.0
+17,The Gax 100 miles,The Gax 100 miles,Ystad,Sweden,162.3,1510.0,-1510.0,3.0
+18,Terres Monviso,100 Miglia Monviso,Saluzzo,Italy,168.8,8380.0,-8380.0,17.0
+19,The Gax 100 miles,The Gax 100 miles Tuesday,Ystad,Sweden,162.3,1500.0,-1500.0,3.0
+20,Tahoe Rim Trail Endurance Runs 100M/50M/55K,100 Mile,Carsoncity,United States,161.1,6170.0,-6160.0,7.0
+21,Ultra Tour des 4 Massifs,Ut4M 160 Xtrem,Grenoble,France,179.1,11290.0,-11350.0,17.0
+22,Ultra Tour des 4 Massifs,Ut4M 160 Challenge,Grenoble,France,173.1,11810.0,-11710.0,12.0
+23,Brisbane Trail Ultra,Brisbane Trail Ultra 100 mile,Brisbane,Australia,160.5,7580.0,-7610.0,7.0
+24,Centurion Wendover Woods 100,Wendover Woods 100,Wendover,United Kingdom,168.0,6610.0,-6600.0,19.0
+25,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,163.2,8650.0,-8630.0,13.0
+26,NUTS Ylläs Pallas,160K,Äkäslompolo,Finland,164.3,4020.0,-4100.0,8.0
+27,ULTRA 01,Ultra 01 170 KM,Oyonnax,France,174.9,7590.0,-7590.0,15.0
+28,Val d’Aran by UTMB®,VDA,Vielha,Spain,162.9,10690.0,-10690.0,14.0
+29,Austria Backyard Ultra,24 LOOPS,Frankenmarkt,Austria,160.7,2570.0,-2570.0,24.0
+30,Western States Endurance Run,Western States Endurance Run,Auburn,United States,161.0,5850.0,-7360.0,20.0
+31,Jurassic Coast 100,Jurassic Coast 100M,Swanage,United Kingdom,168.2,4740.0,-4680.0,9.0
+32,Mohican 100 Trail Run,Mohican 100 Mile Trail Run,Loudonville,United States,158.9,3700.0,-3700.0,19.0
+33,Ultra Trail Gaspesia 100,100 miles,Percé,Canada,159.0,4130.0,-4130.0,21.0
+34,MARATON VIA TRANSILVANICA,VIA TRANSILVANICA ULTRAMARATON,PiatraFântânele,Romania,161.8,5410.0,-4950.0,8.0
+35,Oh Meu Deus,100 Milhas OMD,Seia,Portugal,159.2,7330.0,-7330.0,9.0
+36,Oh Meu Deus,OH MEU DEUS 160 TEAM,Seia,Portugal,159.2,7330.0,-7330.0,9.0
+37,Salomon Hengill Ultra-Trail ©,100miles,Hveragerdi,Iceland,161.7,5530.0,-5550.0,10.0
+38,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,165.0,7046.0,-7047.0,10.0
+39,TransPenedaGerês,TPG 168k Race of the 4 Castles,Melgaço,Portugal,166.2,9360.0,-8540.0,6.0
+40,Chester Ultra 50,Chester Ultra 100,chester,United Kingdom,167.0,1540.0,-1550.0,10.0
+41,Grand Trail Des Lacs Et Chateaux (GTLC),GT160,Waimes,Belgium,165.3,6200.0,-6200.0,0.0
+42,WHW & Ben Nevis Race,WHW & Ben Nevis Race,FortWilliam,United Kingdom,165.4,5110.0,-5080.0,9.0
+43,Bryce Canyon,Bryce Canyon 100 Mile,Hatch,United States,157.1,4310.0,-4310.0,15.0
+44,Festiwal Biegowy ULTRA WAY,PORANEK NA PLAZY 160 km+,Rumia,Poland,163.3,3020.0,-3030.0,7.0
+45,NUTS Karhunkierros,166K,Kuusamo,Finland,169.6,3910.0,-3940.0,7.0
+46,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,163.0,4230.0,-4310.0,6.0
+47,Mac Mac Ultra,100m,Pretoria,South Africa,156.8,6300.0,-6540.0,14.0
+48,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,171.8,8640.0,-8640.0,8.0
+49,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,169.2,4060.0,-4060.0,9.0
+50,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.3,3210.0,-3160.0,13.0
+51,Hubert 100,Hubert 100M,Hawker,Australia,157.7,2430.0,-2430.0,8.0
+52,The Dales High Way,Dales High Way + High Cup Nick,Saltaire,United Kingdom,166.2,4430.0,-4380.0,8.0
+53,Gulag-100,Gulag-100,Litochoro,Greece,167.1,14260.0,-14260.0,4.0
+54,100 miles of Beskid Wyspowy,100 miles of Beskid Wyspowy,Zalesie,Poland,164.5,6610.0,-6620.0,8.0
+55,Bó Trail,Bó Trail 170K,yibin,China,161.7,8440.0,-8440.0,13.0
+56,Yarikan100,Yarikan100,Ishikawa,Japan,164.7,8700.0,-8700.0,22.0
+57,Sengenyama 100,4th Sengenyama 100 (mile),Hayama,Japan,166.4,6110.0,-6110.0,8.0
+58,Mt. Fuji 100 Mile Challenge,100 mile,Fuji,Japan,161.9,7340.0,-7380.0,4.0
+59,Tamba 100 Adventure Trail,Tamba 100 Adventure Trail,Tamba,Japan,162.7,9200.0,-9200.0,13.0
+60,Ultra-Trail® Drakensberg,UTD 160,Underberg,South Africa,171.6,5160.0,-6500.0,12.0
+61,Jiangnan 100 Mile,100Mile,Ningbo,China,161.0,7060.0,-7060.0,13.0
+62,Zion,Zion 100,Virgin,United States,160.8,2830.0,-2880.0,15.0
+63,Patagonia Run,100 Miles,SanMartinDeLosAndes,Argentina,163.7,8140.0,-8140.0,15.0
+64,Ultra Trail Jinan,168km,jinan,China,161.5,10810.0,-10790.0,16.0
+65,QLG168,QLG168,QUZHOU,China,168.0,10740.0,-10740.0,10.0
+66,Antelope Island Buffalo Run,100 mile,Syracuse,United States,162.0,2200.0,-2200.0,16.0
+67,Kullamannen 2021 Covid-19,Kullamannen 100 miles,Kullaberg,Sweden,163.6,1910.0,-1930.0,4.0
+68,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,161.4,9460.0,-9470.0,12.0
+69,UTTGN Sport HG | TARRAGONA,Gran Trail Catalunya,Tarragona,Spain,169.8,5160.0,-5160.0,13.0
+70,Victoria 162,V162 Virtual,HongKong,"Hong Kong, China",166.7,7700.0,-7700.0,0.0
+71,Victoria 162,3-day Race Virtual,HongKong,"Hong Kong, China",165.9,8320.0,-8340.0,0.0
+72,Storstenshöjden 100 miles,Storstenshöjden 100 miles,Örebro,Sweden,168.4,11550.0,-11530.0,0.0
+73,Tarawera Ultramarathon,100 Miler,Rotorua,New Zealand,165.4,5510.0,-5520.0,14.0
+74,HOKA ONE ONE Rocky Raccoon,100 Mile,Huntsville,United States,160.9,2200.0,-2200.0,19.0
+75,Coldwater Rumble,100 Miles,Goodyear,United States,161.8,2660.0,-2670.0,16.0
+76,The Great Southern Alps Miler,The Great Southern Alps Miler,HanmerSprings,New Zealand,160.3,3180.0,-3300.0,8.0
+77,UTCL100,UTCL 100 Miles,Bogor,Indonesia,161.0,6420.0,-6410.0,18.0
+78,UTSZ 2020 Trail Races,UTSZ 100 miles,Shenzhen,China,162.6,6610.0,-6630.0,8.0
+79,Run Guizhou League Finals,Luodian168KM,Luodian,China,167.7,9770.0,-9770.0,15.0
+80,Mad Fox Ultra Rise,Valhalla Race,PereslavlZalesskiy,Russia,167.5,1200.0,-1200.0,10.0
+81,Around The Valley - Sovev Emek,sovev emek 166km,ainhasofet,Israel,172.9,3840.0,-3840.0,18.0
+82,Falls 100 Ultra Trail Race,Falls 100 - 100 Mile,FallsofRough,United States,164.5,4310.0,-4310.0,24.0
+83,Blood Rock 100 Mile Endurance Trail Race,100 Mile,Pelham,United States,161.9,7610.0,-7610.0,16.0
+84,Sky Ultra Pico Mx,SKY ULTRA PICO MX 100M,ORIZABA,Mexico,160.2,8660.0,-8660.0,15.0
+85,Ultra Trail Three Gorges,UTTG,Yichang,China,170.8,10470.0,-10320.0,13.0
+86,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,160.9,2590.0,-2590.0,5.0
+87,Panda Trail by UTMB®,DPT,Dujiangyan,China,157.8,9280.0,-9280.0,12.0
+88,Sengenyama 100,Sengenyama 100,Hayama,Japan,166.4,6100.0,-6100.0,4.0
+89,Jiangnan 100 Mile,100Mile - November,Ningbo,China,160.5,7060.0,-7060.0,13.0
+90,Pinhoti 100,Pinhoti 100,Sylacauga,United States,155.0,4060.0,-4180.0,17.0
+91,Rim to River Endurance Company,Rim to River 100,OakHill,United States,160.9,3760.0,-3750.0,8.0
+92,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,161.4,1690.0,-1690.0,21.0
+93,Pong Yaeng Trail,Pong Yaeng Trail 166,ChiangMai,Thailand,167.5,8280.0,-8060.0,14.0
+94,Javelina Jundred,100 Miles,FortMcDowell,United States,160.5,1720.0,-1720.0,26.0
+95,Mohican 100 Trail Run,Mohican 100 Mile Trail Run,Loudonville,United States,156.0,3630.0,-3620.0,19.0
+96,Halloween hike,160 km,Kannonkoski,Finland,160.3,2110.0,-2110.0,5.0
+97,THAILAND BY UTMB,Inthanon 6,ChomThong,Thailand,159.6,7340.0,-7340.0,15.0
+98,Cactus Rose,100 Mile,Bandera,United States,162.4,3500.0,-3500.0,20.0
+99,EstrelAçor Ultra Endurance,EA Penhas Manteiga 2020,PenhasdaSaúde,Portugal,157.8,6910.0,-7600.0,0.0
+100,Cloudsplitter 100,100 Mile,Norton,United States,157.5,5610.0,-5610.0,16.0
+101,Shanhaiguan Trail Race,168K,qinhuangdao,China,162.0,9320.0,-9070.0,14.0
+102,Mines of Spain,100 Mile,Davenport,United States,167.5,4310.0,-4320.0,19.0
+103,Bèrghem Ultra,Åkersætra 666 m.o.h.,Hamar,Norway,163.2,2970.0,-3360.0,0.0
+104,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,161.5,2060.0,-2060.0,16.0
+105,Midstate Massive Ultra Trail,Midstate Massive Ultra Trail,NewIpswitch,United States,163.6,3720.0,-3980.0,16.0
+106,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,160.7,1610.0,-1610.0,13.0
+107,Brisbane Trail Ultra,Brisbane Trail Ultra 100 mile,Brisbane,Australia,160.4,7550.0,-7590.0,7.0
+108,SPARNATRAIL,P'tiot Sparnatrail,EPERNAY,France,33.3,750.0,-750.0,1.0
+109,Mt. Wumeng Ultra Trail,KINETIK 165K,Zhaotong,China,164.1,7440.0,-7090.0,13.0
+110,North Coast 100,North Coast 110M,Barnstaple,United Kingdom,174.5,5570.0,-5540.0,8.0
+111,Schinder-Trail Backyard Ultra,23 Loops,Rettert,Germany,157.2,3060.0,-3060.0,23.0
+112,TransPenedaGerês,TPG 160k Race of the 4 Castles,Melgaço,Portugal,167.4,8010.0,-7200.0,5.0
+113,Spain Backyard Ultra,Spain Backyard Ultra  24 Loops,CastroCaldelas,Spain,161.1,6890.0,-6890.0,23.0
+114,BEAR 100,Bear 100 Endurance Trail Race,Smithfield,United States,162.7,6460.0,-6130.0,13.0
+115,Cold Hawaii Ultra,Cold Hawaii Ultra 100 miles,Thisted,Denmark,162.6,2000.0,-2010.0,6.0
+116,Mossarun,"Mossarun 2020, 24h/100 miles",Älmhult,Sweden,171.8,3940.0,-3950.0,0.0
+117,Sangre de Cristo Ultras,100-Mile,Westcliffe,United States,168.2,5910.0,-5910.0,13.0
+118,Dragon 100,Dragon 100,Cardiff,United Kingdom,165.0,3560.0,-3550.0,11.0
+119,GUUT100+,GUUT100MILES+,Gentofte,Denmark,167.4,1610.0,-1620.0,1.0
+120,Garmin Ultra Race Radków,Challange 158,RADKÓW,Poland,163.9,5700.0,-5700.0,11.0
+121,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.3,3160.0,-3110.0,13.0
+122,SwissPeaks Trail,170.0,LeBouveret,Switzerland,167.0,11140.0,-12910.0,15.0
+123,Runfire Salt Lake Ultra,100 Mile,ulukisla,Turkey,160.1,2770.0,-2770.0,15.0
+124,Burning River Endurance Run,100 Mile,Hudson,United States,163.6,2700.0,-2700.0,14.0
+125,100 miles of Beskid Wyspowy,100 miles of Beskid Wyspowy,Zalesie,Poland,161.6,6510.0,-6510.0,8.0
+126,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,164.0,7490.0,-7500.0,13.0
+127,ULTRA 01,Ultra 165km,Oyonnax,France,167.2,7230.0,-7230.0,8.0
+128,Salomon Rondane 100,Salomon Rondane 100,Folldal,Norway,163.6,5450.0,-5440.0,5.0
+129,Ultra Trail des Sources,Ultra Trail des Sources,Spa,Belgium,158.8,4500.0,-4500.0,8.0
+130,Columbia Sanfo Ultra 168-Chongli,UTC,Chongli,China,161.1,7370.0,-7370.0,15.0
+131,Sport-Marafon Trail,165 km,Nikola-Lenivets,Russia,162.5,1450.0,-1450.0,13.0
+132,Bunketorp Backyard Ultra Trail,BBUT - 24 loops,LINDOME,Sweden,163.7,3100.0,-3100.0,23.0
+133,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,168.2,3440.0,-3480.0,14.0
+134,Halland Ultra-Beach,100 miles,Göteborg,Sweden,161.7,1740.0,-1750.0,2.0
+135,INNER MONGOLIA ULTRA MARATHON,Laoniuwan 168km,Hohhot,China,165.2,4600.0,-4600.0,15.0
+136,Infinity Trail Backyard - Normandie,Infinity Trail - 23 boucles,PAVILLY,France,155.3,5160.0,-5160.0,1.0
+137,The Gax 100 miles,The Gax 100 miles,Ystad,Sweden,160.6,1510.0,-1510.0,3.0
+138,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,163.2,8650.0,-8630.0,13.0
+139,Silverheels 100-Mile Endurance Run,100 Mile,Fairplay,United States,166.7,4650.0,-4650.0,24.0
+140,Nuts Ylläs Pallas,160K,Äkäslompolo,Finland,165.7,4400.0,-4480.0,10.0
+141,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,168.6,4670.0,-5140.0,6.0
+142,Bryce Canyon,100 Mile,Hatch,United States,157.1,4320.0,-4320.0,13.0
+143,Jiangnan 100 Mile,100Mile,Ningbo,China,160.5,7060.0,-7060.0,13.0
+144,Antelope Canyon,100 Mile,Page,United States,159.4,1850.0,-1850.0,10.0
+145,Borneo Ultra-Trail® Marathon,100 Miles,KotaKinabalu,Malaysia,161.0,7620.0,-7620.0,16.0
+146,Addo Elephant Trail Run,100 Mile,Addo,South Africa,161.2,5640.0,-5130.0,16.0
+147,100 MILLAS® SIERRAS DEL BANDOLERO,100 Millas,PradodelRey,Spain,161.1,6170.0,-6170.0,14.0
+148,Chattanooga 100 Mile Trail Race,Chattanooga 100 Mile Trail Race,RisingFawn,United States,158.1,3770.0,-3770.0,14.0
+149,Les Traces du Nord Basse-Terre,L'Ultra-Trail®,Petit-Bourg,France,161.4,6240.0,-6240.0,14.0
+150,Ultra Trail Thailand,Inthanon 6,ChomThong,Thailand,175.0,7850.0,-7850.0,16.0
+151,Lone Star 100,100M,ElPaso,United States,158.6,5930.0,-5850.0,9.0
+152,Tarawera Ultramarathon,100 Miler,Rotorua,New Zealand,162.4,5200.0,-5220.0,14.0
+153,Tjörnarparen - Trail Ultra,100 miles,TJÖRNARP,Sweden,162.1,2300.0,-2330.0,9.0
+154,Grandmaster Ultras,100 miler,Littlefield,United States,158.6,1730.0,-1730.0,14.0
+155,Orcas Island 100 Mile,Orcas Island 100 Mile,Olga,United States,163.5,7570.0,-7570.0,19.0
+156,HOKA ONE ONE Rocky Raccoon,100 Mile,Huntsville,United States,163.1,2260.0,-2260.0,19.0
+157,LE DERNIER HOMME DEBOUT MORVAN,24 Boucles,Chateau-Chinon,France,169.9,5740.0,-5740.0,1.0
+158,Coldwater Rumble,100 Miles,Goodyear,United States,161.8,2660.0,-2670.0,16.0
+159,MONTANE® Spine® Races,MONTANE® Spine® Challenger,Edale,United Kingdom,174.2,4770.0,-4770.0,4.0
+160,MONTANE® Spine® Races,MRT Challenge,Edale,United Kingdom,174.2,4770.0,-4770.0,4.0
+161,S1 Trail La Corsa Della Bora,Ultra,TRIESTE,Italy,166.3,6750.0,-7110.0,9.0
+162,GOLDEN 100 HONG KONG,100Miles,HongKong,"Hong Kong, China",163.0,9180.0,-9130.0,16.0
+163,UTSZ Trail Races,100Miles,shenzhen,China,166.6,8110.0,-8120.0,16.0
+164,Mad Fox Ultra Revenge,Valhalla Race,PereslavlZalesskiy,Russia,156.2,1650.0,-1650.0,10.0
+165,La Misión  - VLA - Argentina,La Misión 160 VLA -,VillalaAngostura,Argentina,163.3,7240.0,-7240.0,1.0
+166,Brazos Bend 100,100M,Needville,United States,162.3,2730.0,-2720.0,6.0
+167,Falls 100 Ultra Trail Race,100 Mile,FallsofRough,United States,162.5,4230.0,-4230.0,41.0
+168,Exodus Ultra Marathon,Exodus,Llanfechain,United Kingdom,170.0,6550.0,-6540.0,3.0
+169,Sky Ultra Pico Mx,Sky Ultra Pico Mx 100M,ORIZABA,Mexico,159.6,8270.0,-8240.0,16.0
+170,Ultra-Trail® Panoramic,100Miles,AmphurMuang,Thailand,157.0,6040.0,-6050.0,15.0
+171,HK168,Full168,TaiMeiTuk,"Hong Kong, China",168.8,10400.0,-10400.0,14.0
+172,Oman by UTMB,170km,Muscat,Oman,170.9,10570.0,-10490.0,25.0
+173,Ultra Trail Three Gorges,UTTG,Yichang,China,172.8,10410.0,-10230.0,13.0
+174,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,155.3,6450.0,-6450.0,4.0
+175,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,161.6,2560.0,-2520.0,5.0
+176,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,163.0,3120.0,-3590.0,13.0
+177,Pong Yaeng Trail,Pong Yaeng Trail 166,ChiangMai,Thailand,172.2,8000.0,-8000.0,14.0
+178,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,161.4,1540.0,-1540.0,21.0
+179,Bhatti Lakes Ultra,160 Km,Faridabad,India,160.7,960.0,-960.0,0.0
+180,Pinhoti 100,Pinhoti 100,Sylacauga,United States,155.0,4060.0,-4180.0,17.0
+181,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,169.5,7540.0,-7540.0,15.0
+182,Kullamannen,Kullamannen Ultra 100 Miles,Kullaberg,Sweden,174.4,4260.0,-4240.0,11.0
+183,Cactus Rose,100 Mile,Bandera,United States,162.4,3500.0,-3500.0,20.0
+184,Halloween hike,160 km,Kannonkoski,Finland,159.0,2130.0,-2130.0,4.0
+185,Javelina Jundred,100 Miles,FortMcDowell,United States,160.5,1720.0,-1720.0,26.0
+186,GRAN VUELTA VALLE DEL GENAL,100 millas Valle del Genal,BENARRABA,Spain,162.0,7400.0,-7400.0,20.0
+187,Around The Valley - Sovev Emek,166km,ainhasofet,Israel,164.2,3380.0,-3390.0,18.0
+188,Jordan Running Adventure Race,165 km non stop,WadiRum,Jordan,165.2,2790.0,-2560.0,0.0
+189,Shanhaiguan Trail Race,168K,qinhuangdao,China,160.2,9470.0,-9230.0,14.0
+190,Mines of Spain,100 Mile,Davenport,United States,169.0,4330.0,-4330.0,19.0
+191,Rodopi Ultra Trail,Rodopi Advendurun,Haidou,Greece,162.9,6910.0,-6910.0,6.0
+192,Le Grand Raid De La Réunion,La Diagonale Des Fous,SaintDenis,France,168.1,9610.0,-9560.0,15.0
+193,Crimea X Run,Stage Race,Yalta,Ukraine,169.1,8310.0,-8140.0,11.0
+194,Ultra Trails Lake Tahoe,100 Mile,Truckee,United States,159.2,6590.0,-6590.0,20.0
+195,Bromont Ultra,160km,Bromont,Canada,155.6,6220.0,-6220.0,17.0
+196,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,161.5,2060.0,-2060.0,14.0
+197,Cloudsplitter 100,100 Mile,Norton,United States,160.7,5660.0,-5660.0,16.0
+198,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,163.1,4610.0,-4600.0,10.0
+199,INDIANA TRAIL 100,100 mi,Albion,United States,162.4,3480.0,-3460.0,5.0
+200,Markotkh - R,100 miles - Solo,Novorossiysk,Russia,162.7,6910.0,-6910.0,34.0
+201,Midstate Massive Ultra Trail,Midstate Massive Ultra Trail,NewIpswitch,United States,162.4,3720.0,-3970.0,16.0
+202,Snowdon Ultra,Snowdon Ultra 100,BetwsyCoed,United Kingdom,163.5,7600.0,-7600.0,13.0
+203,The Cederberg Traverse,100 Mile,Cederberg,South Africa,163.0,6500.0,-6500.0,5.0
+204,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,163.9,8220.0,-9860.0,16.0
+205,ULTRA DE ULTRAS,170 Km ULTRA DE ULTRAS,CUNDINAMARCA,Colombia,170.0,9910.0,-9910.0,14.0
+206,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,163.9,7260.0,-7260.0,15.0
+207,100 Miles Sud De France,100 Miles,bolquere,France,172.5,8420.0,-10160.0,15.0
+208,Grindstone 100,Grindstone 100,Swoope,United States,159.6,6980.0,-6980.0,15.0
+209,MesaStila 100,170 Km,Magelang,Indonesia,167.9,9590.0,-9590.0,11.0
+210,SLO100,SLO100 KRPAN 171 km,Cerknica,Slovenia,173.5,7790.0,-7790.0,11.0
+211,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,161.3,2710.0,-2690.0,7.0
+212,Ultra-Trail el Rincon,UTR 170K,Castielfabib,Spain,172.1,6730.0,-6720.0,15.0
+213,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,163.0,3960.0,-3960.0,7.0
+214,BEAR 100,Bear 100 Endurance Trail Race,Smithfield,United States,163.0,6680.0,-6350.0,13.0
+215,The Georgia Jewel,100 Miler,Dalton,United States,162.8,4000.0,-4000.0,18.0
+216,Black River Run,100 Miles,Västerås,Sweden,161.5,1030.0,-1030.0,9.0
+217,Cotswold Way Century,102 Miles,ChippingCampden,United Kingdom,165.6,4130.0,-4240.0,10.0
+218,Pirin Ultra,160km,Bansko,Bulgaria,161.2,10980.0,-10980.0,9.0
+219,Sangre de Cristo Ultras,100-Mile,Westcliffe,United States,168.2,5910.0,-5910.0,13.0
+220,Whistler Alpine Meadows,100M,Whistler,Canada,174.8,10310.0,-10300.0,10.0
+221,Adamello Ultra-Trail®,Ultra-Trail®,Vezzad'Oglio,Italy,165.0,11380.0,-11380.0,19.0
+222,Karkloof100,Karkloof100,Howick,South Africa,157.0,3330.0,-3410.0,18.0
+223,Midnight Moose Ultra,160K,Chelsea,Canada,160.8,4870.0,-4870.0,11.0
+224,Mogollon Monster 100,100 Mi,Pine,United States,164.7,5540.0,-5530.0,12.0
+225,Shinetsu Five Mountains Trail,100 miles,Ohzatagiri,"Myoko, Japan",160.3,6570.0,-6390.0,9.0
+226,THE GREAT NORTH WALK ULTRAs,100 MILES,Patonga,Australia,162.5,5100.0,-5110.0,5.0
+227,GARMIN ULTRA RACE STOLOWE MOUNTAINS,Challange 158,RADKÓW,Poland,158.9,5350.0,-5340.0,11.0
+228,Uttarkashi 135,Uttarkashi 160,Uttarkashi,India,157.4,8270.0,-7820.0,0.0
+229,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,155.3,5780.0,-6000.0,0.0
+230,Vadrózsa,Vadrózsa 160,Rózsaszentmárton,Hungary,159.5,6820.0,-6820.0,17.0
+231,Pembrokeshire Ultramarathons,100.0,StDogmaels,United Kingdom,163.7,4070.0,-4070.0,7.0
+232,Superior Fall Trail Race,100m,Lutsen,United States,168.0,5200.0,-5060.0,13.0
+233,SwissPeaks Trail,170.0,LeBouveret,Switzerland,168.7,11780.0,-13010.0,13.0
+234,Garmin Runfire Salt Lake Ultra Trail,100 Mile,ulukisla,Turkey,160.1,2830.0,-2830.0,15.0
+235,UTMB®,UTMB®,Chamonix,France,170.7,9930.0,-9930.0,16.0
+236,DREAM TRAIL Lyskovo,160 ??,Lyskovo,Russia,159.4,1790.0,-1700.0,3.0
+237,Habanero Hundred,100M,CatSprings,United States,161.7,2290.0,-2290.0,3.0
+238,Leadville Trail 100 Run,Leadville Trial 100 Run,Leadville,United States,162.1,4230.0,-4230.0,13.0
+239,Kodiak Ultra Marathons,Kodiak 100 Mile,BigBearLake,United States,164.7,5320.0,-5320.0,14.0
+240,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,164.6,7090.0,-7100.0,13.0
+241,Swiss Alps 100,160KM,Münster,Switzerland,157.6,9650.0,-9650.0,15.0
+242,Ute 100 Mile Trail Race,Ute 100 Mile Trail Race,OldLaSal,United States,159.5,6180.0,-6180.0,9.0
+243,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,168.0,3420.0,-3460.0,14.0
+244,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,171.9,11310.0,-11420.0,15.0
+245,Burning River Endurance Run,100 Mile,Hudson,United States,163.6,2700.0,-2700.0,14.0
+246,High Lonesome 100,100M,Nathrop,United States,160.0,6480.0,-6480.0,12.0
+247,Tahoe Rim Trail Endurance Runs 100M/50M/55K,100 Mile,Carsoncity,United States,161.1,6170.0,-6160.0,0.0
+248,The Gax 100 miles,The Gax 100 miles,Ystad,Sweden,161.3,2330.0,-2320.0,3.0
+249,Vermont 100 Endurance Race,100M,WestWindsor,United States,157.5,4830.0,-4840.0,19.0
+250,YOU YANGS Hardcore 100Miler,100 MI,LittleRiver,Australia,169.3,4820.0,-4830.0,2.0
+251,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,163.3,8730.0,-8730.0,13.0
+252,Beacons Way Ultra,Beacons Way Ultra,abergavenny,United Kingdom,166.5,6310.0,-6320.0,10.0
+253,OSJ Ontake 100,100 Miles,Otaki,Japan,164.6,6200.0,-6200.0,6.0
+254,Columbia Sanfo Ultra 168-Chongli,168km,Chongli,China,166.2,8250.0,-8250.0,14.0
+255,Columbia Sanfo Ultra 168-Chongli,UTC-emergency,Chongli,China,157.7,7800.0,-7800.0,14.0
+256,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,172.0,10210.0,-10210.0,15.0
+257,Grand Trail Stevenson,GTS 162 km,Saint-Etienne-Vallée-Française,France,161.2,5210.0,-5380.0,5.0
+258,Nuts Ylläs Pallas,160K,Äkäslompolo,Finland,163.9,4430.0,-4510.0,10.0
+259,Wendover Woods 100,Wendover Woods 100,Wendover,United Kingdom,168.1,6180.0,-6180.0,19.0
+260,100 MILLAS UTACCH AMANECER COMECHINGON,100 MILLAS UTACCH,VillaYacantodeCalamuchita,Argentina,158.8,5449.0,-5450.0,15.0
+261,Brisbane Trail Ultra Festival,Brisbane Trail Ultra 100 mile,Brisbane,Australia,159.5,7550.0,-7580.0,7.0
+262,Silverheels 100-Mile Endurance Run,100 Mile,Fairplay,United States,166.7,4650.0,-4650.0,24.0
+263,Sinister 7 Ultra,Solo,Blairmore,Canada,160.7,5730.0,-5740.0,15.0
+264,Bojko Trail,Bojko Trail 150+,CzarnaGórna,Poland,155.1,7980.0,-8040.0,8.0
+265,Pen Llyn Ultra 100,Pen Llyn Ultra 100,Pwllheli,United Kingdom,162.7,3220.0,-3180.0,7.0
+266,#Småland100,#Småland100,Oskarshamn,Sweden,163.1,4040.0,-4040.0,7.0
+267,Ultra Trail Pululahua Ecuador,Ultra Trail Pululahua Ecuador,QUITO,Ecuador,172.1,11250.0,-10810.0,22.0
+268,XTRAIL Kanas Trail Run,168km,Kanas,China,168.6,5870.0,-5790.0,12.0
+269,Jurassic Coast 100,Jurassic Coast 100m,Swanage,United Kingdom,168.2,4740.0,-4720.0,10.0
+270,Old Cascadia,100 Mile,BlueRiver,United States,165.7,8120.0,-8110.0,14.0
+271,Penang Eco 100,100 miles,BukitMertajam,Malaysia,167.3,4230.0,-4190.0,15.0
+272,Pennine Barrier,Pennine Barrier Ultra 100,malham,United Kingdom,158.5,4560.0,-4560.0,10.0
+273,West Highland Way Race,150km,Milngavie,United Kingdom,155.0,3640.0,-3680.0,8.0
+274,South Wales 100,South Wales 100,Cardiff,United Kingdom,166.7,5840.0,-5840.0,11.0
+275,ULTRA01 by XT,ULTRA 01XT,OYONNAX,France,165.1,6060.0,-6060.0,7.0
+276,MONTANE® Spine® Summer Races,Flare,Edale,United Kingdom,173.9,4720.0,-4720.0,6.0
+277,Mohican 100 Trail Run,Mohican 100 Mile Trail Run,Loudonville,United States,156.0,3630.0,-3620.0,19.0
+278,Ultra Trail Gaspesia 100,100 miles,Percé,Canada,159.0,4130.0,-4130.0,21.0
+279,Bighorn Trail Run,100M,Sheridan,United States,167.3,6740.0,-6800.0,7.0
+280,Oh Meu Deus,100 Milhas OMD,Seia,Portugal,157.5,8460.0,-8460.0,13.0
+281,Oh Meu Deus,OH MEU DEUS 160 TEAM,Seia,Portugal,157.6,8450.0,-8450.0,14.0
+282,ADIDAS SPORT-MARAFON TRAIL,165 km,Nikola-Lenivets,Russia,162.4,1440.0,-1440.0,13.0
+283,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,156.9,3340.0,-3400.0,14.0
+284,Laulasmaa Ultra,Laulasmaa Ultra 8 loops,Laulasmaa,Estonia,167.9,1870.0,-1870.0,56.0
+285,Trail des Volcans,157 km,Murat-le-Quaire,France,156.2,6320.0,-6570.0,7.0
+286,SAN DIEGO 100,San Diego 100,Oceanside,United States,161.3,3950.0,-3950.0,15.0
+287,Kettle Moraine 100,100 Mile,LaGrange,United States,161.0,2650.0,-2650.0,27.0
+288,Chicamocha Canyon Race,CCR 100 millas,SanGil,Colombia,162.4,7210.0,-7210.0,11.0
+289,Scout Mountain Ultras,162K,Pocatello,United States,162.0,6470.0,-6470.0,11.0
+290,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,171.9,8180.0,-8180.0,8.0
+291,The Trail Challenge Rincón de la Vieja,160km,Liberia,Costa Rica,163.7,3370.0,-3360.0,15.0
+292,Mac Mac Ultra,100m,Pretoria,South Africa,162.8,5900.0,-6140.0,14.0
+293,Nuts Karhunkierros,159K,Kuusamo,Finland,159.5,3940.0,-3940.0,7.0
+294,Chester Ultra,Chester Ultra 100,chester,United Kingdom,163.9,1830.0,-1830.0,9.0
+295,Bryce Canyon,100 Mile,Hatch,United States,157.1,4470.0,-4460.0,13.0
+296,Hardcore Hundred Miles Trail Ultramarathon,Hardcore Hundred Miles,Kayapa,Philippines,167.1,9480.0,-9500.0,11.0
+297,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,162.3,4040.0,-4510.0,6.0
+298,Trainic-World in Sainokuni,100mile,Ogose,Japan,163.2,9050.0,-9020.0,16.0
+299,UTVV SLOVENIA,UTVV 100 miles,Vipava,Slovenia,160.6,6850.0,-6840.0,14.0
+300,Ultra-Trail Snowdonia - UTS-50/100,UTS-100,CapelCurig,United Kingdom,170.9,10140.0,-10140.0,16.0
+301,Ben Hockings,Hubert 100 Miles,ClarenceGardens,Australia,157.8,2630.0,-2630.0,9.0
+302,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.3,3160.0,-3110.0,13.0
+303,Dragon 100,Dragon 100,Cardiff,United Kingdom,165.0,3550.0,-3550.0,11.0
+304,100 miles of Beskid Wyspowy,100 miles of Beskid Wyspowy,Zalesie,Poland,164.1,6600.0,-6600.0,9.0
+305,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,160.7,1610.0,-1610.0,13.0
+306,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,164.7,3850.0,-3850.0,8.0
+307,Tuscany Crossing,160 km,Castiglioned'Orcia(SI),Italy,160.9,5590.0,-5570.0,13.0
+308,Ultra-Trail Mt. Fuji,UTMF - Full Course 165km,Fuji,Japan,165.9,7620.0,-7620.0,9.0
+309,Ultra-Trail® Drakensberg,UTD 160,Underberg,South Africa,163.3,5610.0,-6740.0,8.0
+310,Iznik Ultra,160 K,Iznik,Turkey,162.5,4470.0,-4470.0,12.0
+311,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,169.0,10010.0,-9310.0,8.0
+312,100 Miles Of Istria,RED,Umag,Croatia,169.6,6360.0,-6640.0,12.0
+313,Hellbender 100 Mile,Hellbender 100 Mile,OldFort,United States,158.0,7470.0,-7440.0,11.0
+314,Jiangnan 100-Mile Endurance Run,100Mile / 168Km,Ningbo,China,159.8,7350.0,-7350.0,13.0
+315,Patagonia Run,100 Millas,SanMartinDeLosAndes,Argentina,158.0,7190.0,-7190.0,16.0
+316,Ultra Beast,Ultra Beast  161Km,POKARAN,India,162.3,3430.0,-3430.0,9.0
+317,Badger Mountain Challenge,100 Mile,Kennewick,United States,158.6,4450.0,-4430.0,18.0
+318,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,162.4,9810.0,-9820.0,12.0
+319,Addo Elephant Trail Run,100 Mile,Addo,South Africa,161.2,5640.0,-5130.0,16.0
+320,MesaStila 100,65 Km,Magelang,Indonesia,67.4,3620.0,-3580.0,4.0
+321,Ultra Trail Huang Shan,170 Km,Huangshan,China,171.8,9490.0,-9480.0,14.0
+322,Antelope Canyon,100 Mile,Page,United States,159.4,1850.0,-1850.0,10.0
+323,Epic Camí de Cavalls 360º,TrailRun e3/t2,EsMercadal,Spain,155.0,3800.0,-3580.0,11.0
+324,Les Traces du Nord Basse-Terre,L'Ultra-Trail®,Petit-Bourg,France,161.4,6240.0,-6240.0,14.0
+325,100 MILLAS® SIERRAS DEL BANDOLERO,100 Millas,PradodelRey,Spain,164.0,6720.0,-6730.0,14.0
+326,Victoria 162,V162,HongKong,"Hong Kong, China",163.87,8140.0,-8140.0,18.0
+327,Victoria 162,V162 Team,HongKong,"Hong Kong, China",163.87,8140.0,-8140.0,18.0
+328,Victoria 162,3-day Race,HongKong,"Hong Kong, China",163.0,8140.0,-8210.0,16.0
+329,Victoria 162,3-day Race Team,HongKong,"Hong Kong, China",163.0,8140.0,-8220.0,16.0
+330,Lone Star 100,100M,ElPaso,United States,158.6,5930.0,-5850.0,9.0
+331,Tarawera 100 Mile Endurance Run,100 Mile Endurance Run,Rotorua,New Zealand,161.4,4890.0,-4890.0,14.0
+332,Mad Fox Ultra,Ultra Valhalla Race,RostovtheGreat,Russia,159.9,1680.0,-1680.0,10.0
+333,Rocky Raccoon,100 Mile,Huntsville,United States,163.1,2260.0,-2260.0,19.0
+334,Coldwater Rumble,100 Miles,Goodyear,United States,161.5,2020.0,-2010.0,16.0
+335,Rialp Matxicots,MARATÓ,RIALP,Spain,48.3,3950.0,-3980.0,7.0
+336,Montane Spine Races,MRT Challenge,Edale,United Kingdom,174.2,4770.0,-4770.0,4.0
+337,Sandsjöbacka Trail,Ultra Triple,Åsa,Sweden,167.0,3360.0,-3220.0,13.0
+338,S1 Trail La Corsa Della Bora,Ultra,TRIESTE,Italy,164.2,6720.0,-6720.0,9.0
+339,Ultra-Trail® Tai Mo Shan,UTMT,NT,"Hong Kong, China",155.2,7640.0,-7620.0,12.0
+340,UTSZ Trail Races,100Miles,shenzhen,China,162.5,7200.0,-7170.0,16.0
+341,La Mision 2018 - VLA,La Mision 160 Km,VillalaAngostura,Argentina,163.3,7240.0,-7240.0,1.0
+342,Brazos Bend 100,100 M,Needville,United States,162.3,2730.0,-2720.0,6.0
+343,The Hitchcock Experience,100 Mile,HoneyCreek,United States,161.4,5050.0,-5050.0,21.0
+344,Tjörnarparen - Trail Ultra,100 miles,TJÖRNARP,Sweden,162.1,2290.0,-2310.0,9.0
+345,Wicklow Way 50 Miles,100 Miles,Wicklow,Ireland,160.7,5750.0,-5750.0,4.0
+346,Falls 100 Ultra Trail Race,100 Mile,FallsofRough,United States,168.8,3350.0,-3350.0,41.0
+347,Chattanooga 100 Mile Trail Race,Chattanooga 100 Mile Trail Race,RisingFawn,United States,158.1,3770.0,-3770.0,14.0
+348,Gede Pangrango 100,150KM,Cibodas,Indonesia,164.0,14430.0,-14440.0,3.0
+349,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",169.1,10490.0,-10490.0,14.0
+350,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,163.1,2340.0,-2340.0,5.0
+351,Louceni,173 km,UstinadLabem,Czech Republic,172.3,6400.0,-6560.0,9.0
+352,Ultra-Trail® Three Gorges,169 Km,Yichang,China,171.4,10140.0,-10000.0,15.0
+353,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,163.7,3850.0,-4200.0,13.0
+354,Tunnel Hill  100 & 50 mile runs,100mi,Vienna,United States,161.4,1570.0,-1560.0,21.0
+355,Pong Yaeng Trail,Pong Yaeng Trail 166,ChiangMai,Thailand,164.9,7830.0,-7830.0,17.0
+356,Feral Pig Ultra,Feral Pig 100 Mile,Mundaring,Australia,163.3,4070.0,-4200.0,15.0
+357,PINHOTI 100,100 MILES,Sylacauga,United States,161.9,4930.0,-5060.0,0.0
+358,Bhatti Lakes Ultra,160 Km,Faridabad,India,160.1,1020.0,-1020.0,0.0
+359,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,169.3,7530.0,-7530.0,15.0
+360,Kullamannen,100 miles,Kullaberg,Sweden,161.8,4310.0,-4280.0,14.0
+361,Cactus Rose,100 Mile,Bandera,United States,162.4,3500.0,-3500.0,20.0
+362,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,165.4,4380.0,-4430.0,5.0
+363,Halloween hike,160 km,Kannonkoski,Finland,168.6,2080.0,-2080.0,5.0
+364,Javelina Jundred,100 Miles,FortMcDowell,United States,160.2,2300.0,-2300.0,26.0
+365,GRAN VUELTA VALLE DEL GENAL,100 MILLAS DEL GENAL,BENARRABA,Spain,162.8,8020.0,-7490.0,17.0
+366,Indomit costa esmeralda ultra-trail®,100 MILLES,Gramado,Brazil,160.3,4730.0,-4730.0,12.0
+367,Bèrghem Ultra Trail,Furuberget Endurance,Hamar,Norway,169.7,7440.0,-7440.0,18.0
+368,Dalmacija Ultra-Trail®,Sky Dut,Omiš,Croatia,159.3,7140.0,-7170.0,14.0
+369,Mines of Spain,100 Mile,Davenport,United States,170.0,4360.0,-4360.0,19.0
+370,Rodopi Ultra Trail,Rodopi Advendurun,Haidou,Greece,163.0,6910.0,-6910.0,6.0
+371,Le Grand Raid De La Réunion,La Diagonale Des Fous,SaintDenis,France,168.1,9610.0,-9560.0,17.0
+372,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,161.1,1580.0,-1580.0,14.0
+373,Cloudsplitter 100,100 Mile,Norton,United States,166.3,5310.0,-5310.0,21.0
+374,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,162.7,3670.0,-3660.0,10.0
+375,INDIANA TRAIL 100,100 mi,Albion,United States,161.7,3490.0,-3490.0,5.0
+376,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,162.6,6920.0,-6920.0,15.0
+377,Crimea X Run,Stage Race,Yalta,Ukraine,174.7,9480.0,-9530.0,8.0
+378,Bromont Ultra,160km,Bromont,Canada,158.1,6090.0,-6090.0,17.0
+379,100 Miles Sud De France,100 Miles,bolquere,France,172.6,8130.0,-9870.0,15.0
+380,Grindstone 100,Grindstone 100,Swoope,United States,159.6,6980.0,-6980.0,15.0
+381,Pirin Ultra,160km,Bansko,Bulgaria,165.1,10310.0,-10300.0,9.0
+382,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,161.1,2730.0,-2730.0,7.0
+383,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,171.9,6890.0,-6890.0,15.0
+384,NERANG 200 miler,NERANG 100 miler,Nerang,Australia,161.7,5820.0,-5820.0,6.0
+385,WUT - Wienerwald Ultra Trail,TITAN-WUT,Purkersdorf,Austria,163.8,5360.0,-5380.0,15.0
+386,BEAR 100,BEAR 100,Smithfield,United States,160.93,6863.0,-6576.0,13.0
+387,Lycian Way Ultra Marathon,LYUM XXL - 174K,İstanbul,Turkey,174.4,6070.0,-6390.0,16.0
+388,Black River Run,100 Miles,Västerås,Sweden,161.5,1030.0,-1030.0,9.0
+389,Cotswold Way Century,102 Miles,ChippingCampden,United Kingdom,165.7,4150.0,-4270.0,10.0
+390,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,162.1,3840.0,-3840.0,9.0
+391,Adamello Ultra-Trail®,Ultra-Trail® - 180 km,Vezzad'Oglio,Italy,165.0,11380.0,-11380.0,19.0
+392,Karkloof100,Karkloof100,Howick,South Africa,157.0,3330.0,-3410.0,9.0
+393,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,161.5,5470.0,-5460.0,12.0
+394,Old Cascadia,100 Mile,BlueRiver,United States,165.7,8120.0,-8110.0,14.0
+395,Shinetsu Five Mountains Trail,100 miles,Ohzatagiri,"Myoko, Japan",164.3,6420.0,-6240.0,9.0
+396,GARMIN ULTRA RACE STOLOWE MOUNTAINS,Challange 158,RADKÓW,Poland,77.5,2460.0,-2460.0,11.0
+397,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,155.8,5785.0,-5785.0,0.0
+398,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,173.3,4870.0,-4870.0,6.0
+399,Superior Fall Trail Race,100m,Lutsen,United States,168.0,5200.0,-5060.0,13.0
+400,SwissPeaks Trail,170K Valais*Wallis,LeBouveret,Switzerland,165.0,10780.0,-12020.0,13.0
+401,Ultra Tour Monte Rosa,Ultra Tour 170 km,Grächen,Switzerland,170.0,10990.0,-10990.0,15.0
+402,Ultra Tour Monte Rosa,4 Stage Race 170 km,Grächen,Switzerland,171.6,10940.0,-10920.0,11.0
+403,Vadrózsa,Vadrózsa 160,Rózsaszentmárton,Hungary,159.6,6340.0,-6350.0,17.0
+404,UTMB®,UTMB®,Chamonix,France,170.0,9990.0,-9990.0,16.0
+405,Velebit 100 miles,Velebit 100 miles,Zagreb,Croatia,157.5,6430.0,-6440.0,4.0
+406,Ultra Tour des 4 Massifs,Ut4M160 Xtrem,Grenoble,France,163.7,10710.0,-10770.0,16.0
+407,Ultra Tour des 4 Massifs,Ut4M160 Challenge,Grenoble,France,128.6,8690.0,-8500.0,12.0
+408,"Beacons 100/50, Beacons Ultra/Marathon - Force12 Events -",Beacons 100,Brecon,United Kingdom,162.6,6730.0,-6730.0,5.0
+409,Habanero Hundred,100M,CatSprings,United States,157.6,1840.0,-1800.0,0.0
+410,Leadville Trail 100 Run,Leadville Trial 100 Run,Leadville,United States,162.2,4490.0,-4480.0,0.0
+411,Kodiak Ultra Marathons,Kodiak 100 Mile,BigBearLake,United States,163.8,5210.0,-5220.0,15.0
+412,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,157.6,7090.0,-7120.0,13.0
+413,Mt. Wumeng Ultra Trail,168KM solo,Zhaotong,China,164.6,7790.0,-7350.0,14.0
+414,Mt. Wumeng Ultra Trail,168KM team,Zhaotong,China,164.6,7790.0,-7350.0,14.0
+415,Ute 100 Mile Trail Race,Ute 100 Mile Trail Race,OldLaSal,United States,159.5,6180.0,-6180.0,9.0
+416,Chongli100 Ultra Sky Trail Challenge,168 Km,chongji,China,166.6,7290.0,-7290.0,12.0
+417,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,168.0,3420.0,-3460.0,14.0
+418,High Lonesome 100,100M,Nathrop,United States,160.0,6480.0,-6480.0,12.0
+419,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,164.8,11420.0,-11420.0,15.0
+420,Burning River Endurance Run,100 Mile,Hudson,United States,164.4,2610.0,-2510.0,14.0
+421,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,160.8,1500.0,-1500.0,3.0
+422,Garmin Runfire Salt Lake Ultra Trail,100 Mile,ulukisla,Turkey,164.5,700.0,-700.0,15.0
+423,Montreux Trail Festival,MXtrem,Savigny,Switzerland,161.9,11530.0,-11520.0,15.0
+424,Vermont 100 Endurance Race,100M,WestWindsor,United States,158.0,5390.0,-5380.0,19.0
+425,YOU YANGS Hardcore 100Miler,100 MI,LittleRiver,Australia,164.2,3280.0,-3280.0,2.0
+426,Elephant Trail Race,160 Km (100 Mile),PortMacquarie,Australia,162.4,6930.0,-6930.0,13.0
+427,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,160.4,6140.0,-6140.0,0.0
+428,Columbia China Ultra 168-Chongli,168km,Chongli,China,166.9,8130.0,-8130.0,14.0
+429,Silverheels Endurance Run,100 Mile,Fairplay,United States,168.3,4890.0,-4880.0,22.0
+430,Sinister 7 Ultra,Solo,Blairmore,Canada,159.9,5720.0,-5740.0,15.0
+431,Pen Llyn Ultra 100,Pen Llyn Ultra 100,Pwllheli,United Kingdom,162.6,3210.0,-3170.0,7.0
+432,Western States Endurance Run,Western States Endurance Run,Auburn,United States,161.6,5370.0,-6890.0,21.0
+433,South Wales 100,South Wales 100,Cardiff,United Kingdom,167.1,5660.0,-5670.0,11.0
+434,Ultra Coahuila,100M,Arteaga,Mexico,159.2,6080.0,-6060.0,12.0
+435,ULTRA01 by XT,ULTRA01 by XT,OYONNAX,France,163.3,5010.0,-5010.0,5.0
+436,X Trail Corrèze Dordogne,Trail des tours par équipes,Argentat,France,48.4,2010.0,-2300.0,4.0
+437,Ultra-Trail® Gaspesia 100,100 miles,Percé,Canada,159.1,4010.0,-4020.0,21.0
+438,Bighorn Trail Run,100M,Sheridan,United States,167.3,6740.0,-6800.0,7.0
+439,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,172.8,8870.0,-8870.0,11.0
+440,Ultra-Trail® Malopolska,UTM 170 NA RATY,KasinkaMala,Poland,170.0,8650.0,-8650.0,9.0
+441,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,155.9,3390.0,-3440.0,14.0
+442,Laulasmaa Ultra,Laulasmaa Ultra 8 loops,Laulasmaa,Estonia,170.5,1880.0,-1880.0,56.0
+443,Oh Meu Deus,100 Milhas OMD,Seia,Portugal,172.3,7530.0,-7530.0,13.0
+444,SAN DIEGO 100,San Diego 100,Oceanside,United States,161.3,3950.0,-3950.0,15.0
+445,Kettle Moraine 100,100 Mile,LaGrange,United States,160.9,2660.0,-2660.0,12.0
+446,Bryce Canyon,100 Mile,Hatch,United States,158.1,4770.0,-4800.0,13.0
+447,Chicamocha Canyon Race,100 miles,SanGil,Colombia,164.6,7090.0,-7070.0,14.0
+448,Jurassic Coast 100,100 miles,Swanage,United Kingdom,168.2,4740.0,-4740.0,14.0
+449,Scout Mountain Ultras,162K,Pocatello,United States,162.2,6320.0,-6300.0,11.0
+450,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,165.1,6610.0,-6610.0,10.0
+451,6th Elton Volgabus Ultra-Trail®,Ultimate 100 miles,Eltonvillage,Russia,163.6,250.0,-250.0,8.0
+452,Nuts Karhunkierros,160K,Kuusamo,Finland,167.5,2570.0,-2570.0,7.0
+453,Fiambala Desert Trail,ULTRA DESERT TRAIL X 5 DIAS,Fiambala,Argentina,169.6,3540.0,-3250.0,12.0
+454,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,161.5,3310.0,-3770.0,3.0
+455,Trainic-World in Sainokuni,100mile,Ogose,Japan,174.6,9760.0,-9760.0,16.0
+456,Hardcore Hundred Miles Trail Ultramarathon,Hardcore Hundred Miles Trail Ultramarathon,Kayapa,Philippines,161.9,11840.0,-11860.0,11.0
+457,Penang Eco 100,100 miles,BukitMertajam,Malaysia,166.5,4250.0,-4260.0,15.0
+458,Pembrokeshire Ultramarathons,100.0,StDogmaels,United Kingdom,162.0,5550.0,-5550.0,7.0
+459,Ultra-Trail Snowdonia,UTS-100,CapelCurig,United Kingdom,168.1,10220.0,-10220.0,15.0
+460,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.2,3210.0,-3160.0,13.0
+461,Hubert 100 Miles,Hubert 100 Miles,ClarenceGardens,Australia,155.4,2350.0,-2350.0,9.0
+462,Salomon Hammer Trail,100 Miles,allinge,Denmark,156.0,6000.0,-6620.0,12.0
+463,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,164.8,3040.0,-3040.0,8.0
+464,Altra100,100 Mile,Banaue,Philippines,160.3,10380.0,-10900.0,14.0
+465,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,167.4,7610.0,-7680.0,9.0
+466,Ultra-Trail® Drakensberg,UTD 160,Underberg,South Africa,166.0,5850.0,-6980.0,8.0
+467,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,159.1,1640.0,-1640.0,13.0
+468,Zion,100 Mile,Virgin,United States,160.5,3760.0,-3760.0,15.0
+469,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,168.3,9870.0,-9170.0,8.0
+470,Jiangnan100 Ultra Trail,168Km,Ningbo,China,157.1,8110.0,-8100.0,13.0
+471,Zumbro Endurance Run,100m,Theilman,United States,159.8,4210.0,-4210.0,22.0
+472,100 Miles Of Istria,RED,Umag,Croatia,168.0,6540.0,-6820.0,12.0
+473,Patagonia Run,100 Millas,SanMartinDeLosAndes,Argentina,163.0,6600.0,-6580.0,16.0
+474,Lost Island Ultra,The Vodafone Lost Island Ultra,Nadi,Fiji,166.2,4800.0,-4420.0,14.0
+475,Badger Mountain Challenge,100 Mile,Kennewick,United States,158.4,4510.0,-4500.0,18.0
+476,Victoria 162,3-day Race,HongKong,"Hong Kong, China",163.7,7160.0,-7150.0,21.0
+477,Ultra Trail Huang Shan,170 Km,Huangshan,China,167.5,9210.0,-9200.0,15.0
+478,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,162.6,10010.0,-10030.0,12.0
+479,Gaoligong by UTMB,MGU,Tengchong,China,160.0,8400.0,-8417.0,17.0
+480,Addo Elephant Trail Run,100 Mile,Addo,South Africa,161.2,5640.0,-5130.0,17.0
+481,Antelope Canyon,100 Mile,Page,United States,159.5,1740.0,-1740.0,10.0
+482,La Misión,160 Km,SanMartíndelosAndes,Argentina,163.9,6810.0,-6800.0,2.0
+483,Les Traces du Nord Basse-Terre,L'Ultra-Trail®,Petit-Bourg,France,155.4,6290.0,-6300.0,14.0
+484,Lone Star 100,100M,ElPaso,United States,158.6,5930.0,-5850.0,9.0
+485,Tarawera 100 Mile Endurance Run,Tarawera 100 Mile Endurance Run,Rotorua,New Zealand,164.1,5520.0,-5520.0,10.0
+486,Rocky Raccoon,100 Mile,Huntsville,United States,158.2,1970.0,-1970.0,19.0
+487,Run The Rann,RTR 161 Km,Dholavira,India,160.4,2310.0,-2290.0,10.0
+488,Coldwater Rumble,100 Miles,Goodyear,United States,159.3,1660.0,-1650.0,16.0
+489,Montane Spine Races,Challenger,Edale,United Kingdom,174.8,4590.0,-4590.0,4.0
+490,Montane Spine Races,MRT Challenge,Edale,United Kingdom,174.8,4200.0,-4200.0,4.0
+491,Sandsjöbacka Trail,Ultra Triple,Åsa,Sweden,159.5,2490.0,-2510.0,9.0
+492,S1 Trail La Corsa Della Bora,S1 Ipertrail,TRIESTE,Italy,165.2,6640.0,-6640.0,6.0
+493,S1 Trail La Corsa Della Bora,S1 Ipertrail Team,TRIESTE,Italy,165.2,6640.0,-6640.0,6.0
+494,UTSZ Trail Races,100Miles,shenzhen,China,162.4,7230.0,-7200.0,16.0
+495,Prazska Stovka - Prague Ultra Trail,170 Km,Praha,Czech Republic,168.6,4720.0,-4830.0,8.0
+496,The Hitchcock Experience,100 Mile,HoneyCreek,United States,169.2,5470.0,-5430.0,21.0
+497,Ultra-Trail® Panoramic,100Miles,AmphurMuang,Thailand,162.9,7130.0,-6970.0,10.0
+498,Eco Madeira Ultra Marathon,Eco Madeira Ultra Marathon,CâmaradeLobos,Portugal,164.9,7130.0,-7130.0,11.0
+499,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",161.5,7880.0,-7870.0,14.0
+500,Wicklow Way 50 Miles,100 Miles,Wicklow,Ireland,160.8,5490.0,-5480.0,4.0
+501,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,155.3,6420.0,-6420.0,4.0
+502,Best of San Diego 100 Miler,100 Miler,SanDiego,United States,163.0,2360.0,-2360.0,13.0
+503,Ultra-Trail® Three Gorges,172 Km,Yichang,China,174.1,10200.0,-10070.0,17.0
+504,AITUYE Shenzhen Costline 168 International Trail,168KM,Shenzhen,China,161.9,5840.0,-5830.0,17.0
+505,Feral Pig Ultra,Feral Pig 100 Mile,Mundaring,Australia,162.8,3300.0,-3420.0,15.0
+506,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,167.0,3260.0,-3610.0,14.0
+507,PINHOTI 100,100 MILES,Sylacauga,United States,161.9,4930.0,-5060.0,0.0
+508,Kullamannen,100 miles,Kullaberg,Sweden,157.4,2900.0,-2930.0,14.0
+509,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,162.2,3870.0,-4050.0,5.0
+510,Javelina Jundred,100 Miles,FortMcDowell,United States,159.4,1760.0,-1760.0,26.0
+511,Indomit costa esmeralda ultra-trail®,100 MILLES,Gramado,Brazil,160.9,4440.0,-4440.0,12.0
+512,Bèrghem Ultra Trail,Bèrghem Ultra100M Stenfjellet,Hamar,Norway,162.0,2940.0,-2940.0,1.0
+513,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,161.8,2120.0,-2120.0,14.0
+514,Autumn Asylum,March Extended,Rajamäki,Finland,168.2,1360.0,-1360.0,1.0
+515,Dalmacija Ultra-Trail®,Sky Dut,Omiš,Croatia,155.3,6720.0,-6740.0,13.0
+516,Rodopi Ultra Trail,Rodopi Advendurun,Haidou,Greece,162.1,6590.0,-6580.0,6.0
+517,Grand Raid De La Réunion,La Diagonale Des Fous,SaintDenis,France,164.9,10000.0,-9960.0,18.0
+518,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,160.0,3990.0,-3990.0,10.0
+519,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,159.5,7890.0,-8020.0,16.0
+520,Bhatti Lakes Ultra,160 Km,Faridabad,India,161.1,1110.0,-1110.0,0.0
+521,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,166.4,7540.0,-7530.0,15.0
+522,Crimea X Run,Stage Race,Yalta,Ukraine,159.3,9430.0,-9400.0,12.0
+523,OSJ Koumi,100 Miles,KoumiTown,Japan,170.9,7720.0,-7720.0,4.0
+524,Bromont Ultra,160km,Bromont,Canada,162.2,5880.0,-5870.0,17.0
+525,Cloudsplitter 100,100 Mile,Norton,United States,165.2,5300.0,-5300.0,21.0
+526,100 Miles Sud De France,100 Miles,bolquere,France,166.1,8060.0,-9800.0,15.0
+527,EstrelAçor Ultra Endurance,EstrelAçor 180km,PenhasdaSaúde,Portugal,174.9,7930.0,-7930.0,15.0
+528,Grindstone 100,Grindstone 100,Swoope,United States,159.6,6980.0,-6980.0,15.0
+529,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,161.8,2780.0,-2760.0,7.0
+530,NERANG 100 miler 2017,NERANG 100 miler,Nerang,Australia,161.5,5710.0,-5710.0,6.0
+531,BEAR 100,BEAR 100,Smithfield,United States,163.4,6380.0,-6050.0,13.0
+532,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,166.7,4210.0,-4370.0,10.0
+533,Mountain Lakes 100,Mountain Lakes 100,OlallieLake,United States,155.9,3570.0,-3570.0,14.0
+534,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,161.9,3210.0,-3210.0,9.0
+535,Karkloof100,Karkloof100,Howick,South Africa,156.6,3440.0,-3440.0,9.0
+536,Black River Run,100 Miles,Västerås,Sweden,161.0,1090.0,-1090.0,9.0
+537,Mark Twain Endurance Runs,100 Mile,Berryman,United States,161.8,2300.0,-2300.0,5.0
+538,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,162.8,5500.0,-5500.0,13.0
+539,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,170.6,5520.0,-5520.0,6.0
+540,Superior Fall Trail Race,100 Mile,Lutsen,United States,168.0,5200.0,-5060.0,13.0
+541,SwissPeaks Trail,170K Valais*Wallis,LeBouveret,Switzerland,171.0,10560.0,-12530.0,12.0
+542,Ultra Tour Monte Rosa,4 Stage Race 170 km,Grächen,Switzerland,161.0,12250.0,-12250.0,11.0
+543,Vadrózsa 50,Vadrózsa 160,Rózsaszentmárton,Hungary,159.6,6340.0,-6350.0,17.0
+544,Ultra Tour Monte Rosa,Ultra Tour 170 (GG),Grächen,Switzerland,163.8,11030.0,-11010.0,15.0
+545,Ultra Trail Mt. Bogda,168km,Fukang,China,161.8,8400.0,-8400.0,15.0
+546,UTMB®,UTMB®,Chamonix,France,168.6,9980.0,-9980.0,16.0
+547,Kodiak Ultra Marathons,Kodiak 100 Mi,BigBearLake,United States,163.1,5150.0,-5140.0,16.0
+548,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,157.0,7100.0,-7120.0,13.0
+549,Ultra Tour Des 4 Massifs,Ut4M160 Xtrem,Grenoble,France,171.3,11390.0,-11390.0,15.0
+550,Chongli100 Ultra Sky Trail Challenge,168 Km,chongji,China,165.4,7370.0,-7370.0,12.0
+551,Force 12 Events,Beacons 100,Brecon,United Kingdom,162.6,6730.0,-6730.0,5.0
+552,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,170.2,3490.0,-3520.0,14.0
+553,Silverheels Endurance Run,100 Mile,Fairplay,United States,168.2,5470.0,-5470.0,22.0
+554,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,167.2,11420.0,-11420.0,15.0
+555,Burning River Endurance Run,100 Mile,Hudson,United States,164.6,2610.0,-2530.0,14.0
+556,Garmin Runfire Salt Lake Ultra Trail,Ultra Trail,ulukisla,Turkey,161.4,610.0,-610.0,18.0
+557,High Lonesome 100,100M,Nathrop,United States,160.2,7710.0,-7720.0,12.0
+558,Montreux Trail Festival,MXtreme 160,Savigny,Switzerland,162.6,11530.0,-11520.0,15.0
+559,YOU YANGS Hardcore 100Miler,100 MI,LittleRiver,Australia,164.2,3280.0,-3280.0,2.0
+560,OSJ Ontake 100,100 Miles,Otaki,Japan,155.7,5270.0,-5280.0,6.0
+561,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,160.4,6140.0,-6140.0,0.0
+562,Vermont 100 Endurance Race,100M,WestWindsor,United States,157.5,4860.0,-4870.0,19.0
+563,Columbia 168 Ultra-Trail® Challenge Chongli,168km,Chongli,China,168.9,7340.0,-7330.0,16.0
+564,Sinister 7 Ultra,Solo,Blairmore,Canada,159.5,5770.0,-5790.0,15.0
+565,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,161.2,1640.0,-1640.0,3.0
+566,Andorra Ultra Trail Vallnord,Ronda dels cims,Ordino,Andorra,170.0,13500.0,-13500.0,0.0
+567,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,170.7,10160.0,-10160.0,15.0
+568,Aktivitus Trailrace,Ultra-Trail®,Jonsered,Sweden,160.4,2620.0,-2620.0,8.0
+569,Ultra-Trail® du Mont-Albert,Grande Traversée Ultra-Trail®,Sainte-Anne-des-Monts,Canada,167.3,7340.0,-7170.0,14.0
+570,100 Mile Spa,100 Mile Spa,Spa,Belgium,156.9,3820.0,-3870.0,5.0
+571,MONTANE® Spine® Summer Races,Flare,Edale,United Kingdom,174.8,4200.0,-4200.0,6.0
+572,Western States Endurance Run,Western States Endurance Run,Auburn,United States,161.6,5370.0,-6890.0,21.0
+573,South Wales 100,South Wales 100,Cardiff,United Kingdom,165.9,6270.0,-6280.0,11.0
+574,Ultra Coahuila,100M,Arteaga,Mexico,160.0,6090.0,-6090.0,12.0
+575,Ultra-Trail® Gaspesia 100,100 miles,Percé,Canada,158.4,3860.0,-3970.0,21.0
+576,XTRAIL 100,Xtrail Kanas 168km Trail Run,Burjin,China,165.5,5950.0,-5950.0,10.0
+577,Bighorn Trail Run,100M,Sheridan,United States,167.3,6740.0,-6800.0,7.0
+578,Bryce Canyon,100 Mile,Hatch,United States,159.4,4800.0,-4800.0,13.0
+579,Festiwal Biegu Rzeznika,Bieg Rzeznika Ultra 160K,Cisna,Poland,159.8,5250.0,-5250.0,12.0
+580,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,156.7,3400.0,-3460.0,14.0
+581,SAN DIEGO 100,San Diego 100,Oceanside,United States,158.0,4020.0,-4030.0,15.0
+582,Kettle Moraine 100,100 Mile,LaGrange,United States,161.1,2570.0,-2570.0,12.0
+583,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,165.6,6680.0,-6690.0,10.0
+584,5th Elton Volgabus Ultra-Trail®,Ultimate 100 miles,Eltonvillage,Russia,163.6,250.0,-250.0,8.0
+585,Soria Moria til Verdens Ende,Soria Moria til Verdens Ende,VerdensEnde,Norway,168.1,3350.0,-3840.0,3.0
+586,Sulphur Springs Trail Run,100 MILES,Ancaster,Canada,161.0,3220.0,-3220.0,0.0
+587,Chicamocha Canyon Race,164 Km,SanGil,Colombia,165.5,8560.0,-8560.0,14.0
+588,NUTS Karhunkierros,160k,Kuusamo,Finland,163.2,3650.0,-3640.0,7.0
+589,Trainic-World in Sainokuni,100mile,Ogose,Japan,166.3,9670.0,-9670.0,16.0
+590,Hardcore Hundred Miles Trail Ultramarathon,Hardcore Hundred Miles Trail Ultramarathon,Kayapa,Philippines,163.7,11840.0,-11860.0,11.0
+591,Ultra-Trail® Malopolska,UTM 170,KasinkaMala,Poland,173.8,8450.0,-8450.0,11.0
+592,Cruel Jewel,Cruel Jewel 100,Blairsville,United States,174.2,8660.0,-8650.0,11.0
+593,Penang Eco 100,100 miles,BukitMertajam,Malaysia,164.6,4080.0,-4080.0,15.0
+594,Salomon Hammer Trail,100 Miles,allinge,Denmark,161.5,5840.0,-5840.0,12.0
+595,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,160.7,1880.0,-1850.0,13.0
+596,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,160.3,1780.0,-1780.0,13.0
+597,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,164.8,8660.0,-7980.0,8.0
+598,100 Miles Of Istria,100 Miles,Umag,Croatia,170.4,7100.0,-7390.0,12.0
+599,Zion,100 Mile,Virgin,United States,161.1,3800.0,-3800.0,15.0
+600,Zumbro Endurance Run,Zumbro 100 Mile Endurance Run,Theilman,United States,159.7,4250.0,-4250.0,22.0
+601,Ultra Fiord,100 Miles,PuertoNatales,Chile,166.3,5400.0,-5480.0,14.0
+602,Badger Mountain Challenge,100 Mile,Kennewick,United States,156.7,4760.0,-4750.0,15.0
+603,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,162.5,10020.0,-10020.0,12.0
+604,Addo Elephant Trail Run,100 Mile,Addo,South Africa,161.2,5640.0,-5170.0,16.0
+605,ULTRA-TRAIL® SIERRAS DEL BANDOLERO,ULTRA-TRAIL® SIERRAS DEL BANDOLERO,PradodelRey,Spain,163.4,6640.0,-6640.0,14.0
+606,La Mision,160 Km,SanMartíndelosAndes,Argentina,162.5,6480.0,-6480.0,1.0
+607,La Mision,160 km Equipos,SanMartíndelosAndes,Argentina,163.9,6810.0,-6800.0,2.0
+608,Arctic Ultra,100 Miles,Arvika,Sweden,159.6,2780.0,-2780.0,14.0
+609,Run The Rann,RTR 161 Km,Dholavira,India,159.0,2230.0,-2220.0,10.0
+610,Run of Kutch,160 Km,Bangalore,India,169.5,110.0,-110.0,12.0
+611,Rocky Raccoon,100 Mile,Huntsville,United States,158.6,1970.0,-1970.0,19.0
+612,Coldwater Rumble,100 Miles,Goodyear,United States,161.9,1750.0,-1750.0,16.0
+613,Montane Spine Races,Challenger,Edale,United Kingdom,172.8,4900.0,-4900.0,4.0
+614,Montane Spine Races,Montane Spine MRT Challenge,Edale,United Kingdom,172.8,4900.0,-4900.0,4.0
+615,Brazil 135+ Ultramarathon,Maratona 4,SãoJoãodaBoaVista,Brazil,166.9,4940.0,-4800.0,0.0
+616,S1 Trail La Corsa Della Bora,S1 Ipertrail,TRIESTE,Italy,163.7,6610.0,-6610.0,4.0
+617,S1 Trail La Corsa Della Bora,S1 Ipertrail Team,TRIESTE,Italy,163.7,6610.0,-6610.0,1.0
+618,UTSZ Autumn Trail Races,100Miles,shenzhen,China,161.6,7150.0,-7120.0,16.0
+619,Brazos Bend 100,100M,Needville,United States,158.5,1400.0,-1400.0,0.0
+620,The Hitchcock Experience,100 Mile,HoneyCreek,United States,157.1,3620.0,-3630.0,21.0
+621,Prazska Stovka,151 Km,Praha,Czech Republic,155.0,4640.0,-4810.0,8.0
+622,Ultra-Trail® Panoramic,100Miles,AmphurMuang,Thailand,158.2,6400.0,-6810.0,10.0
+623,Wicklow Way 50 Miles,100 Miles,Wicklow,Ireland,161.6,6800.0,-6800.0,6.0
+624,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,157.0,7220.0,-7220.0,4.0
+625,Ultra-Trail® Three Gorges,172 Km,Yichang,China,167.2,10150.0,-10010.0,17.0
+626,Mt.Gaoligong Ultra,160 Km,Tengchong,China,163.0,8130.0,-8180.0,18.0
+627,Desafio Extremo Estrada Real 100 Milhas De Sabarabuçu,160 Km,Caete,Brazil,159.3,4750.0,-4490.0,7.0
+628,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",169.7,7830.0,-7660.0,15.0
+629,Oman Desert Marathon,Oman Desert Marathon,Bidiyah,Oman,166.2,1960.0,-2300.0,14.0
+630,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,161.0,4500.0,-4500.0,12.0
+631,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,161.9,4930.0,-5060.0,0.0
+632,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,171.7,8570.0,-8560.0,15.0
+633,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,161.2,4610.0,-4810.0,5.0
+634,Javelina Jundred,100 Miles,FortMcDowell,United States,159.4,1760.0,-1760.0,26.0
+635,Cactus Rose,100 Mile,Bandera,United States,161.0,4400.0,-4400.0,20.0
+636,Autumn Asylum,March Extended,Rajamäki,Finland,160.5,2100.0,-2100.0,2.0
+637,Dalmacija Ultra-Trail®,Sky Dut,Omiš,Croatia,161.4,5960.0,-5930.0,12.0
+638,Rodopi Advendurun,100 miles,Haidou,Greece,164.1,6610.0,-6610.0,6.0
+639,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,167.5,10100.0,-10060.0,0.0
+640,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,162.4,2130.0,-2140.0,14.0
+641,Hume And Hovell Ultra,100 Mile,Tumbarumba,Australia,160.0,3990.0,-4000.0,10.0
+642,Raleigh Challenge - Wilson Trail,Round Trip,HongKong,"Hong Kong, China",155.5,7390.0,-7390.0,9.0
+643,The Cederberg Traverse,100 Mile,Cederberg,South Africa,166.1,7390.0,-7390.0,3.0
+644,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,160.1,8970.0,-8720.0,16.0
+645,Salomon Bhatti Lakes,160 Km,Faridabad,India,158.3,2390.0,-2370.0,0.0
+646,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,161.8,2780.0,-2760.0,7.0
+647,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,165.2,7580.0,-7580.0,15.0
+648,OSJ Koumi,100 Miles,KoumiTown,Japan,166.6,8510.0,-8520.0,4.0
+649,Bromont Ultra,160km,Bromont,Canada,162.5,6240.0,-6240.0,17.0
+650,100 Miles Sud De France,100 Miles,bolquere,France,164.3,8060.0,-9800.0,15.0
+651,Grindstone 100,Grindstone 100,Swoope,United States,159.6,6980.0,-6980.0,15.0
+652,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,168.0,6610.0,-6610.0,15.0
+653,Cloudsplitter 100,100 Mile,Norton,United States,160.7,6930.0,-6930.0,10.0
+654,NERANG 100 miler 2016,NERANG 100 miler,Nerang,Australia,160.0,5550.0,-5550.0,6.0
+655,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,166.7,4210.0,-4370.0,10.0
+656,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,169.7,6020.0,-6020.0,13.0
+657,St Oswald's Ultra,100 Mile,Chollerford,United Kingdom,164.4,2160.0,-2200.0,13.0
+658,Waterous Trail On Foot,WTF 100,Dwellingup,Australia,161.6,3190.0,-3190.0,9.0
+659,BEAR 100,BEAR 100,Smithfield,United States,161.1,5620.0,-5620.0,13.0
+660,Black River Run,100 Miles,Västerås,Sweden,161.2,1040.0,-1050.0,9.0
+661,Mark Twain Endurance Races,100 Mile,Berryman,United States,156.4,2530.0,-2530.0,6.0
+662,Kodiak Ultra Marathons,Kodiak 100 Mi,BigBearLake,United States,163.8,5140.0,-5140.0,16.0
+663,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,164.2,7767.0,-7765.0,0.0
+664,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,170.6,5530.0,-5530.0,6.0
+665,Vadrózsa,Vadrózsa 160,Rózsaszentmárton,Hungary,158.8,6680.0,-6680.0,17.0
+666,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,163.3,9590.0,-9590.0,0.0
+667,UTMB®,UTMB®,Chamonix,France,171.0,10080.0,-10080.0,16.0
+668,Persenk Ultra,PERSENK ULTRA,Asenovgrad,Bulgaria,157.1,7130.0,-7130.0,13.0
+669,Ultra Tour Des 4 Massifs,Ut4M160 Xtrem,Grenoble,France,163.2,10530.0,-10530.0,15.0
+670,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,160.8,6350.0,-7770.0,15.0
+671,Burning River Endurance Run,100 Mile,Hudson,United States,163.0,2470.0,-2470.0,20.0
+672,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,170.2,3490.0,-3520.0,14.0
+673,Silverheels Endurance Run,100 Mile,Fairplay,United States,168.2,5450.0,-5450.0,16.0
+674,Ouray 100 Mile Endurance Run,100 Mile,Ouray,United States,167.2,11420.0,-11420.0,15.0
+675,SALOMON ALPEN X 100 Powered By LED LENSER,100 Miles,Seefeld,Austria,163.9,10230.0,-10860.0,11.0
+676,Chiemgauer 100,100 Mile,Bergen,Germany,160.0,7500.0,-7500.0,9.0
+677,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,160.7,1600.0,-1590.0,5.0
+678,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,162.7,6140.0,-6140.0,0.0
+679,Vermont 100 Endurance Race,100M,WestWindsor,United States,162.0,4530.0,-4530.0,19.0
+680,YOU YANGS,100 MI,LittleRiver,Australia,156.7,2960.0,-2960.0,2.0
+681,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,170.0,13500.0,-13500.0,0.0
+682,GRAND TRAIL STEVENSON,GTS 3 jours - B,Saint-Etienne-Vallée-Française,France,156.2,5143.0,-5986.0,6.0
+683,Sinister 7 Ultra,Solo,Blairmore,Canada,155.3,4300.0,-4270.0,15.0
+684,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,170.7,10152.0,-10152.0,15.0
+685,CHICAMOCHA RUN,160K,CUNDINAMARCA,Colombia,165.1,8520.0,-7400.0,10.0
+686,Western States Endurance Run,Western States Endurance Run,Auburn,United States,160.3,5950.0,-7490.0,21.0
+687,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,161.0,3425.0,-3425.0,0.0
+688,Bighorn Trail Run,100M,Sheridan,United States,167.3,6740.0,-6800.0,7.0
+689,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,156.7,3390.0,-3440.0,14.0
+690,Chicamocha Canyon Race,165 Km,SanGil,Colombia,164.6,8690.0,-8690.0,6.0
+691,Kettle Moraine 100,100 Mile,LaGrange,United States,160.9,2650.0,-2650.0,12.0
+692,Bryce Canyon,100 Mile,Hatch,United States,159.4,4800.0,-4800.0,13.0
+693,Oh Meu Deus,K 160+,Seia,Portugal,159.6,7730.0,-7730.0,12.0
+694,SAN DIEGO 100,San Diego 100,Oceanside,United States,158.0,4020.0,-4030.0,15.0
+695,The Arctic Triple Lofoten Ultra-Trail®,100 Miles,SVOLVÆR,Norway,166.2,6690.0,-6690.0,10.0
+696,SULPHUR SPRINGS,100 MILES,Ancaster,Canada,161.0,3220.0,-3220.0,0.0
+697,Borås Ultra Marathon,BUM 100 Miles,Borås,Sweden,158.8,3100.0,-3180.0,10.0
+698,NUTS Karhunkierros,160k,Kuusamo,Finland,162.4,1730.0,-1720.0,7.0
+699,The Himalayan Crossing and The Spiti,The Spiti,Kaza,India,171.6,4970.0,-4670.0,6.0
+700,Hardcore Hundred Miles Trail Ultramarathon,100 MILES - H1,Kayapa,Philippines,155.3,10095.0,-10101.0,11.0
+701,Cruel Jewel,Cruel Jewel 100,Blairsville,United States,174.2,8520.0,-8510.0,11.0
+702,Malaysia Eco 100,100 miles,BukitMertajam,Malaysia,164.7,4340.0,-4300.0,15.0
+703,Salomon Hammer Trail,100 Miles,allinge,Denmark,161.5,5840.0,-5840.0,12.0
+704,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,166.9,1532.0,-1502.0,13.0
+705,Mustang Trail Race,Mustang Trail Race,Kathmandu,Nepal,167.7,8850.0,-8110.0,8.0
+706,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,158.2,1540.0,-1540.0,13.0
+707,Zion,100 Mile,Virgin,United States,156.7,3690.0,-3690.0,14.0
+708,100 Miles Of Istria,100 Miles,Umag,Croatia,170.9,7120.0,-7400.0,12.0
+709,Badger Mountain Challenge,100 Mile,Kennewick,United States,156.7,4760.0,-4750.0,15.0
+710,Northburn 100 Miler,100 Mile,Cromwell,New Zealand,155.8,8230.0,-8230.0,12.0
+711,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,160.1,2791.0,-2800.0,17.0
+712,Addo Elephant Trail Run,100 Mile,Addo,South Africa,161.2,5640.0,-5170.0,16.0
+713,Ultra Desafio Passa Quatro - MG,160 Km,PASSAQUATRO,Brazil,158.4,5440.0,-5420.0,10.0
+714,Run The Rann,Ultra Trail 161 Km,Dholavira,India,155.5,670.0,-650.0,12.0
+715,Ultra Trail Hong Kong,UTHK 170,HongKong,"Hong Kong, China",157.7,7600.0,-7630.0,13.0
+716,Coldwater Rumble,100 Miles,Goodyear,United States,161.2,1620.0,-1620.0,19.0
+717,Montane Spine Races,Challenger,Edale,United Kingdom,170.5,4750.0,-4750.0,4.0
+718,Montane Spine Races,Montane Spine MRT Challenge,Edale,United Kingdom,170.5,4750.0,-4750.0,4.0
+719,UTSZ,100 Miles,Shenzhen,China,165.1,7946.0,-7866.0,16.0
+720,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,161.4,7302.0,-7321.0,4.0
+721,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",170.4,8100.0,-8290.0,16.0
+722,Ultra-Trail® Three Gorges,100 Miles,Yichang,China,174.1,9080.0,-9100.0,17.0
+723,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,161.0,4500.0,-4500.0,12.0
+724,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,161.9,4930.0,-5060.0,0.0
+725,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,171.7,8570.0,-8560.0,15.0
+726,White Rose Ultra,100 Mile,Huddersfield,United Kingdom,161.2,4610.0,-4810.0,5.0
+727,Javelina Jundred,100 Miles,FortMcDowell,United States,163.4,1850.0,-1850.0,26.0
+728,Cactus Rose,100 Mile,Bandera,United States,161.0,4400.0,-4400.0,20.0
+729,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,160.8,10410.0,-10360.0,0.0
+730,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,162.4,2130.0,-2140.0,15.0
+731,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,161.7,7612.0,-7330.0,16.0
+732,Rodopi Advendurun,100 miles,Haidou,Greece,164.1,6610.0,-6610.0,0.0
+733,Szlak Orlich Gniazd - Ultra,Szlak Orlich Gniazd - Ultra,KwasniówDolny,Poland,161.3,2160.0,-2142.0,7.0
+734,OSJ Koumi,100 Miles,KoumiTown,Japan,166.6,8510.0,-8520.0,4.0
+735,Raleigh Challenge - Wilson Trail,Tornado 156,HongKong,"Hong Kong, China",169.4,7580.0,-7950.0,9.0
+736,100 Miles Sud De France,100 Miles,bolquere,France,164.6,8000.0,-9734.0,15.0
+737,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,168.0,6610.0,-6610.0,15.0
+738,Cloudsplitter 100,100 Mile,Norton,United States,160.7,6930.0,-6930.0,10.0
+739,Grindstone 100,Grindstone 100,Swoope,United States,160.0,6990.0,-6990.0,15.0
+740,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,160.5,7218.0,-7203.0,16.0
+741,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,164.6,4090.0,-4200.0,10.0
+742,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,169.7,6020.0,-6020.0,13.0
+743,St Oswald's Ultra,100 Mile,Chollerford,United Kingdom,164.4,2160.0,-2200.0,13.0
+744,BEAR 100,BEAR 100,Smithfield,United States,156.8,6550.0,-6200.0,13.0
+745,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,168.9,7180.0,-7170.0,12.0
+746,Black River Run,100 Miles,Västerås,Sweden,161.2,1040.0,-1050.0,9.0
+747,KODIAK 100,KODIAK 100 MI,BigBearLake,United States,156.8,5330.0,-5330.0,0.0
+748,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,171.6,6560.0,-6560.0,10.0
+749,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,164.2,7767.0,-7765.0,0.0
+750,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,161.1,5535.0,-5535.0,6.0
+751,Desafio Extremo Estrada Real 100 Milhas De Sabarabuçu,160 Km,Caete,Brazil,161.0,5153.0,-4821.0,7.0
+752,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,166.0,5099.0,-4952.0,0.0
+753,THE GREAT NASEBY WATER RACE,THE GREAT NASEBY WATER RACE - 160KM,Dunedin,New Zealand,162.7,2350.0,-2350.0,31.0
+754,Ultra-Trail Du Mont-Blanc®,UTMB®,Chamonix,France,169.6,10060.0,-10060.0,16.0
+755,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,161.35,9536.0,-9536.0,0.0
+756,Rampage The Roots,Ghosts Of Yellowstone 100M,Pony,United States,166.0,7130.0,-7120.0,15.0
+757,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,170.2,3490.0,-3520.0,14.0
+758,Silverheels Endurance Run,100 Mile,Fairplay,United States,165.1,5060.0,-5060.0,21.0
+759,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,160.8,6350.0,-7770.0,0.0
+760,Burning River Endurance Run,100 Mile,Hudson,United States,163.0,2470.0,-2470.0,20.0
+761,Chiemgauer 100,100 Mile,Bergen,Germany,160.0,7500.0,-7500.0,9.0
+762,Vermont 100 Endurance Race,100M,WestWindsor,United States,162.2,4469.0,-4459.0,25.0
+763,YOU YANGS,YOU YANGS 100 MI,LittleRiver,Australia,158.5,2958.0,-2958.0,2.0
+764,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,162.7,6145.0,-6145.0,0.0
+765,Sinister 7 Ultra,Solo,Blairmore,Canada,155.3,4300.0,-4270.0,15.0
+766,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,160.7,1600.0,-1590.0,5.0
+767,Western States Endurance Run,Western States Endurance Run,Auburn,United States,160.3,5950.0,-7490.0,21.0
+768,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,171.0,13000.0,-13000.0,0.0
+769,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,161.0,3425.0,-3425.0,0.0
+770,Bighorn Trail Run,100M,Sheridan,United States,161.3,5500.0,-5500.0,0.0
+771,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,156.7,3390.0,-3440.0,14.0
+772,Chicamocha Run,167 Km,CUNDINAMARCA,Colombia,169.1,7779.0,-7756.0,6.0
+773,Kettle Moraine 100,100 Mile,LaGrange,United States,163.8,3720.0,-3720.0,22.0
+774,SAN DIEGO 100,San Diego 100,Oceanside,United States,159.5,3617.0,-3617.0,15.0
+775,Bryce Canyon,100 Mile,Hatch,United States,159.4,4800.0,-4800.0,13.0
+776,Oh Meu Deus,K160+,Seia,Portugal,161.9,5030.0,-5030.0,12.0
+777,Trail Karpatia,Trail Karpatia,Volovets,Ukraine,164.7,8860.0,-8860.0,5.0
+778,WEST HIGHLAND WAY CHALLENGE RACE,WEST HIGHLAND WAY CHALLENGE RACE,Doune,United Kingdom,155.3,4060.0,-4110.0,7.0
+779,Borås Ultra Marathon,BUM 100 Miles,Borås,Sweden,158.8,3100.0,-3180.0,10.0
+780,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,161.0,3220.0,-3220.0,0.0
+781,HARDCORE HUNDRED MILES,100 MILES,Kayapa,Philippines,160.0,11128.0,-11137.0,11.0
+782,NUTS Karhunkierros,160k,Kuusamo,Finland,162.4,1730.0,-1720.0,7.0
+783,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.0,1600.0,-1600.0,13.0
+784,Salomon Hammer Trail,100 Miles,allinge,Denmark,161.5,5840.0,-5840.0,12.0
+785,INDIANA TRAIL 100,INDIANA TRAIL 100 MILE,Albion,United States,161.0,4000.0,-4000.0,0.0
+786,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,171.5,10090.0,-10090.0,16.0
+787,100 Miles Of Istria,100 Miles,Umag,Croatia,169.0,6270.0,-6560.0,12.0
+788,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,159.5,2510.0,-2520.0,13.0
+789,Zion,100 Mile,Virgin,United States,156.7,3690.0,-3690.0,0.0
+790,Badger Mountain Challenge,100 Mile,Kennewick,United States,156.7,4760.0,-4790.0,15.0
+791,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,161.0,3600.0,-3600.0,0.0
+792,Monument Valley,100 Mile,MonumentValley,United States,161.0,2400.0,-2400.0,13.0
+793,Antelope Canyon,100 Mile,Page,United States,161.0,1900.0,-1900.0,13.0
+794,Le TREG® Ennedi Trail,LE TREG®,Fada,Chad,175.0,2250.0,-2200.0,8.0
+795,Coldwater Rumble,100 Miles,Goodyear,United States,160.9,2918.0,-2918.0,0.0
+796,Montane Spine,Challenger,Edale,United Kingdom,170.5,4748.0,-4744.0,4.0
+797,Brazos Bend 100,100M,Needville,United States,156.6,1360.0,-1360.0,0.0
+798,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,161.4,7302.0,-7321.0,4.0
+799,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",168.0,5400.0,-5400.0,0.0
+800,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,171.7,8570.0,-8560.0,15.0
+801,Javelina Jundred,100 Miles,FortMcDowell,United States,162.9,1960.0,-1960.0,0.0
+802,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,161.0,4500.0,-4500.0,12.0
+803,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,161.9,4930.0,-5060.0,0.0
+804,Cactus Rose,100 Mile,Bandera,United States,161.0,4400.0,-4400.0,20.0
+805,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,172.6,9996.0,-9996.0,0.0
+806,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,162.4,2130.0,-2140.0,15.0
+807,The North Face Endurance Challenge Chile,160 Km,Huechuraba,Chile,160.0,8465.0,-8130.0,16.0
+808,Ultima Frontera Trail,ULTIMA FRONTERA 166,Loja,Spain,168.2,4600.0,-4600.0,0.0
+809,Rodopi Advendurun,100 miles,Haidou,Greece,164.1,6610.0,-6610.0,0.0
+810,100 Miles Sud De France,100 Miles,bolquere,France,162.8,7500.0,-5700.0,0.0
+811,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,168.0,6610.0,-6610.0,15.0
+812,Cloudsplitter 100,100 Mile,Norton,United States,166.8,7710.0,-7710.0,10.0
+813,Grindstone 100,Grindstone 100,Swoope,United States,160.0,6990.0,-6990.0,15.0
+814,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,157.8,6548.0,-6548.0,0.0
+815,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,164.6,4090.0,-4200.0,10.0
+816,Mountain Lakes 100,Mountain Lakes 100,OlallieLake,United States,155.6,3625.0,-3615.0,16.0
+817,BEAR 100,BEAR 100,Smithfield,United States,156.8,6550.0,-6200.0,0.0
+818,Black River Run,100 Miles,Västerås,Sweden,161.0,2400.0,-2400.0,30.0
+819,St Oswald's Ultra,100 Mile,Chollerford,United Kingdom,164.4,2160.0,-2200.0,13.0
+820,Kodiak Ultra Marathon,KODIAK 100 MI,BigBearLake,United States,156.8,5328.0,-5328.0,0.0
+821,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,171.6,6555.0,-6555.0,0.0
+822,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,161.0,6095.0,-6095.0,0.0
+823,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,175.0,6130.0,-6144.0,6.0
+824,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,161.1,5535.0,-5535.0,6.0
+825,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,165.0,6100.0,-6400.0,0.0
+826,THE GREAT NASEBY WATER RACE,THE GREAT NASEBY WATER RACE - 160KM,Dunedin,New Zealand,162.7,2350.0,-2350.0,31.0
+827,Ultra-Trail Du Mont-Blanc®,UTMB®,Chamonix,France,167.7,9618.0,-9618.0,16.0
+828,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,164.0,9808.0,-9808.0,0.0
+829,Ultra Tour Des 4 Massifs,Ut4M 160,Grenoble,France,165.4,10550.0,-10550.0,0.0
+830,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,173.5,2460.0,-2500.0,0.0
+831,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,160.8,6350.0,-7770.0,0.0
+832,Burning River Endurance Run,100 Mile,Hudson,United States,163.0,2470.0,-2470.0,20.0
+833,Peak2Peak Ultra,168 Km,Singapore,Singapore,168.0,6406.0,-6420.0,1.0
+834,Chiemgauer 100,100 Mile,Bergen,Germany,160.0,7500.0,-7500.0,0.0
+835,YOU YANGS,YOU YANGS 100 MI,LittleRiver,Australia,158.5,2960.0,-2960.0,2.0
+836,OSJ Ontake Ultra-Trail®?,100 Miles,Otaki,Japan,155.0,4200.0,-4200.0,0.0
+837,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,161.0,6030.0,-6030.0,0.0
+838,Vermont 100 Endurance Race,100M,WestWindsor,United States,161.0,4290.0,-4290.0,20.0
+839,The GAX 100 Miles,The GAX 100 Miles,Ystad,Sweden,161.0,1187.0,-1188.0,0.0
+840,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,171.0,13000.0,-13000.0,0.0
+841,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,171.4,10090.0,-10090.0,15.0
+842,Sinister 7 Ultra,Solo,Blairmore,Canada,161.0,5687.0,-5676.0,0.0
+843,Western States Endurance Run,Western States Endurance Run,Auburn,United States,161.0,5510.0,-7000.0,0.0
+844,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,161.0,3425.0,-3425.0,0.0
+845,Bighorn Trail Run,100M,Sheridan,United States,161.3,5500.0,-5500.0,0.0
+846,Bryce Canyon,100 Mile,Hatch,United States,161.0,4200.0,-4200.0,0.0
+847,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,156.7,3390.0,-3440.0,14.0
+848,Kettle Moraine 100,100 Mile,LaGrange,United States,161.9,2682.0,-2682.0,0.0
+849,SAN DIEGO 100,San Diego 100,Oceanside,United States,160.9,4790.0,-4790.0,0.0
+850,Thy Ultra Trail,THY ULTRA-TRAIL 100 MILES,Snedsted,Denmark,163.0,600.0,-600.0,0.0
+851,Trail Karpatia,Trail Karpatia,Volovets,Ukraine,170.0,8120.0,-7950.0,3.0
+852,Oh Meu Deus,K160+,Seia,Portugal,166.27,7105.0,-7108.0,0.0
+853,Chicamocha Run,167 Km,CUNDINAMARCA,Colombia,169.8,7940.0,-7917.0,6.0
+854,Le Grand Raid 6666,Grand Raid 6666,Roquebrun,France,164.8,9849.0,-9954.0,0.0
+855,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,161.0,3220.0,-3220.0,0.0
+856,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.0,1600.0,-1600.0,0.0
+857,Salomon Hammer Trail,100 Miles,allinge,Denmark,161.4,4260.0,-4260.0,12.0
+858,INDIANA TRAIL 100,INDIANA TRAIL 100 MILE,Albion,United States,161.0,4000.0,-4000.0,0.0
+859,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,169.0,9478.0,-9478.0,12.0
+860,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,160.9,2400.0,-2400.0,0.0
+861,100 Miles Of Istria,100 Miles,Umag,Croatia,166.6,6936.0,-7214.0,0.0
+862,Zion,100 Mile,Virgin,United States,161.0,3200.0,-3200.0,15.0
+863,Badger Mountain Challenge,100 Mile,Kennewick,United States,161.0,4300.0,-4300.0,0.0
+864,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,161.0,3600.0,-3600.0,0.0
+865,Northburn Ultra Mountain Events,100 Mile,Cromwell,New Zealand,161.0,8000.0,-8000.0,12.0
+866,La Mision,160 Km,SanMartíndelosAndes,Argentina,160.0,8500.0,-8500.0,0.0
+867,HARDCORE HUNDRED MILES,100 MILES,Kayapa,Philippines,160.0,13000.0,-13000.0,0.0
+868,Rocky Raccoon,100 Mile,Huntsville,United States,161.0,1800.0,-1800.0,0.0
+869,Coldwater Rumble,100 Miles,Goodyear,United States,160.9,2918.0,-2918.0,0.0
+870,Montane Spine,Montane Spine Challenger,Edale,United Kingdom,169.0,5017.0,-5012.0,0.0
+871,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,162.4,2130.0,-2140.0,0.0
+872,HK168,Full 168,TaiMeiTuk,"Hong Kong, China",168.0,5400.0,-5400.0,0.0
+873,Bromo Tengger Semeru 100 Ultra,BTS 170K,Bogor,Indonesia,165.2,7272.0,-7272.0,0.0
+874,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,173.7,6500.0,-6500.0,0.0
+875,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,161.0,4500.0,-4500.0,0.0
+876,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,161.88,4930.0,-5030.0,0.0
+877,Cactus Rose,100 Mile,Bandera,United States,161.0,4400.0,-4400.0,0.0
+878,Javelina Jundred,100 Miles,FortMcDowell,United States,162.9,1960.0,-1960.0,0.0
+879,Virgin Forest Trail,Ultra-Trail®,PARANESTI,Greece,159.5,6600.0,-6600.0,0.0
+880,Ultima Frontera Trail,ULTIMA FRONTERA 166,Loja,Spain,167.0,4820.0,-4820.0,0.0
+881,Rodopi Advendurun,100 miles,Haidou,Greece,165.6,6965.0,-6965.0,0.0
+882,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,170.0,6800.0,-6800.0,0.0
+883,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,164.6,10100.0,-10060.0,0.0
+884,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,162.0,7000.0,-7000.0,0.0
+885,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,170.6,7010.0,-7010.0,0.0
+886,BEAR 100,BEAR 100,Smithfield,United States,161.0,6865.0,-6865.0,0.0
+887,Black River Run,100 Miles,Västerås,Sweden,161.0,2400.0,-2400.0,0.0
+888,Cotswold Way Century,100 Miles,ChippingCampden,United Kingdom,164.5,3250.0,-3250.0,0.0
+889,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,161.0,6096.0,-6096.0,0.0
+890,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,156.0,7300.0,-7300.0,0.0
+891,OSJ Yatsugatake Super Trail,100 Miles,628-3TOKIWAKAMAKURA,Japan,160.0,6400.0,-6400.0,0.0
+892,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,161.1,5535.0,-5535.0,0.0
+893,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,165.0,6100.0,-6400.0,0.0
+894,The North Face Ultra-Trail Du Mont-Blanc®,UTMB®,Chamonix,France,167.7,9618.0,-9618.0,0.0
+895,THE GREAT NASEBY WATER RACE,THE GREAT NASEBY WATER RACE - 160KM,Dunedin,New Zealand,162.7,2350.0,-2350.0,0.0
+896,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,161.0,9766.0,-9766.0,0.0
+897,Mystery Ranch Ultra Challenge,Ghosts Of Yellowstone 100M,Pony,United States,161.0,8690.0,-8690.0,0.0
+898,Ultra Tour Des 4 Massifs,Ut4M 160,Grenoble,France,167.8,10120.0,-10110.0,0.0
+899,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,161.0,3030.0,-3070.0,0.0
+900,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,160.8,6350.0,-7770.0,0.0
+901,Burning River Endurance Run,100 Mile,Hudson,United States,161.0,2470.0,-2470.0,0.0
+902,Chiemgauer 100,100 Mile,Bergen,Germany,160.0,7500.0,-7500.0,0.0
+903,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,161.0,6030.0,-6030.0,0.0
+904,Vermont 100 Endurance Race,100M,WestWindsor,United States,161.0,4290.0,-4290.0,0.0
+905,OSJ Ontake Ultra-Trail®?,100 Miles,Otaki,Japan,155.0,4200.0,-4200.0,0.0
+906,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,168.0,10500.0,-10500.0,0.0
+907,Salomon Xreid Hardangervidda,Salomon Xreid Hardangervidda,Asker,Norway,155.7,4800.0,-4800.0,0.0
+908,Western States Endurance Run,Western States Endurance Run,Auburn,United States,161.0,5510.0,-7000.0,0.0
+909,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,171.0,12100.0,-12100.0,0.0
+910,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,160.4,3442.0,-3500.0,0.0
+911,Bighorn Mountain Wild And Scenic Trail Run,100M,Sheridan,United States,161.3,5500.0,-5500.0,0.0
+912,SAN DIEGO 100,San Diego 100,Oceanside,United States,160.9,4790.0,-4790.0,0.0
+913,Kettle Moraine 100,100 Mile,LaGrange,United States,161.9,2682.0,-2682.0,0.0
+914,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,161.0,3425.0,-3425.0,0.0
+915,Bryce Canyon,100 Mile,Hatch,United States,161.0,4200.0,-4200.0,0.0
+916,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,161.0,3220.0,-3220.0,0.0
+917,Salomon Hammer Trail,100 Miles,allinge,Denmark,161.0,4000.0,-4000.0,0.0
+918,Oh Meu Deus,K160+,Seia,Portugal,166.3,7110.0,-7110.0,0.0
+919,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,161.0,9164.0,-9164.0,12.0
+920,INDIANA TRAIL 100,INDIANA TRAIL 100 MILE,Albion,United States,161.0,4000.0,-4000.0,0.0
+921,Zion,100 Mile,Virgin,United States,161.0,2700.0,-2700.0,0.0
+922,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,160.9,2400.0,-2400.0,0.0
+923,100 Miles Of Istria,100 Miles,Umag,Croatia,166.0,6900.0,-7200.0,0.0
+924,Badger Mountain Challenge,100 Mile,Kennewick,United States,161.0,4300.0,-4300.0,0.0
+925,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,161.0,3600.0,-3600.0,0.0
+926,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.0,1600.0,-1600.0,0.0
+927,Northburn Ultra Mountain Events,100 Mile,Cromwell,New Zealand,161.0,8000.0,-8000.0,0.0
+928,HARDCORE HUNDRED MILES,100 MILES,Kayapa,Philippines,160.0,10000.0,-10000.0,0.0
+929,Rocky Raccoon,100 Mile,Huntsville,United States,161.0,1800.0,-1800.0,0.0
+930,La Mision,160 Km,SanMartíndelosAndes,Argentina,160.0,9000.0,-9000.0,0.0
+931,Centurion Autumn 100,Centurion Autumn 100,GoringOnThames,United Kingdom,162.4,2130.0,-2140.0,0.0
+932,Louceni,170 Km,UstinadLabem,Czech Republic,170.0,7300.0,-7200.0,24.0
+933,THE GREAT NORTH WALK 100S,100 MILES,Patonga,Australia,173.7,6500.0,-6500.0,0.0
+934,OZARK 100 MILE ENDURANCE RUN,OZARK 100 MILE ENDURANCE RUN,Shawnee,United States,161.0,4500.0,-4500.0,0.0
+935,PINHOTI 100,PINHOTI 100 MILES,Sylacauga,United States,161.9,4930.0,-5030.0,0.0
+936,Cactus Rose,100 Mile,Bandera,United States,161.0,4400.0,-4400.0,0.0
+937,Javelina Jundred,100 Miles,FortMcDowell,United States,162.9,1960.0,-1960.0,0.0
+938,Ultima Frontera Trail,ULTIMA FRONTERA 166,Loja,Spain,167.0,4820.0,-4820.0,0.0
+939,Rodopi Ultra Trail,100 miles,Haidou,Greece,165.6,6965.0,-6965.0,0.0
+940,Le Grand Raid De La Réunion,Le Grand Raid De La Réunion,SaintDenis,France,168.9,10982.0,-10952.0,0.0
+941,MAGREDI MOUNTAIN TRAIL,MAGREDI MOUNTAIN TRAIL 100 MI (MMT 100 MILE),Fontanafredda,Italy,162.0,7000.0,-7000.0,0.0
+942,Grindstone 100,Grindstone 100,Swoope,United States,163.0,7071.0,-7071.0,0.0
+943,BEAR 100,BEAR 100,Smithfield,United States,161.0,6865.0,-6865.0,0.0
+944,Mogollon Monster 100,MOGOLLON MONSTER 100,Pine,United States,170.6,7010.0,-7010.0,0.0
+945,PINE TO PALM 100 MILE ENDURANCE RUN,PINE TO PALM 100 MILE ENDURANCE RUN,Ashland,United States,161.0,6100.0,-6100.0,0.0
+946,L'Infernal Trail Des Vosges,160 Km,SaintNabord,France,156.0,7300.0,-7300.0,0.0
+947,OSJ Yatsugatake Super Trail,100 Miles,628-3TOKIWAKAMAKURA,Japan,160.0,6400.0,-6400.0,0.0
+948,LOST SOUL ULTRAMARATHON,LOST SOUL ULTRA 100 MILES,Lethbridge,Canada,161.1,5535.0,-5535.0,0.0
+949,SUPERIOR TRAIL RACES,SUPERIOR SAWTOOTH 100 MILE TRAIL RUN,Lutsen,United States,165.0,6100.0,-6400.0,0.0
+950,Le Grand Raid Des Pyrénées,GRP160 Ultra,vielle-Aure,France,160.7,9661.0,-9661.0,0.0
+951,Centurion North Downs Way 100,Centurion North Downs Way 100,farnham,United Kingdom,161.0,3030.0,-3070.0,0.0
+952,Burning River Endurance Run,100 Mile,Hudson,United States,161.0,2470.0,-2350.0,0.0
+953,Chiemgauer 100,100 Mile,Bergen,Germany,160.0,7500.0,-7500.0,0.0
+954,Angeles Crest 100 Mile Endurance Run,Angeles Crest 100 Mile Endurance Run,Arcadia,United States,160.8,6350.0,-7770.0,0.0
+955,Vermont 100 Endurance Race,100M,WestWindsor,United States,161.0,4290.0,-4290.0,0.0
+956,OSJ Ontake Ultra-Trail®?,100 Miles,Otaki,Japan,155.0,4200.0,-4200.0,0.0
+957,Ehunmilak Ultra-Trail®,Ehunmilak Ultra-Trail®,Beasain,Spain,168.0,11000.0,-11000.0,0.0
+958,Andorra Ultra Trail Vallnord,ANDORRA RONDA DELS CIMS,Ordino,Andorra,170.0,11000.0,-11000.0,0.0
+959,Centurion South Downs Way 100,Centurion South Downs Way 100,Worthing,United Kingdom,161.0,4000.0,-4000.0,0.0
+960,Western States Endurance Run,Western States Endurance Run,Auburn,United States,161.0,5510.0,-7000.0,0.0
+961,Tahoe Rim Trail Endurance Run,100 Mile,Carsoncity,United States,161.0,6030.0,-6030.0,0.0
+962,Bighorn Mountain Wild And Scenic Trail Run,100M,Sheridan,United States,161.3,5500.0,-5500.0,0.0
+963,SAN DIEGO 100,San Diego 100,Oceanside,United States,160.9,4790.0,-4790.0,0.0
+964,Ultra-Trail del Rincon,UTR 170K,Castielfabib,Spain,170.0,6800.0,-6800.0,0.0
+965,Kettle Moraine 100,100 Mile,LaGrange,United States,161.9,2682.0,-2682.0,0.0
+966,Mohican Trail,THE NORTH FACE MOHICAN TRAIL 100M,Loudonville,United States,161.0,3425.0,-3425.0,0.0
+967,SULPHUR SPRINGS,SULPHUR SPRINGS 100 MILES,Ancaster,Canada,161.0,3220.0,-3220.0,0.0
+968,Ultra-Trail Mt. Fuji,UTMF,Fuji,Japan,156.0,9164.0,-9164.0,10.0
+969,Salomon Hammer Trail,100 Miles,allinge,Denmark,161.0,4000.0,-4000.0,0.0
+970,Zion,100 Mile,Virgin,United States,161.0,2700.0,-2700.0,0.0
+971,Täby Extreme Challenge,TEC 100 Miles,Täby,Sweden,160.9,2400.0,-2400.0,0.0
+972,Badger Mountain Challenge,100 Mile,Kennewick,United States,161.0,4300.0,-4300.0,0.0
+973,Antelope Island Buffalo Run,100 Mile,Syracuse,United States,161.0,3600.0,-3600.0,0.0
+974,Northburn Ultra Mountain Events,100 Mile,Cromwell,New Zealand,161.0,8000.0,-8000.0,0.0
+975,Alpine Challenge,100 Mile Individual,BerrysCreek,Australia,160.0,7100.0,-7100.0,0.0
+976,Centurion Thames Path 100,Centurion Thames Path 100,London,United Kingdom,161.0,1600.0,-1600.0,0.0
+977,Rocky Raccoon,100 Mile,Huntsville,United States,161.0,1800.0,-1800.0,0.0
+978,,,,,,,,
+979,,,,,,,,
+980,,,,,,,,
+981,,,,,,,,
+982,,,,,,,,
+983,,,,,,,,
+984,,,,,,,,
+985,,,,,,,,
+986,,,,,,,,
+987,,,,,,,,
+988,,,,,,,,
+989,,,,,,,,
+990,,,,,,,,
+991,,,,,,,,
+992,,,,,,,,
+993,,,,,,,,
+994,,,,,,,,
+995,,,,,,,,
+996,,,,,,,,
+997,,,,,,,,
+998,,,,,,,,
+999,,,,,,,,
+1000,,,,,,,,
+1001,,,,,,,,
+1002,,,,,,,,
+1003,,,,,,,,
+1004,Leadville Trail 100 Run,100 MILE TRAIL RUN,Leadville,United States,0.0,0.0,0.0,0.0
