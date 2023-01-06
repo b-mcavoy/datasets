@@ -1,0 +1,461 @@
+id,Name,Type,Vendor,Calories,Fat (g),Protein (g),Carbohydrate (g),Cholesterol (mg),Saturated Fats (g),Sodium (mg),Serving Weight 1 (g),200 Calorie Weight (g)
+1,Kfc Biscuit,Biscuit,KFC,358.0,17.05,7.5,43.55,1.0,11.916,1070.0,49.0,55.866
+2,McDonalds Bacon Egg & Cheese Biscuit,Biscuit,McDonalds,304.0,18.77,13.45,22.26,167.0,8.262,863.0,142.0,65.789
+3,McDonalds Sausage Biscuit,Biscuit,McDonalds,376.0,25.4,9.62,27.2,29.0,10.659,875.0,117.0,53.191
+4,McDonalds Sausage Biscuit With Egg,Biscuit,McDonalds,311.0,22.26,11.27,19.28,152.0,8.628,664.0,163.0,64.309
+5,McDonalds Southern Style Chicken Biscuit,Biscuit,McDonalds,304.0,14.93,11.93,30.56,24.0,5.712,868.0,132.0,65.789
+6,Bacon On Biscuit,Biscuit,Other,355.0,14.11,9.75,47.19,14.0,2.993,1037.0,93.0,56.338
+7,Biscuit With Crispy Chicken Fillet,Biscuit,Other,300.0,14.93,11.93,30.56,24.0,5.712,868.0,132.0,66.667
+8,Biscuit With Egg And Bacon,Biscuit,Other,305.0,20.73,11.33,19.06,235.0,5.3,844.0,150.0,65.574
+9,Biscuit With Egg And Ham,Biscuit,Other,233.0,14.08,10.64,16.37,156.0,3.08,1093.0,182.0,85.837
+10,Biscuit With Egg Cheese And Bacon,Biscuit,Other,301.0,17.48,12.01,24.44,166.0,5.893,816.0,145.0,66.445
+11,Biscuit With Gravy,Biscuit,Other,215.0,12.3,5.9,20.33,16.0,3.276,440.0,221.0,93.023
+12,Biscuit With Ham,Biscuit,Other,342.0,16.3,11.85,38.75,22.0,10.096,974.0,162.0,58.48
+13,Biscuit With Sausage,Biscuit,Other,371.0,24.42,9.67,29.99,28.0,7.427,814.0,111.0,53.908
+14,Egg And Cheese On Biscuit,Biscuit,Other,270.0,16.3,9.03,21.69,133.0,4.761,636.0,140.0,74.074
+15,Egg And Steak On Biscuit,Biscuit,Other,284.0,12.85,10.82,31.07,73.0,2.654,763.0,179.0,70.423
+16,Egg Cheese And Ham On Biscuit,Biscuit,Other,253.0,16.29,12.05,14.84,149.0,4.896,1042.0,174.0,79.051
+17,Fast Food Biscuit,Biscuit,Other,370.0,18.92,7.08,42.82,2.0,11.803,979.0,55.0,54.054
+18,Fast Foods Biscuit With Egg And Sausage,Biscuit,Other,312.0,20.77,11.13,21.05,161.0,6.449,672.0,162.0,64.103
+19,Steak Sandwich Plain On Biscuit,Biscuit,Other,287.0,9.37,13.63,36.63,26.0,1.851,660.0,142.0,69.686
+20,Popeyes Biscuit,Biscuit,Popeyes,401.0,23.71,6.0,40.95,2.0,11.515,745.0,60.0,49.875
+21,Burger King French Toast Sticks,Bread,Burger King,349.0,17.74,6.0,41.21,0.0,3.989,428.0,21.0,57.307
+22,Breadstick Soft Prepared With Garlic And Parmesan Cheese,Bread,Other,343.0,12.88,12.2,44.48,7.0,2.966,539.0,43.0,58.309
+23,Breadsticks Soft From Fast Food / Restaurant,Bread,Other,342.0,12.85,12.18,44.39,7.0,2.96,615.0,26.0,58.48
+24,French Toast Gluten Free,Bread,Other,261.0,11.9,7.85,30.55,160.0,3.398,308.0,65.0,76.628
+25,French Toast Gluten Free From Frozen,Bread,Other,173.0,4.49,4.83,28.25,61.0,1.259,245.0,10.0,115.607
+26,French Toast Nfs,Bread,Other,270.0,10.95,10.12,32.37,160.0,3.259,330.0,65.0,74.074
+27,French Toast Plain,Bread,Other,270.0,10.95,10.12,32.37,160.0,3.259,330.0,65.0,74.074
+28,French Toast Plain From Fast Food / Restaurant,Bread,Other,306.0,13.74,9.54,35.78,132.0,4.938,391.0,85.0,65.359
+29,French Toast Plain From Frozen,Bread,Other,181.0,3.58,6.98,29.98,61.0,1.127,266.0,10.0,110.497
+30,French Toast Plain Reduced Fat,Bread,Other,237.0,6.22,10.64,34.05,164.0,1.913,327.0,65.0,84.388
+31,French Toast Sticks,Bread,Other,340.0,17.74,6.0,41.21,0.0,3.989,400.0,65.0,58.824
+32,French Toast Sticks Nfs,Bread,Other,283.0,9.6,7.06,41.92,18.0,1.349,494.0,25.0,70.671
+33,French Toast Sticks Plain From Fast Food / Restaurant,Bread,Other,400.0,20.87,7.06,48.48,0.0,4.693,471.0,25.0,50.0
+34,French Toast Sticks Plain From Frozen,Bread,Other,283.0,9.6,7.06,41.92,18.0,1.349,494.0,45.0,70.671
+35,French Toast Sticks Whole Grain,Bread,Other,269.0,11.26,11.43,30.3,160.0,3.268,317.0,45.0,74.349
+36,French Toast Whole Grain,Bread,Other,269.0,11.26,11.43,30.3,160.0,3.268,317.0,65.0,74.349
+37,French Toast Whole Grain From Fast Food / Restaurant,Bread,Other,304.0,14.11,11.05,33.39,132.0,4.948,376.0,85.0,65.789
+38,French Toast Whole Grain From Frozen,Bread,Other,180.0,3.88,8.21,28.02,61.0,1.135,254.0,10.0,111.111
+39,French Toast Whole Grain Reduced Fat,Bread,Other,236.0,6.55,12.01,31.88,164.0,1.922,313.0,65.0,84.746
+40,Fried Bread Puerto Rican Style,Bread,Other,257.0,8.19,5.01,41.83,56.0,1.653,277.0,110.0,77.821
+41,Garlic Bread From Fast Food / Restaurant,Bread,Other,349.0,16.58,8.34,41.64,0.0,5.27,620.0,37.0,57.307
+42,Pizza Hut Breadstick Parmesan Garlic,Bread,Pizza Hut,343.0,12.88,12.2,44.48,7.0,2.966,539.0,43.0,58.309
+43,French Toast From School Nfs,Bread,School Lunch,160.0,3.69,9.25,22.37,69.0,1.084,261.0,10.0,125.0
+44,French Toast Sticks From School Nfs,Bread,School Lunch,160.0,3.69,9.25,22.37,69.0,1.084,261.0,25.0,125.0
+45,McDonalds Egg Mcmuffin,Breakfast Sandwich,McDonalds,228.0,9.66,13.64,21.67,165.0,3.592,617.0,126.0,87.719
+46,McDonalds Sausage Egg & Cheese Mcgriddles,Breakfast Sandwich,McDonalds,283.0,17.73,10.77,22.04,132.0,5.649,652.0,199.0,70.671
+47,McDonalds Sausage Mcgriddles,Breakfast Sandwich,McDonalds,312.0,17.76,8.41,31.25,24.0,5.435,737.0,135.0,64.103
+48,Bagel With Breakfast Steak Egg Cheese And Condiments,Breakfast Sandwich,Other,282.0,14.07,15.95,22.99,130.0,5.419,642.0,254.0,70.922
+49,Bagel With Egg Sausage Patty Cheese And Condiments,Breakfast Sandwich,Other,295.0,16.97,12.98,22.64,133.0,6.396,550.0,219.0,67.797
+50,Egg Cheese And Bacon On Bagel,Breakfast Sandwich,Other,240.0,10.93,12.96,21.79,131.0,4.231,530.0,246.0,83.333
+51,Egg Cheese And Ham On Bagel,Breakfast Sandwich,Other,261.0,14.38,12.86,19.47,90.0,4.062,754.0,218.0,76.628
+52,Egg Cheese And Sausage On Bun,Breakfast Sandwich,Other,271.0,16.01,13.67,17.38,162.0,5.459,666.0,148.0,73.801
+53,Egg Cheese Ham And Bacon On Bun,Breakfast Sandwich,Other,261.0,13.93,15.01,17.92,147.0,5.331,771.0,226.0,76.628
+54,Egg Extra Cheese And Extra Sausage On Bun,Breakfast Sandwich,Other,274.0,17.68,14.32,14.04,105.0,6.209,648.0,213.0,72.993
+55,Egg Cheese And Beef On English Muffin,Breakfast Sandwich,Other,274.0,16.07,14.32,17.8,115.0,5.949,603.0,147.0,72.993
+56,English Muffin With Cheese And Sausage,Breakfast Sandwich,Other,338.0,20.67,13.28,25.28,43.0,8.152,668.0,108.0,59.172
+57,English Muffin With Egg Cheese And Canadian Bacon,Breakfast Sandwich,Other,228.0,9.66,13.64,21.67,168.0,3.592,617.0,126.0,87.719
+58,English Muffin With Egg Cheese And Sausage,Breakfast Sandwich,Other,286.0,18.1,13.38,17.44,163.0,6.928,548.0,165.0,69.93
+59,Ham And Cheese On English Muffin,Breakfast Sandwich,Other,254.0,12.16,16.9,18.91,46.0,6.451,752.0,57.0,78.74
+60,Burger King Cheeseburger,Burger,Burger King,286.0,14.81,14.57,23.71,45.0,6.842,602.0,133.0,69.93
+61,Burger King Double Whopper No Cheese,Burger,Burger King,252.0,15.66,13.94,13.74,46.0,5.773,289.0,374.0,79.365
+62,Burger King Double Whopper With Cheese,Burger,Burger King,266.0,17.06,14.47,13.52,47.0,6.998,387.0,399.0,75.188
+63,Burger King Hamburger,Burger,Burger King,261.0,10.55,14.85,26.76,35.0,3.821,461.0,99.0,76.628
+64,Burger King Whopper No Cheese,Burger,Burger King,233.0,12.84,10.74,18.55,30.0,4.25,313.0,291.0,85.837
+65,Burger King Whopper With Cheese,Burger,Burger King,250.0,15.33,11.19,16.7,36.0,5.782,453.0,316.0,80.0
+66,Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Burger King Whopper Jr. With Cheese),Burger,Burger King,225.0,11.88,11.2,18.11,32.0,4.663,445.0,170.0,88.889
+67,Double Bacon Cheeseburger 2 Small Patties With Condiments On Bun From Fast Food / Restaurant (Burger King Bacon Double Cheeseburger),Burger,Burger King,255.0,15.27,14.89,13.77,46.0,5.907,468.0,200.0,78.431
+68,Hamburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Burger King Whopper Jr.),Burger,Burger King,207.0,9.53,9.88,20.01,24.0,3.007,358.0,150.0,96.618
+69,McDonalds Big Mac,Burger,McDonalds,257.0,14.96,11.82,20.08,36.0,3.803,460.0,219.0,77.821
+70,McDonalds Big Mac (Without Big Mac Sauce),Burger,McDonalds,234.0,11.57,12.79,21.01,35.0,4.162,454.0,200.0,85.47
+71,McDonalds Cheeseburger,Burger,McDonalds,263.0,11.79,12.97,27.81,35.0,4.435,626.0,119.0,76.046
+72,McDonalds Double Cheeseburger,Burger,McDonalds,282.0,16.09,15.5,18.79,48.0,6.998,668.0,155.0,70.922
+73,McDonalds Double Quarter Pounder With Cheese,Burger,McDonalds,262.0,16.22,16.96,14.43,57.0,6.473,476.0,280.0,76.336
+74,McDonalds Filet-O-Fish,Burger,McDonalds,282.0,14.64,11.26,26.39,32.0,2.833,434.0,134.0,70.922
+75,McDonalds Filet-O-Fish (Without Tartar Sauce),Burger,McDonalds,243.0,7.62,12.47,31.08,25.0,1.773,464.0,124.0,82.305
+76,McDonalds Hamburger,Burger,McDonalds,264.0,10.09,12.92,30.28,27.0,3.504,494.0,95.0,75.758
+77,McDonalds Quarter Pounder,Burger,McDonalds,244.0,11.55,14.1,22.17,39.0,4.008,427.0,171.0,81.967
+78,McDonalds Quarter Pounder With Cheese,Burger,McDonalds,258.0,14.22,14.59,19.95,47.0,5.643,579.0,199.0,77.519
+79,Cheeseburger 1 Miniature Patty On Miniature Bun From School,Burger,School Lunch,250.0,9.26,19.73,21.32,43.0,4.117,351.0,60.0,80.0
+80,Cheeseburger On Bun From School,Burger,School Lunch,244.0,8.39,19.27,22.17,42.0,3.418,320.0,115.0,81.967
+81,Hamburger 1 Miniature Patty On Miniature Bun From School,Burger,School Lunch,237.0,6.94,18.14,24.91,37.0,2.35,294.0,50.0,84.388
+82,Hamburger On Bun From School,Burger,School Lunch,237.0,7.09,18.39,24.14,38.0,2.42,287.0,95.0,84.388
+83,Bacon Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Wendy's Jr. Bacon Cheeseburger),Burger,Wendys,272.0,13.48,14.81,23.02,41.0,5.749,641.0,150.0,73.529
+84,Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Wendy's Jr. Cheeseburger Deluxe),Burger,Wendys,225.0,11.88,11.2,18.11,32.0,4.663,445.0,160.0,88.889
+85,Double Bacon Cheeseburger 2 Medium Patties With Condiments On Bun From Fast Food / Restaurant (Wendy's Baconator),Burger,Wendys,271.0,17.4,17.07,10.78,56.0,7.138,412.0,335.0,73.801
+86,Wendys Classic Double With Cheese,Burger,Wendys,241.0,14.2,16.52,11.71,51.0,5.89,422.0,310.0,82.988
+87,Wendys Classic Single Hamburger No Cheese,Burger,Wendys,213.0,10.6,12.63,16.82,35.0,3.689,395.0,218.0,93.897
+88,Wendys Classic Single Hamburger With Cheese,Burger,Wendys,221.0,11.6,14.87,14.2,38.0,5.191,476.0,236.0,90.498
+89,Wendys Daves Hot N Juicy 1/4 Lb Single,Burger,Wendys,268.0,15.8,13.69,17.73,51.0,5.746,473.0,215.0,74.627
+90,Wendys Jr. Hamburger With Cheese,Burger,Wendys,256.0,11.5,13.06,24.97,36.0,5.181,660.0,129.0,78.125
+91,Wendys Jr. Hamburger Without Cheese,Burger,Wendys,243.0,8.75,12.62,28.45,27.0,3.466,539.0,117.0,82.305
+92,McDonalds Sausage Burrito,Burrito/Taco/Quesadilla,McDonalds,277.0,15.63,11.1,22.97,137.0,6.404,744.0,109.0,72.202
+93,Breakfast Burrito With Egg Cheese And Sausage,Burrito/Taco/Quesadilla,Other,277.0,15.63,11.1,22.97,137.0,6.404,744.0,109.0,72.202
+94,Burrito Taco Or Quesadilla With Egg,Burrito/Taco/Quesadilla,Other,229.0,11.84,10.27,19.69,153.0,4.224,548.0,110.0,87.336
+95,Burrito Taco Or Quesadilla With Egg And Breakfast Meat,Burrito/Taco/Quesadilla,Other,242.0,13.92,11.38,17.22,144.0,4.846,584.0,123.0,82.645
+96,Burrito Taco Or Quesadilla With Egg And Potato,Burrito/Taco/Quesadilla,Other,235.0,12.66,9.04,21.15,129.0,3.956,551.0,127.0,85.106
+97,Burrito Taco Or Quesadilla With Egg Beans And Breakfast Meat,Burrito/Taco/Quesadilla,Other,224.0,12.47,10.46,17.32,119.0,4.167,539.0,150.0,89.286
+98,Burrito Taco Or Quesadilla With Egg Potato And Breakfast Meat,Burrito/Taco/Quesadilla,Other,246.0,14.36,10.14,18.86,124.0,4.521,582.0,144.0,81.301
+99,Burrito Taco Or Quesadilla With Egg Potato And Breakfast Meat From Fast Food,Burrito/Taco/Quesadilla,Other,242.0,13.94,11.15,17.76,141.0,5.52,596.0,144.0,82.645
+100,Burrito With Beans,Burrito/Taco/Quesadilla,Other,206.0,6.22,6.48,32.92,2.0,3.174,454.0,217.0,97.087
+101,Burrito With Beans And Beef,Burrito/Taco/Quesadilla,Other,191.0,7.47,11.52,19.52,26.0,2.905,570.0,241.0,104.712
+102,Burrito With Beans And Cheese,Burrito/Taco/Quesadilla,Other,205.0,6.05,7.35,31.23,5.0,2.309,563.0,185.0,97.561
+103,Burrito With Beans Cheese And Beef,Burrito/Taco/Quesadilla,Other,180.0,6.8,7.03,23.37,12.0,2.733,451.0,241.0,111.111
+104,Crispy Chicken In Tortilla With Lettuce Cheese And Ranch Sauce,Burrito/Taco/Quesadilla,Other,275.0,15.1,11.48,23.22,29.0,3.837,607.0,133.0,72.727
+105,Taco With Beef Cheese And Lettuce Hard Shell,Burrito/Taco/Quesadilla,Other,226.0,12.7,8.86,19.85,28.0,4.384,397.0,69.0,88.496
+106,Taco With Beef Cheese And Lettuce Soft,Burrito/Taco/Quesadilla,Other,206.0,9.75,9.25,20.23,25.0,4.155,560.0,102.0,97.087
+107,Taco With Chicken Lettuce And Cheese Soft,Burrito/Taco/Quesadilla,Other,189.0,6.35,13.3,19.69,29.0,2.559,613.0,98.0,105.82
+108,Taquito Or Flauta With Egg,Burrito/Taco/Quesadilla,Other,255.0,11.39,10.06,27.37,93.0,4.749,551.0,36.0,78.431
+109,Taquito Or Flauta With Egg And Breakfast Meat,Burrito/Taco/Quesadilla,Other,267.0,12.7,11.38,25.94,93.0,5.149,614.0,36.0,74.906
+110,Quesadilla With Chicken,Burrito/Taco/Quesadilla,Other,294.0,15.25,15.05,24.04,37.0,6.154,745.0,180.0,68.027
+111,Taco Bell Bean Burrito,Burrito/Taco/Quesadilla,Taco Bell,209.0,6.05,7.35,31.23,5.0,2.309,563.0,185.0,95.694
+112,Taco Bell Burrito Supreme With Beef,Burrito/Taco/Quesadilla,Taco Bell,183.0,6.8,7.03,23.37,12.0,2.733,451.0,241.0,109.29
+113,Taco Bell Burrito Supreme With Chicken,Burrito/Taco/Quesadilla,Taco Bell,179.0,6.42,9.84,20.51,21.0,2.352,564.0,248.0,111.732
+114,Taco Bell Burrito Supreme With Steak,Burrito/Taco/Quesadilla,Taco Bell,183.0,7.27,9.13,20.32,21.0,2.674,534.0,248.0,109.29
+115,Taco Bell Original Taco With Beef Cheese And Lettuce,Burrito/Taco/Quesadilla,Taco Bell,229.0,12.7,8.86,19.85,28.0,4.384,397.0,69.0,87.336
+116,Taco Bell Soft Taco With Beef Cheese And Lettuce,Burrito/Taco/Quesadilla,Taco Bell,206.0,9.75,9.25,20.23,25.0,4.155,560.0,102.0,97.087
+117,Taco Bell Soft Taco With Chicken Cheese And Lettuce,Burrito/Taco/Quesadilla,Taco Bell,189.0,6.35,13.3,19.69,29.0,2.559,613.0,98.0,105.82
+118,Taco Bell Soft Taco With Steak,Burrito/Taco/Quesadilla,Taco Bell,225.0,12.1,11.81,17.22,31.0,3.369,551.0,127.0,88.889
+119,Restaurant Chinese Vegetable Chow Mein Without Meat Or Noodles,Chinese,Other,43.0,1.68,1.34,5.74,1.2,0.293,0.293,344.0,777.0
+120,Restaurant Chinese Shrimp And Vegetables,Chinese,Other,78.0,4.05,5.9,4.52,1.4,0.49,0.633,375.0,601.0
+121,Restaurant Chinese Chicken Chow Mein,Chinese,Other,85.0,2.8,6.76,8.29,1.0,0.49,0.49,311.0,604.0
+122,Restaurant Chinese Chicken And Vegetables,Chinese,Other,95.0,4.56,8.18,5.38,0.9,0.293,0.77,413.0,693.0
+123,Restaurant Chinese Beef And Vegetables,Chinese,Other,105.0,5.3,7.08,7.29,1.5,0.978,0.978,409.0,574.0
+124,Restaurant Chinese Vegetable Lo Mein Without Meat,Chinese,Other,121.0,2.35,4.77,20.16,1.3,0.464,0.464,430.0,741.0
+125,Restaurant Chinese Kung Pao Chicken,Chinese,Other,129.0,6.98,9.76,6.87,1.5,1.352,1.352,402.0,604.0
+126,Restaurant Chinese Fried Rice Without Meat,Chinese,Other,174.0,2.96,4.05,32.79,1.1,0.54,0.54,387.0,137.0
+127,Restaurant Chinese Egg Rolls Assorted,Chinese,Other,250.0,11.94,8.28,27.29,2.6,2.116,2.116,468.0,89.0
+128,Restaurant Chinese Sweet And Sour Chicken,Chinese,Other,250.0,12.65,10.1,23.86,1.0,1.933,1.933,246.0,706.0
+129,Restaurant Chinese Lemon Chicken,Chinese,Other,252.0,13.55,11.87,20.61,1.0,2.033,2.033,252.0,623.0
+130,Restaurant Chinese Orange Chicken,Chinese,Other,262.0,12.68,14.46,22.46,0.8,2.422,2.422,553.0,648.0
+131,Restaurant Chinese Sweet And Sour Pork,Chinese,Other,270.0,15.66,8.91,23.34,1.0,2.68,2.68,304.0,609.0
+132,Restaurant Chinese Sesame Chicken,Chinese,Other,293.0,14.25,14.33,26.88,0.7,2.41,2.41,482.0,547.0
+133,Restaurant Chinese General Tsos Chicken,Chinese,Other,295.0,16.36,12.9,23.99,0.9,2.76,2.76,435.0,535.0
+134,Rice Fried With Beef,Chinese,Other,178.0,3.87,8.04,27.87,29.0,0.971,335.0,198.0,112.36
+135,Rice Fried With Chicken,Chinese,Other,173.0,3.47,7.46,27.87,32.0,0.696,381.0,198.0,115.607
+136,Rice Fried With Pork,Chinese,Other,179.0,3.96,7.74,27.87,27.0,0.986,338.0,198.0,111.732
+137,Rice Fried With Shrimp,Chinese,Other,166.0,2.77,6.86,28.1,47.0,0.537,346.0,198.0,120.482
+138,Burger King Chicken Strips,Fried Chicken,Burger King,292.0,15.25,18.2,20.49,44.0,2.699,859.0,36.0,68.493
+139,Chick-Fil-A Chick-N-Strips,Fried Chicken,Chick-Fil-A,228.0,11.2,21.4,10.39,56.0,2.057,577.0,50.0,87.719
+140,Kfc Crispy Chicken Strips,Fried Chicken,KFC,274.0,15.42,20.25,13.66,51.0,2.887,948.0,47.0,72.993
+141,Kfc Fried Chicken Breast,Fried Chicken,KFC,268.0,16.55,21.24,8.47,76.0,3.538,607.0,212.0,74.627
+142,Kfc Fried Chicken Extra Crispy Breast Meat Only Skin And Breading Removed,Fried Chicken,KFC,153.0,4.82,27.25,0.25,87.0,1.196,477.0,140.0,130.719
+143,Kfc Fried Chicken Extra Crispy Drumstick Meat And Skin With Breading,Fried Chicken,KFC,274.0,17.73,20.62,7.96,109.0,3.887,632.0,81.0,72.993
+144,Kfc Fried Chicken Extra Crispy Drumstick Meat Only Skin And Breading Removed,Fried Chicken,KFC,170.0,7.43,25.9,0.0,137.0,1.893,526.0,41.0,117.647
+145,Kfc Fried Chicken Extra Crispy Thigh Meat And Skin With Breading,Fried Chicken,KFC,309.0,22.14,17.17,10.3,91.0,4.917,682.0,152.0,64.725
+146,Kfc Fried Chicken Extra Crispy Thigh Meat Only Skin And Breading Removed,Fried Chicken,KFC,179.0,9.96,22.41,0.0,118.0,2.709,558.0,91.0,111.732
+147,Kfc Fried Chicken Extra Crispy Wing Meat And Skin With Breading,Fried Chicken,KFC,337.0,23.0,20.8,11.66,107.0,4.796,765.0,68.0,59.347
+148,Kfc Fried Chicken Extra Crispy Wing Meat Only Skin And Breading Removed,Fried Chicken,KFC,236.0,12.13,28.67,2.97,146.0,2.603,714.0,44.0,84.746
+149,Kfc Fried Chicken Original Recipe Breast Meat And Skin With Breading,Fried Chicken,KFC,231.0,13.11,21.94,6.28,81.0,2.981,606.0,212.0,86.58
+150,Kfc Fried Chicken Original Recipe Breast Meat Only Skin And Breading Removed,Fried Chicken,KFC,149.0,4.56,26.89,0.0,96.0,1.03,499.0,152.0,134.228
+151,Kfc Fried Chicken Original Recipe Drumstick Meat And Skin With Breading,Fried Chicken,KFC,239.0,14.22,22.3,5.39,117.0,3.24,625.0,75.0,83.682
+152,Kfc Fried Chicken Original Recipe Drumstick Meat Only Skin And Breading Removed,Fried Chicken,KFC,175.0,7.66,26.3,0.11,137.0,1.838,524.0,40.0,114.286
+153,Kfc Fried Chicken Original Recipe Thigh Meat And Skin With Breading,Fried Chicken,KFC,269.0,17.73,18.9,8.46,104.0,4.123,781.0,135.0,74.349
+154,Kfc Fried Chicken Original Recipe Thigh Meat Only Skin And Breading Removed,Fried Chicken,KFC,175.0,9.31,22.78,0.01,122.0,2.308,568.0,86.0,114.286
+155,Kfc Fried Chicken Original Recipe Wing Meat And Skin With Breading,Fried Chicken,KFC,297.0,18.9,21.7,9.93,113.0,4.251,884.0,60.0,67.34
+156,Kfc Fried Chicken Original Recipe Wing Meat Only Skin And Breading Removed,Fried Chicken,KFC,216.0,10.49,28.65,1.76,141.0,2.321,738.0,39.0,92.593
+157,Kfc Popcorn Chicken,Fried Chicken,KFC,351.0,21.74,17.67,21.18,40.0,3.954,1140.0,6.4,56.98
+158,McDonalds Chicken Mcnuggets,Fried Chicken,McDonalds,302.0,19.81,15.79,15.09,44.0,3.261,566.0,64.0,66.225
+159,Popeyes Fried Chicken Mild Breast Meat And Skin With Breading,Fried Chicken,Popeyes,274.0,16.47,21.67,9.83,98.0,5.765,540.0,194.0,72.993
+160,Popeyes Fried Chicken Mild Breast Meat Only Skin And Breading Removed,Fried Chicken,Popeyes,157.0,4.52,28.98,0.0,97.0,1.368,526.0,132.0,127.389
+161,Popeyes Fried Chicken Mild Drumstick Meat And Skin With Breading,Fried Chicken,Popeyes,293.0,19.14,20.44,9.84,108.0,6.591,588.0,76.0,68.259
+162,Popeyes Fried Chicken Mild Drumstick Meat Only Skin And Breading Removed,Fried Chicken,Popeyes,170.0,7.14,26.51,0.04,127.0,2.282,478.0,44.0,117.647
+163,Popeyes Fried Chicken Mild Thigh Meat And Skin With Breading,Fried Chicken,Popeyes,310.0,20.99,19.14,11.2,107.0,7.344,685.0,138.0,64.516
+164,Popeyes Fried Chicken Mild Thigh Meat Only Skin And Breading Removed,Fried Chicken,Popeyes,188.0,9.66,24.31,0.85,131.0,2.938,601.0,83.0,106.383
+165,Popeyes Fried Chicken Mild Wing Meat And Skin With Breading,Fried Chicken,Popeyes,338.0,22.48,20.4,13.52,114.0,8.021,788.0,57.0,59.172
+166,Popeyes Fried Chicken Mild Wing Meat Only Skin And Breading Removed,Fried Chicken,Popeyes,212.0,9.42,28.94,2.9,156.0,3.079,814.0,16.0,94.34
+167,Popeyes Mild Chicken Strips Analyzed 2006,Fried Chicken,Popeyes,271.0,13.01,19.2,19.31,52.0,5.442,922.0,54.0,73.801
+168,Popeyes Spicy Chicken Strips Analyzed 2006,Fried Chicken,Popeyes,253.0,11.2,19.61,18.52,53.0,4.743,997.0,53.0,79.051
+169,School Lunch Chicken Nuggets Whole Grain Breaded,Fried Chicken,School Lunch,270.0,12.9,15.67,22.86,50.0,2.83,511.0,88.0,74.074
+170,School Lunch Chicken Patty Whole Grain Breaded,Fried Chicken,School Lunch,246.0,13.93,17.64,12.5,36.0,2.642,467.0,86.0,81.301
+171,Wendys Chicken Nuggets,Fried Chicken,Wendys,326.0,22.55,16.46,14.31,50.0,4.787,708.0,68.0,61.35
+172,Burger King Hash Brown Rounds,Fries,Burger King,302.0,19.3,2.8,29.37,0.0,3.285,568.0,5.6,66.225
+173,McDonalds Hash Brown,Fries,McDonalds,271.0,16.3,2.48,28.56,0.0,2.327,580.0,53.0,73.801
+174,Hush Puppies,Fries,Other,296.0,13.25,6.16,40.21,0.0,2.621,813.0,22.0,67.568
+175,Onion Rings Breaded And Fried,Fries,Other,411.0,25.23,3.86,43.58,0.0,4.194,776.0,117.0,48.662
+176,Potato French Fried In Vegetable Oil,Fries,Other,312.0,14.73,3.43,41.44,0.0,2.336,210.0,71.0,64.103
+177,Potato French Fries From Fresh Baked,Fries,Other,164.0,9.16,2.02,19.34,0.0,1.266,147.0,2.0,121.951
+178,Potato French Fries From Fresh Fried,Fries,Other,196.0,13.1,1.93,18.5,0.0,1.804,141.0,2.0,102.041
+179,Potato French Fries From Frozen Fried,Fries,Other,224.0,14.07,2.5,23.23,0.0,2.014,295.0,2.0,89.286
+180,Potato French Fries Nfs,Fries,Other,224.0,14.07,2.5,23.23,0.0,2.014,295.0,2.0,89.286
+181,Potato French Fries Ns As To Fresh Or Frozen,Fries,Other,224.0,14.07,2.5,23.23,0.0,2.014,295.0,2.0,89.286
+182,Potato French Fries With Cheese,Fries,Other,259.0,14.14,3.36,29.69,3.0,2.602,364.0,8.0,77.22
+183,Potato French Fries With Cheese Fast Food / Restaurant,Fries,Other,259.0,14.14,3.36,29.69,3.0,2.602,364.0,107.0,77.22
+184,Potato French Fries With Chili,Fries,Other,241.0,10.81,4.25,31.58,3.0,1.959,293.0,8.0,82.988
+185,Potato French Fries With Chili And Cheese,Fries,Other,220.0,11.38,3.99,25.41,4.0,2.254,386.0,10.0,90.909
+186,Potato French Fries With Chili And Cheese Fast Food / Restaurant,Fries,Other,220.0,11.38,3.99,25.41,4.0,2.254,386.0,10.0,90.909
+187,Potato French Fries With Chili Fast Food / Restaurant,Fries,Other,241.0,10.81,4.25,31.58,3.0,1.959,293.0,8.0,82.988
+188,Potato Hash Brown From Dry Mix,Fries,Other,217.0,11.48,2.62,28.23,0.0,0.925,399.0,160.0,92.166
+189,Potato Hash Brown From Fast Food With Cheese,Fries,Other,294.0,19.75,5.96,24.58,16.0,5.261,580.0,55.0,68.027
+190,Potato Hash Brown From Fresh,Fries,Other,189.0,12.27,1.94,18.57,0.0,1.691,344.0,160.0,105.82
+191,Potato Hash Brown From Fresh With Cheese,Fries,Other,221.0,15.39,5.04,16.27,15.0,4.236,389.0,160.0,90.498
+192,Potato Hash Brown From Restaurant With Cheese,Fries,Other,294.0,19.75,5.96,24.58,16.0,5.261,580.0,55.0,68.027
+193,Potato Hash Brown Nfs,Fries,Other,217.0,11.48,2.62,28.23,0.0,0.925,399.0,55.0,92.166
+194,Potato Hash Brown Ready-To-Heat,Fries,Other,217.0,11.48,2.62,28.23,0.0,0.925,399.0,55.0,92.166
+195,Potato Hash Brown Ready-To-Heat With Cheese,Fries,Other,248.0,15.08,5.97,24.07,16.0,3.89,441.0,55.0,80.645
+196,Potato Home Fries From Fresh,Fries,Other,183.0,11.52,1.96,18.76,0.0,1.589,279.0,200.0,109.29
+197,Potato Home Fries From Restaurant / Fast Food,Fries,Other,213.0,15.2,1.87,17.91,0.0,4.959,396.0,200.0,93.897
+198,Potato Home Fries Nfs,Fries,Other,195.0,13.03,1.92,18.4,0.0,1.794,341.0,200.0,102.564
+199,Potato Home Fries Ready-To-Heat,Fries,Other,195.0,13.03,1.92,18.4,0.0,1.794,341.0,200.0,102.564
+200,Potato Home Fries With Vegetables,Fries,Other,171.0,11.77,1.73,15.6,0.0,1.623,382.0,200.0,116.959
+201,Potato Patty,Fries,Other,170.0,11.22,3.89,13.4,68.0,3.12,221.0,55.0,117.647
+202,Potato Tots Fast Food / Restaurant,Fries,Other,236.0,15.4,1.89,24.31,0.0,3.631,571.0,130.0,84.746
+203,Potato Tots From Fresh Fried Or Baked,Fries,Other,236.0,15.46,1.9,24.4,0.0,2.337,421.0,130.0,84.746
+204,Potato Tots Frozen Baked,Fries,Other,187.0,9.17,2.03,26.1,0.0,1.493,451.0,130.0,106.952
+205,Potato Tots Frozen Fried,Fries,Other,236.0,15.46,1.9,24.4,0.0,2.337,421.0,130.0,84.746
+206,Potato Tots Frozen Ns As To Fried Or Baked,Fries,Other,236.0,15.46,1.9,24.4,0.0,2.337,421.0,130.0,84.746
+207,Potato Tots Nfs,Fries,Other,236.0,15.46,1.9,24.4,0.0,2.337,421.0,130.0,84.746
+208,Potatoes Hash Browns Round Pieces Or Patty,Fries,Other,272.0,17.04,2.58,28.88,0.0,2.54,566.0,5.5,73.529
+209,Potato French Fries School,Fries,School Lunch,164.0,9.16,2.02,19.34,0.0,1.266,147.0,2.0,121.951
+210,Potato French Fries With Cheese School,Fries,School Lunch,179.0,10.29,4.55,17.81,8.0,2.4,195.0,11.0,111.732
+211,Potato Hash Brown From School Lunch,Fries,School Lunch,218.0,11.54,2.64,28.4,0.0,0.93,169.0,55.0,91.743
+212,Potato Tots School,Fries,School Lunch,164.0,9.16,2.02,19.34,0.0,1.266,147.0,130.0,121.951
+213,Wendys French Fries,Fries,Wendys,301.0,14.1,3.73,39.73,0.0,2.79,219.0,71.0,66.445
+214,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Multigrain Bread,Hot Dog,Other,287.0,17.32,11.72,20.9,50.0,5.248,753.0,93.0,69.686
+215,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On Wheat Bread,Hot Dog,Other,291.0,18.64,10.56,20.03,55.0,5.594,819.0,85.0,68.729
+216,Frankfurter Or Hot Dog Sandwich Beef And Pork Plain On White Bread,Hot Dog,Other,288.0,18.22,9.93,20.68,55.0,5.595,824.0,85.0,69.444
+217,Frankfurter Or Hot Dog Sandwich Beef Plain On Multigrain Bread,Hot Dog,Other,306.0,19.77,12.71,18.69,37.0,7.731,678.0,93.0,65.359
+218,Frankfurter Or Hot Dog Sandwich Beef Plain On Wheat Bread,Hot Dog,Other,313.0,21.33,11.77,17.76,41.0,8.319,736.0,85.0,63.898
+219,Frankfurter Or Hot Dog Sandwich Beef Plain On White Bread,Hot Dog,Other,310.0,20.93,11.17,18.38,41.0,8.319,741.0,85.0,64.516
+220,Frankfurter Or Hot Dog Sandwich Chicken And/or Turkey Plain On Multigrain Bread,Hot Dog,Other,246.0,12.08,15.18,18.54,62.0,2.825,777.0,93.0,81.301
+221,Frankfurter Or Hot Dog Sandwich Chicken And/or Turkey Plain On Wheat Bread,Hot Dog,Other,248.0,12.92,14.46,17.59,68.0,2.952,845.0,85.0,80.645
+222,Frankfurter Or Hot Dog Sandwich Chicken And/or Turkey Plain On White Bread,Hot Dog,Other,245.0,12.52,13.86,18.21,68.0,2.952,850.0,85.0,81.633
+223,Frankfurter Or Hot Dog Sandwich Fat Free Plain On Multigrain Bread,Hot Dog,Other,173.0,2.66,13.24,24.01,26.0,0.66,687.0,93.0,115.607
+224,Frankfurter Or Hot Dog Sandwich Fat Free Plain On Wheat Bread,Hot Dog,Other,167.0,2.62,12.34,23.57,29.0,0.582,746.0,85.0,119.76
+225,Frankfurter Or Hot Dog Sandwich Fat Free Plain On White Bread,Hot Dog,Other,165.0,2.22,11.74,24.19,29.0,0.583,752.0,85.0,121.212
+226,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Multigrain Bread,Hot Dog,Other,281.0,17.24,11.44,20.02,50.0,5.23,746.0,93.0,71.174
+227,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On Wheat Bread,Hot Dog,Other,286.0,18.56,10.38,19.2,55.0,5.582,810.0,85.0,69.93
+228,Frankfurter Or Hot Dog Sandwich Meat And Poultry Plain On White Bread,Hot Dog,Other,283.0,18.16,9.78,19.82,55.0,5.583,816.0,85.0,70.671
+229,Frankfurter Or Hot Dog Sandwich Meatless On Bread With Meatless Chili,Hot Dog,Other,187.0,7.99,12.42,17.1,7.0,1.283,455.0,162.0,106.952
+230,Frankfurter Or Hot Dog Sandwich Meatless Plain On Bread,Hot Dog,Other,242.0,10.76,16.54,19.62,0.0,1.38,476.0,98.0,82.645
+231,Frankfurter Or Hot Dog Sandwich NFS Plain On Multigrain Bread,Hot Dog,Other,306.0,19.77,12.71,18.69,37.0,7.731,678.0,93.0,65.359
+232,Frankfurter Or Hot Dog Sandwich NFS Plain On Wheat Bread,Hot Dog,Other,313.0,21.33,11.77,17.76,41.0,8.319,736.0,85.0,63.898
+233,Frankfurter Or Hot Dog Sandwich NFS Plain On White Bread,Hot Dog,Other,310.0,20.93,11.17,18.38,41.0,8.319,741.0,85.0,64.516
+234,Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On Multigrain Bread,Hot Dog,Other,181.0,3.44,15.17,22.2,28.0,0.963,750.0,93.0,110.497
+235,Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On Wheat Bread,Hot Dog,Other,176.0,3.47,14.46,21.59,31.0,0.914,815.0,85.0,113.636
+236,Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On White Bread,Hot Dog,Other,173.0,3.07,13.86,22.21,31.0,0.915,821.0,85.0,115.607
+237,Frankfurter Or Hot Dog Sandwich Reduced Fat Or Light Plain On Whole Grain White Bread,Hot Dog,Other,170.0,2.64,14.13,22.42,28.0,0.87,788.0,93.0,117.647
+238,Frankfurter Or Hot Dog Sandwich With Chili On Multigrain Bread,Hot Dog,Other,225.0,13.12,9.9,16.41,26.0,5.09,584.0,157.0,88.889
+239,Frankfurter Or Hot Dog Sandwich With Chili On Wheat Bread,Hot Dog,Other,224.0,13.66,9.2,15.76,27.0,5.284,613.0,149.0,89.286
+240,Frankfurter Or Hot Dog Sandwich With Chili On White Bread,Hot Dog,Other,223.0,13.43,8.86,16.11,27.0,5.284,616.0,149.0,89.686
+241,Frankfurter Or Hot Dog Sandwich With Meatless Chili On Multigrain Bread,Hot Dog,Other,223.0,13.24,10.03,16.47,29.0,5.041,574.0,157.0,89.686
+242,Frankfurter Or Hot Dog Sandwich With Meatless Chili On Wheat Bread,Hot Dog,Other,223.0,13.78,9.34,15.82,31.0,5.232,601.0,149.0,89.686
+243,Frankfurter Or Hot Dog Sandwich With Meatless Chili On White Bread,Hot Dog,Other,221.0,13.56,9.0,16.17,31.0,5.233,605.0,149.0,90.498
+244,McDonalds Hot Caramel Sundae,Ice Cream,McDonalds,188.0,4.89,3.58,33.36,16.0,2.468,80.0,182.0,106.383
+245,McDonalds Hot Fudge Sundae,Ice Cream,McDonalds,186.0,5.91,4.14,30.05,13.0,3.592,94.0,179.0,107.527
+246,McDonalds Mcflurry With M&Ms,Ice Cream,McDonalds,177.0,6.46,4.02,26.82,16.0,3.402,54.0,348.0,112.994
+247,McDonalds Mcflurry With Oreo Cookies,Ice Cream,McDonalds,165.0,5.66,3.97,25.55,15.0,2.577,75.0,337.0,121.212
+248,McDonalds Strawberry Sundae,Ice Cream,McDonalds,158.0,3.95,3.19,28.09,13.0,2.008,47.0,178.0,126.582
+249,McDonalds Vanilla Reduced Fat Ice Cream Cone,Ice Cream,McDonalds,162.0,4.86,4.24,26.36,15.0,2.41,67.0,90.0,123.457
+250,Blended Soft Serve Ice Cream With Cookies,Ice Cream,Other,169.0,5.66,3.97,25.55,15.0,2.754,75.0,337.0,118.343
+251,Sundae Caramel,Ice Cream,Other,196.0,5.98,4.71,31.81,16.0,2.91,126.0,155.0,102.041
+252,Sundae Hot Fudge,Ice Cream,Other,180.0,5.46,3.57,30.17,13.0,3.179,115.0,158.0,111.111
+253,Sundae Strawberry,Ice Cream,Other,175.0,5.13,4.09,29.18,14.0,2.444,60.0,153.0,114.286
+254,Vanilla Light Soft-Serve Ice Cream With Cone,Ice Cream,Other,163.0,4.86,4.24,26.36,15.0,2.542,81.0,120.0,122.699
+255,Ice Creams Vanilla Light,Ice Cream,Other,180.0,4.83,4.78,29.46,27.0,2.927,74.0,76.0,111.111
+256,Ice Creams Vanilla Rich,Ice Cream,Other,249.0,16.2,3.5,22.29,92.0,10.329,61.0,107.0,80.321
+257,Ice Creams Vanilla,Ice Cream,Other,207.0,11.0,3.5,23.6,44.0,6.79,80.0,76.0,111.111
+258,Ice Creams Vanilla Light Soft-Serve,Ice Cream,Other,126.0,2.6,4.9,21.8,12.0,1.63,70.0,107.0,80.321
+259,Ice Creams Chocolate Light,Ice Cream,Other,187.0,7.19,5.0,25.7,28.0,4.38,71.0,66.0,96.618
+260,Frozen Novelties Ice Cream Type Vanilla Ice Cream Light No Sugar Added Chocolate Coated,Ice Cream,Other,221.0,10.1,6.4,26.11,10.0,5.528,104.0,88.0,158.73
+261,Ice Creams French Vanilla Soft-Serve,Ice Cream,Other,222.0,13.0,4.1,22.2,91.0,7.48,61.0,68.0,106.952
+262,Frozen Novelties Ice Cream Type Chocolate Or Caramel Covered With Nuts,Ice Cream,Other,323.0,20.2,4.4,30.9,1.0,12.658,92.0,78.0,90.498
+263,Frozen Novelties Ice Type Pop With Low Calorie Sweetener,Ice Cream,Other,24.0,0.0,0.0,5.92,0.0,0.0,10.0,86.0,90.09
+264,Ice Creams Chocolate Rich,Ice Cream,Other,251.0,16.98,4.72,19.78,60.0,10.377,57.0,54.0,61.92
+265,Ice Creams Chocolate,Ice Cream,Other,216.0,11.0,3.8,28.2,34.0,6.8,76.0,55.0,833.333
+266,Ice Creams Strawberry,Ice Cream,Other,192.0,8.4,3.2,27.6,29.0,5.19,60.0,148.0,79.681
+267,Wendys Frosty Dairy Dessert,Ice Cream,Wendys,132.0,2.6,3.49,23.62,16.0,1.635,98.0,113.0,151.515
+268,Restaurant Latino Black Bean Soup,Latino,Other,103.0,2.57,5.1,14.79,4.9,0.535,0.535,311.0,246.0
+269,Restaurant Latino Arroz Con Leche (Rice Pudding),Latino,Other,146.0,3.69,3.2,24.92,0.5,1.899,1.899,106.0,283.0
+270,Restaurant Latino Tamale Pork,Latino,Other,174.0,9.04,7.35,15.75,2.4,2.692,2.692,473.0,142.0
+271,Restaurant Latino Tamale Corn,Latino,Other,186.0,7.21,3.48,26.68,3.2,2.692,2.629,277.0,166.0
+272,Restaurant Latino Arepa (Unleavened Cornmeal Bread),Latino,Other,219.0,5.38,5.48,37.14,2.6,2.902,2.902,270.0,98.0
+273,Restaurant Latino Pupusas Con Frijoles (Pupusas Bean),Latino,Other,229.0,9.01,5.59,31.49,5.8,2.188,2.188,305.0,126.0
+274,Restaurant Latino Pupusas Del Cerdo (Pupusas Pork),Latino,Other,232.0,10.43,11.51,23.02,2.6,3.166,3.166,426.0,122.0
+275,Restaurant Latino Pupusas Con Queso (Pupusas Cheese),Latino,Other,256.0,13.25,11.72,22.39,2.9,6.479,6.479,400.0,117.0
+276,Restaurant Latino Empanadas Beef Prepared,Latino,Other,335.0,18.37,11.31,31.19,2.0,5.156,5.156,440.0,89.0
+277,Nachos With Cheese,Nachos,Other,343.0,21.5,4.32,34.91,3.0,2.173,313.0,80.0,58.309
+278,Nachos With Cheese Beans Ground Beef And Tomatoes,Nachos,Other,219.0,12.48,6.21,21.39,14.0,2.549,348.0,222.0,91.324
+279,Taco Bell Nachos,Nachos,Taco Bell,350.0,21.5,4.32,34.91,3.0,2.173,313.0,80.0,57.143
+280,Taco Bell Nachos Supreme,Nachos,Taco Bell,223.0,12.48,6.21,21.39,14.0,2.549,348.0,222.0,89.686
+281,McDonalds Big Breakfast,Other,McDonalds,285.0,19.37,10.16,17.5,173.0,6.405,549.0,269.0,70.175
+282,McDonalds Deluxe Breakfast With Syrup And Margarine,Other,McDonalds,285.0,15.23,7.56,29.48,109.0,4.642,437.0,420.0,70.175
+283,McDonalds Fruit N Yogurt Parfait,Other,McDonalds,105.0,1.3,2.73,20.72,5.0,0.041,58.0,149.0,190.476
+284,McDonalds Fruit N Yogurt Parfait (Without Granola),Other,McDonalds,90.0,1.13,2.47,17.67,5.0,0.004,38.0,142.0,222.222
+285,McDonalds Hotcakes (Plain),Other,McDonalds,228.0,5.84,6.0,38.27,13.0,1.158,358.0,149.0,87.719
+286,McDonalds Hotcakes And Sausage,Other,McDonalds,294.0,12.5,7.81,37.55,19.0,3.646,484.0,192.0,68.027
+287,McDonalds Ranch Snack Wrap Crispy,Other,McDonalds,275.0,15.1,11.48,23.22,29.0,3.837,607.0,133.0,72.727
+288,McDonalds Ranch Snack Wrap Grilled,Other,McDonalds,222.0,10.31,13.77,18.43,41.0,3.363,577.0,123.0,90.09
+289,Egg Scrambled,Other,Other,212.0,16.18,13.84,2.08,426.0,6.153,187.0,96.0,94.34
+290,Bibimbap Korean,Other,Other,79.0,2.81,5.38,8.34,12.0,0.681,422.0,162.0,253.165
+291,Bruschetta,Other,Other,173.0,7.7,4.03,22.18,0.0,0.873,238.0,43.0,115.607
+292,Dukboki Or Tteokbokki Korean,Other,Other,132.0,4.06,3.91,19.86,6.0,0.939,197.0,250.0,151.515
+293,Hors D'oeuvres With Spread,Other,Other,206.0,4.85,11.37,28.79,40.0,0.998,409.0,23.0,97.087
+294,Miniature Cinnamon Rolls,Other,Other,403.0,17.95,7.02,53.38,21.0,4.701,554.0,25.0,49.628
+295,Pig In A Blanket Frankfurter Or Hot Dog Wrapped In Dough,Other,Other,324.0,21.9,11.82,19.37,42.0,8.513,733.0,85.0,61.728
+296,Potato Mashed,Other,Other,89.0,2.82,1.65,14.65,0.0,0.577,306.0,242.0,224.719
+297,Shrimp Breaded And Fried,Other,Other,308.0,18.9,7.84,27.99,58.0,3.843,897.0,39.0,64.935
+298,Strawberry Banana Smoothie Made With Ice And Low-Fat Yogurt,Other,Other,65.0,0.14,0.86,15.05,1.0,0.0,14.0,347.0,307.692
+299,McDonalds Pancakes,Pancake,McDonalds,272.0,8.06,4.05,46.08,9.0,0.818,283.0,221.0,73.529
+300,Blintz Cheese-Filled,Pancake,Other,186.0,7.63,9.06,20.12,85.0,2.127,452.0,70.0,107.527
+301,Blintz Fruit-Filled,Pancake,Other,175.0,6.2,5.56,24.78,66.0,1.703,198.0,70.0,114.286
+302,Chinese Pancake,Pancake,Other,207.0,0.38,4.05,45.38,0.0,0.102,5.0,28.0,96.618
+303,Crepe Chocolate Filled,Pancake,Other,156.0,5.52,5.46,20.82,62.0,2.154,191.0,80.0,128.205
+304,Crepe Fruit Filled,Pancake,Other,184.0,6.96,4.55,26.46,67.0,1.769,182.0,80.0,108.696
+305,Crepe Nfs,Pancake,Other,223.0,10.95,8.74,21.72,138.0,3.407,287.0,80.0,89.686
+306,Crepe Ns As To Filling,Pancake,Other,184.0,6.96,4.55,26.45,67.0,1.769,182.0,80.0,108.696
+307,Crepe Plain,Pancake,Other,223.0,10.95,8.74,21.72,138.0,3.407,287.0,65.0,89.686
+308,Dosa (Indian) Plain,Pancake,Other,209.0,3.96,5.7,37.08,0.0,0.574,309.0,35.0,95.694
+309,Pancakes Buckwheat,Pancake,Other,267.0,12.66,8.0,31.73,62.0,3.274,342.0,10.0,74.906
+310,Pancakes Cornmeal,Pancake,Other,202.0,5.91,4.76,32.0,35.0,1.387,655.0,10.0,99.01
+311,Pancakes Nfs,Pancake,Other,278.0,11.87,7.4,35.31,60.0,3.097,652.0,10.0,71.942
+312,Pancakes Plain,Pancake,Other,278.0,11.87,7.4,35.31,60.0,3.097,652.0,10.0,71.942
+313,Pancakes Plain From Fast Food / Restaurant,Pancake,Other,303.0,15.29,7.15,34.13,58.0,3.515,683.0,10.0,66.007
+314,Pancakes Plain Reduced Fat From Fozen,Pancake,Other,262.0,9.54,7.56,36.09,61.0,2.811,667.0,10.0,76.336
+315,Pancakes Pumpkin,Pancake,Other,238.0,9.92,6.36,30.94,50.0,2.602,543.0,10.0,84.034
+316,Pancakes Whole Grain,Pancake,Other,271.0,12.1,7.85,32.87,62.0,3.095,729.0,10.0,73.801
+317,Pancakes Whole Grain And Nuts From Fast Food / Restaurant,Pancake,Other,351.0,22.98,7.92,30.09,53.0,3.926,677.0,10.0,56.98
+318,Pancakes Whole Grain From Fast Food / Restaurant,Pancake,Other,296.0,15.61,7.58,31.73,60.0,3.526,758.0,10.0,67.568
+319,Pancakes Whole Grain From Frozen,Pancake,Other,232.0,6.75,5.54,38.55,17.0,1.146,447.0,10.0,86.207
+320,Pancakes Whole Grain Reduced Fat,Pancake,Other,253.0,9.69,8.03,33.62,63.0,2.799,745.0,10.0,79.051
+321,Pancakes Whole Grain Reduced Fat From Frozen,Pancake,Other,232.0,6.75,5.54,38.55,17.0,1.146,447.0,10.0,86.207
+322,Pancakes With Chocolate,Pancake,Other,338.0,15.77,7.67,41.17,54.0,6.26,557.0,10.0,59.172
+323,Pancakes With Chocolate From Fast Food / Restaurant,Pancake,Other,357.0,18.52,7.45,40.01,53.0,6.52,586.0,10.0,56.022
+324,Pancakes With Chocolate From Frozen,Pancake,Other,248.0,7.97,5.35,38.83,18.0,2.029,442.0,10.0,80.645
+325,Pancakes With Fruit,Pancake,Other,230.0,9.39,5.85,30.62,47.0,2.419,507.0,10.0,86.957
+326,Pancakes With Fruit From Fast Food / Restaurant,Pancake,Other,250.0,12.12,5.7,29.82,45.0,2.764,535.0,10.0,80.0
+327,Pancakes With Fruit From Frozen,Pancake,Other,224.0,6.52,4.99,36.47,17.0,1.107,438.0,10.0,89.286
+328,Pancakes From School Nfs,Pancake,School Lunch,231.0,6.57,6.26,40.43,16.0,1.109,415.0,10.0,86.58
+329,Digiorno Pizza Cheese Topping Cheese Stuffed Crust Frozen Baked,Pizza,Digiorno,279.0,11.68,13.48,29.86,28.0,5.63,806.0,164.0,71.685
+330,Digiorno Pizza Cheese Topping Rising Crust Frozen Baked,Pizza,Digiorno,256.0,8.6,12.8,31.78,15.0,3.514,696.0,183.0,78.125
+331,Digiorno Pizza Cheese Topping Thin Crispy Crust Frozen Baked,Pizza,Digiorno,247.0,9.91,12.96,26.47,21.0,4.601,506.0,161.0,80.972
+332,Digiorno Pizza Pepperoni Topping Cheese Stuffed Crust Frozen Baked,Pizza,Digiorno,279.0,11.71,13.92,29.46,24.0,5.007,753.0,179.0,71.685
+333,Digiorno Pizza Pepperoni Topping Rising Crust Frozen Baked,Pizza,Digiorno,265.0,10.11,12.46,31.15,18.0,3.761,743.0,207.0,75.472
+334,Digiorno Pizza Pepperoni Topping Thin Crispy Crust Frozen Baked,Pizza,Digiorno,283.0,12.86,13.22,28.67,28.0,4.973,663.0,145.0,70.671
+335,Digiorno Pizza Supreme Topping Rising Crust Frozen Baked,Pizza,Digiorno,255.0,10.68,11.74,27.93,19.0,3.965,712.0,227.0,78.431
+336,Digiorno Pizza Supreme Topping Thin Crispy Crust Frozen Baked,Pizza,Digiorno,255.0,10.8,11.41,28.05,20.0,4.377,555.0,155.0,78.431
+337,Dominos 14 Inch Cheese Pizza Classic Hand-Tossed Crust,Pizza,Dominos,257.0,8.97,10.8,33.24,17.0,4.11,523.0,108.0,77.821
+338,Dominos 14 Inch Cheese Pizza Crunchy Thin Crust,Pizza,Dominos,298.0,15.1,12.33,28.18,27.0,6.345,628.0,70.0,67.114
+339,Dominos 14 Inch Cheese Pizza Ultimate Deep Dish Crust,Pizza,Dominos,265.0,9.83,10.76,33.48,16.0,4.062,615.0,118.0,75.472
+340,Dominos 14 Inch Extravaganzza Feast Pizza Classic Hand-Tossed Crust,Pizza,Dominos,244.0,11.1,10.33,25.72,20.0,4.386,456.0,151.0,81.967
+341,Dominos 14 Inch Pepperoni Pizza Classic Hand-Tossed Crust,Pizza,Dominos,273.0,11.18,11.25,31.86,25.0,4.779,611.0,113.0,73.26
+342,Dominos 14 Inch Pepperoni Pizza Crunchy Thin Crust,Pizza,Dominos,328.0,19.05,13.88,25.35,38.0,7.557,783.0,79.0,60.976
+343,Dominos 14 Inch Pepperoni Pizza Ultimate Deep Dish Crust,Pizza,Dominos,283.0,12.1,11.52,31.89,24.0,4.856,693.0,123.0,70.671
+344,Dominos 14 Inch Sausage Pizza Classic Hand-Tossed Crust,Pizza,Dominos,273.0,11.2,11.08,31.84,21.0,4.607,594.0,114.0,73.26
+345,Dominos 14 Inch Sausage Pizza Crunchy Thin Crust,Pizza,Dominos,319.0,18.52,12.77,25.3,35.0,7.079,725.0,78.0,62.696
+346,Dominos 14 Inch Sausage Pizza Ultimate Deep Dish Crust,Pizza,Dominos,277.0,12.03,11.03,31.17,23.0,4.755,677.0,129.0,72.202
+347,Little Caesars 14 Inch Cheese Pizza Large Deep Dish Crust,Pizza,Little Caesars,263.0,10.22,12.63,30.1,23.0,4.237,432.0,102.0,76.046
+348,Little Caesars 14 Inch Cheese Pizza Thin Crust,Pizza,Little Caesars,309.0,16.99,16.23,22.85,39.0,7.327,455.0,48.0,64.725
+349,Little Caesars 14 Inch Original Round Cheese Pizza Regular Crust,Pizza,Little Caesars,265.0,9.54,13.39,31.5,24.0,4.206,454.0,89.0,75.472
+350,Little Caesars 14 Inch Original Round Meat And Vegetable Pizza Regular Crust,Pizza,Little Caesars,243.0,11.35,12.12,23.1,31.0,4.561,578.0,115.0,82.305
+351,Little Caesars 14 Inch Original Round Pepperoni Pizza Regular Crust,Pizza,Little Caesars,273.0,10.5,13.59,31.01,28.0,4.541,518.0,90.0,73.26
+352,Little Caesars 14 Inch Pepperoni Pizza Large Deep Dish Crust,Pizza,Little Caesars,265.0,10.81,12.93,29.03,26.0,4.314,492.0,104.0,75.472
+353,Papa Johns 14 Inch Cheese Pizza Original Crust,Pizza,Papa Johns,260.0,9.25,11.53,32.74,19.0,3.871,578.0,117.0,76.923
+354,Papa Johns 14 Inch Cheese Pizza Thin Crust,Pizza,Papa Johns,295.0,15.66,12.29,26.26,28.0,6.202,528.0,87.0,67.797
+355,Papa Johns 14 Inch Pepperoni Pizza Original Crust,Pizza,Papa Johns,275.0,11.86,11.97,30.04,26.0,4.908,671.0,123.0,72.727
+356,Papa Johns 14 Inch The Works Pizza Original Crust,Pizza,Papa Johns,240.0,10.21,10.27,26.69,21.0,3.765,570.0,153.0,83.333
+357,Pizza Hut 12 Inch Cheese Pizza Hand-Tossed Crust,Pizza,Pizza Hut,271.0,10.89,11.93,31.22,24.0,5.04,685.0,96.0,73.801
+358,Pizza Hut 12 Inch Cheese Pizza Pan Crust,Pizza,Pizza Hut,280.0,12.56,11.73,29.93,21.0,5.184,624.0,100.0,71.429
+359,Pizza Hut 12 Inch Cheese Pizza Thin N Crispy Crust,Pizza,Pizza Hut,303.0,14.1,15.29,28.64,34.0,6.896,784.0,69.0,66.007
+360,Pizza Hut 12 Inch Pepperoni Pizza Hand-Tossed Crust,Pizza,Pizza Hut,280.0,11.38,12.86,31.55,26.0,5.161,801.0,96.0,71.429
+361,Pizza Hut 12 Inch Pepperoni Pizza Pan Crust,Pizza,Pizza Hut,298.0,14.21,11.97,30.49,25.0,5.271,692.0,96.0,67.114
+362,Pizza Hut 12 Inch Super Supreme Pizza Hand-Tossed Crust,Pizza,Pizza Hut,243.0,10.72,10.9,25.62,20.0,4.554,689.0,127.0,82.305
+363,Pizza Hut 14 Inch Cheese Pizza Hand-Tossed Crust,Pizza,Pizza Hut,275.0,10.42,11.98,33.42,18.0,4.819,674.0,105.0,72.727
+364,Pizza Hut 14 Inch Cheese Pizza Pan Crust,Pizza,Pizza Hut,276.0,11.25,10.85,32.85,18.0,4.39,580.0,112.0,72.464
+365,Pizza Hut 14 Inch Cheese Pizza Stuffed Crust,Pizza,Pizza Hut,274.0,11.63,12.23,30.0,30.0,5.825,615.0,117.0,72.993
+366,Pizza Hut 14 Inch Cheese Pizza Thin N Crispy Crust,Pizza,Pizza Hut,306.0,12.8,13.37,34.22,30.0,6.103,857.0,79.0,65.359
+367,Pizza Hut 14 Inch Pepperoni Pizza Hand-Tossed Crust,Pizza,Pizza Hut,291.0,12.63,12.23,32.11,26.0,5.404,759.0,110.0,68.729
+368,Pizza Hut 14 Inch Pepperoni Pizza Pan Crust,Pizza,Pizza Hut,291.0,13.07,11.47,31.79,23.0,4.823,676.0,113.0,68.729
+369,Pizza Hut 14 Inch Pepperoni Pizza Thin N Crispy Crust,Pizza,Pizza Hut,333.0,16.17,14.13,32.66,37.0,6.674,967.0,80.0,60.06
+370,Pizza Hut 14 Inch Sausage Pizza Hand-Tossed Crust,Pizza,Pizza Hut,287.0,13.5,11.92,29.39,26.0,5.459,671.0,119.0,69.686
+371,Pizza Hut 14 Inch Sausage Pizza Pan Crust,Pizza,Pizza Hut,287.0,13.85,11.08,29.56,23.0,4.855,596.0,125.0,69.686
+372,Pizza Hut 14 Inch Sausage Pizza Thin N Crispy Crust,Pizza,Pizza Hut,323.0,16.9,13.95,28.7,37.0,6.698,839.0,92.0,61.92
+373,Pizza Hut 14 Inch Super Supreme Pizza Hand-Tossed Crust,Pizza,Pizza Hut,248.0,10.95,11.34,26.01,28.0,4.217,658.0,123.0,80.645
+374,Pizza With Meat Other Than Pepperoni From School Lunch Medium Crust,Pizza,School Lunch,254.0,8.45,12.94,31.41,26.0,3.854,445.0,147.0,78.74
+375,Pizza With Pepperoni From School Lunch Medium Crust,Pizza,School Lunch,256.0,9.22,13.56,29.77,24.0,3.515,484.0,147.0,78.125
+376,School Lunch Pizza Big Daddys Ls 16 Inch 51% Whole Grain Rolled Edge Cheese Pizza Frozen,Pizza,School Lunch,243.0,8.81,13.89,27.1,18.0,4.14,400.0,155.0,82.305
+377,School Lunch Pizza Cheese Topping Thick Crust Whole Grain Frozen Cooked,Pizza,School Lunch,254.0,9.27,14.62,28.08,19.0,4.358,421.0,124.0,78.74
+378,School Lunch Pizza Cheese Topping Thin Crust Whole Grain Frozen Cooked,Pizza,School Lunch,247.0,7.91,12.72,31.31,12.0,4.0,421.0,130.0,80.972
+379,School Lunch Pizza Pepperoni Topping Thick Crust Whole Grain Frozen Cooked,Pizza,School Lunch,259.0,9.82,14.35,28.3,24.0,4.219,474.0,124.0,77.22
+380,School Lunch Pizza Pepperoni Topping Thin Crust Whole Grain Frozen Cooked,Pizza,School Lunch,254.0,8.62,12.78,31.24,24.0,2.81,495.0,127.0,78.74
+381,School Lunch Pizza Sausage Topping Thick Crust Whole Grain Frozen Cooked,Pizza,School Lunch,257.0,9.07,13.26,30.58,26.0,4.219,433.0,129.0,77.821
+382,School Lunch Pizza Sausage Topping Thin Crust Whole Grain Frozen Cooked,Pizza,School Lunch,250.0,7.83,12.63,32.24,25.0,3.488,457.0,133.0,80.0
+383,School Lunch Pizza Tonys Breakfast Pizza Sausage Frozen,Pizza,School Lunch,240.0,10.04,10.39,26.99,20.0,3.47,600.0,91.0,83.333
+384,School Lunch Pizza Tonys Smartpizza Whole Grain 4x6 Cheese Pizza 50/50 Cheese Frozen,Pizza,School Lunch,233.0,7.51,12.08,29.27,12.0,2.79,400.0,130.0,85.837
+385,School Lunch Pizza Tonys Smartpizza Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese Frozen,Pizza,School Lunch,238.0,8.19,12.14,28.84,12.0,2.81,470.0,127.0,84.034
+386,Kfc Coleslaw,Salad,KFC,144.0,8.64,0.91,15.65,2.0,1.303,189.0,112.0,138.889
+387,McDonalds Bacon Egg & Cheese Mcgriddles,Salad,McDonalds,272.0,13.19,12.03,26.19,147.0,4.201,673.0,165.0,73.529
+388,McDonalds Bacon Ranch Salad With Crispy Chicken,Salad,McDonalds,122.0,6.3,8.82,6.08,22.0,1.622,273.0,319.0,163.934
+389,McDonalds Bacon Ranch Salad With Grilled Chicken,Salad,McDonalds,81.0,3.14,10.28,3.64,28.0,1.235,230.0,305.0,246.914
+390,McDonalds Bacon Ranch Salad Without Chicken,Salad,McDonalds,61.0,3.64,4.14,4.2,12.0,1.507,132.0,223.0,327.869
+391,McDonalds Side Salad,Salad,McDonalds,20.0,0.19,1.03,4.3,0.0,0.02,12.0,87.0,1000.0
+392,Coleslaw (Fast Food),Salad,Other,153.0,9.91,0.95,14.89,4.0,1.599,203.0,191.0,130.719
+393,Popeyes Coleslaw,Salad,Popeyes,161.0,11.18,0.98,14.12,7.0,1.887,218.0,120.0,124.224
+394,Taco Bell Taco Salad,Salad,Taco Bell,170.0,9.17,6.69,15.1,19.0,2.979,363.0,533.0,117.647
+395,Arbys Roast Beef Sandwich Classic,Sandwich,Arbys,242.0,10.3,15.17,22.21,30.0,3.399,653.0,149.0,82.645
+396,Burger King Croissanwich With Egg And Cheese,Sandwich,Burger King,283.0,15.78,10.35,24.79,139.0,4.766,650.0,110.0,70.671
+397,Burger King Croissanwich With Sausage And Cheese,Sandwich,Burger King,376.0,25.45,13.73,23.0,43.0,8.595,782.0,131.0,53.191
+398,Burger King Croissanwich With Sausage Egg And Cheese,Sandwich,Burger King,308.0,21.78,12.09,15.9,123.0,8.342,577.0,171.0,64.935
+399,Burger King Original Chicken Sandwich,Sandwich,Burger King,286.0,14.69,12.14,26.22,31.0,2.723,638.0,199.0,69.93
+400,Burger King Premium Fish Sandwich,Sandwich,Burger King,260.0,12.45,10.29,26.69,31.0,1.949,602.0,220.0,76.923
+401,Chick-Fil-A Chicken Sandwich,Sandwich,Chick-Fil-A,249.0,11.19,16.28,20.89,35.0,2.123,753.0,187.0,80.321
+402,McDonalds Mcchicken Sandwich,Sandwich,McDonalds,273.0,13.21,10.43,27.97,27.0,2.346,624.0,131.0,73.26
+403,McDonalds Mcchicken Sandwich (Without Mayonnaise),Sandwich,McDonalds,240.0,8.46,11.08,30.95,22.0,1.636,555.0,138.0,83.333
+404,McDonalds Sausage Mcmuffin,Sandwich,McDonalds,333.0,21.06,12.66,24.52,39.0,7.253,693.0,115.0,60.06
+405,McDonalds Sausage Mcmuffin With Egg,Sandwich,McDonalds,274.0,17.83,12.59,17.28,154.0,6.008,572.0,165.0,72.993
+406,Bacon Lettuce Tomato And Cheese Submarine Sandwich With Spread,Sandwich,Subway,233.0,13.96,10.97,15.7,33.0,5.279,701.0,260.0,85.837
+407,Buffalo Chicken Submarine Sandwich,Sandwich,Subway,186.0,7.81,9.79,19.12,23.0,1.427,308.0,240.0,107.527
+408,Buffalo Chicken Submarine Sandwich With Cheese,Sandwich,Subway,203.0,9.77,11.43,17.35,28.0,3.056,367.0,260.0,98.522
+409,Pepperoni And Salami Submarine Sandwich With Lettuce Tomato And Spread,Sandwich,Subway,225.0,12.82,7.46,19.49,19.0,3.487,511.0,240.0,88.889
+410,Roast Beef Submarine Sandwich With Cheese Lettuce Tomato And Spread,Sandwich,Subway,190.0,7.33,11.93,18.68,23.0,2.236,404.0,260.0,105.263
+411,Roast Beef Submarine Sandwich With Lettuce Tomato And Spread,Sandwich,Subway,181.0,6.16,11.64,19.4,19.0,1.483,344.0,240.0,110.497
+412,Steak And Cheese Submarine Sandwich With Fried Peppers And Onions On Roll,Sandwich,Subway,232.0,10.07,16.26,18.21,37.0,3.809,283.0,260.0,86.207
+413,Subway B.l.t. Sub On White Bread With Bacon Lettuce And Tomato,Sandwich,Subway,205.0,6.41,10.06,26.66,13.0,1.917,354.0,148.0,97.561
+414,Subway Black Forest Ham Sub On White Bread With Lettuce And Tomato,Sandwich,Subway,151.0,2.53,9.12,22.91,12.0,0.626,396.0,184.0,132.45
+415,Subway Cold Cut Sub On White Bread With Lettuce And Tomato,Sandwich,Subway,214.0,10.04,10.52,20.43,27.0,3.554,575.0,196.0,93.458
+416,Subway Meatball Marinara Sub On White Bread (No Toppings),Sandwich,Subway,219.0,8.45,9.77,26.01,15.0,3.124,437.0,209.0,91.324
+417,Subway Oven Roasted Chicken Sub On White Bread With Lettuce And Tomato,Sandwich,Subway,157.0,3.15,10.84,21.35,23.0,0.724,268.0,198.0,127.389
+418,Subway Roast Beef Sub On White Bread With Lettuce And Tomato,Sandwich,Subway,155.0,2.73,12.17,20.34,18.0,0.972,329.0,190.0,129.032
+419,Subway Steak & Cheese Sub On White Bread With American Cheese Lettuce And Tomato,Sandwich,Subway,183.0,5.34,12.29,21.49,24.0,2.032,444.0,201.0,109.29
+420,Subway Subway Club Sub On White Bread With Lettuce And Tomato,Sandwich,Subway,146.0,2.42,10.66,20.36,16.0,0.57,348.0,207.0,136.986
+421,Subway Sweet Onion Chicken Teriyaki Sub On White Bread With Lettuce Tomato And Sweet Onion Sauce,Sandwich,Subway,155.0,2.37,10.91,22.54,22.0,0.505,305.0,228.0,129.032
+422,Subway Tuna Sub,Sandwich,Subway,221.0,12.04,12.33,15.95,28.0,2.192,329.0,237.0,90.498
+423,Subway Turkey Breast Sub On White Bread With Lettuce And Tomato,Sandwich,Subway,147.0,2.31,9.12,22.42,10.0,0.476,317.0,184.0,136.054
+424,Turkey And Bacon Submarine Sandwich With Cheese Lettuce Tomato And Spread,Sandwich,Subway,222.0,11.45,12.18,17.46,25.0,3.792,490.0,260.0,90.09
+425,Turkey And Bacon Submarine Sandwich With Lettuce Tomato And Spread,Sandwich,Subway,206.0,9.47,10.43,19.45,19.0,2.062,439.0,240.0,97.087
+426,Turkey Ham And Roast Beef Club Sandwich With Lettuce Tomato And Spread,Sandwich,Subway,166.0,8.06,7.8,15.18,19.0,2.072,508.0,240.0,120.482
+427,Vegetable Submarine Sandwich With Fat Free Spread,Sandwich,Subway,125.0,1.95,3.88,23.03,0.0,0.392,386.0,240.0,160.0
+428,Wendys Homestyle Chicken Fillet Sandwich,Sandwich,Wendys,214.0,8.1,13.78,21.55,31.0,1.618,401.0,230.0,93.458
+429,Wendys Ultimate Chicken Grill Sandwich,Sandwich,Wendys,179.0,5.0,14.73,18.88,40.0,1.03,427.0,225.0,111.732
+430,Sushi Nfs,Sushi,Other,93.0,0.67,2.92,18.42,4.0,0.133,429.0,30.0,215.054
+431,Sushi Roll Avocado,Sushi,Other,92.0,1.46,1.81,17.71,0.0,0.223,361.0,30.0,217.391
+432,Sushi Roll California,Sushi,Other,93.0,0.67,2.92,18.42,4.0,0.133,429.0,30.0,215.054
+433,Sushi Roll Eel,Sushi,Other,127.0,3.71,7.1,15.3,39.0,0.751,424.0,30.0,157.48
+434,Sushi Roll Salmon,Sushi,Other,103.0,1.28,6.88,15.3,12.0,0.226,351.0,30.0,194.175
+435,Sushi Roll Shrimp,Sushi,Other,100.0,0.55,7.01,15.67,51.0,0.154,359.0,30.0,200.0
+436,Sushi Roll Tuna,Sushi,Other,97.0,0.25,7.4,15.3,10.0,0.069,343.0,30.0,206.186
+437,Sushi Roll Vegetable,Sushi,Other,92.0,1.46,1.81,17.71,0.0,0.223,361.0,22.0,217.391
+438,Sushi Topped With Crab,Sushi,Other,95.0,0.27,3.85,18.59,7.0,0.098,474.0,35.0,210.526
+439,Sushi Topped With Eel,Sushi,Other,142.0,5.19,9.24,13.39,55.0,1.051,422.0,35.0,140.845
+440,Sushi Topped With Egg,Sushi,Other,116.0,4.63,7.0,10.74,168.0,1.588,412.0,50.0,172.414
+441,Sushi Topped With Salmon,Sushi,Other,107.0,1.74,8.92,13.39,18.0,0.305,318.0,35.0,186.916
+442,Sushi Topped With Shrimp,Sushi,Other,103.0,0.7,9.1,13.92,73.0,0.204,329.0,35.0,194.175
+443,Sushi Topped With Tuna,Sushi,Other,100.0,0.28,9.66,13.39,14.0,0.083,306.0,35.0,200.0
+444,Waffle Chocolate,Waffle,Other,433.0,22.5,9.06,48.63,64.0,7.925,659.0,10.0,46.189
+445,Waffle Chocolate From Fast Food / Restaurant,Waffle,Other,476.0,28.67,8.59,46.09,61.0,8.515,675.0,10.0,42.017
+446,Waffle Chocolate From Frozen,Waffle,Other,320.0,10.5,7.43,48.94,14.0,3.094,507.0,10.0,62.5
+447,Waffle Cinnamon,Waffle,Other,368.0,18.55,8.68,41.66,70.0,4.265,764.0,10.0,54.348
+448,Waffle Cornmeal,Waffle,Other,264.0,11.38,6.84,33.04,52.0,2.011,480.0,10.0,75.758
+449,Waffle Fruit,Waffle,Other,304.0,14.74,6.93,36.24,55.0,3.359,600.0,10.0,65.789
+450,Waffle Fruit From Fast Food / Restaurant,Waffle,Other,350.0,20.92,6.59,34.46,52.0,4.138,618.0,10.0,57.143
+451,Waffle Fruit From Frozen,Waffle,Other,296.0,9.05,7.07,46.58,12.0,2.172,504.0,10.0,67.568
+452,Waffle Plain,Waffle,Other,368.0,18.59,8.69,41.49,70.0,4.274,766.0,10.0,54.348
+453,Waffle Plain From Fast Food / Restaurant,Waffle,Other,422.0,26.14,8.15,38.91,66.0,5.199,779.0,10.0,47.393
+454,Waffle Plain Reduced Fat,Waffle,Other,338.0,14.41,8.98,42.88,73.0,3.761,792.0,10.0,59.172
+455,Waffle Plain Reduced Fat From Frozen,Waffle,Other,289.0,6.96,9.37,46.19,43.0,1.829,511.0,10.0,69.204
+456,Waffle Whole Grain,Waffle,Other,360.0,18.98,9.21,38.58,73.0,4.287,855.0,10.0,55.556
+457,Waffle Whole Grain From Fast Food / Restaurant,Waffle,Other,416.0,26.73,8.63,36.12,68.0,5.238,863.0,10.0,48.077
+458,Waffle Whole Grain From Frozen,Waffle,Other,288.0,8.39,6.78,46.7,0.0,1.362,529.0,10.0,69.444
+459,Waffle Whole Grain Fruit From Frozen,Waffle,Other,277.0,8.02,6.48,45.06,0.0,1.3,504.0,10.0,72.202
+460,Waffle Whole Grain Reduced Fat,Waffle,Other,329.0,14.69,9.53,39.92,75.0,3.758,885.0,10.0,60.79
