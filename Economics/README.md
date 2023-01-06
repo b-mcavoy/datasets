@@ -4,3 +4,4 @@
 - [College Majors & Incomes](https://studio.code.org/data_docs/college-majors/)
 - [Cryptocurrency Historical Prices](https://studio.code.org/data_docs/cryptocurrency-historical-prices/)
 - [US Gas Prices](https://studio.code.org/data_docs/us-gas-prices/)
+- [US Household Income](https://studio.code.org/data_docs/us-household-income/)
