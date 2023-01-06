@@ -1,1 +1,17 @@
-# Links to sources for datasets in the Science Folder:
+# Click the links below to read more information about the datasets in the Science folder.
+
+- [African American Inventors and Scientists](https://studio.code.org/data_docs/african-american-inventors-and-scientists/)
+- [Air Quality Index by US County](https://studio.code.org/data_docs/air-quality/)
+- [Beverages Nutrition](https://studio.code.org/data_docs/beverages-nutrition/)
+- [Cereal Nutrition](https://studio.code.org/data_docs/cereal-nutrition/)
+- [COVID-19 Cases per Country](https://studio.code.org/data_docs/covid19-per-country/)
+- [COVID-19 Cases per US State](https://studio.code.org/data_docs/covid19-per-us-state/)
+- [Daily Weather](https://studio.code.org/data_docs/daily-weather/)
+- [Dinosaur Fossils](https://studio.code.org/data_docs/dinosaur-fossils/)
+- [Fast Food Nutrition](https://studio.code.org/data_docs/fast-food-nutrition/)
+- [Internet Usage and Access Worldwide](https://studio.code.org/data_docs/internet-usage/)
+- [Nobel Prize Winners 1901-2016](https://studio.code.org/data_docs/nobel-prize-winners/)
+- [Periodic Table Elements](https://studio.code.org/data_docs/periodic-table-elements/)
+- [Planets of our Solar System](https://studio.code.org/data_docs/planets/)
+- [Rollercoasters](https://studio.code.org/data_docs/rollercoasters/)
+- [Volcano Eruptions](https://studio.code.org/data_docs/volcano-eruptions/)
