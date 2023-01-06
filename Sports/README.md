@@ -1,1 +1,15 @@
-# Links to sources for datasets in the Sports folder:
+# Click the links below to read more information about the datasets in the Sports folder.
+
+- [Baseball Teams](https://studio.code.org/data_docs/baseball-teams/)
+- [FIFA Men's World Cup Results](https://studio.code.org/data_docs/fifa-mens-world-cup/)
+- [FIFA Women's World Cup Results](https://studio.code.org/data_docs/fifa-womens-world-cup/)
+- [MLS Teams](https://studio.code.org/data_docs/mls-teams/)
+- [NBA Teams](https://studio.code.org/data_docs/nba-teams/)
+- [NCAA Division I Teams](https://studio.code.org/data_docs/ncaa-division-i-teams/)
+- [NFL Teams](https://studio.code.org/data_docs/nfl-teams/)
+- [NHL Teams](https://studio.code.org/data_docs/nhl-teams/)
+- [NWSL Teams](https://studio.code.org/data_docs/nwsl-teams/)
+- [Olympic Medals](https://studio.code.org/data_docs/olympic-medals/)
+- [Paralympic Games All-Time Medal Count](https://studio.code.org/data_docs/paralympic-games/)
+- [Ultra Trail Races](https://studio.code.org/data_docs/ultra-trail-races/)
+- [WNBA Teams](https://studio.code.org/data_docs/wnba-teams/)
