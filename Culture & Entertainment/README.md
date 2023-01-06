@@ -1,4 +1,4 @@
-
+# Click the links below to read more information about the datasets in the Culture & Entertainment folder.
 
 - [Bechdel Test](https://studio.code.org/data_docs/bechdel-test/)
 - [Best Selling Video Games](https://studio.code.org/data_docs/best-selling-video-games/)
