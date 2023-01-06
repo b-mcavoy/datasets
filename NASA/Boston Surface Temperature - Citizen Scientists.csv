@@ -1,0 +1,348 @@
+id,ORGANIZATION,SITE,LATITUDE,LONGITUDE,DATE,AVERAGE SURFACE TEMPERATURE (degrees C),NUMBER OF SAMPLES TAKEN
+1,Boston University School of Education-Data Entry,BU School of Education-OLD,42.349716,-71.100819,8/21/2017,35.6,9.0
+2,Boston University School of Education-Data Entry,BU School of Education-OLD,42.349716,-71.100819,8/21/2017,48.4,9.0
+3,Boston University v-School 2017,BU Marsh Plaza Granite,42.350391,-71.106453,10/25/2017,19.1,1.0
+4,Boston University v-School 2017,NS Esplinade,42.35,-71.1,10/27/2017,14.7,1.0
+5,Boston University v-School 2017,BU Marsh Plaza Granite,42.350391,-71.106453,10/28/2017,22.6,1.0
+6,Boston University v-School 2017,BU Marsh Plaza Granite,42.350391,-71.106453,11/7/2017,9.6,1.0
+7,Boston University v-School 2017,BU Marsh Plaza Granite,42.350391,-71.106453,11/9/2017,11.2,1.0
+8,Boston University v-School 2017,BU Beach Brick,42.350784,-71.106091,11/15/2017,3.8,1.0
+9,Boston University v-School 2017,BU Marsh Plaza Granite,42.350391,-71.106453,11/15/2017,4.0,1.0
+10,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,6/11/2018,8.5,1.0
+11,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/11/2018,25.5,9.0
+12,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/11/2018,25.5,9.0
+13,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,9/13/2018,24.7,9.0
+14,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/13/2018,23.5,9.0
+15,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/13/2018,23.5,9.0
+16,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/20/2018,18.7,8.0
+17,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,9/20/2018,20.3,8.0
+18,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,9/20/2018,20.1,9.0
+19,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/20/2018,19.0,1.0
+20,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/20/2018,19.1,9.0
+21,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/20/2018,19.1,9.0
+22,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/25/2018,15.3,9.0
+23,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,9/25/2018,16.7,9.0
+24,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,9/25/2018,16.8,9.0
+25,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/25/2018,16.4,1.0
+26,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/27/2018,23.6,9.0
+27,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,9/27/2018,23.7,9.0
+28,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,9/27/2018,22.8,9.0
+29,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/27/2018,20.8,9.0
+30,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/2/2018,14.7,9.0
+31,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/2/2018,15.2,1.0
+32,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/2/2018,14.2,8.0
+33,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/2/2018,14.2,8.0
+34,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/2/2018,15.0,9.0
+35,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/4/2018,22.8,9.0
+36,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/4/2018,21.5,1.0
+37,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/4/2018,22.5,8.0
+38,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/4/2018,22.5,9.0
+39,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/4/2018,21.1,9.0
+40,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/11/2018,21.6,7.0
+41,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/11/2018,18.5,9.0
+42,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/11/2018,21.5,1.0
+43,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/11/2018,21.1,9.0
+44,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/11/2018,21.1,9.0
+45,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/16/2018,16.8,1.0
+46,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/16/2018,14.0,9.0
+47,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/16/2018,19.9,8.0
+48,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/16/2018,14.5,9.0
+49,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/18/2018,10.0,1.0
+50,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/18/2018,4.4,9.0
+51,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/18/2018,8.9,9.0
+52,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/18/2018,11.8,9.0
+53,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/22/2018,10.5,9.0
+54,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/23/2018,9.8,9.0
+55,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/23/2018,10.3,9.0
+56,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/23/2018,10.5,9.0
+57,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,10/30/2018,6.3,9.0
+58,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/30/2018,6.6,9.0
+59,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/30/2018,4.0,9.0
+60,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/30/2018,1.7,9.0
+61,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/30/2018,7.2,1.0
+62,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/1/2018,14.9,9.0
+63,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/1/2018,14.2,9.0
+64,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,11/1/2018,13.8,9.0
+65,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/1/2018,15.2,9.0
+66,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,11/1/2018,12.5,9.0
+67,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/6/2018,8.9,9.0
+68,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/6/2018,8.3,1.0
+69,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,11/6/2018,7.7,9.0
+70,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/6/2018,9.4,9.0
+71,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,11/6/2018,8.4,9.0
+72,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/8/2018,7.4,9.0
+73,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/8/2018,8.0,9.0
+74,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/8/2018,8.5,9.0
+75,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,11/8/2018,13.3,9.0
+76,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/15/2018,3.9,9.0
+77,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,11/15/2018,2.0,8.0
+78,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/15/2018,-1.8,9.0
+79,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,11/15/2018,2.6,9.0
+80,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/27/2018,3.0,9.0
+81,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/27/2018,6.6,9.0
+82,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,11/27/2018,3.0,9.0
+83,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/27/2018,2.8,9.0
+84,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,11/27/2018,3.7,9.0
+85,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/29/2018,3.5,9.0
+86,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,11/29/2018,1.9,9.0
+87,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/29/2018,-0.2,9.0
+88,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,11/29/2018,-2.5,9.0
+89,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,12/4/2018,1.0,9.0
+90,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,12/4/2018,-4.5,9.0
+91,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,12/4/2018,-6.0,9.0
+92,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,12/4/2018,1.8,9.0
+93,Boston University School of Education GLOBE v-School,Garik Nogueira Home,42.307566,-71.173193,7/17/2019,27.1,9.0
+94,Boston University School of Education GLOBE v-School,Garik Nogueira Home,42.307566,-71.173193,7/18/2019,22.9,9.0
+95,Boston University School of Education GLOBE v-School,Garik Nogueira Home,42.307566,-71.173193,7/19/2019,32.6,9.0
+96,Boston University School of Education GLOBE v-School,Garik Nogueira Home,42.307566,-71.173193,7/20/2019,36.2,9.0
+97,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/5/2019,18.8,4.0
+98,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/10/2019,28.7,9.0
+99,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/10/2019,28.7,9.0
+100,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,9/10/2019,25.3,9.0
+101,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,9/10/2019,25.4,9.0
+102,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/19/2019,28.5,9.0
+103,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/19/2019,27.9,9.0
+104,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/19/2019,37.6,3.0
+105,Wellesley Middle School,Sprague Baseball Field (Outfield),42.304306,-71.292635,9/19/2019,24.0,1.0
+106,Wellesley Middle School,Sprague Baseball Field (Outfield),42.304306,-71.292635,9/20/2019,29.3,1.0
+107,Wellesley Middle School,Sprague Baseball Field (Outfield),42.304306,-71.292635,9/23/2019,32.9,1.0
+108,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/26/2019,29.1,9.0
+109,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,9/26/2019,29.1,9.0
+110,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,9/26/2019,38.1,9.0
+111,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,9/27/2019,23.5,2.0
+112,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/8/2019,15.9,3.0
+113,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/8/2019,15.8,1.0
+114,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/8/2019,15.8,3.0
+115,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/8/2019,17.3,9.0
+116,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/10/2019,39.9,9.0
+117,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/10/2019,21.8,8.0
+118,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/10/2019,22.2,9.0
+119,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,10/24/2019,29.1,9.0
+120,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/24/2019,18.6,3.0
+121,Boston University School of Education GLOBE v-School,BU COMM PLAZA,42.349145,-71.102338,10/24/2019,18.6,3.0
+122,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/24/2019,20.6,9.0
+123,Boston University School of Education GLOBE v-School,BU Muddy River,42.34956,-71.092269,10/24/2019,20.6,9.0
+124,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/14/2019,-2.1,3.0
+125,Boston University School of Education GLOBE v-School,BU- Commonwealth Mall,42.349004,-71.093363,11/14/2019,-2.1,3.0
+126,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/14/2019,-0.9,9.0
+127,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/14/2019,-0.9,9.0
+128,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,3/10/2020,19.1,3.0
+129,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/2/2020,22.2,3.0
+130,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/10/2020,25.3,3.0
+131,Boston University School of Education GLOBE v-School,Knyvet Square Brookline,42.347932,-71.114776,9/11/2020,18.3,5.0
+132,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,9/12/2020,15.4,1.0
+133,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/14/2020,22.0,3.0
+134,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,9/16/2020,18.2,1.0
+135,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/18/2020,19.1,3.0
+136,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,9/21/2020,16.7,9.0
+137,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,9/21/2020,11.4,1.0
+138,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/21/2020,16.9,3.0
+139,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,9/21/2020,14.0,3.0
+140,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,9/21/2020,34.8,9.0
+141,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,9/22/2020,23.5,3.0
+142,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/22/2020,24.8,9.0
+143,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,9/23/2020,27.3,3.0
+144,Boston University School of Education GLOBE v-School,Knyvet Square Brookline,42.347932,-71.114776,9/23/2020,26.5,6.0
+145,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,9/23/2020,32.8,9.0
+146,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,9/23/2020,20.7,1.0
+147,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,9/23/2020,36.9,9.0
+148,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/24/2020,35.6,9.0
+149,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,9/24/2020,19.0,3.0
+150,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/25/2020,20.8,3.0
+151,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,9/26/2020,36.6,8.0
+152,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,9/27/2020,20.3,3.0
+153,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,9/27/2020,36.4,9.0
+154,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,9/28/2020,27.9,3.0
+155,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,9/28/2020,25.0,1.0
+156,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,9/28/2020,30.7,9.0
+157,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,9/28/2020,23.5,3.0
+158,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,9/29/2020,34.8,9.0
+159,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,9/30/2020,20.7,3.0
+160,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,9/30/2020,23.3,1.0
+161,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,9/30/2020,20.8,9.0
+162,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,9/30/2020,20.1,1.0
+163,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/3/2020,15.9,3.0
+164,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/3/2020,23.9,9.0
+165,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/5/2020,20.5,3.0
+166,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/5/2020,15.5,1.0
+167,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/5/2020,17.7,9.0
+168,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/5/2020,30.8,9.0
+169,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/6/2020,32.1,9.0
+170,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,10/6/2020,29.4,3.0
+171,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/7/2020,22.2,3.0
+172,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/7/2020,22.8,1.0
+173,Boston University School of Education GLOBE v-School,Knyvet Square Brookline,42.347932,-71.114776,10/7/2020,23.3,5.0
+174,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/7/2020,21.4,9.0
+175,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/7/2020,16.1,3.0
+176,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/7/2020,29.8,9.0
+177,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,10/8/2020,22.1,9.0
+178,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/10/2020,17.2,3.0
+179,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/11/2020,19.5,9.0
+180,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/12/2020,11.1,1.0
+181,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,10/12/2020,13.3,3.0
+182,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/13/2020,20.4,9.0
+183,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/14/2020,24.1,3.0
+184,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/14/2020,21.1,1.0
+185,Boston University School of Education GLOBE v-School,Knyvet Square Brookline,42.347932,-71.114776,10/14/2020,18.9,7.0
+186,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/14/2020,14.2,9.0
+187,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/15/2020,14.6,3.0
+188,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/17/2020,12.7,9.0
+189,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/17/2020,12.0,3.0
+190,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/17/2020,17.5,9.0
+191,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/18/2020,18.6,9.0
+192,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/19/2020,23.1,3.0
+193,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/19/2020,13.9,1.0
+194,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/19/2020,21.1,9.0
+195,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/20/2020,23.7,9.0
+196,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,10/20/2020,23.1,9.0
+197,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/20/2020,12.9,3.0
+198,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/21/2020,17.2,1.0
+199,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/21/2020,20.3,9.0
+200,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,10/21/2020,21.5,3.0
+201,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/22/2020,21.8,3.0
+202,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,10/22/2020,23.2,9.0
+203,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/24/2020,18.8,9.0
+204,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/25/2020,13.4,8.0
+205,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/26/2020,13.7,3.0
+206,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/26/2020,11.6,1.0
+207,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/26/2020,12.9,9.0
+208,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,10/26/2020,13.3,1.0
+209,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/27/2020,18.5,9.0
+210,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,10/27/2020,14.0,9.0
+211,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/27/2020,11.3,3.0
+212,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/28/2020,10.0,1.0
+213,Boston University School of Education GLOBE v-School,Knyvet Square Brookline,42.347932,-71.114776,10/28/2020,12.1,5.0
+214,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,10/29/2020,7.7,3.0
+215,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,10/29/2020,10.1,8.0
+216,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,10/31/2020,6.8,9.0
+217,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/1/2020,11.7,9.0
+218,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/2/2020,4.4,3.0
+219,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/2/2020,6.7,1.0
+220,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/2/2020,0.5,9.0
+221,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,11/2/2020,2.8,1.0
+222,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/3/2020,3.2,9.0
+223,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,11/3/2020,4.0,9.0
+224,Boston University School of Education GLOBE v-School,BU Marshal Chapel,42.206,-71.624,11/3/2020,3.9,9.0
+225,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/4/2020,10.9,3.0
+226,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/4/2020,11.7,1.0
+227,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/4/2020,6.2,9.0
+228,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,11/4/2020,7.1,3.0
+229,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/4/2020,12.3,9.0
+230,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/5/2020,22.2,9.0
+231,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,11/5/2020,9.6,3.0
+232,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/9/2020,28.3,3.0
+233,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/9/2020,15.0,1.0
+234,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/9/2020,9.5,9.0
+235,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,11/9/2020,16.0,1.0
+236,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,11/9/2020,12.0,3.0
+237,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/11/2020,20.1,3.0
+238,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/11/2020,22.2,1.0
+239,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/11/2020,18.0,9.0
+240,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,11/11/2020,9.4,3.0
+241,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/11/2020,20.0,9.0
+242,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,11/12/2020,12.7,3.0
+243,Boston University School of Education GLOBE v-School,Cambridge Park,42.3689,-71.0689,11/13/2020,18.8,6.0
+244,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/15/2020,9.2,9.0
+245,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/16/2020,12.1,3.0
+246,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/16/2020,11.1,1.0
+247,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/16/2020,11.3,9.0
+248,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,11/16/2020,7.4,3.0
+249,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/16/2020,13.8,9.0
+250,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/18/2020,-2.4,3.0
+251,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/18/2020,0.5,1.0
+252,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/18/2020,-5.7,9.0
+253,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,11/18/2020,19.2,3.0
+254,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/18/2020,-1.0,9.0
+255,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,11/19/2020,0.5,3.0
+256,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/22/2020,5.3,9.0
+257,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/23/2020,13.3,1.0
+258,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,11/24/2020,4.5,3.0
+259,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/25/2020,10.1,1.0
+260,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,11/25/2020,6.3,9.0
+261,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,11/25/2020,-1.4,3.0
+262,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/27/2020,12.4,9.0
+263,Boston University School of Education GLOBE v-School,Skyline Park Brookline,42.31,-71.1661,11/29/2020,9.4,9.0
+264,Boston University School of Education GLOBE v-School,Minot Square,42.3467,-71.1168,12/1/2020,6.2,3.0
+265,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,12/1/2020,10.2,3.0
+266,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,12/2/2020,3.7,3.0
+267,Boston University School of Education GLOBE v-School,Knyvet Square N,42.3482,-71.1153,12/2/2020,1.7,9.0
+268,Boston University School of Education GLOBE v-School,Longwood Mall,42.343473,-71.110558,12/2/2020,5.9,1.0
+269,Boston University School of Education GLOBE v-School,Rodriguez Home,42.771179,-71.071274,12/3/2020,5.2,3.0
+270,Maynard High School,Alumni Field,42.422522,-71.44912,12/16/2020,-1.0,9.0
+271,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,10/13/2021,29.1,3.0
+272,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/19/2021,20.3,6.0
+273,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,10/19/2021,5.5,3.0
+274,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,10/19/2021,19.5,9.0
+275,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,10/19/2021,4.9,3.0
+276,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/20/2021,25.5,9.0
+277,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/20/2021,12.6,2.0
+278,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,10/20/2021,25.3,3.0
+279,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,10/20/2021,27.7,9.0
+280,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,10/21/2021,15.8,3.0
+281,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,10/21/2021,26.2,9.0
+282,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,10/21/2021,15.9,3.0
+283,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,10/22/2021,23.0,3.0
+284,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,10/22/2021,26.7,9.0
+285,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,10/23/2021,24.0,9.0
+286,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/24/2021,19.6,9.0
+287,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,10/26/2021,13.1,9.0
+288,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,10/26/2021,3.2,3.0
+289,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,10/27/2021,-0.6,9.0
+290,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/28/2021,6.7,9.0
+291,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,10/28/2021,3.3,3.0
+292,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,10/28/2021,10.0,9.0
+293,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,10/28/2021,3.4,3.0
+294,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,10/29/2021,7.7,3.0
+295,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,10/29/2021,10.6,3.0
+296,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,10/29/2021,3.5,9.0
+297,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,10/31/2021,15.1,9.0
+298,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/2/2021,11.5,2.0
+299,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,11/2/2021,4.7,3.0
+300,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/2/2021,12.9,9.0
+301,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,11/2/2021,4.9,3.0
+302,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/3/2021,15.4,9.0
+303,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/3/2021,6.5,3.0
+304,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,11/3/2021,12.0,3.0
+305,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,11/3/2021,2.8,9.0
+306,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/4/2021,10.2,2.0
+307,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/4/2021,13.7,9.0
+308,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,11/4/2021,-0.7,3.0
+309,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/4/2021,11.2,9.0
+310,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,11/4/2021,0.2,3.0
+311,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/5/2021,-1.8,3.0
+312,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,11/5/2021,4.9,9.0
+313,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/8/2021,10.1,9.0
+314,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/9/2021,11.6,2.0
+315,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,11/9/2021,11.6,3.0
+316,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/9/2021,18.2,9.0
+317,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,11/9/2021,12.9,3.0
+318,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/10/2021,19.2,9.0
+319,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,11/10/2021,14.0,3.0
+320,Boston University School of Education GLOBE v-School,Nickerson Field,42.353,-71.119,11/10/2021,13.5,9.0
+321,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/11/2021,9.8,9.0
+322,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/12/2021,13.0,3.0
+323,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,11/12/2021,12.3,3.0
+324,Boston University School of Education GLOBE v-School,Buick Street Patch,42.3517,-71.1161,11/13/2021,11.1,9.0
+325,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/16/2021,5.4,2.0
+326,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/16/2021,3.5,9.0
+327,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/17/2021,7.8,9.0
+328,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/17/2021,-1.6,3.0
+329,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,11/17/2021,7.4,3.0
+330,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/18/2021,14.6,2.0
+331,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,11/18/2021,11.3,3.0
+332,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/18/2021,16.2,9.0
+333,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,11/19/2021,12.9,9.0
+334,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,11/26/2021,-9.3,3.0
+335,Boston University School of Education GLOBE v-School,BU Beach,42.351284,-71.106007,11/30/2021,37.1,2.0
+336,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,11/30/2021,-10.8,3.0
+337,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,11/30/2021,-4.6,9.0
+338,Boston University School of Education GLOBE v-School,Packards Corner,42.351755,-71.124736,11/30/2021,1.1,3.0
+339,Boston University School of Education GLOBE v-School,Westminster Massachusetts,42.293564,-71.71875,11/30/2021,-2.6,9.0
+340,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,12/1/2021,5.4,3.0
+341,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,12/2/2021,2.8,9.0
+342,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,12/2/2021,1.1,3.0
+343,Boston University School of Education GLOBE v-School,Marsh Plaza,42.350278,-71.106389,12/2/2021,7.5,9.0
+344,Boston University School of Education GLOBE v-School,BU Esplanade,42.351403,-71.10469,12/3/2021,-10.5,3.0
+345,Boston University School of Education GLOBE v-School,Charlesgate & Beacon,42.350087,-71.092711,12/7/2021,-7.4,3.0
+346,Boston University School of Education GLOBE v-School,Mountford St. / Lenox St. Island,42.349035,-71.109894,12/8/2021,-1.4,3.0
+347,Boston University School of Education GLOBE v-School,Amory Park,42.346,-71.1124,12/9/2021,0.6,9.0
