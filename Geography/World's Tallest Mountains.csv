@@ -3,7 +3,7 @@ id,Rank,Mountain name,Height in m,Height in ft,Prominence in m,Range,Coordinates
 2,2.0,K2,8611.0,28251.0,4020.0,Baltoro Karakoram,35°52′53″N 76°30′48″E﻿ / ﻿35.88139°N 76.51333°E,Mount Everest,1954.0,45 (44),"Pakistan, China"
 3,3.0,Kangchenjunga,8586.0,28169.0,3922.0,Kangchenjunga Himalaya,27°42′12″N 88°08′51″E﻿ / ﻿27.70333°N 88.14750°E *,Mount Everest,1955.0,38 (24),NepalIndia
 4,4.0,Lhotse,8516.0,27940.0,610.0,Mahalangur Himalaya,27°57′42″N 86°55′59″E﻿ / ﻿27.96167°N 86.93306°E,Mount Everest,1956.0,26 (26),"Nepal, China"
-5,5.0,Makalu,8485.0,27838.0,2378.0,Mahalangur Himalaya,27°53′23″N 87°05′20″E﻿ / ﻿27.88972°N 87.08889°E,Mount Everest,1955.0,45.0,"Nepal, China"
+5,5.0,Makalu,8485.0,27838.0,2378.0,Mahalangur Himalaya,27°53′23″N 87°05′20″E﻿ / ﻿27.88972°N 87.08889°E,Mount Everest,1955.0,45 (45),"Nepal, China"
 6,6.0,Cho Oyu,8188.0,26864.0,2340.0,Mahalangur Himalaya,28°05′39″N 86°39′39″E﻿ / ﻿28.09417°N 86.66083°E,Mount Everest,1954.0,79 (28),"Nepal, China"
 7,7.0,Dhaulagiri I,8167.0,26795.0,3357.0,Dhaulagiri Himalaya,28°41′48″N 83°29′35″E﻿ / ﻿28.69667°N 83.49306°E,K2,1960.0,51 (39),Nepal
 8,8.0,Manaslu,8163.0,26781.0,3092.0,Manaslu Himalaya,28°33′00″N 84°33′35″E﻿ / ﻿28.55000°N 84.55972°E,Cho Oyu,1956.0,49 (45),Nepal
@@ -47,7 +47,7 @@ id,Rank,Mountain name,Height in m,Height in ft,Prominence in m,Range,Coordinates
 46,46.0,Kongur Tiube,7530.0,24705.0,840.0,Kongur Shan (Eastern Pamirs),38°36′57″N 75°11′45″E﻿ / ﻿38.61583°N 75.19583°E,Kongur Tagh,1956.0,2 (3),China
 47,47.0,Mamostong Kangri,7516.0,24659.0,1803.0,Rimo Karakoram,35°08′31″N 77°34′39″E﻿ / ﻿35.14194°N 77.57750°E,Gasherbrum I,1984.0,5 (0),India
 48,48.0,Saser Kangri II E,7513.0,24649.0,1458.0,Saser Karakoram,34°48′17″N 77°48′24″E﻿ / ﻿34.80472°N 77.80667°E,Saser Kangri I,2011.0,0 (0),India
-49,49.0,Muztagh Ata,7509.0,24636.0,2698.0,Muztagata (Eastern Pamirs),38°16′33″N 75°06′58″E﻿ / ﻿38.27583°N 75.11611°E,Kongur Tagh,1956.0,Many,China
+49,49.0,Muztagh Ata,7509.0,24636.0,2698.0,Muztagata (Eastern Pamirs),38°16′33″N 75°06′58″E﻿ / ﻿38.27583°N 75.11611°E,Kongur Tagh,1956.0,31 (31),China
 50,50.0,Ismoil Somoni Peak,7495.0,24590.0,3402.0,Pamir (Academy of Sciences Range),38°56′35″N 72°00′57″E﻿ / ﻿38.94306°N 72.01583°E,Muztagh Ata,1933.0,0 (0),Tajikistan
 51,51.0,Saser Kangri III,7495.0,24590.0,835.0,Saser Karakoram,34°50′44″N 77°47′06″E﻿ / ﻿34.84556°N 77.78500°E,Saser Kangri I,1986.0,1 (0),India
 52,52.0,Noshaq,7492.0,24580.0,2024.0,Hindu Kush,36°25′56″N 71°49′43″E﻿ / ﻿36.43222°N 71.82861°E,Tirich Mir,1960.0,33 (3),"Afghanistan, Pakistan"
