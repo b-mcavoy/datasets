@@ -6,7 +6,7 @@
 - [DC Comics Characters](https://studio.code.org/data_docs/dc-comics/)
 - [Esports Earnings](https://studio.code.org/data_docs/esports-earnings/)
 - [Grammy Winners](https://studio.code.org/data_docs/grammy-winners/)
-- [IMDB Top 1000] (https://studio.code.org/data_docs/imdb1000/)
+- [IMDB Top 1000](https://studio.code.org/data_docs/imdb1000/)
 - [Most Followed Instagram Accounts](https://studio.code.org/data_docs/most-followed-instagram-accounts/)
 - [Netflix Content](https://studio.code.org/data_docs/netflix-content/)
 - [Oscar Winners](https://studio.code.org/data_docs/oscar-winners/)
