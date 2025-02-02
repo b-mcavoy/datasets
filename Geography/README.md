@@ -5,6 +5,7 @@
 - [Global Life Expectancy](https://studio.code.org/data_docs/global-life-expectancy/)
 - [Independence Days Worldwide](https://studio.code.org/data_docs/independence-days/)
 - [US Agricultural Crops](https://studio.code.org/data_docs/us-agricultural-crops/)
+- [US Household Income](https://studio.code.org/data_docs/us-household-income/)
 - [US National Parks](https://studio.code.org/data_docs/us-national-parks/)
 - [US States](https://studio.code.org/data_docs/states/)
 - [US Voter Registration and Demographics By State](https://studio.code.org/data_docs/us-voters/)
